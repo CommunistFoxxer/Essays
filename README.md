@@ -15,10 +15,9 @@
     * [Apenas a luta de classes muda a realidade](#Apenas-a-luta-de-classes-muda-a-realidade)
     * [A teoria da conspiração do Holodomor](#A-teoria-da-conspiração-do-Holodomor)
     * [O mito das gulags](#O-mito-das-gulags)
-    * [Hitler não era socialista](#Hitler-não-era-socialista)
+    * [Mitos da guerra de inverno](#Mitos-da-guerra-de-inverno)
     * [Segunda Guerra Mundial](#Segunda-Guerra-Mundial)
-        * [Mitos da guerra de inverno](#Mitos-da-guerra-de-inverno)
-        * [Mitos do pacto Alemanha-URSS](#Mitos-do-pacto-Alemanha-URSS)
+        * [Mitos do pacto Molotov-Ribbentrop](#Mitos-do-pacto-Molotov-Ribbentrop) 
         * [Mitos da invasão polonesa](#Mitos-da-invasão-polonesa)
         * [A URSS sabia que Hitler ia atacar](#A-URSS-sabia-que-Hitler-ia-atacar)
         * [A URSS foi a maior responsável pela derrota dos nazistas](#A-URSS-foi-a-maior-responsável-pela-derrota-dos-nazistas)
@@ -327,7 +326,7 @@ Outro também:
 Churchill era um grande amigo de Mussolini e constantemente elogiava Hitler e retratava a ele como "meu amigo", um supremacista e genocida. Aqui uma frase dele sobre Mussolini em 20 de janeiro de 1927:
 > Se eu fosse italiano, tenho certeza de que estaria com você de todo o coração, do início ao fim, em sua luta triunfante contra os apetites e paixões bestiais do leninismo.
 
-Mussolini elogiando Hitler:
+Churchill elogiando Hitler:
 > Sempre disse que, se a Grã-Bretanha fosse derrotada na guerra, esperava que encontrássemos um Hitler que nos conduzisse de volta à nossa posição legítima entre as nações. Lamento, no entanto, que ele não tenha sido suavizado pelo grande sucesso que o acompanhou. O mundo inteiro se regozijaria em ver o Hitler de paz e tolerância, e nada adornaria seu nome na história do mundo tanto quanto atos de magnanimidade e de misericórdia e de piedade para com os desamparados e sem amigos, para os fracos e pobres.
 Como ele foi bom o suficiente para me dar seus conselhos, me arrisco a retribuir o elogio. Herr Hitler também se mostrou excessivamente sensível a sugestões de que pode haver outras opiniões na Alemanha além da sua. Seria realmente espantoso se, entre 80 milhões de pessoas tão diversas em origem, credo, interesse e condição, houvesse apenas um padrão de pensamento. Não seria natural: é incrível. Que ele tem o poder e, infelizmente! a vontade de suprimir todas as opiniões inconvenientes é sem dúvida verdadeira. Seria muito mais sensato relaxar um pouco e não tentar amedrontar as pessoas por expressarem dúvidas e divergências honestas. Ele está enganado ao pensar que eu não vejo alemães do regime nazista quando eles vêm para este país. Pelo contrário, só este ano vi, a pedido deles, Herr Bohle, Herr Henlein e o Gauleiter de Danzig, e todos eles sabem disso.
 Como a maioria dos homens e mulheres ingleses, nada gostaria mais do que ver uma grande, feliz e pacífica Alemanha na vanguarda da Europa. Que este grande homem examine seu próprio coração e consciência antes de acusar alguém de ser um guerreiro. Todos os povos do Império Britânico e da República Francesa desejam sinceramente viver em paz lado a lado com a nação alemã. Mas também estão decididos a se colocar em posição de defender seus direitos e civilizações há muito estabelecidas. Eles não significam estar no poder de ninguém. Se os olhos de Herr Hitler caírem nessas palavras, acredito que ele as aceitará com o espírito de franqueza com que foram pronunciadas.
@@ -466,4 +465,47 @@ Complementares:
 - [Did Stalin continue to export grain as Ukraine starved?](https://youtu.be/SMBJ_nQ4sTA)
 - [Famines are always because of Communism](https://i.redd.it/j22mvokwzo1z.jpg)
 
-Também recomendo a leitura dos livros **Stalin: um novo olhar** de Ludo Martens, **Stalin: a história crítica de uma lenda negra** de Domenico Losurdo e **Um Stalin desconhecido** pela família Medvedev (que é liberal e anti-stalin, mas rejeita a narrativa mitíca que se tem sobre Stalin).
+Também recomendo a leitura dos livros **Stalin: um novo olhar** de Ludo Martens, **Stalin: a história crítica de uma lenda negra** de Domenico Losurdo e **Um Stalin desconhecido** pela família Medvedev (que é liberal e anti-stalin, mas rejeita a narrativa mitíca que se tem sobre Stalin). Também recomendo o prof. Mark Tauger é um dos pesquisadores mais respeitados do mundo no tema história da agricultura soviética,  prof. Annie Lacroix-Riz, acadêmica da universidade Paris VII - Denis Diderot, que defende ser o "holodomor" um cavalo de batalha anticomunista.
+
+## O mito das gulags
+Toda a retórica que se vê hoje sobre gulags partem do livro de caráter sensacionalista, beirando a ficção, "Arquipélago Gulag", mas ok, vamos aos fatos:
+1. Gulag era um nome de sistema prisional
+2. Gulags não foram feitas por Lenin ou Stalin, e sim pelo czar
+3. A grande maioria das pessoas no Gulag eram criminosos condenados, não prisioneiros políticos
+4. Os presos políticos incluíam conspiradores contra o governo. Houveram conspirações contra o governo por trotskistas, direitistas e muitos oficiais militares.
+5. A maior parte das pessoas que entraram na gulag, saíram vivas
+6. O relato de Solzhenitsyn sobre o Gulag foi altamente ficcional. O estado real do Gulag dependia do nível de segurança envolvido, da gravidade da ofensa, da turma de trabalho e, em muitos casos, da personalidade dos funcionários da prisão. Isso é típico da vida na prisão em qualquer lugar. Alguns guardas são sádicos, outros não.
+7. Apenas uma pequena porcentagem da população soviética estava na Gulag.
+8. Os prisioneiros eram pagos. Recompensas e bônus dados por trabalho duro.
+
+Com isso, podemos fazer a síntese de que era um sistema totalmente complexo, e nenhuma gulag era igual à outra, elas eram diferentes com bases nas necessidades e realidades materiais de cada região. Recomendo os escritos sobre as gulags de Stalin, são bem complexas -- melhor que a proposta de Trotsky que até hoje quem lê entende umas 5 coisas diferentes, não cumpria com as demandas e realidade soviética e por isso não foi escolhida pelo povo.
+
+Na década de 50, a CIA analisou todo o caso das gulags secretamente e concluiu que:
+1. Até 1952, os presos recebiam comida em quantidade garantida, além de comida extra pelo cumprimento excessivo das cotas
+2. De 1952 em diante, o sistema Gulag operou com "responsabilidade econômica" de forma que quanto mais os prisioneiros trabalhavam, mais eles eram pagos.
+3. Cumprindo as normas em 105%, um dia de sentença era contado como dois, reduzindo assim o tempo gasto no Gulag em um dia a cada dia.
+4. Além disso, por causa da reconstrução socialista pós-guerra, o governo soviético tinha mais fundos e então aumentou o suprimento de comida dos prisioneiros.
+5. Até 1954, os presos trabalhavam 10 horas por dia, enquanto os trabalhadores 8 horas por dia. De 1954 em diante, tanto prisioneiros quanto trabalhadores trabalhavam 8 horas por dia.
+6. Um estudo da CIA de um campo de amostragem mostrou que 95% dos prisioneiros eram criminosos tradicionais.
+7. Em 1953, a anistia foi concedida a 70% dos "criminosos comuns" de um campo de amostragem estudado pela CIA. Nos 3 meses seguintes, a maioria deles foi presa novamente por cometer novos crimes.
+
+Paper da CIA: https://www.cia.gov/readingroom/docs/CIA-RDP80T00246A032000400001-1.pdf
+
+O trabalho, no entanto, realmente era forçado, mas era remunerado. Pagos a partir de 1952 e pagos com mais comida antes de 1952. De acordo com as fantasias burguesas, o “regime” soviético procurou deliberadamente matar de fome as populações do Gulag. No entanto, na verdade, houve esforços soviéticos para aumentar o suprimento de alimentos dos prisioneiros, após a Segunda Guerra Mundial.
+
+## Mitos da guerra de inverno
+A Guerra de Inverno é o nome que se dá ao conflito finlandês-soviético entre 1939 e 1940, e a guerra de continuação de 1941 até 1944. No entanto, muitos acusam essas guerras como sendo parte do "imperialismo soviético", pois buscava conquistar e controlar territórios finlandeses. No entanto, a guerra ocorreu mais por motivos geopolíticos do que imperialistas.
+
+Nesta época, Hitler estava tomando vários territórios na Europa e declarava seu imperialismo e anti-comunismo abertamente (como o pacto anti-comintern de 1936 com o Japão, e o fato de a URSS ser a única potência a travar uma guerra indireta contra os fascistas na [Guerra Civil Espanhola](https://pt.wikipedia.org/wiki/Guerra_Civil_Espanhola)) e a grande parte dos países europeus eram fascistas ou proto-fascistas (maioria da população fascista), e a Finlândia não era exceção (perpetrando vários [massacres](https://en.wikipedia.org/wiki/List_of_massacres_in_Finland) contra sua própria população, e com vários pró-fascistas e revisionistas de direita entrando no [Partido Social Democrata da Finlândia](https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Finland)). Stalin temia que a Finlândia recebesse apoio nazista e junto, os dois começassem uma invasão à URSS, e a fronteira finlandesa ficava a menos de 30 km de Leningrado. Seria uma grande perda logo pro início do conflito.
+
+No entanto, a guerra entre a Finlândia e União Soviética não acabou em 1940. Eles assinaram um armistício. Porém, os [nacionalistas finlandeses](https://en.wikipedia.org/wiki/White_Guard_(Finland)) não queriam só recuperar o território perdido, mas criar uma [Grande Finlândia](https://en.wikipedia.org/wiki/Greater_Finland), além do [Heimosodat](https://en.wikipedia.org/wiki/Heimosodat), grupo de 9.000 voluntários anti-comunistas que atacaram a Rússia durante a [Guerra Civil](https://en.wikipedia.org/wiki/Russian_Civil_War) para tomar seus territórios.
+
+Fontes:
+- [War and peace in Finland](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa0NheFNrOEYtNHJrbTJtNXhiMzdibmZ1MHE5UXxBQ3Jtc0trbkJvZVhWWnNWdUFxWjBPZHV6TTFWdkhPeHVSWnVGS2cyZU9xZkp6akpCem5zNElBdkxpVnNSczhXa2JwOXl3bVBJektuX3NWdTUtOEg4Ynl1cE1TQVZLSDZ0d3BDQ1owMlpxaE93RnFpTTI3RWM1cw&q=https%3A%2F%2Fia800104.us.archive.org%2F11%2Fitems%2FWarPeaceFinland%2FWar%2520Peace%2520Finland.pdf)
+- [Russia, Finland & the Baltic](https://ia600104.us.archive.org/2/items/RussiaFinlandBalticsCoates/Russia%20Finland%20Baltics%20Coates.pdf)
+- [The USSR and Finland - Documents and facts](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa3BNMExHWTZ5UVZyTXFwZWFfU1JaSVAtUmdNQXxBQ3Jtc0ttejB2MGlJVnoxUXlDV3NBTmZ5Rmh6Ty1OMEhhVVNQTm5ZYVpjcmZOb0lyMkpyeXFhenhBdmduWHU3UDVWYktpdmpobWRVbXV5ZUJiUm80WkdpNzhldEp4eXNTQXRkMWxETmNqaC1WQWF6TlpaOEkzVQ&q=http%3A%2F%2Fciml.250x.com%2Fcountry%2Ffinland%2F1939_the_ussr_and_finland-documents_and_facts-new_york.pdf)
+- [The Communist League and Finland](http://ml-review.ca/aml/CommunistLeague/CL-FINLANDWAR90.html)
+- [Why Finland allied itself with Nazi Germany](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkgwcDNnMXVEMXo0Y3pVQ1hHSXdKZGtfdDhuZ3xBQ3Jtc0trMnkzTkN4ODBQcnVKeHk1Mi1rZWtQcmF6c1NXUTgzTElyT0JxaWFUb2JHUk9WU2k3OFFLT0R4WDk2ZGlUQkxIelJKQzZKNFdfbExjM0owbXF5QVdaVVNURFZwMnE2OXRrTmRnam05Q192b2UwV0xIdw&q=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2018%2Ffeb%2F23%2Fwhy-finland-allied-itself-with-nazi-germany)
+
+## Segunda Guerra Mundial
+### Mitos do pacto Molotov-Ribbentrop
