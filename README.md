@@ -6,6 +6,7 @@
     * [O capitalismo não funciona](#O-capitalismo-não-funciona)
     * [O socialismo funciona sim](#O-socialismo-funciona-sim)
     * [Por que a educação no socialismo é melhor](#Por-que-a-educação-no-socialismo-é-melhor)
+    * [Invenções soviéticas](#Invenções-soviéticas)
     * [Países socialistas antes do socialismo](#Países-socialistas-antes-do-socialismo)
     * [Lenin não era antissemita](#Lenin-não-era-antissemita)
     * [A violência segundo Lenin](#A-violência-segundo-Lenin)
@@ -505,6 +506,196 @@ Além disso, a qualidade dos professores educados no socialismo é surpreendente
 
 Basta conferir esse vídeo, por exemplo:
 https://www.youtube.com/watch?v=qw_M7kV3GLY
+
+## Invenções soviéticas
+ESPAÇO:
+- Sistema de Desenvolvimento Tata Sky (transmissão direta por satélite)
+- Traje espacial principal, CH-1 (1931)
+- Primeiro foguete de vários estágios (1947)
+- Criação da combustão encenada (1949)
+- Primeiro espaçoporto, Baikonur Cosmodrome (1957)
+- Primeiro satélite em órbita, Sputnik 1 (1957)
+- Primeiro vivente em órbita, a cadela Laika no Sputnik 2 (1957)
+- Primeiro objeto feito pelo homem a deixar a órbita da Terra, Luna 1 (1959)
+- Primeira comunicação de telemetria de e para o solo, Luna 1 (1959)
+- Primeiro objeto a passar perto da lua, e o primeiro objeto na órbita solar Luna 1 (1959)
+- O primeiro satélite que atingiu a lua, Luna 2 (1959)
+- Primeiras imagens do lado escuro da lua, Luna 3 - (1959)
+- Primeiro satélite a ser lançado para Marte, Marsnik 1 (1960)
+- Primeiras botas de foguete (1960)
+- Criou a comida espacial (1961)
+- Primeiro satélite para Vênus, Venera 1 (1961)
+- Primeira pessoa a entrar em órbita ao redor da Terra, Yuri Gagarin em Vostok 1 (1961)
+- Primeira pessoa a passar um dia em órbita, Gherman Titov, Vostok 2 (1961)
+- Primeiro vôo duplo, tripulado Vostok 3 e Vostok 4 (1962)
+- Primeira sonda em Marte, Marte 1 (1962) fez as primeiras imagens de Marte do espaço
+- Primeira mulher no espaço, Valentina Tereshkova, Vostok 6 (1963)
+- Primeiro vôo Multitripulado (3 pessoas), Voskhod 1 (1964)
+- Primeira caminhada no espaço EVA, de Aleksei Leonov, Voskhod 2 (1965)
+- Primeira sonda a atingir outro planeta Vênus, Venera 3 (1965)
+- Primeira sonda pousando na lua e transmitida de lá, Luna 9 (1966)
+- Primeira sonda na órbita lunar, Luna 10 (1966)
+- Criação do modelo da nave espacial Soyuz soviética (1967), que é a única maneira pela qual a NASA e a ESA enviam astronautas para o espaço
+- Primeiro banheiro no espaço (1967)
+- Primeira reunião e atracação não tripulada, Cosmos 186 / Cosmos 188 (1967) até 2006, este feito não foi copiado pelos EUA
+- Acoplamento próximo e troca de tripulação em órbita, Soyuz 4 e Soyuz 5 (1969)
+- Primeiras amostras extraterrestres devolvidas por Luna 16 (1970)
+- Primeiro robô em um corpo celeste, Lunokhod 1 (1970)
+- Primeira sonda para Vênus, Venera 7 (1970)
+- Primeiros dados recebidos de uma sonda em outro planeta (Vênus), Venera 7 (1970)
+- Primeira estação espacial, Salyut 1 (1971)
+- Primeiro satélite a orbitar Marte e fazer uma descida, Marte 2 (1971)
+- O segundo robô em um corpo celeste, Lunokhod 2 (1973) e com o Lunokhod 1 é o único laboratório móvel automatizado que explorou a Lua guiado por controle remoto
+- Primeiro satélite a orbitar Vênus e enviar dados de volta à Terra Venera 9 (1975)
+- Criação do mecanismo de acoplamento e ancoragem da nave espacial, Androgynous Peripheral Attach System (1975)
+- A criação do ônibus espacial Buran (1976), que pode transportar 30 toneladas (modelo dos EUA apenas 25), voos de retorno com carga de 20 toneladas (EUA apenas 15), com uma taxa de apoio de 6,5 (contra 5,5 do modelo dos EUA), seu sistema auxiliar de manobra de foguetes usa oxigênio e querosene como combustível em vez de sólido (como nos EUA) e dá melhor desempenho. Além disso, a lançadeira Buran poderia realizar missões não tripuladas (os EUA não podem), com assentos ejetáveis ​​(o modelo dos EUA não tem) considerados os mais seguros e eficazes da história e com design de telhas térmicas mais eficazes e resilientes que a versão dos EUA
+- Criou o foguete mais poderoso do mundo: Energy (1976), capaz de transportar 100 toneladas
+- Fornecimento da primeira nave espacial não tripulada, Progress (1978)
+- Primeiro radiotelescópio (1979)
+- Primeira mulher a andar no espaço, Svetlana Savitskaja em Salyut 7 (1984)
+- Primeira nave em órbita da Terra de forma independente, Buran (1984)
+- Primeira estação espacial multimódulo: Salyut 7 e Kosmos 1686 (TKS-4) (1985)
+- Primeira tripulação a visitar duas estações espaciais, Mir e Salyut 7 (1986) a bordo do Soyuz T-15
+- Primeira estação espacial permanente a orbitar a Terra, Mir (1986)
+- Primeira equipe a passar mais de um ano na Mir, Vladimir Titov e Musa Manarov (1987)
+
+![Desigualdade de sexos na corrida espacial americana](inequality_space_race.png)
+
+FÍSICA:
+- Primeira usina nuclear, Obninsk (1954)
+- Desenvolvimento da maior instalação experimental termonuclear do mundo, Tokamak 10, protótipo de reator termonuclear
+- Invenção da Tzar Bomba, a bomba nuclear mais poderosa da história (100 Mt), cuja potência foi reduzida por razões ambientais (50-57 Mt). Comparação com as bombas dos EUA lançadas em Hiroshima e Nagasaki 15 Mt
+- Invenção da fusão nuclear
+- Invenção do Tokamak (1956), com o objetivo de fornecer aparelho de fusão de partícula de plasma
+- Invenção do primeiro navio quebra-gelo nuclear "LENIN", o primeiro do mundo movido a energia nuclear (1952)
+- Invenção do microtron acelerador de partículas (1944)
+- Invenção do acelerador de partículas síncrotron (1957)
+- Invenção da espectroscopia de ressonância paramagnética de elétrons (1944)
+- Primeiro reator de nêutrons rápido, BN350 (1955)
+- Criação mais longa do pipeline mais longo da história, Druzhba (1964)
+- Primeiro reator de dessalinização nuclear, BN-350 (1972)
+- Primeiro reflectron (1973)
+- Criou a maior sonda geotécnica da história, Kola Well (1970)
+- Criação da BARS Press (1989)
+
+COMPUTAÇÃO:
+- Primeiro computador programável MESM (1950)
+- Primeiros computadores eletrônicos soviéticos e europeus, BESM (Sergey Lebedev, 1951) e MESM (Sergey Lebedev, 1958)
+- Primeiro computador com lógica ternária (mais rápido e confiável que o sistema binário), Setun (Nikolai Brusentsov, 1958) e desenvolvimento do modelo Setun-70 (Nikolai Brusentsov, 1970) que reforçou ainda mais o aspecto da programação, melhorando por um fator 5 sob o tempo de desenvolvimento de softwares de outras arquiteturas
+- Primeiro computador pessoal, MIR (Victor Glushkov, 1965)
+- Primeiro sistema de ensino assistido por computador da história (Nastavnik), com uma referência clara ao atual
+- Primeiro computador superescalar (microarquitetura de processador capaz de executar mais de uma instrução por ciclo de clock), Elbrus-1 (Boris Babaian, 1970). Fazendo uso deste equipamento em 1978, dez anos antes do surgimento das aplicações comerciais no Ocidente, a União Soviética desenvolveu seus sistemas de mísseis e programas nucleares e espaciais.
+- Fundação da cibernética (Victor Glushkov)
+- Invenção do Tetris (Alexey Pajitnov, 1984)
+- Invenção do gerenciador de arquivos FAR, arquivo de formato RAR e WinRAR (Eugene Roshal)
+- O primeiro telefone móvel, Leonid Ivanovich Kupriyanovich (1955), que foi copiado pelos EUA em 1970 e a Finlândia em 1980 deu-lhe um uso civil com a Nokia.
+
+ELETRÔNICA:
+- Invenção do LED (Oleg Vladimirovich, 1927) (Se você está lendo isso em uma tela de LED, tem que agradecer aos comunistas.)
+- Invenção de equipamento de exercício vibratório (1960)
+- Aperfeiçoamento de masers, Basov e Aleksandr Prokhorov Nikolai
+- Invenção da lomografia (1982)
+- Primeiro detector de mentiras, de Alexander Romanovich Luria
+- Criou soldagem subaquática, Konstantin Khrenov (1932)
+- Primeiro telescópio refletor, Maksutov (1941)
+- Primeiro microfone a laser (1947)
+- Criou o magnetotelúrico (1950)
+- A descoberta da reação de Belousov-Zhabotinski (1951)
+- Criação do fluxo bombeado do gerador de compressão explosiva (1951)
+- Criou a holografia 3D (1962)
+- Primeiro forno de micro-ondas (1941)
+- Primeira antena de rádio
+
+MEDICINA:
+- Invenção de terapias contra doenças infecciosas baseadas no vírus bacteriófago (1940)
+- Tratamento cirúrgico precoce da doença cardíaca congênita, pelo pioneiro Bukulev Alexander (1948)
+- Criação da Psicologia Objetiva, do neurologista Vladimir Bekhterev, também conhecido por apontar o papel do hipocampo na memória, seu estudo dos reflexos e a doença de Bekhterev
+- Primeiro transplante de córnea bem-sucedido em 1931, por Vladimir Filatov, que desenvolveu a terapia de tecidos
+- Criação de ceratotomia radial por Svyatoslav Nikolayevich Fyodorov
+- Criou o aparelho de Ilizarov para alongamento de ossos de membros e para a cirurgia de Ilizarov (1951) por Gavriil Abramovich Ilizarov
+- Criou a psicologia histórico-cultural, teoria da atividade psicológica e método do "poder combinado", de Alexander Romanovich Luria
+- Ampliou os critérios para o diagnóstico de esquizofrenia com a distinção entre sintomas negativos e positivos, uma pesquisa-chave e classificação do conceito de esquizofrenia, Andrei Snezhnevsky
+- Primeira cirurgia cardíaca sob anestesia local, Alexander Vishnevsky, 1953
+- Fundação da cirurgia purulenta, Arcebispo Luka Voyno-Yasenetsky, Prêmio Stalin, Prêmio Nobel de Medicina em 1946.
+- Descoberta do efeito Cherenkov (Pavel Cherenkov Alekseyecih)
+- Primeiro transplante de órgão artificial
+- Primeira transfusão de sangue de um cadáver, Sergei Yudin, 1929.
+- Primeiro banco de sangue. Criado por Sergei Yudin no início de 1930. Em meados do mesmo ano, a URSS teria 65 grandes centros de doação de sangue e mais de 500 filiais.
+- Criação do parto sem dor (sob anestesia)
+- Criou a Gramicina S (1942)
+- Primeiro transplante de cabeça com função cerebral completa (1950)
+- Criou a cosmetologia antropométrica (1952)
+- Criou a ceratotomia radial (1974)
+- Descoberta de vitaminas
+- Descoberta dos vírus
+- Primeiro microscópio acústico (1959)
+- Primeiro vírus extinto (varíola - 1980)
+
+MILITAR:
+- Primeiro lançador de foguetes múltiplos, o lançador de foguetes Katyusha (1939)
+- Criou o maior e mais poderoso helicóptero de rotor único do mundo, o Mil Mi-26 (1981)
+- Criou o Sikorsky S-64 Skycrane, capaz de levantar mais carga do que qualquer outro na história
+- Ekranoplano Creation (1950), semelhante a um avião que usa a influência do "efeito solo" sobre o mar para simplesmente não consumir combustível e transportar 500 toneladas.
+- Criou a maior aeronave do mundo, capaz de transportar 225 toneladas, o Antonov 225 (1980)
+- Primeiro plano telemecânico
+- Primeiro avião de passageiros supersônico, TU-144
+- Primeira (e única) aeronave movida por um reator nuclear, TU-119
+- Primeira (e única) aeronave de caça espacial construída, o MIG-105, capaz de derrubar lançadores, mísseis e satélites inimigos no espaço e nas costas.
+- Criação do jato de combate MIG-25 com recorde absoluto de altitude (37,650 m), tempo de subida de 0 a 30 km (3 min 10 s), circuito de velocidade 500 km (2981,5 km / h)
+- Primeiro (e único) reator mundial em operação de hidroaviões, Beriev BE-200
+- Primeiro navio a explorar o Pólo Norte, NS Arktika (1972)
+- Criou o biplano mais produzido da história, o Polikarpov Po-2 (1927)
+- Criou o Ilyushin Il-2, a aeronave mais produzida da história.
+- Primeiro hidrofólio, Raketa (1957)
+- Primeiro navio de míssil, Komar (1959)
+- Criou o mais rápido e capaz de mergulhar mais fundo na história (1300 m), o submarino nuclear da classe Alpha. Só precisava de uma equipe de 27 pessoas (em comparação com 110 que precisam de um modelo americano, Los Angeles), pois era muito automatizado.
+- Criou o maior submarino da história, a classe Typhoon, apenas carrega 5 capacetes (o que o faz suportar vários golpes de torpedo antes de ser nocauteado) e uma único na história em trazer certos luxos como cabine individual, academia, piscina, sauna, lounges, etc.
+- Primeiro tanque com armadura composta, o primeiro a incorporar um autoloader, primeiro lançamento de míssil tanque: T64
+- Primeiro robô militar; o Tt -26 (1949), um tanque de controle remoto para minimizar as vítimas humanas; equipado com metralhadoras DT, lança-chamas, granadas de fumaça e às vezes com uma bomba entre 200-700 kg que foi lançada perto do refúgio para destruir bunkers inimigos até quatro níveis subterrâneos. Também foi treinado para portar armas químicas, mas não foi usado para segurança e ambientalismo.
+- Primeiro tanque lança-chamas da história, KHT-26 (1931)
+- Primeiro tanque com asas, Antonov A-40 (1942)
+- Criou o melhor e mais produzido tanque da Segunda Guerra Mundial: T-34 (1940)
+- Criou o tanque mais produzido da história, T-54/55 (1945)
+- Armadura reativa fechada (1960)
+- Armadura reativa fechada capaz de proteger contra munição APFSDS (piercing de armadura), 1985
+- Primeiro veículo de combate de infantaria da história (BMP-1 criado em 1961), além de proteção NBC, antitanque, capacidade anfíbia e pára-quedas lançável com canhão de 73 mm, lançador de mísseis antitanque e 3 metralhadoras PKT. Foi mal copiado em 1980 (20 anos depois) pelos EUA, para obter o seu primeiro IFV, dando origem ao M2 / M3 Bradley. Era 16,5 toneladas mais pesado que seu homólogo BMP-1 com menos tripulação e com um canhão muito menor (e sem capacidade de mísseis).
+- Primeiras forças paraquedistas com uso militar da história em 1930, sendo também totalmente mecanizadas seus paraquedistas com BMD (pára-quedas lançável). Os EUA ainda não têm IFV para apoiar seus pára-quedistas.
+- Primeiros bombeiros aéreos (1936)
+- Primeiro rifle de assalto moderno, o AK-47 (1947)
+- Primeiro planador torpedo de controle remoto, PSN-1
+- Primeira reação de torpedo, PRAB-203
+- Primeiro torpedo supercavitante, VA -111 Shkval
+- Primeiro míssil dirigível
+- Primeiro míssil intercontinental (R-7 Semyorka, 1957)
+- Primeiro míssil antibalístico (1961)
+- Primeiro submarino de mísseis intercontinentais, Vysota R-29 (1969), RD-170 (1987).
+- Criou RKKA servindo infravermelho
+- Primeiro pára-quedas drogue (1937)
+- Criação da arte marcial do sambo por Anatoly Kharlampiev (1938)
+- Primeiro rifle de assalto subaquático, o APS (1975)
+- Criou o Sistema de Proteção Ativa, Drozd (1978)
+- Primeiro batiscafo, Mir (1987). Primeiro a explorar o fundo do mar sob o Pólo Norte
+- Realizou pela primeira vez a manobra "Cobra Pugavhev" em 1989
+- Primeiro motor ramjet, R-3 (1939)
+- A criação do Aerowagon (1917) foi pioneira no Schienenzeppelin alemão, no M-497 Black Beetle USA e no trem turbojato soviético
+- Primeiro snowmobile da história, RF-8, baseado no protótipo pré-soviético Aerosani
+- Primeira arma anti-satélite (1960)
+
+ARTE:
+- Criação da montagem polifônica ou contrapontística, métrica, rítmica, harmônica, melódica. Modalidades audiovisuais conceituais anteriores, incluindo vídeo e clipe, de Sergei Mikhailovich Eisenstein
+- Invenção de xerografia
+- Criação do croma
+- Invenção de Kinopanorama (1956)
+
+POLÍTICAS SOCIAIS:
+- Primeiro e totalmente GRATUITO sistema de ensino público, que alcançou as maiores taxas de alfabetização da história nas 15 repúblicas soviéticas com o Likbez. Além disso, as escolas soviéticas ofereciam comida gratuita para os alunos, de modo que o equilíbrio entre a vida pessoal e profissional é muito mais fácil do que hoje nos países capitalistas. Mesmo os jardins de infância também eram gratuitos.
+- Primeiro sistema de saúde GRATUITO e universal, que aumentou a expectativa de vida dos soviéticos, menos de 40 anos em 1917, para atingir os níveis ocidentais em 80 (70 anos). As conquistas da erradicação da fome e dos sistemas de saúde também podem ser comparadas com a altura média dos soviéticos em 1917 (1,60 m) a 1980 (1,80 m). Esse sistema de saúde descobriu o parto sem dor e realizou o primeiro transplante de órgão.
+- Entre 1945 e 1964, a renda nacional soviética cresceu 570%, em comparação com 55% nos EUA (e lembre-se que a URSS não era um Plano Marshall, para ajudar o país)
+- Invenção de estudos noturnos para que os trabalhadores construam carreiras.
+- Primeiro país na história onde o aborto era legal e gratuito (desde 1920)
+- Primeiro país da história a atingir uma taxa de desemprego de 0%
+- Políticas de igualdade, um dos primeiros países a adotar o sufrágio feminino
+- Primeira mulher na história a ocupar um cargo no governo (Alexandra Kollontai)
 
 ## Países socialistas antes do socialismo
 Não existe essa de "restaurar a democracia" em países socialistas, todos esses países socialistas, com exceção da Tchecoslováquia, não eram uma democracia antes do socialismo. 
