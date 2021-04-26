@@ -641,7 +641,7 @@ MILITAR:
 - Primeiro avião de passageiros supersônico, TU-144
 - Primeira (e única) aeronave movida por um reator nuclear, TU-119
 - Primeira (e única) aeronave de caça espacial construída, o MIG-105, capaz de derrubar lançadores, mísseis e satélites inimigos no espaço e nas costas.
-- Criação do jato de combate MIG-25 com recorde absoluto de altitude (37,650 m), tempo de subida de 0 a 30 km (3 min 10 s), circuito de velocidade 500 km (2981,5 km / h)
+- Criação do jato de combate MIG-25 com recorde absoluto de altitude (37,650m), tempo de subida de 0 a 30 km (3 min 10s), circuito de velocidade 500 km (2981,5 km/h)
 - Primeiro (e único) reator mundial em operação de hidroaviões, Beriev BE-200
 - Primeiro navio a explorar o Pólo Norte, NS Arktika (1972)
 - Criou o biplano mais produzido da história, o Polikarpov Po-2 (1927)
