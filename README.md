@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Essays
 * [Mitos](#Mitos)
     * [Mito sobre a origem do dinheiro](#Mito-sobre-a-origem-do-dinheiro)
@@ -20,8 +19,18 @@
     * [Revoluções não são violentas](#Revoluções-não-são-violentas)
     * [Apenas a luta de classes muda a realidade](#Apenas-a-luta-de-classes-muda-a-realidade)
     * [A União Soviética](#A-União-Soviética)
-    * [A teoria da conspiração do Holodomor](#A-teoria-da-conspiração-do-Holodomor)
-    * [O mito das gulags](#O-mito-das-gulags)
+        * [Revolução, comunismo de guerra e NEP](#Revolução-comunismo-de-guerra-e-NEP)
+        * [Desenvolvimento econômico e padrões de vida na era socialista](#Desenvolvimento-econômico-e-padrões-de-vida-na-era-socialista)
+        * [Condições de saúde no período socialista](#Condições-de-saúde-no-período-socialista)
+        * [A questão Stalin](#A-questão-Stalin)
+            * [O grande expurgo](#O-grande-expurgo)
+            * [A fome ucraniana](#A-fome-ucraniana)
+            * [As gulags](#As-gulags)
+        * [Trabalhadores na União Soviética](#Trabalhadores-na-União-Soviética)
+            * [Participação do trabalhador no local de trabalho](#Participação-do-trabalhador-no-local-de-trabalho)
+            * [Participação política na URSS](#Participação-política-na-URSS)
+        * [Conclusão sobre os trabalhadores na URSS](#Conclusão-sobre-os-trabalhadores-na-URSS)
+        * [Conclusão sobre a URSS](#Conclusão-sobre-a-URSS)
     * [Mitos da guerra de inverno](#Mitos-da-guerra-de-inverno)
     * [Segunda Guerra Mundial](#Segunda-Guerra-Mundial)
         * [Mitos do pacto Molotov-Ribbentrop](#Mitos-do-pacto-Molotov-Ribbentrop)
@@ -990,17 +999,40 @@ Em primeiro lugar, devemos lembrar as extensas conquistas discutidas acima, que 
 >Os resultados de Stalin foram incontestáveis. Este é um ponto que muitas vezes esquecemos no Ocidente. Stalin herdou um país que foi a principal vítima da Primeira Guerra Mundial e legou a seus sucessores uma superpotência. É apenas uma medida do sucesso do 'Líder', e sua compreensão da resistência de sua nação, que entre 1940 e 1953... a URSS dobrou sua produção de carvão e aço, triplicou sua produção de cimento e industrial e aumentou sua reserva de mão de obra qualificada por um fator de dez. Essas taxas de crescimento foram geometricamente mais altas do que no Ocidente menos devastado e sem Terror.
 
 Fontes:
-- [Origins of Great Purges by J Arch Getty](https://books.google.com.br/books/about/Origins_of_the_Great_Purges.html?id=R5zx54LB-A4C&redir_esc=y)
-- [Life & Terror in Stalin's Russia - 1934-1941 by Robert Thurston](https://www.amazon.com.br/Life-Terror-Stalins-Russia-1934-1941/dp/0300064012)
-- [Yezhov vs Stalin: The causes of the mass repressions of 1937-1938 in the USSR by Grover Furr](https://msuweb.montclair.edu/~furrg/research/furr_yezhov_jls17.pdf)
-- [The Moscow Trials (Part 3: the Great Purge) by Finnish Bolshevik](https://www.youtube.com/watch?v=NrrDMyAz1SU&t=1894s)
-- [The Purges and Repressions in the USSR by Tovarishch Endymion](https://www.youtube.com/watch?v=RbEmfzJeY48&t=2s)
 - [Soviet Democracy by Pat Sloan](https://mltheory.files.wordpress.com/2017/06/pat-sloan-soviet-democracy-victor-gollancz-1937.pdf)
 - [Is the Red Flag Flying? The Political Economy of the Soviet Union by Albert Szymanski](https://archive.org/details/IsTheRedFlagFlying)
 - [Stalin and the Struggle for Democratic Reform by Grover Furr](http://marxism.halkcephesi.net/Grover%20Furr/index.htm)
 - [The Stalin Era by Anna Louise Strong](https://www.prisoncensorship.info/archive/books/SovietUnion/StalinEra_StrongAL.pdf)
+- [Domenico Losurdo: Towards a Critique of Totalitarianism](https://mirror.explodie.org/Losurdo___Critique_of_Totalitarianism_%282004%29.pdf)
+- [Stalin and Hitler: Twin Brothers or Mortal Enemies?](http://crisiscritique.org/ccmarch/losurdo.pdf)
+- [Stalin: History and Criticism of a Black Legend by Domenico Losurdo](https://drive.google.com/drive/folders/1Dg1i8cmId3a-p_Ydz46p1jvPP6Hwc3bm)
+- [A review of Losurdo’s book by scholar Roland Boer](https://stalinsmoustache.org/2014/08/29/losurdo-on-stalin-a-review/)
+- [Kruschev Lied by Grover Furr](https://ia902707.us.archive.org/5/items/pdfy-nmIGAXUrq0OJ87zK/Khrushchev%20Lied.pdf)
+- [Critical review of Kruschev Lied by Roger Keeran (author of Socialism Betrayed)](https://mltoday.com/khrushchev-lied-but-what-is-the-truth)
+- [Grover Furr’s reply to Roger Keeran’s criticism](https://mltoday.com/rejoinder-to-roger-keeran/)
+- [Stalin: a Marxist-leninist perspective](https://revolutionaryleftradio.libsyn.com/joseph-mother-fucking-stain)
+- [Some points on Stalin and Mao](https://marxistleninist.wordpress.com/2008/09/25/some-points-on-stalin-and-mao/)
+- [Anti-Stalinism is left-wing racism: part 1](https://www.fort-russ.com/2018/07/anti-stalinism-is-left-wing-racism-part-1/)
+- [Reconstructing J.V. Stalin: exposing the myths, lies and fraud](https://thesanghakommune.org/2017/07/12/reconstructing-jv-stalin-exposing-the-myths-lies-fraud/amp/)
+- [The positive achievements of Stalin and his regime](https://barbradozier.wordpress.com/2013/01/25/the-positive-achievements-of-stalin-and-his-regime)
+- [The Essential Stalin](http://marxism.halkcephesi.net/trotskyism/the%20essential%20Stalin.htm)
+- [Another View of Stalin](https://stalinsocietypk.files.wordpress.com/2013/05/another-view-of-stalin1.pdf)
+- [The Real Stalin series by Dennis McKinsey](https://espressostalinist.com/the-real-stalin-series/)
+- [The Truth About Stalin by Wilf Dixon](http://www.oneparty.co.uk/index.html?http%3A//www.oneparty.co.uk/html/wilftas.html)
+- [Stalin’s place in history - Mao](https://www.marxists.org/reference/archive/mao/selected-works/volume-7/mswv7_467.htm)
+- [History of the Communist Party of the Soviet Union (Bolsheviks)](https://www.marxists.org/reference/archive/stalin/works/1939/x01/index.htm)
+- [Stalin and the USSR - Myth and Reality](https://youtu.be/v6GO_GxdtZQ)
+- [Stalin and the myth of the “Old Bolsheviks”](https://mltheory.wordpress.com/2016/12/20/stalin-the-myth-of-the-old-bolsheviks/)
+- [Socialism in one country - what it really means](https://mltheory.wordpress.com/2017/05/25/socialism-in-one-country-what-it-really-means/)
+- [On The Question of Stalin (By Mao Tse-tung)](https://www.marxists.org/subject/china/documents/polemic/qstalin.htm)
+- [Che Guevara: “I came to Communism because of Stalin”](http://houstoncommunistparty.com/che-guevara-i-came-to-communism-because-of-stalin/)
+- [Remorse of a dissident: Alexander Zinoviev on Stalin and the dissolution of the USSR](https://communismgr.blogspot.co.uk/2016/08/the-remorse-of-dissident-alexander.html)
+- [Bill Bland: Stalin - the myth and the reality](https://espressostalinist.com/2015/06/20/bill-bland-stalin-the-myth-and-reality/)
+- [On Stalin by W.E.B. Du Bois](https://www.marxists.org/reference/archive/stalin/biographies/1953/03/16.htm)
+- [Review: Stalin’s Wars: From World War to Cold War 1939-1953](https://mltoday.com/article/51-review-stalins-wars-from-world-war-to-cold-war-19391953/29-books-arts-and-literature)
+- [Stalingrad by Antony Beevor: a piece of Nazi war propaganda](http://neodemocracy.blogspot.co.uk/2017/09/stalingrad-by-antony-beevor-piece-of.html)
 
-### O grande expurgo
+#### O grande expurgo
 Os expurgos do final dos anos 1930 são uma marca negra definitiva no legado do socialismo soviético; isso não pode ser negado. Dito isto, eles foram objeto de décadas de distorções e exageros injustificados e intoleráveis por parte dos acadêmicos burgueses, necessitando de uma resposta completa.
 
 Em primeiro lugar, vamos estabelecer os fatos de quantas pessoas realmente morreram nos expurgos. Embora os ocidentais sejam frequentemente tratados com números que variam de 20 a 50 milhões, os números verdadeiros (embora ruins o suficiente por si só) estão longe de ser tão altos. De acordo com o Professor [J. Arch Getty](https://history.ucla.edu/faculty/j-arch-getty):
@@ -1034,8 +1066,38 @@ No geral, talvez o resumo mais sucinto desta questão seja aquele fornecido no l
 
 Como marxistas, devemos estar bem cientes de que as condições materiais moldam as estruturas ideológicas e políticas. A selvageria da Guerra Civil Russa, as múltiplas invasões das potências capitalistas e a crescente ameaça de uma guerra contra o fascismo tornam a atmosfera paranóica do final dos anos 1930 compreensível, se não tolerável; no entanto, mesmo enquanto discutimos as causas genuínas do Expurgo e rejeitamos o histérico jogo de lama anticomunista dos Guerreiros Frios, ainda devemos reconhecer a marca negra que o Expurgo deixou no legado de Stalin.
 
-### A fome ucraniana
-Talvez a acusação mais perniciosa contra Stalin seja que ele orquestrou a terrível fome do início dos anos 1930 para esmagar uma revolta nacionalista ucraniana. Essa calúnia desprezível (que é propagada em grande parte por grupos nacionalistas e neofascistas ucranianos) é facilmente refutada pelo exame do consenso histórico. As citações a seguir foram compiladas em um artigo do Village Voice, citado abaixo.
+Fontes:
+- [Origins of Great Purges by J Arch Getty](https://books.google.com.br/books/about/Origins_of_the_Great_Purges.html?id=R5zx54LB-A4C&redir_esc=y)
+- [Life & Terror in Stalin's Russia - 1934-1941 by Robert Thurston](https://www.amazon.com.br/Life-Terror-Stalins-Russia-1934-1941/dp/0300064012)
+- [Yezhov vs Stalin: The causes of the mass repressions of 1937-1938 in the USSR by Grover Furr](https://msuweb.montclair.edu/~furrg/research/furr_yezhov_jls17.pdf)
+- [The Moscow Trials (Part 3: the Great Purge) by Finnish Bolshevik](https://www.youtube.com/watch?v=NrrDMyAz1SU&t=1894s)
+- [The Purges and Repressions in the USSR by Tovarishch Endymion](https://www.youtube.com/watch?v=RbEmfzJeY48&t=2s)
+
+#### A fome ucraniana
+Talvez a acusação mais perniciosa contra Stalin seja que ele orquestrou a terrível fome do início dos anos 1930 para esmagar uma revolta nacionalista ucraniana. Essa calúnia desprezível (que é propagada em grande parte por grupos nacionalistas e neofascistas ucranianos) é facilmente refutada pelo exame do consenso histórico.
+
+A fome de 1931-1932, não foi causada pelo Estado soviético, nem foi planejada ou premeditada por Stalin. Primeiro, porque não morreram apenas ucranianos, mas também russos, bielorrussos e cazaques. Os camponeses ricos da Ucrânia, que exploravam a mão de obra  do campesinato local, opondo-se à coletivização. Os próprios kulaks, que haviam enriquecido com a NEP de Lenin, recusaram-se a colher os frutos e grãos, principalmente depois que muitos camponeses sem-terra optaram por migrar para outras regiões da União Soviética, trabalhando em fazendas coletivas (as kolkhoses), em vez de ficar naquela região, sendo explorados, fora que quando o preço dos grãos caiam, eles faziam açambarcamento das mercadorias e se recusavam a vendê-los, a URSS não podia continuar se submetendo às vontades do livre-mercado, senão ocorreria outra crise das tesouras. Grupos de extrema-direita anti-comunistas, como a Organização Militar Ucraniana, atearam fogo nas suas plantações, atiraram nos rebanhos, matando animais, visando sabotar o processo de coletivização. Haviam, à época, 10 milhões de “kulaks”, para uma população camponesa total de 120 milhões de pessoas. Cerca de 1 milhão e 800 mil deles, por causa da pressão dos kulaks, optaram por migrar. Toda mentira sobre o Holodomor começou quando William Randolph Hearst, magnata da imprensa estadunidense, conhecido antes da Segunda Guerra como "o fascista nº1 da América", viajou para Alemanha em 1934, cerca de 1 ano depois da ascensão de Hitler ao poder. Nessa viagem ele travou contato principalmente com Alfred Rosenberg, ideólogo do Partido Nazista, que, terminada a Segunda Guerra (1945), acabou  julgado e executado no Tribunal de Nuremberg por crimes contra a humanidade. No ano seguinte à viagem (1935), os jornais de Hearst começaram a espalhar a farsa do “holocausto ucraniano”. Hearst havia começado sua vida como empresário em 1887 após assumir o controle do jornal The San Francisco Examiner, que era do seu pai.
+
+Douglas Tottle ressalta em Fraud, Famine and Fascism, p. 49-51:
+>É uma questão de algum significado que as alegações do cardeal Innitzer de fome-genocídio foram amplamente promovidas ao longo da década de 1930, não apenas pelo principal propagandista de Hitler, Goebbels, mas também pelos fascistas americanos.
+>Devemos relembrar que Hearst deu início à sua campanha contra a fome com uma transmissão de rádio baseada principalmente em material do "comitê de ajuda" do cardeal Innitzer. Em Organized Anti-Semitism in America, o livro de 1941 expondo grupos e atividades nazistas nos Estados Unidos antes da guerra, Donald Strong observa que o líder fascista americano, padre Coughlin, usou extensivamente o material de propaganda nazista. Isso incluía acusações nazistas de "atrocidades cometidas por judeus comunistas" e porções textuais de um discurso de Goebbels referindo-se ao "apelo de Innitzer de julho de 1934, de que milhões de pessoas estavam morrendo de fome em toda a União Soviética".
+
+Se mudando para Nova Iorque, Hearst comprou o The New York Journal e criou então a noção de "imprensa marrom", sendo por isso considerado "o pai do sensacionalismo". Neste ínterim, entrou em uma guerra de negócios com Joseph Pulitzer, dono do New York World. Porém, foi Walter Dushnyck, um colaborador dos nazistas e terrorista da “Organização Militar Ucraniana” (que apoiou os nazistas quando estes ocuparam parte da Ucrània em 1941), o homem por trás da farsa. Dushnyck refugiou-se nos EUA após a II Guerra. Dushnyck publicou o livro "50 anos atrás: o Holocausto de Fome na Ucrânia" (50 Years Ago: The Famine Holocaust in Ukraine, 1983), um panfleto repleto de referências nazistas, incluindo a capa, como uma caveira branca sob uma foice e um martelo vermelhos. Este livro continha as fotos do "genocídio ucraniano” publicadas originalmente no jornal de Hitler, o “Völkischer Beobachter” e nos de seu apoiador americano, William Randolph Hearst (cuja vida inspirou o filme Cidadão Kane). Cabe lembrar que Hearst tinha estreita relação com o senador  Joseph McCarthy, sendo um dos nomes fortes por trás do movimento de  "caça  aos comunistas" iniciado por ele na década de 1950, no que ficou conhecido como Macarthismo. Por meio do Comitê de Atividades Anti-Americanas, McCarthy liderou um comitiva inquisitorial que perseguiu qualquer que tivesse a mínima conexão com o marxismo, como o roteirista Dalton Trumbo, os diretores Edward Dmytryk, John Huston, além de Orson Welles (que Hearst fez de tudo para derrubar quando este lançou Cidadão Kane), e dos atores Humphrey Bogart, Lauren Bacall, Gregory Peck, Katharine Hepburn, Kirk Douglas, Burt Lancaster, Gene Kelly e até mesmo Frank Sinatra. Outro responsável por disseminar essas mentiras sobre a URSS foi o escritor Robert Conquest (homenageado por George W. Bush), nos livros O Grande Terror (The Great Terror, 1968) e Colheita Amarga (The Harvest of Sorrow, 1986). O que poucos sabem é que Conquest trabalhou até meados da década de 50 para o Information Research Department (Departamento de Pesquisa de Informação), um organismo secreto do Foreign Office (Ministério dos Negócios Estrangeiros) criado em 1948 pelo governo britânico para estudar o comunismo e combater ativamente a sua influência interna e externamente, promovendo um eficaz relacionamento com jornalistas dos principais jornais, dirigentes sindicais, etc. Datam desse tempo os seus primeiros textos sobre a União Soviética. Holodomor nem é a grafia correta, e sim haladamor ou golodomor, mas colocaram holodo- para parecer-se com o holocausto e assim difamar a URSS. Não morreram 4 milhões de cazaques pela fome, já que o número de cazaques na época era 3,9 milhões. Muitos fugiram e se tornaram indetectáveis. As estimativas reais são de apenas quase 2 mil mortes.
+
+Robert Conquest, para escrever seu livro, teve como ajudante James Mace que, assim como  Nicolas Werth (organizador do "Livro negro do comunismo”), adotaram um método estatístico cientificamente falho criado por Dushnyck para "medir" a quantidade de mortos na fome de 1931-32. O método de Dushnyck pode ser avaliado pelo seguinte trecho de seu livro:
+>Tomando os dados do censo de 1926 e os do censo de 1939 e a média de aumento [da população] antes da coletivização (2.36% ao ano), podemos calcular que a Ucrânia perdeu 7 milhões e 500 mil pessoas entre os dois censos.
+
+Logo, ele conclui, aleatóriamente, que esses seriam os mortos de fome entre 1932 e 1933. Não tem provas, apenas convicções. O método de Dushnyck tem outras falhas:
+1) Ignora que uma parte da população que no censo de 1926 era classificada como ucraniana – cerca de 2 a 3 milhões de cossacos – foi, no censo de 1939, reclassificada como russa, pela simples razão de que viviam da Rússia e não na Ucrânia.
+2) Pressupõe que, entre 1926 e 1939 ninguém morreu de outra causa que não a fome, como frio, pneumonia, velhice, etc.
+3) Ignora que na URSS e outros países, durante esse período, ocorreram duas grandes epidemias tifo (200.000 casos) e malária (6 milhões de casos), ambas sem tratamento conhecido na época, além de consumo de trigo infectada pela ferrugem conduzindo sintomas similares à fome, micotoxicose e a morte.
+4) Pressupõe que o número de mulheres na idade reprodutiva e com vida sexual ativa tivesse se mantido inalterado no período.
+5) Ignora as mortes na guerra e as quedas nas taxas de natalidade e fecundidade entre 1914 (início da I Guerra Mundial) e 1921 (fim da Guerra Civil).
+6) Pressupõe que a taxa de natalidade permaneceu constante durante os 13 anos em que a URSS passou por uma extraordinária transformação, com industrialização pesada sendo realizada, a reforma agrária por meio da coletivização da agricultura além da preparação da defesa do país para a guerra, passos indispensáveis para a construção do socialismo.
+
+Ou seja, pelo método de Dushnyck, adotado por outros autores como Robert Conquest e Nicolas Werth, a transformação da União Soviética, de país agrário a potencia industrial, bem com a passagem pela Guerra Civil (1918-1921) e pela Segunda Guerra Mundial (1939-1945) não teriam afetado a taxa de natalidade. Em conseqüência dessa falha metodológica pessoas que nunca nasceram foram considerados mortas em genocídio que nunca se provou. Pois a taxa de natalidade, evidentemente, caiu entre 1926 e 1939 – e caiu significativamente. Segundo Dushynck e os seguidores de seu método, teriam morrido 10 milhões de pessoas na fome de 1931-1932. Todavia, Rússia, Ucrânia e muitos países do mundo, até meados do século XX, quando se consolidou a chamada "Revolução Verde", enfrentavam crises periódicas de fome.
+
+Entre 1891 e 1892, no Império Russo, governado pelo czarismo, a fome matou entre 13 e 35 milhões de pessoas, em decorrência, além das técnicas precárias de cultivo, do rigoroso inverno no qual as temperaturas chegaram a -31º C.
 
 [Alexander Dallin](https://creees.stanford.edu/events/alexander-dallin-lecture-russian-east-european-and-eurasian-affairs), da Universidade de Stanford, escreve:
 >Não há provas de que foi intencionalmente dirigido contra os ucranianos... isso estaria totalmente em desacordo com o que sabemos - não faz sentido.
@@ -1052,14 +1114,127 @@ Talvez a acusação mais perniciosa contra Stalin seja que ele orquestrou a terr
 Pesquisas mais recentes descobriram causas naturais para a fome na Ucrânia. Notas de Tauger:
 >...a URSS experimentou um desastre ambiental incomum em 1932: clima extremamente úmido que deu origem a graves infestações de doenças de plantas, especialmente ferrugem. A Ucrânia teve o dobro ou o triplo das chuvas normais em 1932. Tanto as condições climáticas quanto a ferrugem se espalharam do Leste Europeu, como documentaram os fitopatologistas da época. Patologistas de plantas soviéticos, em particular, estimaram que a ferrugem e outras doenças fúngicas reduziram a colheita potencial em 1932 em quase nove milhões de toneladas, que é a maior perda de colheita documentada por qualquer causa na história soviética.
 
+Anna Louise Strong diz:
+>PERGUNTA: É verdade que durante 1932-33 vários milhões de pessoas morreram de fome na Ucrânia e no Norte do Cáucaso porque eram politicamente hostis aos soviéticos?
+>
+>RESPOSTA: Não é verdade. Visitei vários lugares nessas regiões durante esse período. Houve uma séria escassez de grãos na safra de 1932 devido principalmente às ineficiências do período organizacional da nova agricultura mecanizada em grande escala entre os camponeses não acostumados com as máquinas. A isso foi adicionada a sabotagem por kulaks despossuídos, a saída das fazendas por 11 milhões de trabalhadores que foram para novas indústrias, o efeito cumulativo da crise mundial em deprimir o valor das exportações agrícolas soviéticas e uma seca em cinco regiões de grãos básicos em 1931 .
+>
+>A colheita de 1932 foi melhor do que a de 1931, mas não foi toda colhida; por conta de promessas superotimistas dos distritos rurais, Moscou descobriu a situação real apenas em dezembro, quando uma quantidade considerável de grãos estava sob a neve.
+
+Não foi um genocídio:
+- A maioria dos administradores governamentais da URSS eram Ucrânianos étnicos.
+- Ucrânia era uma área multiétnica.
+- O governo soviético deu um total de 13.000.000 para os cuidados de saúde e sistemas sociais Ucranianos entre 1929 e 1934.
+
+Em 1987, Hans Blumenfeld ressalta:
+>em 1920, quando a NEP foi implementada e a União Soviética passou do comunismo de guerra para um estágio temporário onde existia um mercado livre, as temidas consequências do mercado tornaram-se evidentes. Apesar da reforma agrária anterior, quase 3 milhões de camponeses, rapidamente ficaram novamente sem terra, porque os kulaks os levaram à falência e compraram suas terras por um preço baixo. Isso resultou em 10 ou 11 por cento da população (kulaks) possuindo tanta terra e também cavalos e maquinários em comparação com o resto da população camponesa que eles produziram 56 por cento dos alimentos comercializados. Em grande parte, os kulaks decidiriam se as cidades receberiam alimentos ou não. A especulação de Kulak no mercado de alimentos causou uma escassez já em 1927, quando a parcela de grãos comercializada era de apenas um terço dos anos anteriores à guerra, embora a produção tivesse excedido os números anteriores à guerra. Essa ineficácia foi o que deu início à ideia de coletivização, com Lenin escrevendo a ideia básica antes de sua morte e Stalin elaborando os planos e implementando-os. Entre as muitas ações do programa de coletivização estava o confisco de terras agrícolas e das máquinas e animais que estavam sobre elas (propriedade privada, NÃO propriedade pessoal). No entanto, houve alguns problemas;
+>
+>“A coletivização não foi um processo ordenado, seguindo regras burocráticas. Consistia em ações dos camponeses pobres, incentivados pelo Partido. Os camponeses pobres estavam ansiosos para expropriar os “kulaks”, mas menos ansiosos para organizar uma economia cooperativa. Em 1930 o Partido já havia enviado quadros para conter e corrigir os excessos ... Depois de ter exercido a contenção em 1930, o Partido voltou a se movimentar em 1932. Como resultado, naquele ano a economia kulak deixou de produzir, e o novo coletivo economia ainda não produzia totalmente.
+
+Neste período, houve o dilúvio do rio Volga, incêndios florestais, seca e os administradores da RSSC e a RSSU não denunciaram o mal gerenciamento dos bens coletivos na época, o que complicou a reação do governo central, então eles continuaram exportando normalmente a quantidade de colheitas.
+
+O governo do Stalin reagiu:
+- Investindo nos sistemas de saúde afetados;
+- Importando e distribuindo colheitas;
+- Desenvolvendo e melhorando o sistema Sovkhoz.
+
+Em The Stalin Era, Anna comenta sobre o fim da fome:
+>A conquista do pão foi alcançada naquele verão, uma vitória arrebatada de um grande desastre. A safra de 1933 superou a de 1930, que até então detinha o recorde. Desta vez, o novo recorde não foi feito por uma explosão de semi-organizados entusiasmo, mas por eficiência crescente e organização permanente... Esta cooperação nacional venceu a seca de 1934, garantindo uma safra total para a URSS igual ao máximo de todos os tempos de 1933.
+
+>O Bureau Político acredita que a escassez de grãos na Ucrânia é muitas vezes pior do que o que foi descrito no telegrama do camarada Kosior; portanto, o Bureau Político recomenda que o Comitê Central do Partido Comunista da Ucrânia tome todas as medidas ao seu alcance para evitar a ameaça de não semear [safras] na Ucrânia.
+>
+><cite>Assinado: Secretário do Comitê Central - J. STALIN Do Arquivo do Presidente da Federação Russa. Fond 3, Record Series 40, File 80, Page 58.</cite>
+
 Deve-se notar que isso não isenta o Estado soviético de toda e qualquer responsabilidade pelo sofrimento ocorrido; pode-se acusar o governo de resposta insuficientemente rápida e observar que os relatórios iniciais costumam ser minimizados para evitar balançar o barco. Mas está claro que a fome não foi deliberada, não foi um genocídio e (para citar Tauger) "não foi fundamentalmente ou exclusivamente causada pelo homem".
 
-### Conclusão sobre a URSS
-Durante seu período socialista, a União Soviética fez algumas das conquistas mais impressionantes da história moderna. O sistema socialista transformou uma nação de camponeses analfabetos e famintos em uma superpotência, com uma das economias de crescimento mais rápido da Terra, uma das populações mais educadas e saudáveis do mundo e algumas das conquistas industriais e tecnológicas mais impressionantes até hoje . Forneceu um modelo a ser seguido pelos oprimidos do mundo, como foi mostrado na China, Cuba, Vietnã e muitas outras nações.
+Fontes:
+- [A “grande fome” na Ucrânia (Holodomor): um dos maiores mitos do século XX](https://andrezasantana-11112.medium.com/a-grande-fome-na-ucr%C3%A2nia-holodomor-um-dos-maiores-mitos-do-s%C3%A9culo-xx-22b1be62d6b6)
+- [What about Stalin, the purges, the holodomor, etc? A revleft podcast.](https://revolutionaryleftradio.libsyn.com/joseph-mother-fucking-stain)
+- [Fraud, Famine and Fascism by Doug Tottle](http://rationalrevolution.net/special/library/tottlefraud.pdf)
+- [The 1932 Harvest and the Famine of 1933 by Mark Tauger](https://drive.google.com/file/d/0B-eTgjCs2lzpQllPVzQ2UFd3aWM/view?usp=sharing)
+- [Natural Disaster and Human Actions in the Soviet Famine of 1931-1933 by Mark Tauger](https://drive.google.com/file/d/0B-eTgjCs2lzpNExnSEVhMjBLRlE/view?usp=sharing)
+- [The Years of Hunger: Soviet Agriculture, 1931-1933 by Davies and Wheatcroft](http://gen.lib.rus.ec/book/index.php?md5=32DAA2871728468189A57E0233492A3A)
+- [Lies concerning the History of the Soviet Union by Mario Sousa](http://www.mariosousa.se/LiesconcerningthehistoryoftheSovietUnion.html)
+- [The Soviet famine of 1932-1933 reconsidered](http://www.tandfonline.com/doi/abs/10.1080/09668130801999912)
+- [Archive of writings of Professor Mark Tauger on the famine scourges of the early years of the Soviet Union](https://www.newcoldwar.org/archive-of-writings-of-professor-mark-tauger-on-the-famine-scourges-of-the-early-years-of-the-soviet-union/)
+- [Blood Lies by Grover Furr](http://www.readmarxeveryday.ml/bloodlies/index.html)
+- [Pages 95-111 of Another View of Stalin by Ludo Martens - Collectivization and the ‘Ukrainian Holocaust’](https://stalinsocietypk.files.wordpress.com/2013/05/another-view-of-stalin1.pdf)
+- [J Arch Getty reviews “Harvest of Sorrow”](https://www.lrb.co.uk/v09/n02/j-arch-getty/starving-the-ukraine)
+- [Mark Tauger reviews The Years of Hunger by Davies and Wheatcroft](https://eh.net/book_reviews/the-years-of-hunger-soviet-agriculture-1931-1933/)
+- [Stop spreading Nazi propaganda: on Holodomor](https://socialistmlmusings.wordpress.com/2017/02/15/stop-spreading-nazi-propaganda/)
+- [The Holodomor Hoax: Joseph Stalin’s crime that never took place](http://www.greanvillepost.com/2015/08/10/the-holodomor-hoax-joseph-stalins-crime-that-never-took-place/)
+- [Real Stalin series: famine of 1932](https://espressostalinist.com/the-real-stalin-series/famine-of-1932/)
+- [In search of a Soviet Holocaust: A 55 year old famine feeds the Right](https://msuweb.montclair.edu/~furrg/vv.html)
+- [The Ukrainian famine: only evidence can disclose the truth](https://www.counterpunch.org/2017/03/31/the-ukrainian-famine-only-evidence-can-disclose-the-truth/)
+- [The “Holodomor” and the film “Bitter Harvest” are Fascist lies](https://www.counterpunch.org/2017/03/03/the-holodomor-and-the-film-bitter-harvest-are-fascist-lies/)
+- [Holodomor Hoax: the anatomy of a lie invented by West’s propaganda machine](https://sputniknews.com/politics/201510191028730561-holodomor-hoax-invented-hitler-west)
+- [The famine of 1932-33 in Ukraine the eyes of historians, the language of documents](http://www.archives.gov.ua/Sections/Famine/Publicat/Fam-Pyrig-1932.php)
+- [How many people did Joseph Stalin really kill?](https://anti-imperialism.org/2016/02/16/how-many-people-did-joseph-stalin-really-kill/)
+- [Evidence that Stalin was unaware of conditions in the Ukraine and tried to relieve the situation when he was informed](http://www.stalinsociety.org/2015/10/03/fighting-the-holodomor-myth-archival-evidence-that-stalin-was-unaware-of-conditions-in-the-ukraine-and-tried-to-relieve-the-situation-when-he-was-informed/)
+- [Why the Holodomor narrative is wrong](https://www.youtube.com/watch?v=mUEi7v2TMpQ)
+- [Holodomor series - part 1 - fraudulent photos](https://www.youtube.com/watch?v=QzXFXdOz_8Q)
+- [Food shortages and problems in the USSR](https://www.youtube.com/watch?v=NUO7_SiJCpw)
+- [Did Stalin continue to export grain as Ukraine starved?](https://youtu.be/SMBJ_nQ4sTA)
+- [Famines are always because of Communism](https://i.redd.it/j22mvokwzo1z.jpg)
+- [Soviet Agriculture, 1977](https://archive.org/details/SovietAgricultureMorozov)
+
+Também recomendo a leitura dos livros **Stalin: um novo olhar** de Ludo Martens, **Stalin: a história crítica de uma lenda negra** de Domenico Losurdo e **Um Stalin desconhecido** pela família Medvedev (que é liberal e anti-stalin, mas rejeita a narrativa mitíca que se tem sobre Stalin). Também recomendo o prof. Mark Tauger é um dos pesquisadores mais respeitados do mundo no tema história da agricultura soviética,  prof. Annie Lacroix-Riz, acadêmica da universidade Paris VII - Denis Diderot, que defende ser o "holodomor" um cavalo de batalha anticomunista.
+
+#### As gulags
+Toda a retórica que se vê hoje sobre gulags partem do livro de caráter sensacionalista, beirando a ficção, "Arquipélago Gulag", mas ok, vamos aos fatos:
+1. Gulag era um nome de sistema prisional
+2. Gulags não foram feitas por Lenin ou Stalin, e sim pelo czar
+3. A grande maioria das pessoas no Gulag eram criminosos condenados, não prisioneiros políticos
+4. Os presos políticos incluíam conspiradores contra o governo. Houveram conspirações contra o governo por trotskistas, direitistas e muitos oficiais militares.
+5. A maior parte das pessoas que entraram na gulag, saíram vivas
+6. O relato de Solzhenitsyn sobre o Gulag foi altamente ficcional. O estado real do Gulag dependia do nível de segurança envolvido, da gravidade da ofensa, da turma de trabalho e, em muitos casos, da personalidade dos funcionários da prisão. Isso é típico da vida na prisão em qualquer lugar. Alguns guardas são sádicos, outros não.
+7. Apenas uma pequena porcentagem da população soviética estava na Gulag.
+8. Os prisioneiros eram pagos. Recompensas e bônus dados por trabalho duro.
+
+Com isso, podemos fazer a síntese de que era um sistema totalmente complexo, e nenhuma gulag era igual à outra, elas eram diferentes com bases nas necessidades e realidades materiais de cada região. Recomendo os escritos sobre as gulags de Stalin, são bem complexas -- melhor que a proposta de Trotsky que até hoje quem lê entende umas 5 coisas diferentes, não cumpria com as demandas e realidade soviética e por isso não foi escolhida pelo povo.
+
+Na década de 50, a CIA analisou todo o caso das gulags secretamente e concluiu que:
+1. Até 1952, os presos recebiam comida em quantidade garantida, além de comida extra pelo cumprimento excessivo das cotas
+2. De 1952 em diante, o sistema Gulag operou com "responsabilidade econômica" de forma que quanto mais os prisioneiros trabalhavam, mais eles eram pagos.
+3. Cumprindo as normas em 105%, um dia de sentença era contado como dois, reduzindo assim o tempo gasto no Gulag em um dia a cada dia.
+4. Além disso, por causa da reconstrução socialista pós-guerra, o governo soviético tinha mais fundos e então aumentou o suprimento de comida dos prisioneiros.
+5. Até 1954, os presos trabalhavam 10 horas por dia, enquanto os trabalhadores 8 horas por dia. De 1954 em diante, tanto prisioneiros quanto trabalhadores trabalhavam 8 horas por dia.
+6. Um estudo da CIA de um campo de amostragem mostrou que 95% dos prisioneiros eram criminosos tradicionais.
+7. Em 1953, a anistia foi concedida a 70% dos "criminosos comuns" de um campo de amostragem estudado pela CIA. Nos 3 meses seguintes, a maioria deles foi presa novamente por cometer novos crimes.
+
+Paper da CIA: https://www.cia.gov/readingroom/docs/CIA-RDP80T00246A032000400001-1.pdf
+
+O trabalho, no entanto, realmente era forçado, mas era remunerado. Pagos a partir de 1952 e pagos com mais comida antes de 1952. De acordo com as fantasias burguesas, o “regime” soviético procurou deliberadamente matar de fome as populações do Gulag. No entanto, na verdade, houve esforços soviéticos para aumentar o suprimento de alimentos dos prisioneiros, após a Segunda Guerra Mundial.
+
+Em Triumph of Evil, p. 77-78:
+>Como os mitos de milhões de execuções, os contos de fadas de que Stalin fez com que dezenas de milhões de pessoas fossem presas e permanentemente lançadas em prisões ou campos de trabalho forçados para morrer no intervalo 1930-1953 (Conquest, 1990) parecem ser falsos. Em particular, os arquivos soviéticos indicam que o número de pessoas em prisões, gulags e campos de trabalho soviéticos nas décadas de 1930, 1940 e 1950 era em média de 2 milhões, dos quais 20-40% eram libertados a cada ano, (Getty, Rittersporn, e Zemskov, 1993). Essa média, que inclui anos desesperadores da Segunda Guerra Mundial, é semelhante ao número de presos nos Estados Unidos na década de 1990 (Catalinotto, 1998a) e é apenas ligeiramente maior como porcentagem da população. Deve-se notar também que a taxa anual de mortalidade da população soviética internada era de cerca de 4%, o que incorpora o efeito das execuções de prisioneiros (Getty, Rittersporn e Zemskov, 1993). Excluindo os desesperados anos da Segunda Guerra Mundial, a taxa de mortalidade nas prisões, gulags e campos de trabalho soviéticos era de apenas 2,5% (Getty, Ritterspom e Zemskov, 1993), que é ainda inferior à média dos cidadãos "livres" capitalistas Rússia sob o czar em tempo de paz em 1913 (Wheatcroft, 1993). Esta descoberta não é muito surpreendente, dado que cerca de 1/3 das pessoas confinadas nem sequer eram obrigadas a trabalhar (Bacon, 1994), e dado que a semana de trabalho máxima era de 84 horas, mesmo nos campos de trabalho soviéticos mais difíceis durante o período mais desesperador anos de guerra (Rummel, 1990). A última semana de trabalho máxima (e incomum) na verdade se compara favoravelmente às semanas de trabalho de 100 horas que existiam mesmo para crianças "gratuitas" de 6 anos durante o tempo de paz na revolução industrial capitalista (Marx e Engels, 1988b), embora possa parecer alto em comparação com a jornada de 7 horas trabalhada pelo típico cidadão soviético sob Stalin (Davies, 1997). Além disso, também deve ser mencionado que a maioria das prisões sob Stalin foram motivadas por uma tentativa de erradicar crimes civis como banditismo, roubo, uso indevido de cargo público para ganho pessoal, contrabando e estelionatos, com menos de 10% de as prisões durante o governo de Stalin foram por motivos políticos ou questões de polícia secreta (Getty, Ritterspom e Zemskov, 1993). Os arquivos soviéticos revelam muito mais dissidência política permitida na União Soviética de Stalin (incluindo uma quantidade generalizada de críticas às políticas governamentais individuais e aos líderes locais) do que normalmente se percebe no Ocidente (Davies, 1997). Dado que a polícia regular, a polícia política ou secreta, os guardas prisionais, algumas tropas da guarda nacional e os bombeiros (que estavam no mesmo ministério da polícia) representavam apenas 0,2% da população soviética sob Stalin (Thurston, 1996), grave a repressão teria sido impossível mesmo se a União Soviética quisesse exercê-la. Em comparação, os EUA hoje têm muitas vezes mais policiais como porcentagem da população (cerca de 1%, sem mencionar guardas prisionais, tropas da guarda nacional e bombeiros incluídos nos números usados ​​para calcular a proporção muito menor de 0,2% para os soviéticos União).
+
+Também:
+>Comecemos com a questão da natureza do sistema penal soviético. Depois de 1930, o sistema penal soviético incluiu prisões, campos de trabalho, as colônias de trabalho do gulag, zonas abertas especiais e obrigação de pagar multas. Quem quer que fosse detido em prisão preventiva era geralmente enviado para uma prisão normal enquanto ocorriam as investigações para estabelecer se ele era inocente e, portanto, poderia ser posto em liberdade ou se deveria ir a julgamento. Um acusado em julgamento pode ser considerado inocente (e posto em liberdade) ou culpado. Se for considerado culpado, ele poderá ser condenado a pagar multa, pena de prisão ou, o que é mais incomum, ser executado. Uma multa pode ser uma determinada porcentagem de seu salário por um determinado período de tempo. Os condenados a penas de prisão podem ser colocados em diferentes tipos de prisão, dependendo do tipo de crime envolvido.
+>
+>Para os campos de trabalho do gulag foram enviados aqueles que cometeram crimes graves (homicídio, roubo, estupro, crimes econômicos, etc.), bem como uma grande proporção dos condenados por atividades contra-revolucionárias. Outros criminosos condenados a penas superiores a 3 anos também podem ser enviados para campos de trabalho forçado. Depois de passar algum tempo em um campo de trabalhos forçados, um prisioneiro pode ser movido para uma colônia de trabalho ou para uma zona aberta especial.
+>
+>Os campos de trabalho eram áreas muito grandes onde os prisioneiros viviam e trabalhavam sob estreita supervisão. Para eles, trabalhar e não ser um fardo para a sociedade era obviamente necessário. Nenhuma pessoa saudável sobreviveu sem trabalhar. É possível que hoje em dia as pessoas pensem que isso foi uma coisa terrível, mas é assim que as coisas são. O número de campos de trabalhos forçados existentes em 1940 era de 53.
+>
+>Havia 425 colônias de trabalho de gulag. Essas unidades eram muito menores do que os campos de trabalho, com um regime mais livre e menos supervisão. Para eles, foram enviados prisioneiros com penas de prisão mais curtas - pessoas que cometeram crimes menos graves ou crimes políticos. Trabalhavam em liberdade nas fábricas ou no campo e faziam parte da sociedade civil. Na maioria dos casos, todo o salário que recebia com seu trabalho pertencia ao prisioneiro, que, a esse respeito, era tratado da mesma forma que qualquer outro trabalhador.
+>
+>As zonas abertas especiais eram geralmente áreas agrícolas para aqueles que haviam sido exilados, como os kulaks que foram expropriados durante a coletivização. Outras pessoas consideradas culpadas de delitos criminais ou políticos menores também podem cumprir suas penas nessas áreas.
+
+Fontes:
+- [Another View of Stalin (section on the Gulag)](https://stalinsocietypk.files.wordpress.com/2013/05/another-view-of-stalin1.pdf)
+- [Solzhenitsyn's Archipelago of Lies (1974 scanned book)](https://archive.org/details/ArchipelagoOfLies)
+- [The Soviet Union had a progressive penal system](https://espressostalinist.com/the-real-stalin-series/gulag/)
+- [Re-education?](http://moufawad-paul.blogspot.com/2012/03/re-education.html)
+- [Lies concerning the history of the Soviet Union](http://www.northstarcompass.org/nsc9912/lies.htm)
+- [The Gulag archipelago shouldn’t be taken seriously](https://mltheory.wordpress.com/2017/05/08/the-gulag-archipelago-shouldnt-be-taken-seriously/)
+- [Original documents on the death rate of prisoners in the Gulag system 1930-1956](http://www.alexanderyakovlev.org/fond/issues-doc/1009320)
+- [Victims of the Soviet Penal System in the Pre-War Years: a first approach on the basis of archival evidence (by J. Arch Getty, Gábor T. Rittersporn, Viktor N. Zemskov)](http://www.cercec.fr/materiaux/doc_membres/Gabor%20RITTERSPORN/Victims%20of%20the%20Gulag.pdf)
+- [What were the chances to be sent to the Gulag?](http://www.northstarcompass.org/nsc0901/gulag.htm)
 
 ### Trabalhadores na União Soviética
 Uma das alegações mais comuns levantadas contra a URSS (e os estados socialistas em geral) por anticomunistas de esquerda é que não era "socialismo real", porque os trabalhadores não tinham controle direto sobre a produção. Essa afirmação pode ser encontrada nos escritos de Noam Chomsky, Murray Bookchin, Alexander Berkman, Emma Goldman e vários outros esquerdistas anti-soviéticos. Alega-se que os ganhos indiscutíveis obtidos pela classe trabalhadora nos estados socialistas (como [grandes melhorias em sua saúde e bem-estar](https://journals.sagepub.com/doi/abs/10.2190/B2TP-3R5M-Q7UP-DUA2)) são irrelevantes, porque essas revoluções foram "burocráticas" e, portanto, ilegítimas.
 
+#### Participação do trabalhador no local de trabalho
 Ao discutir este tópico, é útil começar no nível do local de trabalho individual. O professor Robert Thurston (Miami University em Ohio) afirma que "nos níveis mais baixos da sociedade, nos assuntos do dia-a-dia e na implementação de políticas, [o sistema soviético] era participativo". Ele observa que os trabalhadores eram frequentemente incentivados a participar da tomada de decisões:
 >O regime regularmente instava seu povo a criticar as condições locais e seus líderes, pelo menos abaixo de um certo nível exaltado. Por exemplo, em março de 1937, Stalin enfatizou a importância dos "laços do partido com as massas". Para mantê-los, era necessário "ouvir atentamente a voz das massas, a voz dos membros da base do partido, a voz dos chamados 'pequenos', a voz do povo comum".
 
@@ -1082,7 +1257,7 @@ Ele também observa que "não existia nenhuma divisão nítida entre o Estado e 
 
 Em suma, embora a União Soviética tivesse elementos autoritários (como era inevitável dadas as condições; a URSS havia sido devastada pela guerra civil e invadida por várias nações capitalistas), havia também um forte elemento de controle dos trabalhadores, dando à URSS uma reivindicação legítima de ser um Estado operário.
 
-### Participação política na URSS
+#### Participação política na URSS
 Os trabalhadores não tinham apenas o direito de participar na tomada de decisões no local de trabalho; eles também tinham voz nas decisões de política nacional. O professor [Kazuko Kawamoto](https://researchmap.jp/read0148263/?lang=english) (Universidade Hitotsubashi) afirma que a URSS tinha "uma face mais democrática do que normalmente se imagina, especialmente entre os ocidentais". Como eles dizem:
 >O regime soviético era democrático em seu próprio sentido da palavra... a participação por meio do envio de cartas e da participação em discussões deu ao autogoverno uma certa realidade e ajudou a legitimar o regime soviético. Portanto, ouvir as pessoas era uma obrigação importante para as autoridades... o governo incentivou as pessoas a enviarem cartas às autoridades e usou ativamente as discussões de todas as pessoas.
 
@@ -1126,95 +1301,8 @@ Fontes:
 - [International Council for Central and East European Studies | Reassessing the History of Soviet Workers: Opportunities to Criticize and Participate in Decision-Making, 1935-1941](https://www.docdroid.net/t9gG4jQ/thurston-robert-reassessing-the-history-of-soviet-workers-opportunities-to-criticize-and-participate-in-decision-making.pdf)
 - [Japanese Political Science Review | Rethinking Soviet Democracy](http://jpsa-web.org/eibun_zassi/data/pdf/JPSA_Kawamoto_final_July_9_2014.pdf)
 
-## A teoria da conspiração do Holodomor
-A fome de 1931-1932, não foi causada pelo Estado soviético, nem foi planejada ou premeditada por Stalin. Primeiro, porque não morreram apenas ucranianos, mas também russos, bielorrussos e cazaques. Os camponeses ricos da Ucrânia, que exploravam a mão de obra  do campesinato local, opondo-se à coletivização. Os próprios kulaks, que haviam enriquecido com a NEP de Lenin, recusaram-se a colher os frutos e grãos, principalmente depois que muitos camponeses sem-terra optaram por migrar para outras regiões da União Soviética, trabalhando em fazendas coletivas (as kolkhoses), em vez de ficar naquela região, sendo explorados, fora que quando o preço dos grãos caiam, eles faziam açambarcamento das mercadorias e se recusavam a vendê-los, a URSS não podia continuar se submetendo às vontades do livre-mercado, senão ocorreria outra crise das tesouras. Grupos de extrema-direita anti-comunistas, como a Organização Militar Ucraniana, atearam fogo nas suas plantações, atiraram nos rebanhos, matando animais, visando sabotar o processo de coletivização. Haviam, à época, 10 milhões de “kulaks”, para uma população camponesa total de 120 milhões de pessoas. Cerca de 1 milhão e 800 mil deles, por causa da pressão dos kulaks, optaram por migrar. Toda mentira sobre o Holodomor começou quando William Randolph Hearst, magnata da imprensa estadunidense, conhecido antes da Segunda Guerra como "o fascista nº1 da América", viajou para Alemanha em 1934, cerca de 1 ano depois da ascensão de Hitler ao poder. Nessa viagem ele travou contato principalmente com Alfred Rosenberg, ideólogo do Partido Nazista, que, terminada a Segunda Guerra (1945), acabou  julgado e executado no Tribunal de Nuremberg por crimes contra a humanidade. No ano seguinte à viagem (1935), os jornais de Hearst começaram a espalhar a farsa do “holocausto ucraniano”. Hearst havia começado sua vida como empresário em 1887 após assumir o controle do jornal The San Francisco Examiner, que era do seu pai.
-
-Se mudando para Nova Iorque, ele comprou o The New York Journal e criou então a noção de "imprensa marrom", sendo por isso considerado "o pai do sensacionalismo". Neste ínterim, entrou em uma guerra de negócios com Joseph Pulitzer, dono do New York World. Porém, foi Walter Dushnyck, um colaborador dos nazistas e terrorista da “Organização Militar Ucraniana” (que apoiou os nazistas quando estes ocuparam parte da Ucrània em 1941), o homem por trás da farsa. Dushnyck refugiou-se nos EUA após a II Guerra. Dushnyck publicou o livro "50 anos atrás: o Holocausto de Fome na Ucrânia" (50 Years Ago: The Famine Holocaust in Ukraine, 1983), um panfleto repleto de referências nazistas, incluindo a capa, como uma caveira branca sob uma foice e um martelo vermelhos. Este livro continha as fotos do "genocídio ucraniano” publicadas originalmente no jornal de Hitler, o “Völkischer Beobachter” e nos de seu apoiador americano, William Randolph Hearst (cuja vida inspirou o filme Cidadão Kane). Cabe lembrar que Hearst tinha estreita relação com o senador  Joseph McCarthy, sendo um dos nomes fortes por trás do movimento de  "caça  aos comunistas" iniciado por ele na década de 1950, no que ficou conhecido como Macarthismo. Por meio do Comitê de Atividades Anti-Americanas, McCarthy liderou um comitiva inquisitorial que perseguiu qualquer que tivesse a mínima conexão com o marxismo, como o roteirista Dalton Trumbo, os diretores Edward Dmytryk, John Huston, além de Orson Welles (que Hearst fez de tudo para derrubar quando este lançou Cidadão Kane), e dos atores Humphrey Bogart, Lauren Bacall, Gregory Peck, Katharine Hepburn, Kirk Douglas, Burt Lancaster, Gene Kelly e até mesmo Frank Sinatra. Outro responsável por disseminar essas mentiras sobre a URSS foi o escritor Robert Conquest (homenageado por George W. Bush), nos livros O Grande Terror (The Great Terror, 1968) e Colheita Amarga (The Harvest of Sorrow, 1986). O que poucos sabem é que Conquest trabalhou até meados da década de 50 para o Information Research Department (Departamento de Pesquisa de Informação), um organismo secreto do Foreign Office (Ministério dos Negócios Estrangeiros) criado em 1948 pelo governo britânico para estudar o comunismo e combater ativamente a sua influência interna e externamente, promovendo um eficaz relacionamento com jornalistas dos principais jornais, dirigentes sindicais, etc. Datam desse tempo os seus primeiros textos sobre a União Soviética. Holodomor nem é a grafia correta, e sim haladamor ou golodomor, mas colocaram holodo- para parecer-se com o holocausto e assim difamar a URSS. Não morreram 4 milhões de cazaques pela fome, já que o número de cazaques na época era 3,9 milhões. Muitos fugiram e se tornaram indetectáveis. As estimativas reais são de apenas quase 2 mil mortes.
-
-Robert Conquest, para escrever seu livro, teve como ajudante James Mace que, assim como  Nicolas Werth (organizador do "Livro negro do comunismo”), adotaram um método estatístico cientificamente falho criado por Dushnyck para "medir" a quantidade de mortos na fome de 1931-32. O método de Dushnyck pode ser avaliado pelo seguinte trecho de seu livro:
->Tomando os dados do censo de 1926 e os do censo de 1939 e a média de aumento [da população] antes da coletivização (2.36% ao ano), podemos calcular que a Ucrânia perdeu 7 milhões e 500 mil pessoas entre os dois censos.
-
-Logo, ele conclui, aleatóriamente, que esses seriam os mortos de fome entre 1932 e 1933. Não tem provas, apenas convicções. O método de Dushnyck tem outras falhas:
-1) Ignora que uma parte da população que no censo de 1926 era classificada como ucraniana – cerca de 2 a 3 milhões de cossacos – foi, no censo de 1939, reclassificada como russa, pela simples razão de que viviam da Rússia e não na Ucrânia.
-2) Pressupõe que, entre 1926 e 1939 ninguém morreu de outra causa que não a fome, como frio, pneumonia, velhice, etc.
-3) Ignora que na URSS e outros países, durante esse período, ocorreram duas grandes epidemias tifo (200.000 casos) e malária (6 milhões de casos), ambas sem tratamento conhecido na época, além de consumo de trigo infectada pela ferrugem conduzindo sintomas similares à fome, micotoxicose e a morte.
-4) Pressupõe que o número de mulheres na idade reprodutiva e com vida sexual ativa tivesse se mantido inalterado no período.
-5) Ignora as mortes na guerra e as quedas nas taxas de natalidade e fecundidade entre 1914 (início da I Guerra Mundial) e 1921 (fim da Guerra Civil).
-6) Pressupõe que a taxa de natalidade permaneceu constante durante os 13 anos em que a URSS passou por uma extraordinária transformação, com industrialização pesada sendo realizada, a reforma agrária por meio da coletivização da agricultura além da preparação da defesa do país para a guerra, passos indispensáveis para a construção do socialismo.
-
-Ou seja, pelo método de Dushnyck, adotado por outros autores como Robert Conquest e Nicolas Werth, a transformação da União Soviética, de país agrário a potencia industrial, bem com a passagem pela Guerra Civil (1918-1921) e pela Segunda Guerra Mundial (1939-1945) não teriam afetado a taxa de natalidade. Em conseqüência dessa falha metodológica pessoas que nunca nasceram foram considerados mortas em genocídio que nunca se provou. Pois a taxa de natalidade, evidentemente, caiu entre 1926 e 1939 – e caiu significativamente. Segundo Dushynck e os seguidores de seu método, teriam morrido 10 milhões de pessoas na fome de 1931-1932. Todavia, Rússia, Ucrânia e muitos países do mundo, até meados do século XX, quando se consolidou a chamada "Revolução Verde", enfrentavam crises periódicas de fome.
-
-Entre 1891 e 1892, no Império Russo, governado pelo czarismo, a fome matou entre 13 e 35 milhões de pessoas, em decorrência, além das técnicas precárias de cultivo, do rigoroso inverno no qual as temperaturas chegaram a -31º C.
-
-Não foi um genocídio:
-- A maioria dos administradores governamentais da URSS eram Ucrânianos étnicos.
-- Ucrânia era uma área multiétnica.
-- O governo soviético deu um total de 13.000.000 para os cuidados de saúde e sistemas sociais Ucranianos entre 1929 e 1934.
-
-Neste período, houve o dilúvio do rio Volga, incêndios florestais, seca e os administradores da RSSC e a RSSU não denunciaram o mal gerenciamento dos bens coletivos na época, o que complicou a reação do governo central, então eles continuaram exportando normalmente a quantidade de colheitas.
-
-O governo do Stalin reagiu:
-- Investindo nos sistemas de saúde afetados;
-- Importando e distribuindo colheitas;
-- Desenvolvendo e melhorando o sistema Sovkhoz.
-
-Complementares:
-- [A “grande fome” na Ucrânia (Holodomor): um dos maiores mitos do século XX](https://andrezasantana-11112.medium.com/a-grande-fome-na-ucr%C3%A2nia-holodomor-um-dos-maiores-mitos-do-s%C3%A9culo-xx-22b1be62d6b6)
-- [What about Stalin, the purges, the holodomor, etc? A revleft podcast.](https://revolutionaryleftradio.libsyn.com/joseph-mother-fucking-stain)
-- [Fraud, Famine and Fascism by Doug Tottle](http://rationalrevolution.net/special/library/tottlefraud.pdf)
-- [The 1932 Harvest and the Famine of 1933 by Mark Tauger](https://drive.google.com/file/d/0B-eTgjCs2lzpQllPVzQ2UFd3aWM/view?usp=sharing)
-- [Natural Disaster and Human Actions in the Soviet Famine of 1931-1933 by Mark Tauger](https://drive.google.com/file/d/0B-eTgjCs2lzpNExnSEVhMjBLRlE/view?usp=sharing)
-- [The Years of Hunger: Soviet Agriculture, 1931-1933 by Davies and Wheatcroft](http://gen.lib.rus.ec/book/index.php?md5=32DAA2871728468189A57E0233492A3A)
-- [Lies concerning the History of the Soviet Union by Mario Sousa](http://www.mariosousa.se/LiesconcerningthehistoryoftheSovietUnion.html)
-- [The Soviet famine of 1932-1933 reconsidered](http://www.tandfonline.com/doi/abs/10.1080/09668130801999912)
-- [Archive of writings of Professor Mark Tauger on the famine scourges of the early years of the Soviet Union](https://www.newcoldwar.org/archive-of-writings-of-professor-mark-tauger-on-the-famine-scourges-of-the-early-years-of-the-soviet-union/)
-- [Blood Lies by Grover Furr](http://www.readmarxeveryday.ml/bloodlies/index.html)
-- [Pages 95-111 of Another View of Stalin by Ludo Martens - Collectivization and the ‘Ukrainian Holocaust’](https://stalinsocietypk.files.wordpress.com/2013/05/another-view-of-stalin1.pdf)
-- [J Arch Getty reviews “Harvest of Sorrow”](https://www.lrb.co.uk/v09/n02/j-arch-getty/starving-the-ukraine)
-- [Mark Tauger reviews The Years of Hunger by Davies and Wheatcroft](https://eh.net/book_reviews/the-years-of-hunger-soviet-agriculture-1931-1933/)
-- [Stop spreading Nazi propaganda: on Holodomor](https://socialistmlmusings.wordpress.com/2017/02/15/stop-spreading-nazi-propaganda/)
-- [The Holodomor Hoax: Joseph Stalin’s crime that never took place](http://www.greanvillepost.com/2015/08/10/the-holodomor-hoax-joseph-stalins-crime-that-never-took-place/)
-- [Real Stalin series: famine of 1932](https://espressostalinist.com/the-real-stalin-series/famine-of-1932/)
-- [In search of a Soviet Holocaust: A 55 year old famine feeds the Right](https://msuweb.montclair.edu/~furrg/vv.html)
-- [The Ukrainian famine: only evidence can disclose the truth](https://www.counterpunch.org/2017/03/31/the-ukrainian-famine-only-evidence-can-disclose-the-truth/)
-- [The “Holodomor” and the film “Bitter Harvest” are Fascist lies](https://www.counterpunch.org/2017/03/03/the-holodomor-and-the-film-bitter-harvest-are-fascist-lies/)
-- [Holodomor Hoax: the anatomy of a lie invented by West’s propaganda machine](https://sputniknews.com/politics/201510191028730561-holodomor-hoax-invented-hitler-west)
-- [The famine of 1932-33 in Ukraine the eyes of historians, the language of documents](http://www.archives.gov.ua/Sections/Famine/Publicat/Fam-Pyrig-1932.php)
-- [How many people did Joseph Stalin really kill?](https://anti-imperialism.org/2016/02/16/how-many-people-did-joseph-stalin-really-kill/)
-- [Evidence that Stalin was unaware of conditions in the Ukraine and tried to relieve the situation when he was informed](http://www.stalinsociety.org/2015/10/03/fighting-the-holodomor-myth-archival-evidence-that-stalin-was-unaware-of-conditions-in-the-ukraine-and-tried-to-relieve-the-situation-when-he-was-informed/)
-- [Why the Holodomor narrative is wrong](https://www.youtube.com/watch?v=mUEi7v2TMpQ)
-- [Holodomor series - part 1 - fraudulent photos](https://www.youtube.com/watch?v=QzXFXdOz_8Q)
-- [Food shortages and problems in the USSR](https://www.youtube.com/watch?v=NUO7_SiJCpw)
-- [Did Stalin continue to export grain as Ukraine starved?](https://youtu.be/SMBJ_nQ4sTA)
-- [Famines are always because of Communism](https://i.redd.it/j22mvokwzo1z.jpg)
-
-Também recomendo a leitura dos livros **Stalin: um novo olhar** de Ludo Martens, **Stalin: a história crítica de uma lenda negra** de Domenico Losurdo e **Um Stalin desconhecido** pela família Medvedev (que é liberal e anti-stalin, mas rejeita a narrativa mitíca que se tem sobre Stalin). Também recomendo o prof. Mark Tauger é um dos pesquisadores mais respeitados do mundo no tema história da agricultura soviética,  prof. Annie Lacroix-Riz, acadêmica da universidade Paris VII - Denis Diderot, que defende ser o "holodomor" um cavalo de batalha anticomunista.
-
-## O mito das gulags
-Toda a retórica que se vê hoje sobre gulags partem do livro de caráter sensacionalista, beirando a ficção, "Arquipélago Gulag", mas ok, vamos aos fatos:
-1. Gulag era um nome de sistema prisional
-2. Gulags não foram feitas por Lenin ou Stalin, e sim pelo czar
-3. A grande maioria das pessoas no Gulag eram criminosos condenados, não prisioneiros políticos
-4. Os presos políticos incluíam conspiradores contra o governo. Houveram conspirações contra o governo por trotskistas, direitistas e muitos oficiais militares.
-5. A maior parte das pessoas que entraram na gulag, saíram vivas
-6. O relato de Solzhenitsyn sobre o Gulag foi altamente ficcional. O estado real do Gulag dependia do nível de segurança envolvido, da gravidade da ofensa, da turma de trabalho e, em muitos casos, da personalidade dos funcionários da prisão. Isso é típico da vida na prisão em qualquer lugar. Alguns guardas são sádicos, outros não.
-7. Apenas uma pequena porcentagem da população soviética estava na Gulag.
-8. Os prisioneiros eram pagos. Recompensas e bônus dados por trabalho duro.
-
-Com isso, podemos fazer a síntese de que era um sistema totalmente complexo, e nenhuma gulag era igual à outra, elas eram diferentes com bases nas necessidades e realidades materiais de cada região. Recomendo os escritos sobre as gulags de Stalin, são bem complexas -- melhor que a proposta de Trotsky que até hoje quem lê entende umas 5 coisas diferentes, não cumpria com as demandas e realidade soviética e por isso não foi escolhida pelo povo.
-
-Na década de 50, a CIA analisou todo o caso das gulags secretamente e concluiu que:
-1. Até 1952, os presos recebiam comida em quantidade garantida, além de comida extra pelo cumprimento excessivo das cotas
-2. De 1952 em diante, o sistema Gulag operou com "responsabilidade econômica" de forma que quanto mais os prisioneiros trabalhavam, mais eles eram pagos.
-3. Cumprindo as normas em 105%, um dia de sentença era contado como dois, reduzindo assim o tempo gasto no Gulag em um dia a cada dia.
-4. Além disso, por causa da reconstrução socialista pós-guerra, o governo soviético tinha mais fundos e então aumentou o suprimento de comida dos prisioneiros.
-5. Até 1954, os presos trabalhavam 10 horas por dia, enquanto os trabalhadores 8 horas por dia. De 1954 em diante, tanto prisioneiros quanto trabalhadores trabalhavam 8 horas por dia.
-6. Um estudo da CIA de um campo de amostragem mostrou que 95% dos prisioneiros eram criminosos tradicionais.
-7. Em 1953, a anistia foi concedida a 70% dos "criminosos comuns" de um campo de amostragem estudado pela CIA. Nos 3 meses seguintes, a maioria deles foi presa novamente por cometer novos crimes.
-
-Paper da CIA: https://www.cia.gov/readingroom/docs/CIA-RDP80T00246A032000400001-1.pdf
-
-O trabalho, no entanto, realmente era forçado, mas era remunerado. Pagos a partir de 1952 e pagos com mais comida antes de 1952. De acordo com as fantasias burguesas, o “regime” soviético procurou deliberadamente matar de fome as populações do Gulag. No entanto, na verdade, houve esforços soviéticos para aumentar o suprimento de alimentos dos prisioneiros, após a Segunda Guerra Mundial.
+### Conclusão sobre a URSS
+Durante seu período socialista, a União Soviética fez algumas das conquistas mais impressionantes da história moderna. O sistema socialista transformou uma nação de camponeses analfabetos e famintos em uma superpotência, com uma das economias de crescimento mais rápido da Terra, uma das populações mais educadas e saudáveis do mundo e algumas das conquistas industriais e tecnológicas mais impressionantes até hoje. Forneceu um modelo a ser seguido pelos oprimidos do mundo, como foi mostrado na China, Cuba, Vietnã e muitas outras nações.
 
 ## Mitos da guerra de inverno
 A Guerra de Inverno é o nome que se dá ao conflito finlandês-soviético entre 1939 e 1940, e a guerra de continuação de 1941 até 1944. No entanto, muitos acusam essas guerras como sendo parte do "imperialismo soviético", pois buscava conquistar e controlar territórios finlandeses. No entanto, a guerra ocorreu mais por motivos geopolíticos do que imperialistas.
