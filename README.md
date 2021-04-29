@@ -793,6 +793,9 @@ Vergonha do maldito czarismo que torturou e perseguiu os judeus. Vergonha para a
 Viva a confiança fraterna e a aliança combativa dos trabalhadores de todas as nações na luta pela derrubada do capital.
 
 Você pode conferir o discurso aqui https://www.youtube.com/watch?v=s7W8isFf86c
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/watch?v=s7W8isFf86c" frameborder="0" allowfullscreen="true"></iframe>
+</figure>
 
 ## A violência segundo Lenin
 Em uma carta, Gorky questiona Lenin sobre a violência do povo revolucionário ao defender o seu país na guerra cívil atacado por 17 potências reacionárias, e Lenin responde assim pra ele:
