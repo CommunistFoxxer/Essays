@@ -43,6 +43,10 @@
         * [A família britânica e o nazismo](#A-família-britânica-e-o-nazismo)
         * [O mito do massacre de Katyn](#O-mito-do-massacre-de-Katyn)
         * [Sobre os crimes de guerra do Exército Vermelho](#Sobre-os-crimes-de-guerra-do-Exército-Vermelho)
+        * [Mitos sobre o nazismo](#Mitos-sobre-o-nazismo)
+            * [O nazismo não era socialista](#O-nazismo-não-era-socialista)
+            * [Os nazistas não eram sociais-democratas](#Os-nazistas-não-eram-sociais-democratas)
+            * [Os nazistas não salvaram a Alemanha](#Os-nazistas-não-salvaram-a-Alemanha)
     * [Adam Smith concordava com Marx](#Adam-Smith-concordava-com-Marx)
     * [Mitos sobre Marx](#Mitos-sobre-Marx)
     * [A constituição soviética era respeitada](#A-constituição-soviética-era-respeitada)
@@ -1458,10 +1462,12 @@ Portanto, você pode ver as coisas desta forma: A União Soviética na verdade d
 Fontes:
 - [Interview of Geoffrey Roberts (Author of Stalin’s Wars)](https://historynewsnetwork.org/article/35305)
 - [Molotov-Ribbentrop Pact - the untold story](https://sputniknews.com/politics/201508231026098760-molotov-ribbentrop-pact-untold-story/)
+- [Europe-Asia Studies | End of the 'Low, Dishonest Decade': Failure of the Anglo-Franco-Soviet Alliance in 1939](https://www.jstor.org/stable/152863?seq=1)
 - [Stalin: History and Criticism of a Black Legend by Domenico Losurdo (incredible book)](https://drive.google.com/drive/folders/1Dg1i8cmId3a-p_Ydz46p1jvPP6Hwc3bm)
 - [Another View of Stalin (see relevant section)](https://stalinsocietypk.files.wordpress.com/2013/05/another-view-of-stalin1.pdf)
 - [Stalin’s economics: the secret to Soviet success in World War 2?](https://stalinsmoustache.org/2012/05/13/stalins-economics-the-secret-to-soviet-success-in-world-war-ii/)
 - [27 million died in Russia because Wall Street built up Hitler’s Wehrmacht to knock out Soviet Union](https://countercurrents.org/2017/08/09/27-million-died-in-russia-because-wall-street-built-up-hitlers-wehrmacht-to-knock-out-soviet-union)
+- [The Telegraph | Stalin 'Planned to Send a Million Troops to Stop Hitler if Britain and France Agreed'](https://www.telegraph.co.uk/news/worldnews/europe/russia/3223834/Stalin-planned-to-send-a-million-troops-to-stop-Hitler-if-Britain-and-France-agreed-pact.html)
 
 Lista de países que assinaram contratos com Hitler:
 
@@ -1604,3 +1610,75 @@ Apenas uma prefeitura em 10 dias. No entanto, o número de historiadores ocident
 >Esta guerra foi iniciada contra nós não pelo povo alemão, não pelos trabalhadores, camponeses e intelectuais alemães, que estão sofrendo todos nós entendemos, mas pela gangue de governantes fascistas sanguinários da Alemanha, que escravizaram franceses, tchecos, poloneses, sérvios, noruegueses, belgas, dinamarqueses, holandeses, gregos e outros povos.
 >
 >-- <cite>Molotov, 1941</cite>
+
+### Mitos sobre o nazismo
+#### O nazismo não era socialista
+Os nazistas eram a favor da privatização e se opunham à economia socialista de todas as maneiras que podiam. De acordo com um [estudo](http://piketty.pse.ens.fr/files/capitalisback/CountryData/Germany/Other/Pre1950Series/RefsHistoricalGermanAccounts/BuchheimScherner06.pdf) publicado no The Journal of Economic History (publicado pela Cambridge University Press):
+>Independentemente de um desempenho geral bastante ruim, uma característica importante da economia do Terceiro Reich, e uma grande diferença de uma economia planejada centralmente, era o papel que a propriedade privada das empresas estava desempenhando - na prática e na teoria. A economia nazista ideal liberaria a criatividade de uma multidão de empresários privados em uma estrutura predominantemente competitiva gentilmente dirigida pelo Estado para alcançar o maior bem-estar do povo germânico.
+
+Os nazistas desprezavam a nacionalização e, em vez disso, pressionaram por intensas privatizações sempre que tiveram a chance (inclusive, o termo "privatização" foi criado para descrever a série de políticas que Hitler fez em 1937, dando várias empresas estatais para o setor privado, visando alegrar os empresários):
+>As fontes disponíveis deixam perfeitamente claro que o regime nazista não queria de forma alguma uma economia alemã com propriedade pública de muitas ou todas as empresas. Portanto, geralmente não tinha nenhuma intenção de nacionalizar empresas privadas ou criar empresas estatais. Pelo contrário, a reprivatização de empresas foi promovida sempre que possível.
+
+Nas raras ocasiões em que foram forçados a usar fábricas estatais, eles incluíram uma opção de contrato permitindo que proprietários privados as comprassem. Além disso, evitaram a criação de empresas estatais sempre que possível, favorecendo o investimento privado:
+>As fábricas estatais deveriam ser evitadas sempre que possível. No entanto, às vezes eram necessários quando a indústria privada não estava preparada para realizar um investimento relacionado à guerra por conta própria. Nesses casos, o Reich costumava insistir na inclusão no contrato de uma cláusula de opção segundo a qual a empresa privada que operava a usina tinha o direito de comprá-la. Mesmo o estabelecimento do Reichswerke Hermann Gõring em 1937 não é uma contradição à regra de que o Reich principalmente não queria a propriedade pública das empresas. O Reich, de fato, tentou arduamente convencer a indústria alemã a se envolver no projeto.
+
+![](images/nazi_saying_death_to_marxism.jpg)
+
+<em>Nazistas dizendo "morte ao marxismo"</em>
+
+Essas descobertas são corroboradas por outro [estudo](http://www.ub.edu/graap/nazi.pdf), este da Universidade de Barcelona. De acordo com este artigo, os nazistas não apenas favoreciam a privatização, eles o fizeram em uma época em que outros governos capitalistas estavam geralmente expandindo a propriedade pública, nacionalizando várias indústrias, etc. A privatização nazista era na verdade "contra o mainstream", como eles a chamam:
+>O regime nazista transferiu a propriedade pública e os serviços públicos para o setor privado. Ao fazer isso, eles foram contra as tendências dominantes nos países capitalistas ocidentais, nenhum dos quais sistematicamente reprivatizou empresas durante a década de 1930. A privatização na Alemanha nazista também foi única na transferência para mãos privadas da prestação de serviços públicos anteriormente fornecidos pelo governo. As empresas e os serviços transferidos para a propriedade privada pertenciam a diversos setores.
+
+Quando te disserem que os nazistas eram socialistas, mostre a história de Ernst Thälmann:
+>Ernst Thälmann foi um político comunista alemão que foi executado pelo Terceiro Reich neste dia em 1944. Ele foi o líder do Partido Comunista da Alemanha (KPD) de 1925 a 1933. Um stalinista comprometido, Thälmann desempenhou um papel importante durante a política instabilidade da República de Weimar, especialmente em seus anos finais, quando o KPD explicitamente procurou derrubar a democracia liberal da república.
+>
+:Após o incêndio do Reichstag em 27 de fevereiro de 1933, o Partido Nazista lançou uma nova onda de violência e prisões contra membros do KPD e outros oponentes de esquerda do regime. Isso incluiu Thälmann, que foi preso, torturado e encarcerado em 3 de março daquele ano. Ele foi mantido em confinamento solitário por onze anos, antes de finalmente ser executado no campo de concentração de Buchenwald em 1944. Preso e executado ao lado de Thälmann estava Rudolf Breitscheid, um ex-líder do Partido Social Democrata durante a República de Weimar.
+>
+>Na prisão de Thälmann, o colega comunista alemão Wilhelm Pieck escreveu "O fato de Ernst Thälmann ter passado seu quinquagésimo aniversário nas prisões do Hitler-Fascismo é um lembrete urgente a todos os antifascistas de todo o mundo que eles devem intensificar para o ao máximo sua campanha pela libertação de Thälmann e dos muitos milhares de vítimas presas do Terror Branco."
+
+Você pode ler alguns dos escritos de Thaelmann [aqui](https://www.marxists.org/deutsch/referenz/thaelmann/index.htm).
+
+Para citar o poema de Martin Niemoller, "Primeiro eles vieram pelos comunistas".
+
+Os nazistas tinham alguns programas sociais, mas apenas para os racialmente puros e apenas como uma forma de manter o apoio da pequena burguesia.
+
+Eles eram violentamente anti-socialistas, matando com gás milhares de comunistas e social-democratas. Eles inventaram o termo "marxismo cultural" e inventaram o conceito de privatizar as indústrias nacionais. Zyklon-B não era o nome químico, era uma MARCA. As primeiras pessoas que os nazistas eliminaram, antes dos homossexuais e muito antes dos judeus e dos ciganos, foram os comunistas. Todos os esquerdistas enfrentaram repressão imediata e constante. Demorou um pouco até que a maior parte do país estivesse bem com prisão e assassinato por motivos raciais, mas os comunistas já eram considerados traidores e eram os únicos grupos que conseguiram lutar em uma capacidade significativa. Hitler gritou algumas coisas anticapitalistas para ganhar o apoio dos trabalhadores. Havia um flanco esquerdo (porém com algumas ideias deturpadas) no NSDAP sob Gregor e Otto Strasser. Strasser era de fato um nazista, com visões nacionalistas e anti-semitas totalmente repreensíveis que ele misturou com algumas idéias econômicas tradicionalmente esquerdistas. E ele era um de alto escalão, comandando o departamento de propaganda do partido e suas operações diárias por um tempo. Mas quaisquer ideias de esquerda que ele tivesse foram, no final da década de 1920, foram [totalmente rejeitadas por Hitler](https://www.simonandschuster.com/books/The-Third-Reich/Thomas-Childers/9781451651140). Strasser renunciou a qualquer posição de autoridade dentro do partido no final de 1932, antes dos nazistas chegarem ao poder em 1933, e ele foi literalmente assassinado pelos nazistas na "Noite das Facas Longas" no início de 1934, quando Hitler tinha centenas de oponentes políticos executados extrajudicialmente - incluindo, crucialmente, toda a ala do partido de Strasser.
+
+Também corre por fóruns de direita e reacionários a suposta frase de Hitler:
+>Somos socialistas. Somos inimigos, inimigos mortais, do atual sistema econômico capitalista com sua exploração dos economicamente fracos, com sua injustiça nos salários, com sua avaliação imoral dos indivíduos de acordo com a riqueza e dinheiro em vez de responsabilidade e realização, e estamos determinados sob todos circunstâncias para abolir este sistema!
+
+Porém é fake news. Esta frase é de Gregor Strasser.
+
+O próprio Hitler:
+>O socialismo é a ciência que trata do bem-estar comum. Comunismo não é socialismo. Marxismo não é socialismo. Os marxistas roubaram o termo e confundiram seu significado. Vou tirar o socialismo dos socialistas. O socialismo é uma tradição antiga. Instituição ariana e germânica. Nossos ancestrais alemães tinham certas terras em comum. Eles cultivavam a ideia do bem-estar comum. O marxismo não tem o direito de se disfarçar de socialismo. O socialismo, ao contrário do marxismo, não repudia a propriedade privada. Ao contrário do marxismo, não envolve negação da personalidade e, ao contrário do marxismo, é patriótico. Poderíamos ter nos chamado de Partido Liberal. Escolhemos nos chamar de Nacional-Socialistas. Não somos internacionalistas. Nosso socialismo é nacional. Exigimos o cumprimento das justas reivindicações do classes produtivas pelo Estado com base na solidariedade racial. Para nós, Estado e raça são um.
+
+Em outras palavras, ele fez sua própria versão do socialismo, que claramente não tinha nada a ver com os trabalhadores possuindo os meios ou o estado sendo uma ferramenta dos trabalhadores para reprimir a burguesia. Apenas um absurdo nacionalista/racialista (que ele provavelmente inventou na hora na entrevista mencionada; "bem-estar comum", de fato).
+
+Os nazistas só colocaram a palavra Socialista em seu nome porque pensaram que atrairia trabalhadores de esquerda:
+>Para aumentar seu apelo a segmentos maiores da população, no mesmo dia do discurso de Hitler em Hofbräuhaus em 24 de fevereiro de 1920, o DAP mudou seu nome para Nationalsozialistische Deutsche Arbeiterpartei ("Partido Nacional Socialista dos Trabalhadores Alemães", ou Partido Nazista). A palavra "socialista" foi acrescentada pelo comitê executivo do partido, apesar das objeções de Hitler, a fim de ajudar a atrair os trabalhadores de esquerda.
+
+Em suma, não, os nazistas não eram socialistas. Agora, vamos refutar rapidamente outro mito.
+
+Fontes:
+- [Jacobin | No, the Nazis Were Not Socialists](https://www.jacobinmag.com/2020/10/nazi-socialism-rand-paul-strasser-hitler)
+- [Journal of Economic History | The Role of Private Property in the Nazi Economy: The Case of Industry](http://piketty.pse.ens.fr/files/capitalisback/CountryData/Germany/Other/Pre1950Series/RefsHistoricalGermanAccounts/BuchheimScherner06.pdf)
+
+#### Os nazistas não eram sociais-democratas
+Eles não eram social-democratas. O partido social-democrata alemão é criado em 1875 e mesclava os ideais marxista e lassaliano. No século 20, eles não se importavam nem um pouco com a revolução e simplesmente queriam estar no poder por meio de eleições para promover políticas de esquerda. Mesmo assim, ainda se viam como socialistas, mesmo quando apoiavam a participação da Alemanha na Primeira Guerra Mundial, o que fez Rosa Luxemburgo criticá-los duramente. Ainda assim, mesmo na revolução de 1918, eles eram o maior partido socialista do país e muito apoiado pelos trabalhadores. Quando a república de Weimar surgiu e eles faziam parte do governo, eram muito odiados pela aristocracia alemã, pelos capitalistas e por quem defendia a velha monarquia militar e burocrática.
+
+Os nazistas, por outro lado, representavam exatamente esse ódio reacionário contra os social-democratas. Eles desprezavam a social-democracia porque os viam como os culpados da derrota da Alemanha na guerra. Não queriam o retorno da monarquia, mas puderam representar os reacionários que, como eles, odiavam a república. Eles tiveram o apoio dos aristocratas, militares e capitalistas que queriam acabar com a social-democracia. Os nazistas não têm absolutamente nada a ver com a social-democracia.
+
+Fontes:
+- [Concerning the International Situation](https://www.marxists.org/reference/archive/stalin/works/1924/09/20.htm)
+
+#### Os nazistas não salvaram a Alemanha
+Este é um dos favoritos dos apologistas fascistas em todos os lugares. No entanto, na realidade, a economia nazista foi um tremendo fracasso e levou a enormes reduções nos padrões de vida do povo alemão. De acordo com um [estudo](https://www.sciencedirect.com/science/article/pii/S1570677X02000023) publicado na revista Economics and Human Biology:
+>Os resultados implicam que a Alemanha experimentou um aumento substancial nas taxas de mortalidade na maioria dos grupos etários em meados da década de 1930, mesmo em relação aos de 1932, o pior ano da Grande Depressão. Além disso, a altura das crianças - um indicador da qualidade da nutrição e saúde - em geral estagnou entre 1933 e 1938, mas aumentou significativamente durante a década de 1920. A perseguição, por si só, não explica um desenvolvimento tão adverso no bem-estar biológico; os segmentos não perseguidos da população alemã também foram afetados.
+
+Esses problemas foram o resultado direto da política econômica nazista:
+>A razão para este desenvolvimento adverso foi causado pelo fato de que os gastos militares aumentaram às custas de medidas de saúde pública. Além disso, as importações de alimentos foram reduzidas e os preços de muitos produtos agrícolas controlados. Há ampla evidência de que esse conjunto de políticas econômicas teve um efeito adverso sobre a saúde e o estado nutricional da população.
+
+Fontes:
+- [University of Barcelona | Against the Mainstream: Nazi Privatization in 1930s Germany](http://www.ub.edu/graap/nazi.pdf)
+- [Economics and Human Biology | Autarchy, Market Disintegration, and Health: The Mortality and Nutritional Crisis in Nazi Germany, 1933-1937](https://sciencedirect.com/science/article/pii/S1570677X02000023)
+- [Jewish Telegraphic Agency | Goldmann Warns Against "Distortions" in Charges Against USSR](https://www.jta.org/1965/06/11/archive/goldmann-warns-against-distortions-in-jewish-charges-against-russia)
