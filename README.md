@@ -769,7 +769,7 @@ Não existe essa de "restaurar a democracia" em países socialistas, todos esses
 
 A Rússia era um regime racista e autocrática controlada por um rei (czar), era chamada de "cativeiro dos povos", pois todos os povos bárbaros e "negros" (definição pra qualquer um que não tenha a mesma cor de pele que os europeus -- os irlandeses só foram ser considerados brancos no final do século 19) que a Europa não gostava (por racismo) viviam lá, oprimidos por uma única etnia grão-russa (não existe um "russo" em abstrato, o que haviam eram 53 etnias vivendo em conflito sob o mesmo "cativeiro" dominado pelos grão-russos)
 
-A Polônia era uma ditadura fascista controlada por Pilsudski (hoje retratado como "herói nacional da Polônia) com seus campos de concentração.
+A Polônia era uma ditadura fascista controlada por Pilsudski (hoje retratado como "herói nacional da Polônia") com seus campos de concentração.
 
 A Albânia era um protetorado fascista italiano desde 1927 e ao final da Segunda Guerra Mundial tinha menos de 20% de alfabetização.
 
