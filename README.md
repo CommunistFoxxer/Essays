@@ -24,7 +24,7 @@
         * [Condições de saúde no período socialista](#Condições-de-saúde-no-período-socialista)
         * [A questão Stalin](#A-questão-Stalin)
             * [O grande expurgo](#O-grande-expurgo)
-            * [A fome ucraniana (holodomor)](#A-fome-ucraniana-(holodomor))
+            * [A fome ucraniana (holodomor)](#A-fome-ucraniana-holodomor)
             * [As gulags](#As-gulags)
         * [Trabalhadores na União Soviética](#Trabalhadores-na-União-Soviética)
             * [Participação do trabalhador no local de trabalho](#Participação-do-trabalhador-no-local-de-trabalho)
