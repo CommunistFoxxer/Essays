@@ -31,6 +31,7 @@
             * [Participação política na URSS](#Participação-política-na-URSS)
         * [Conclusão sobre os trabalhadores na URSS](#Conclusão-sobre-os-trabalhadores-na-URSS)
         * [Conclusão sobre a URSS](#Conclusão-sobre-a-URSS)
+    * [Uma resposta ao bearkunin sobre a URSS](#Uma-resposta-ao-bearkunin-sobre-a-URSS)
     * [Mitos da guerra de inverno](#Mitos-da-guerra-de-inverno)
     * [Segunda Guerra Mundial](#Segunda-Guerra-Mundial)
         * [Mitos do pacto Molotov-Ribbentrop](#Mitos-do-pacto-Molotov-Ribbentrop)
@@ -1305,6 +1306,107 @@ Fontes:
 
 ### Conclusão sobre a URSS
 Durante seu período socialista, a União Soviética fez algumas das conquistas mais impressionantes da história moderna. O sistema socialista transformou uma nação de camponeses analfabetos e famintos em uma superpotência, com uma das economias de crescimento mais rápido da Terra, uma das populações mais educadas e saudáveis do mundo e algumas das conquistas industriais e tecnológicas mais impressionantes até hoje. Forneceu um modelo a ser seguido pelos oprimidos do mundo, como foi mostrado na China, Cuba, Vietnã e muitas outras nações.
+
+## Uma resposta ao bearkunin sobre a URSS
+O @bearkunin no medium, escreveu um [artigo contestando conquistas soviéticas](https://medium.com/@bearkunin/soviet-union-facts-and-fictions-part-1-the-economy-2a79ff1013a7) detalhadas abaixo:
+
+![Conquistas soviéticas](images/soviet_achievements.png)
+
+Primeiramente, o que eu tenho a dizer é que: Fiquem longe de posts como esses, parece argumento tirado do 4chan com tanta desinformação que há. Vou fazer um resumo dos argumentos centrais dele.
+
+>2ª economia de crescimento mais rápido do século 20 (cresceu durante a Grande Depressão)
+>
+>**Errado**. Este argumento geralmente se refere a esta fonte, mas este enredo só se preocupa com o período de 1928 a 1970.
+
+A razão pela qual desconsideramos os dados de 1970 em diante é porque, a essa altura, a URSS tinha basicamente revertido para uma economia capitalista. Em 1965, as reformas Kosygin descentralizaram e privatizaram a economia, o que coincidiu com a estagnação econômica.
+
+>Se você considerar o período de 1928 a 1989, a Coréia do Sul, Japão, Taiwan, Portugal, Finlândia, Cingapura, Itália, Noruega e Tailândia cresceram mais rápido do que a URSS.
+
+Todos esses países se beneficiaram com o financiamento dos EUA por meio do Plano Marshall. É preciso lembrar que a economia da URSS foi afetada negativamente pelo isolamento, pelos danos da guerra e pelo financiamento de países socialistas em todo o mundo. Além disso, a URSS não se beneficiou da exploração imperialista do terceiro mundo da mesma forma que o Ocidente.
+
+>0% desemprego
+>
+>**Semi-errado**. Havia desemprego, mas o que eles faziam quando o desemprego estava alto era que "os empregadores preferiam cortar salários, reduzir horas de trabalho e dar aos funcionários férias sem vencimento, uma reminiscência das táticas da era soviética quando o desemprego estava praticamente fora da lei e mascarando o verdadeiro estado do mercado de trabalho."
+
+Mais uma vez, essa pessoa usa evidências do período dos anos 1970 e 1980 para justificar essa afirmação, ou seja, quando a economia havia sido em grande parte revertida ao capitalismo e as empresas operavam de acordo com a motivação do lucro. Durante a era Stalin, a URSS literalmente teve desemprego NEGATIVO, dezenas de milhares de ocidentais emigraram durante a industrialização, enquanto seus próprios países ficaram presos no meio da Grande Depressão. Além disso, reduzir os salários das pessoas para erradicar o desemprego é melhor do que ter desemprego em massa em primeiro lugar, como é o caso cada vez mais nos países capitalistas. Finalmente, não apenas o desemprego na URSS era completamente minúsculo e baseado inteiramente em evidências anedóticas, a maior parte, senão tudo, era desemprego friccional (mudança de emprego). Esta é uma distinção importante, porque difere significativamente do desemprego em massa no Ocidente, onde simplesmente não há empregos suficientes em primeiro lugar. As fontes de suas reivindicações foram um artigo do Telegraph e um artigo do JSTOR. O artigo do Telegraph é francamente uma merda de propaganda imperialista anti-Rússia. É um daqueles artigos que tentam afirmar que a Rússia moderna é secretamente a URSS para torná-la mais assustadora. Não vejo fontes para isso. Eu também folheei o artigo e nem mesmo diz o que o artigo do Telegraph diz. A pessoa que escreveu esse post é provavelmente um cracker presunçoso que simplesmente escolhe o primeiro artigo no JSTOR com as palavras "desemprego" e "URSS" e diz "veja, há pessoas que concordam comigo". O artigo do JSTOR também é uma merda. Pelo que entendi, afirma que os economistas soviéticos apenas reconhecem o desemprego friccional. Outras pessoas que não têm emprego são consideradas pela URSS aquelas que rejeitaram uma oferta de emprego. Ele nem mesmo tenta argumentar contra isso. O artigo então diz que a URSS e os EUA têm definições diferentes de "desemprego". Passou a utilizar dados de entrevistas e estimar o número de pessoas que não trabalharam por determinado período, e considerou todas desempregadas. Se os empregos estavam disponíveis ou não; se essas pessoas rejeitaram a oferta de emprego não foram atendidas. O mais importante é que a URSS foi capaz de escapar completamente das crises periódicas que levaram a picos massivos de desemprego freqüentemente vistos no mundo capitalista.
+
+>Além disso, é enganoso porque estar desempregado era um crime na URSS que poderia levar à prisão.
+
+O emprego obrigatório é melhor do que o desemprego involuntário.
+
+>0% sem-teto
+>
+>**Errado**. [Fonte](https://np.reddit.com/r/AskHistorians/comments/4ljfhy/were_there_homeless_people_in_the_ussr/d3ofuqb)
+
+Essa pessoa até admite que a falta de moradia foi erradicada sob Kruschev, mas rebate dizendo que a moradia era "insatisfatória", então basicamente apertada e de baixa qualidade. Bem, pelos padrões do Ocidente, ele provavelmente está certo. Mas pelos padrões do resto do mundo? Tenho certeza que as pessoas na África e na América Latina ficariam mais do que satisfeitas com as condições de vida soviéticas. Esse é o ponto, não estou interessado em comparar os padrões de vida dos países socialistas com os do Ocidente, porque é bastante óbvio que o resto do mundo nunca poderia ser tão rico quanto eles. Essa pessoa então passa a fazer referência à era capitalista dos anos 70 e 80 NOVAMENTE, eu não acho que preciso continuar explicando por que esse não é um bom argumento, sem mencionar que qualquer evidência anedótica de sem-teto na União Soviética que essas pessoas encontram ainda está minúsculo em comparação com a maioria dos países capitalistas. Finalmente, também vale a pena mencionar que 50% das casas soviéticas foram totalmente queimadas durante a Segunda Guerra Mundial.
+
+>salvou o mundo da Alemanha nazista
+>
+>...depois de se aliar a Hitler e invadir a Polônia, Finlândia e o Báltico.
+
+Que desvio de merda. Em primeiro lugar, "aliar-se a Hitler" não muda o fato de que os soviéticos realmente salvaram o mundo da Alemanha nazista, é um fato indiscutível, 80-90% das baixas nazistas foram infligidas na Frente Oriental. Em segundo lugar, ele não se aliou a Hitler, o que é simplesmente falso, ele assinou um pacto de não agressão com os nazistas depois que todos os outros países da Europa já haviam feito o mesmo. Foram a Grã-Bretanha e a França, portanto, aliadas de Hitler? NÃO! Na verdade, pela sua própria lógica, a Grã-Bretanha era mais aliada de Hitler do que a União Soviética, já que eles deixaram os nazistas tomarem a Áustria, a Tchecoslováquia e a Polônia Ocidental antes de decidirem intervir. A propósito, os soviéticos apenas assinaram o pacto com Hitler COMO ÚLTIMO RECURSO, eles já haviam tentado formar uma aliança antifascista com a Grã-Bretanha e a França POR ANOS. Na verdade, os soviéticos foram os únicos que se preocuparam em ajudar a prevenir a propagação do fascismo, enviando suprimentos para a Espanha republicana e a China nacionalista quando ninguém mais o fez. Aqui está uma pequena lição de história. Pouco antes de Stalin assinar o pacto com Hitler, ele ofereceu enviar um milhão de soldados através da Polônia para a fronteira alemã, se a Grã-Bretanha e a França TAMBÉM atacassem a Alemanha pelo oeste. Adivinha o que aconteceu? Grã-Bretanha, França e Polônia recusaram a oferta porque odiavam o comunismo tanto quanto o nazismo, eles queriam que a Alemanha e a União Soviética se destruíssem antes de intervir. Portanto, os EUA e o Reino Unido atrasaram a abertura de uma segunda frente para 3 anos, altura em que o Exército Vermelho sofreu milhões de baixas. Até o próprio Harry Truman disse que "se a Alemanha estiver ganhando, vamos ajudar a Rússia, se a Rússia estiver ganhando, vamos ajudar a Alemanha, vamos deixá-los se destruírem". Agora, neste ponto, entre na pele dos soviéticos. Eles não tinham aliados, só haviam começado sua industrialização uma década antes e estavam completamente despreparados para um conflito com os nazistas, que presumiam que poderiam atacá-los a qualquer momento. Diante de tudo isso, o pacto com Hitler era basicamente a única opção que restava. Esses 2 anos extras fora do conflito deram-lhes tempo para organizar e preparar o exército, terminar a industrialização e, o mais importante, evacuar todas as fábricas para a Sibéria. O Exército Vermelho estava, sem dúvida, completamente despreparado em 1939, tudo que você precisa fazer é olhar para a Guerra de Inverno, onde os finlandeses mataram os soviéticos na proporção de 10/1, para ver isso. Se os nazistas tivessem invadido a União Soviética em 1939, é provável que Hitler tivesse vencido. No que diz respeito aos soviéticos que anexaram a Polônia oriental, a Finlândia e o Báltico, eles tinham razões justificáveis ​​para fazê-lo. Não apenas criou uma barreira entre os nazistas, mas também significou que milhões de judeus nesses países escaparam da perseguição nazista.
+
+>Inventou viagem espacial
+>
+>**Verdadeiro**. Devo acrescentar que eles fizeram isso por motivos militares.
+
+Não é um argumento, eu poderia dizer o mesmo sobre o celular, que foi desenvolvido principalmente no setor estatal com vários componentes-chave desenvolvidos pelos militares dos EUA (como bateria de ion-lítio, touchscreen, GPS e internet), mas acho que isso desmascararia a gloriosa inovação do livre-mercado, lol.
+
+>Acabou com o ciclo de séculos de fome na Europa Oriental
+>
+>**Verdadeiro**. Houve fomes até 1947.
+
+Referir-se à fome de 1947 é extremamente hipócrita, considerando que a fome em particular foi causada quase inteiramente pelos danos da guerra. A União Soviética encerrou o ciclo de fome em 1934, e naquele ponto a coletivização dobrou a produção de grãos, com o suficiente em reservas de emergência estaduais para alimentar o país por dois anos no caso de outra escassez.
+
+>Maior consumo calórico diário do que nos EUA
+>
+>**Errado**.
+
+Eu realmente não tenho nada a acrescentar aqui, esta pessoa está alegando que a FAO inflou os dados soviéticos e que a CIA mentiu em seu report secreto de 1983. De qualquer forma, está bastante claro que o cidadão médio do Bloco Oriental não estava lutando por comida, como afirma a narrativa burguesa desonesta. Direi que comparar a União Soviética, um país isolado e dilacerado pela guerra, aos Estados Unidos, sem dúvida o maior império econômico global da história mundial, não é exatamente justo.
+
+>Acabou com a desigualdade racial
+>
+>**Errado**. [Fonte](https://en.wikipedia.org/wiki/Racism_in_the_Soviet_Union)
+
+Lol, a porra de um artigo da Wikipedia que cita a porra do Robert Conquest de todas as pessoas, que patético. A URSS garantia igualdade de poder político para todas as etnias por meio do Soviete de Nacionalidades. Além disso, muitos afro-americanos realmente desertaram para a União Soviética a fim de obter maiores direitos civis. Paul Robeson, um negro americano e voz da versão em inglês do hino da URSS, disse que a primeira vez que pisou em solo soviético, foi a primeira vez que se sentiu um “ser humano completo”. Em relação ao artigo da Wikipedia e sua lista de suposta "limpeza étnica" na União Soviética, ele se refere à fome do Holodomor (mito da propaganda nazista), várias operações do NKVD durante o Grande Expurgo (cometido por Yezhov, que mais tarde foi executado por seus crimes, pelas costas de Stalin), perseguição de judeus (nenhuma evidência de que isso foi motivado por intenções anti-semitas) e deportações em massa durante a Segunda Guerra Mundial (cometidas por razões não raciais a fim de evacuar civis da zona de guerra, e porque vários grupos foram considerados culpados de colaborar com os nazistas). É importante mencionar que vários países realizaram deportações durante a Segunda Guerra Mundial, nomeadamente a América, que colocou 100.000 cidadãos nipo-americanos em campos de concentração literais. As etnias deportadas na União Soviética não foram presas ou fuziladas, elas foram reassentadas, há uma grande diferença.
+
+>Acabou com a desigualdade de gênero
+>
+>Isso **depende** do que eles querem dizer com desigualdade de gênero
+
+Não é um argumento. O fato é que os direitos das mulheres na União Soviética eram significativamente mais avançados do que no resto do mundo. Acho que você pode apontar para a criminalização do aborto sob Stalin, que é um argumento legítimo, mas essa proibição foi suspensa em 1955 e, independentemente, a União Soviética foi o primeiro país a permitir o aborto em todas as circunstâncias.
+
+>Educação gratuita em todos os níveis
+>
+>**Verdadeiro**. No entanto, isso não significa que a educação foi tão boa quanto a ocidental.
+
+Ele fornece absolutamente nenhuma evidência para esta afirmação. Eu já expliquei na secção [O socialismo funciona sim](#O-socialismo-funciona-sim). Por exemplo, Cuba é elogiada por ter as melhores escolas médicas do mundo e atualmente há 20.000 estudantes internacionais de todo o mundo matriculados na Escola Latino-Americana de Medicina. Além disso, na Alemanha pós-Segunda Guerra Mundial, milhões de alemães ocidentais obtiveram educação superior no leste antes de emigrar para o oeste em busca de salários mais altos.
+
+>Taxa de alfabetização de 99%
+>
+>**É verdade** que as repúblicas da ex-URSS ainda têm altas taxas de alfabetização, apesar do capitalismo.
+
+Ok, e? A taxa de alfabetização ainda caiu após a restauração capitalista, e os países historicamente comunistas sempre tiveram taxas de alfabetização mais altas do que o resto do mundo.
+
+>A maioria dos médicos per capita do mundo
+>
+>**Verdadeiro**. "Em 1985, durante a era soviética, havia 3,9 médicos para cada 1.000 pessoas. No mesmo ano, nos Estados Unidos, eram 1,7, enquanto no Japão o número era 1,5." Mas os cuidados de saúde nem sempre eram gratuitos: "Também contrariamente ao seu projeto, os cuidados de saúde soviéticos não são gratuitos. Os pacientes tratados no sistema público muitas vezes são obrigados a pagar médicos e enfermeiras por baixo da mesa para garantir que os medicamentos sejam administrados ou que uma operação seja realizada. Um jornal soviético publicou recentemente alguns amostra “preços”: 500 rublos para uma operação ou entrega (o salário médio mensal na URSS é de 200 rublos), 300 rublos para uma internação de 20 dias, 25 rublos ou a doação de uma unidade de sangue por um parente para garantir admissão ao hospital. A maioria dos pacientes deve adquirir medicamentos e eletrodomésticos a preços que incluem “sobretaxas” exigidas pelos vendedores que conseguem superar os obstáculos burocráticos e a falta de suprimentos.” [Fonte](https://nintil.com/the-soviet-union-healthcare/)
+
+Eu não posso comentar sobre o quão precisa esta fonte é, mas PELA MILÉSIMA VEZ, essa pessoa está escolhendo informações do período de reforma capitalista dos anos 1980.
+
+>Eliminou a pobreza
+>
+>**Errado**. “A URSS conseguiu reduzir a desigualdade e a pobreza em relação aos tempos pré-revolucionários e conseguiu trazer um nível de igualdade comparável ao dos países nórdicos. No entanto, não teve sucesso em eliminar a pobreza, as desigualdades entre as repúblicas, as diferenças entre as áreas urbanas e rurais, e até mesmo as 'distinções entre trabalho físico e mental'." [Fonte](https://nintil.com/2017/03/14/the-soviet-union-poverty-and-inequality)
+
+Então, basicamente, eles não alcançaram o comunismo pleno, o que ninguém nega. A URSS eliminou a pobreza no sentido de que todos tivessem suas necessidades básicas, isso é um fato inegável. Devo também mencionar que essa pessoa usou a mesma fonte duas vezes seguidas e, imagine meu choque, ele usou dados exclusivamente da década de 70.
+
+>Mudança para o capitalismo em 1991
+>
+>**Na minha opinião**, o período após a URSS pode ser dividido em duas épocas: a transição de 1991-1999 e a posterior. Os pró-URSS só olham para a fase de transição em que o capital estava deixando o país em massa, [com cerca de U$ 150 bilhões saindo entre 1992 e 1999](https://www.investopedia.com/articles/investing/012116/russian-economy-collapse-soviet-union.asp). As coisas realmente pioraram naquela época, mas depois que o mundo viu que a ex-URSS não voltou a ser socialista, [o capital estava indo para os estados da ex-URSS e tudo ficou melhor](https://static.businessinsider.com/image/4eaf0d346bb3f7f10900000e/image.jpg) do que na época da URSS. A expectativa de vida cresceu 10 anos em 20 anos, enquanto quase estagnou na URSS desde o final dos anos 1960 ([Fonte](https://en.actualitix.com/chart/est/estonia-life-expectancy-at-birth.png)). O PIB PC cresceu exponencialmente ([Fonte](https://en.wikipedia.org/wiki/Economy_of_the_Soviet_Union#/media/File:FormerUSSRRepublicsGDPPC.svg)), etc etc
+
+Ele literalmente postou um gráfico da Estônia. A Estônia não é a URSS. Se você olhar a expectativa de vida de todas as outras repúblicas pós-soviéticas, o aumento na expectativa de vida foi mínimo. Uma em cada 15 repúblicas conseguiu que sua expectativa de vida não diminuísse tanto quanto as outras - isso não ajuda em nada seu argumento. Fora a quantidade de emprego e a qualidade de vida nos ex-estados soviéticos (onde ainda há muita nostalgia de sua época soviética).
+
+O resto do post é basicamente uma tentativa de refutar as estatísticas pró-URSS citando a Wikipedia, o que não vale o meu tempo.
 
 ## Mitos da guerra de inverno
 A Guerra de Inverno é o nome que se dá ao conflito finlandês-soviético entre 1939 e 1940, e a guerra de continuação de 1941 até 1944. No entanto, muitos acusam essas guerras como sendo parte do "imperialismo soviético", pois buscava conquistar e controlar territórios finlandeses. No entanto, a guerra ocorreu mais por motivos geopolíticos do que imperialistas.
