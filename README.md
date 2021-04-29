@@ -508,9 +508,9 @@ Os EUA e a Grã-Bretanha, sendo o que são, recusaram-se a essa ideia e começar
 
 Então começamos a ver que a OTAN é uma aliança formada para proteger os nazistas, nunca deixou de se aliar aos nazistas, ajudou a defender e reconstruir movimentos fascistas em todo o mundo e os ajudou a injetar propaganda nazista no discurso ocidental como fato dominante. As fileiras da OTAN estão cheias de nazistas e simpatizantes do nazismo.
 
-![Batalhão de Arzhov com bandeiras nazistas](images/arzhov_neonazis.jpg)
+![Batalhão de Azhov com bandeiras nazistas](images/azhov_neonazis.jpg)
 
-<em>A escolha das bandeiras lá atrás do batalhão de Arzhov não é uma coincidência infeliz.</em>
+<em>A escolha das bandeiras lá atrás do batalhão de Azhov não é uma coincidência infeliz.</em>
 
 A mídia e o governo têm retratado as políticas anticomunistas e anti-soviéticas como respostas defensivas compreensíveis ao engrandecimento soviético. De acordo com a narrativa padrão, a Guerra Fria começou em 1947, quando a Rússia provou ser uma potência expansionista e ameaçadora. Em resposta a esse engrandecimento, os EUA alertaram o público sobre a ameaça soviética. Reagimos a essa ameaça com o escudo da OTAN, armamentos, intervenções em vários países e assim por diante. A Doutrina Truman foi estabelecida, que reorientou a política externa para conter a expansão geopolítica soviética.
 
