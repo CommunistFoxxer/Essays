@@ -75,6 +75,14 @@
     * [A Romênia](#A-Romênia)
         * [A farsa do julgamento de Ceausescu](#A-farsa-do-julgamento-de-Ceausescu)
         * [Conclusão sobre a Romênia](#Conclusão-sobre-a-Romênia)
+    * [Os sandinistas na Nicarágua](#Os-sandinistas-na-Nicarágua)
+    * [Os zapatistas](#Os-zapatistas)
+        * [Sistema econômico e padrões de vida zapatistas](#Sistema-econômico-e-padrões-de-vida-zapatistas)
+        * [Cuidados de saúde em territórios zapatistas](#Cuidados-de-saúde-em-territórios-zapatistas)
+        * [Educação em territórios Zapatistas](#Educação-em-territórios-Zapatistas)
+        * [Direitos das mulheres e anti-racismo nas comunidades zapatistas](#Direitos-das-mulheres-e-anti-racismo-nas-comunidades-zapatistas)
+        * [Conclusão sobre o EZLN](#Conclusão-sobre-o-EZLN)
+    * [A questão Rojava/Curdistão](#A-questão-Rojava-Curdistão)
     * [Adam Smith concordava com Marx](#Adam-Smith-concordava-com-Marx)
     * [Mitos sobre Marx](#Mitos-sobre-Marx)
     * [A constituição soviética era respeitada](#A-constituição-soviética-era-respeitada)
@@ -2344,3 +2352,203 @@ Ceausescu, embora fosse extremamente ingênuo em matéria de política externa, 
 
 Com isso, temos duras lições a aprender com a Romênia:
 1. Não podemos jamais confiar em instituições que se dizem "neutras", Bakhtin mesmo destrói o argumento de neutralidade ideológica em suas teses, mais tarde confirmados por uma derivação da hipótese Sapir-Whorf / línguistica relativista; como dizia Sankara: "Quem te alimenta, te controla"
+
+## Os sandinistas na Nicarágua
+>O que vemos é um governo diante de enormes problemas, alguns aparentemente insuperáveis, empenhado em uma grande experiência que, embora precária e incompleta em muitos pontos, dá esperança aos setores pobres da sociedade, melhora as condições de educação, alfabetização e saúde, e pela primeira vez oferece ao povo da Nicarágua um mínimo de justiça para todos, em vez de uma sociedade que oferece privilégios exclusivamente aos ricos... e aos poderosos.
+>
+>-- <cite>Conselho Mundial de Igrejas, Relatório sobre a Nicarágua, 1983.</cite>
+
+### Indicadores econômicos e nutricionais da Nicarágua
+A ditadura de Somoza deixou os nicaraguenses atolados em uma pobreza e miséria terríveis. De acordo com o livro [Nicarágua: A Ameaça de um Bom Exemplo](https://oxfamilibrary.openrepository.com/handle/10546/121188?show=full), publicado pela Oxfam America:
+>Estudos mostraram que em algumas áreas até 83% das crianças nicaraguenses estavam desnutridas, e a proporção de crianças gravemente desnutridas pode chegar a 45%.
+
+Isso começou a mudar quando os sandinistas assumiram o poder em 1979. Para começar, a produção agrícola aumentou 8% entre 1979 e 1983. Além disso, aumentou o consumo per capita da maioria dos alimentos básicos. A Oxfam America creditou isso diretamente às políticas dos sandinistas:
+>Isso foi possibilitado por subsídios do governo e controles rígidos sobre os preços e a distribuição de alimentos básicos. Estabeleceram-se pontos de distribuição especiais para oito produtos básicos: arroz, feijão, milho, farinha, açúcar, sal, óleo de cozinha e sabão. Mais recentemente, a distribuição desses itens básicos pelos grupos de bairro foi reforçada para proteger os interesses dos mais pobres em um momento de escassez crescente e preços crescentes.
+
+Os sandinistas também realizaram uma reforma agrária significativa. De acordo com um [estudo](https://minds.wisconsin.edu/bitstream/handle/1793/56510/ltc122.pdf?sequence=1) da Universidade de Wisconsin-Madison, o programa de reforma agrária fez um grande progresso na melhoria de vida dos trabalhadores agrícolas:
+>A reforma agrária da Nicarágua realizou mais durante seu primeiro ano de operação do que a maioria das reformas agrárias alcançou em períodos muito mais longos. [...] Os trabalhadores rurais foram organizados em um sindicato nacional forte e passaram a receber melhores salários e a participar da formulação e implementação de políticas governamentais. [...] Essas conquistas foram ainda mais impressionantes devido à destruição generalizada e à quebra de safra que a Nicarágua enfrentou no final da guerra.
+
+O referido relatório da Oxfam America também discute a questão, observando que a reforma agrária forneceu terras para dezenas de milhares de famílias:
+>Os principais beneficiários da reforma agrária e do aumento de cinco vezes no crédito do Estado entre 1979 e 1982 foram os camponeses. Entre outubro de 1981 e agosto de 1984, 49.661 famílias receberam títulos de propriedade.
+
+Desde a reconquista do poder em 2005, os sandinistas conseguiram melhorias significativas na economia e na qualidade de vida da Nicarágua. Segundo [dados da FAO](http://www.fao.org/faostat/en/#country/157), as políticas sandinistas levaram a uma redução drástica da desnutrição. Além disso, dados do Banco Mundial mostram que os sandinistas [reduziram a pobreza pela metade](https://data.worldbank.org/country/nicaragua) na Nicarágua. Essas realizações devem ser apreciadas.
+
+### Conquistas na saúde da Nicarágua
+Quando os sandinistas chegaram ao poder, eles herdaram uma nação terrivelmente doente, que havia sido devastada pela ditadura de direita. De acordo com um [artigo](https://journals.sagepub.com/doi/abs/10.1177/089692058901600105) na revista Critical Sociology:
+>Quando os sandinistas chegaram ao poder em 1979, enfrentaram uma série de graves problemas de saúde legados pelo antigo regime de Somoza.
+
+Apesar disso, os sandinistas conseguiram obter muitos "ganhos impressionantes na área da saúde", como é demonstrado por um exame das evidências estatísticas. De acordo com um [estudo](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1651882/pdf/amjph00633-0082.pdf) do American Journal of Public Health:
+>Antes da revolução nicaraguense de 1979, o acesso aos serviços de saúde era amplamente limitado aos setores abastados da população urbana e à minoria de trabalhadores com cobertura de seguridade social. Tentativas repetidas de reforma pela medicina organizada foram ineficazes. Desde a revolução, ocorreu uma grande expansão nos serviços de saúde.
+
+O acesso aos cuidados de saúde expandiu-se maciçamente e foi desenvolvido um enfoque nos cuidados preventivos. De acordo com o relatório da Oxfam acima mencionado:
+>Enquanto se estima que em 1979 pouco mais de um quarto da população poderia obter serviços médicos, em 1982 cerca de 70% dos nicaraguenses tinham acesso regular aos cuidados de saúde. No processo, houve uma mudança radical de cuidados primordialmente curativos e urbanos para uma minoria privilegiada para uma ênfase na prevenção, o que é particularmente notável na área de cuidados materno-infantis.
+
+Essas políticas levaram a melhorias acentuadas nas condições de saúde da população. De acordo com o [estudo](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1651882/pdf/amjph00633-0082.pdf) citado:
+>A evolução dos serviços de saúde, atividades de prevenção e educação pode estar relacionada a melhorias rápidas no estado de saúde da população desde 1979. Estima-se que, entre 1978 e 1983, a mortalidade infantil diminuiu de 121 para 80,2 por 1.000 nascidos vivos, expectativa de vida ao nascer passou de 52 para 59 anos. O número de casos notificados de malária diminuiu em 50$, os casos de poliomielite não foram notificados durante dois anos, não foram notificados casos de sarampo no primeiro semestre de 1984 e a maioria das outras doenças evitáveis ​​por imunização foram consideravelmente reduzidas.
+
+O sistema de seguridade social também foi amplamente expandido:
+>O sistema de seguridade social está se expandindo rapidamente. Desde 1979, a percentagem da população ativa coberta pela segurança social duplicou, de 16% para 32%. Talvez mais importante, a maioria dos grupos recentemente cobertos trabalha nos setores agrícolas anteriormente negligenciados em partes remotas do país. A cobertura do INSS oferece seguro de aposentadoria e indenização trabalhista, entre outros benefícios não médicos.
+
+Essas são conquistas importantes, que representam uma melhoria substancial na qualidade de vida de centenas de milhares (senão milhões) de pessoas.
+
+### Educação e alfabetização na Nicarágua
+De acordo com um relatório da UNESCO, a campanha de alfabetização sandinista foi um grande sucesso:
+>Os resultados da campanha foram algo para se orgulhar. A Nicarágua deu uma contribuição substancial para a experiência mundial na busca de soluções para erradicar o analfabetismo.
+
+A taxa de alfabetização melhorou dramaticamente, de aprox. 50% a menos de 13%:
+>Em cinco meses, 95.582 brigadistas conseguiram ensinar 406.056 nicaraguenses a ler e escrever em espanhol de forma que a taxa de analfabetismo de 50,35% pudesse ser reduzida em 37,39 pontos percentuais para 12,96%. Na região mais industrializada do Pacífico a taxa de analfabetismo foi reduzida de 28,06 para 7,8%, na região montanhosa central de 66,74% para 20,21% e na região menos desenvolvida do Atlântico o salto foi maior com 78,07% para 25,59%.
+
+A campanha foi um grande benefício para o povo marginalizado da Nicarágua:
+>Trouxe evidências tangíveis para os grupos mais marginalizados de nicaraguenses de que a sociedade iria incluí-los e o movimento revolucionário mudaria suas vidas para melhor. A campanha foi concebida como parte de um processo de transformação social que visa a redistribuição de poder e riqueza. A campanha ajudou as pessoas a desenvolver habilidades básicas, conhecimentos e atitudes que conduzam a essa transformação.
+
+Esta é uma das expansões mais substanciais da alfabetização que a América Latina já viu e deve ser reconhecida como um modelo de educação revolucionária.
+
+### Política social e igualdade de gênero na Nicarágua
+De acordo com o Fórum Econômico Mundial, a igualdade de gênero na Nicarágua melhorou muito sob os sandinistas. Isso é observado em um [estudo](https://ideas.repec.org/p/pra/mprapa/86769.html) da Universidade de Munique:
+>Nos últimos cinco anos, o Índice Global de Diferenças de Gênero do Fórum Econômico Mundial tem relatado que a Nicarágua é um dos países com maior igualdade de gênero no mundo. Este é o ápice de um notável aumento na igualdade de gênero na Nicarágua durante a última década, mapeado pelo mesmo índice.
+
+As mulheres também se beneficiaram muito de vários programas sandinistas, como a já mencionada campanha de alfabetização. De acordo com o [relatório da UNESCO](https://unesdoc.unesco.org/ark:/48223/pf0000146007):
+>Para muitas mulheres, a campanha de alfabetização representou uma oportunidade de emancipação: 60% dos brigadistas eram mulheres, assim como cerca de 50% dos alfabetizadores. A separação do corpo docente (Exército Popular de Alfabetização) segundo homens e mulheres aumentou as oportunidades de liderança para as brigadistas.
+
+São avanços impressionantes, que deixam clara a dedicação que as revolucionárias sandinistas tiveram para melhorar a condição feminina, assim como seu envolvimento na atividade política e de luta.
+
+Fontes:
+
+### Conclusão sobre a Nicarágua
+Embora os sandinistas tenham inegavelmente cometido grandes erros nos últimos anos (como sua crescente afinidade com as políticas neoliberais, austeridade etc.), suas conquistas não podem ser negadas. Isso é especialmente verdadeiro quando consideramos as terríveis condições por que passaram durante a guerra e a hostilidade do governo dos Estados Unidos desde então.
+
+## Os zapatistas
+Junto com o movimento naxalita da Índia, o Exército Zapatista de Libertação Nacional (mais comumente conhecido como EZLN, ou simplesmente Zapatistas) é sem dúvida a formação socialista revolucionária mais significativa do mundo hoje. Desde o lançamento de sua insurreição em 1º de janeiro de 1994, o EZLN tem servido de inspiração para esquerdistas e indígenas em todo o mundo. Em homenagem ao recente anúncio de que o EZLN está expandindo formalmente seu território, devemos aproveitar esta oportunidade para discutir os zapatistas, suas conquistas e as lições que eles podem nos ensinar. Também podemos estudar os prós e os contras de sua abordagem particular do socialismo revolucionário, que se concentra muito mais na autonomia da comunidade e na democracia direta, em vez de estabelecer uma ditadura do proletariado.
+
+Deve-se notar que, apesar das reivindicações excitadas de numerosos anarquistas, os zapatistas não são um grupo anarquista. Na verdade, eles rejeitam explicitamente o rótulo. Além disso, eles usam imagens da Revolução Cubana (particularmente Che Guevara), e conceitos marxistas aparecem com frequência nos escritos de grandes figuras do movimento zapatista, incluindo o porta-voz de facto do grupo, o Subcomandante Marcos (agora conhecido como Subcomandante Galeano).
+
+### Sistema econômico e padrões de vida zapatistas
+Antes da formação do EZLN, o povo de Chiapas era cruelmente explorado pelo sistema capitalista que existia em sua região. Em 2015, o Subcomandante Insurgente Moisés observou:
+>Antes da criação do Exército Zapatista de Libertação Nacional, nós indígenas de Chiapas não existíamos para o sistema capitalista; não éramos pessoas para isso; não éramos humanos. Nós nem existíamos como lixo por causa disso. E imaginamos que foi assim para os outros irmãos e irmãs indígenas no resto do nosso país. E é assim que imaginamos que seja em qualquer país onde existam indígenas... Ninguém sabia sobre rodovias, ninguém sabia que havia coisas chamadas clínicas e hospitais, muito menos escolas, ou salas de aula para educação. Nunca houve nenhuma campanha de saúde, programas, bolsas, nada. Fomos esquecidos.
+
+Desde o estabelecimento de suas comunidades autônomas, o EZLN transformou radicalmente o sistema econômico da região. Eles estabeleceram um sistema baseado em cooperativas e propriedades coletivas. A escritora anarquista Hilary Klein escreve:
+>Além de saúde e educação, os zapatistas também construíram uma infraestrutura econômica projetada para lidar com o alto nível de pobreza em suas comunidades. Freqüentemente chamada de 'economia solidária', a economia autônoma dos zapatistas oferece uma alternativa popular ao capitalismo global [...] As cooperativas econômicas geram recursos que são investidos de volta na comunidade. Devido à divisão do trabalho por gênero, muitas vezes existem cooperativas de homens e mulheres. Os homens, por exemplo, possuem cooperativas de café ou gado, enquanto as mulheres possuem cooperativas de artesanato, cooperativas de criação de galinhas e hortas coletivas. As lojas cooperativas fornecem mercadorias para os membros da comunidade a preços razoáveis, ao mesmo tempo que geram renda. O dinheiro arrecadado pelas cooperativas é usado para cobrir despesas compartilhadas, por exemplo, quando os representantes da comunidade viajam para uma reunião regional.
+
+Este sistema teve algum sucesso no aumento de receitas para a região; no entanto, a recusa do EZLN em assumir o poder estatal limitou a extensão do que eles podem alcançar. Apesar dos ricos recursos naturais da região, o EZLN optou por permanecer primordialmente agrário, abstendo-se de tentativas de extrair e utilizar esses recursos (pelas quais recebeu críticas de muitos marxistas, como Louis Proyect). Isso está ligado tanto à recusa em assumir o poder do Estado quanto ao desejo de preservar os estilos de vida indígenas tradicionais (um aspecto importante da rebelião zapatista).
+
+Em suma, embora o EZLN tenha conseguido se libertar das cadeias do capital internacional e estabelecer um sistema baseado na ajuda mútua e na propriedade comum, eles não estabeleceram uma economia socialista plenamente desenvolvida. Se eles farão isso no futuro, ainda está para ser visto. As verdadeiras conquistas do EZLN estão nas áreas de saúde, educação e política social, como veremos em breve.
+
+### Cuidados de saúde em territórios zapatistas
+Antes do levante inicial, as pessoas no atual território do EZLN tinham muito pouco acesso a cuidados de saúde e viviam em condições de saúde realmente péssimas. De acordo com a National University of Ireland, Cork:
+>Este descaso com a provisão de serviços de saúde adequados em Chiapas tornou-se um dos principais problemas que levaram o movimento zapatista a vocalizar suas preocupações. Essa visão rapidamente reuniu a comunidade zapatista para iniciar a construção de um sistema de saúde centrado em suas necessidades individuais, costumes e cultura. O sistema de saúde autônomo nasceu e o conceito rapidamente se tornou popular entre todas as comunidades zapatistas.
+
+Desde a revolta do EZLN de 1994, os zapatistas fizeram grandes avanços na área da saúde nos territórios sob seu controle:
+>É claro que os esforços investidos pelos zapatistas no estabelecimento de um sistema de saúde totalmente independente usando recursos limitados foram recompensados ​​pelos benefícios de saúde significativos alcançados em centenas de comunidades zapatistas. Os zapatistas testemunharam melhorias na saúde das mulheres e das crianças. Eles também viram os benefícios para a saúde decorrentes da melhoria da higiene como resultado do papel do promotor de saúde e de seu papel na educação da comunidade. A assistência médica autônoma despertou um senso de propósito nos corações e mentes dos habitantes da comunidade, enquanto eles lidam com confiança com os problemas de saúde de suas aldeias. Em essência, a saúde autônoma sem dúvida trouxe benefícios de saúde duradouros para o mundo dos zapatistas.
+
+A Organização Mundial da Saúde declara:
+>Existem atualmente cerca de 200 casas de saúde comunitárias e 25 clínicas regionais autônomas, algumas das quais já em funcionamento há 10 anos, e uma clínica odontológica... Se tivermos em mente que quase todas as instalações médicas foram construídas nos locais onde não existia antes, é fácil avaliar a importância de alcançar este objetivo graças ao esforço da comunidade.
+
+A saúde das mulheres melhorou dramaticamente nos territórios zapatistas:
+>A saúde autônoma está tendo um efeito positivo na saúde das mulheres e das crianças. Em regiões onde antes havia taxas significativamente altas de mortalidade durante o parto, agora houve um período de oito anos ou mais em que nenhuma morte materna foi registrada. Com a maior disponibilidade de parteiras locais e o conhecimento médico básico fornecido pelo promotor de saúde, as mulheres zapatistas agora estão dando à luz com segurança em suas próprias comunidades, com um risco de morte drasticamente reduzido. Além disso, os exames de câncer e de saúde sexual são realizados com maior frequência, melhorando ainda mais a qualidade de vida das mulheres.
+
+A saúde das crianças também melhorou muito. A National University of Ireland, Cork declara:
+>Assim como acontece com as mulheres, a melhora na saúde das crianças também merece destaque. Os zapatistas agora priorizam ativamente a vacinação das crianças, garantindo que o maior número possível de crianças receba a imunização necessária. Os promotores de saúde também são treinados para detectar os sintomas associados à sepse e icterícia em bebês recém-nascidos e, por meio da mídia visual, organizações estrangeiras estão ensinando os promotores de saúde a identificar e tratar essas doenças.
+
+As comunidades zapatistas têm taxas de vacinação mais altas do que as comunidades pró-governo em Chiapas:
+>Com a maior disponibilidade de assistência médica autônoma, 84% das comunidades zapatistas recebem vacinas importantes contra doenças como a malária. Nas comunidades pró-governo esse número é de apenas 75%, o que significa que menos desses habitantes da comunidade têm acesso às vacinas necessárias, apesar das promessas de saúde do Estado.
+
+Além disso, os zapatistas reduziram significativamente os níveis de doenças infecciosas em suas comunidades:
+>Uma disparidade maior é aparente entre as comunidades pró-governo e as aldeias zapatistas no que diz respeito ao tratamento da tuberculose. Atualmente, 32% dos habitantes zapatistas sofrem de tuberculose, enquanto em grandes porções das comunidades pró-governo, notáveis ​​84% ​​continuam a ter essa infecção respiratória.
+
+Os zapatistas também melhoraram muito a infraestrutura de higiene e saneamento no território sob seu controle:
+>Atualmente, 74% das comunidades zapatistas agora têm acesso a banheiros e isso levou a uma grande melhoria na higiene pessoal. Apenas 54% das comunidades pró-governo podem reivindicar acesso a banheiros em suas casas. Isso fornece evidências claras do impacto positivo que o promotor de saúde tem na educação das comunidades sobre saúde e higiene. Também sugere que as comunidades zapatistas têm apetite por conhecimento e estão dispostas a aprender tudo o que é necessário para proteger sua saúde.
+
+Os zapatistas conseguiram até eliminar virtualmente o consumo de álcool em suas comunidades, o que teve um impacto extremamente positivo na saúde pública:
+>Proclamada como uma das maiores conquistas de saúde para o movimento zapatista, a erradicação da fabricação e do consumo de álcool melhorou significativamente a saúde de todos os zapatistas. Esta política de não tolerância está diretamente ligada à redução de muitas doenças e infecções, incluindo “úlcera, cirrose, desnutrición y heridas con machete”.
+
+No geral, os zapatistas fizeram uma série de avanços tremendos na área da saúde em suas comunidades. A Universidade Nacional da Irlanda, em Cork, observa:
+>É claro, como demonstram esses números, que a saúde zapatista tem um impacto profundo na qualidade de vida de muitos indígenas que frequentam regularmente os serviços de saúde autônoma. A saúde autônoma zapatista tem se mostrado bem-sucedida, em muitos aspectos, na redução de doenças e promoção da independência da comunidade. Esta abordagem à saúde capacita as comunidades a acessar recursos e conhecimentos que abriram oportunidades sem paralelo para a sobrevivência entre comunidades indígenas remotas e isoladas.
+
+A Organização Mundial da Saúde observa:
+>Trata-se de um modelo que tem se mostrado capaz de impactar o que se pode denominar de nível primário de atenção à saúde, atuando dentro de uma estrutura de saúde organizada e como parte de um projeto político. Vista sob essa ótica, conseguiu inserir no cenário uma metodologia que o Serviço Nacional de Saúde não pôde ou não quis desenvolver.
+
+Essas conquistas também conseguiram incutir um senso de dignidade e orgulho nessas comunidades, que antes eram tão mal exploradas. A National University of Ireland, Cork declara:
+>Como resultado da saúde autônoma, as comunidades agora controlam seus serviços de saúde e, juntas, decidem sobre a política de saúde local e a nomeação de um promotor de saúde adequado. Portanto, é natural que essas comunidades desenvolvam uma autoconfiança e empoderamento não sentidos antes da introdução generalizada da saúde autônoma.
+
+As conquistas da saúde nos territórios zapatistas são algumas das maiores conquistas da revolução.
+
+### Educação em territórios Zapatistas
+Além da saúde, o EZLN também melhorou muito a oferta de educação em suas comunidades. Antes da revolta, a educação estava em muito mau estado. A Universidade Nacional da Irlanda, Cork observa:
+>A educação em Chiapas era de baixo padrão e muitas das estatísticas a seguir comprovam essa afirmação. Segundo Rovira (2000), 30% das crianças em Chiapas não frequentavam a escola, enquanto 6,5% da população chiapana era considerada analfabeta. Outros críticos, no entanto, colocaram a taxa de analfabetismo em Chiapas muito mais alta, argumentando que cerca de 18% da população do estado não tinha nenhuma forma de educação básica... Além disso, outras estatísticas divulgadas destacam o baixo desempenho de quem tem acesso à educação básica escolaridade. Apenas 10% das crianças indígenas concluem o ensino fundamental em Chiapas. Em contraste direto, 54% das crianças nacionalmente atingem o mesmo padrão de educação
+
+Como mostram as estatísticas acima, as crianças indígenas estavam em particular desvantagem. Isso é especialmente verdadeiro porque a maioria dos professores não falava uma língua indígena, impedindo assim a capacidade de aprendizagem das crianças indígenas. As escolas estaduais costumam ser acusadas de envergonhar crianças indígenas, com resultados desastrosos:
+>As famílias ficam revoltadas e frustradas porque a educação do Estado “os envergonha por serem indígenas” e os professores funcionários do Estado os acusam de falar “una lengua de perros”, uma referência degradante ao uso das línguas indígenas nativas pelas crianças. De acordo com Castellanos (2014), o abuso de álcool é prevalente em muitas comunidades pró-governo e esses altos níveis de consumo estão ligados a taxas significativamente altas de suicídio entre jovens adolescentes indígenas. Afirma-se que muitos jovens indígenas dessas comunidades recorrem a níveis excessivos de consumo de álcool como forma de enfrentar a discriminação que vivenciam na escola. Estima-se que, em média, seis tentativas de suicídio ocorram por mês entre essa coorte de jovens indígenas que vivem em comunidades pró-governo.
+
+Em contraste, as escolas zapatistas protegeram e ajudaram os indígenas:
+>Muitos observadores do movimento zapatista notaram que o levante indígena de 1994 trouxe uma transformação importante e “ressignificação do que significa ser indígena” no México moderno. Para as comunidades pró-zapatistas, essas “mudanças culturais repentinas” foram experimentadas dentro da estrutura política e social protetora do movimento zapatista. Hoje, a educação autônoma incentiva as comunidades a celebrar suas identidades indígenas e acolhe a “reavaliação de sua cultura e sua língua”. É amplamente aceito que, por meio da educação autônoma, os rebeldes zapatistas “abrigaram jovens zapatistas com mudanças sociais” que tiveram um impacto tão severo sobre aqueles que vivem fora das estruturas protetoras do movimento zapatista.
+
+Os zapatistas expandiram muito o sistema educacional em seus territórios e até começaram a estabelecer um segundo nível em seu sistema educacional:
+>Com o passar dos anos, a educação autônoma expandiu seu alcance em toda a região e, como resultado, os rebeldes começaram a desenvolver uma segunda camada no sistema educacional. Este compromisso lento e constante para avançar seu sistema educacional demonstra a posição importante e respeitada que a educação ocupa no projeto mais amplo de autonomia zapatista.
+
+Embora o sistema zapatista continue focado principalmente na educação primária, ele conseguiu melhorar muito o acesso à educação na região. Relatórios da National University of Ireland, Cork:
+>Embora a educação primária esteja disponível em todas as comunidades zapatistas, há apenas cinco escolas secundárias em funcionamento na região, uma construída em cada Caracol. Os números divulgados em 2001 indicam que 37% de todos os alunos zapatistas estão agora progredindo continuamente para o segundo nível de educação. No entanto, de acordo com as observações de Barmeyer (2008), a escola primária continua sendo o único serviço educacional disponível em todas as comunidades indígenas do território autônomo. No entanto, apesar de sua infraestrutura rudimentar e salas de aula com poucos recursos, a educação autônoma é um sistema bem ajustado, projetado precisamente para cumprir os objetivos que os zapatistas esperavam dela.
+
+O sistema educacional zapatista não está focado apenas no aprendizado em sala de aula; também ajuda os jovens locais a aprender as habilidades necessárias para administrar e sustentar uma comunidade:
+>Os alunos zapatistas frequentam regularmente aulas de agricultura e sustentabilidade ambiental, aprendendo sobre técnicas agrícolas viáveis ​​que ajudam a proteger o meio ambiente e a maximizar os recursos agrícolas limitados dos agricultores locais. Hoje, os jovens agricultores estão aprendendo a plantar videira em seus campos como forma de sufocar e diminuir a disseminação de ervas daninhas em suas terras. É uma prática que devolve nutrientes ao solo e prepara os campos para safras agrícolas consecutivas. Antes da introdução deste método de cultivo único, muitos agricultores não protegiam seus campos e muitas vezes queimavam ervas daninhas, eliminando assim toda a possibilidade de “enriquecer o solo com nutrientes e nitrogênio”. A educação deste tipo é um meio de salvaguardar e assegurar o crescimento de safras vitais, importantes para apoiar os habitantes da comunidade e suas economias locais.
+
+Todas essas informações demonstram que os zapatistas melhoraram muito o acesso à educação em suas comunidades.
+
+### Direitos das mulheres e anti-racismo nas comunidades zapatistas
+Outro avanço importante dos zapatistas é a melhoria das relações de gênero em suas comunidades. Um fator importante para isso foi a proibição do álcool, que reduziu muito os níveis de violência doméstica. Relatórios da National University of Ireland, Cork:
+>As mulheres eram frequentemente trocadas em troca de álcool e as relações sociais entre os sexos muitas vezes não passavam de homens tratando as mulheres como “animais domésticos”. Agora, com sua rejeição completa ao álcool, os zapatistas podem reivindicar uma melhoria significativa nas relações de gênero, com as mulheres agora desafiando “a ordem tradicional” dos papéis de gênero nas comunidades. Remover o álcool da vida zapatista melhorou a saúde e “suavizou as relações humanas” consideravelmente.
+
+A participação democrática da comunidade também desempenhou um papel, já que as pessoas em cada comunidade são livres para discutir abertamente os problemas das relações de gênero e violência sexual:
+>Em um debate sobre saúde comunitária testemunhado pelo autor, Villarreal (2007) afirma que a questão da saúde sexual dominou as discussões em uma assembléia comunitária. Isso demonstra a liberdade que as comunidades têm para lidar com os problemas de saúde enfrentados por sua aldeia e a liberdade de fazê-lo em seus termos.
+
+O EZLN adotou uma abordagem ativa no combate ao patriarcado. Em 2018, os zapatistas organizaram um evento inteiramente por e para as mulheres. Relatórios de não violência:
+>“O que queríamos era conhecer muitas mulheres”, disse a Comandante Jenny, que coordenou o evento. “Achamos que apenas algumas mulheres iriam vir, por isso estamos muito felizes em ver quantas de vocês se juntaram a nós aqui.” Embora apenas seus olhos estivessem visíveis, um sorriso foi detectado por trás de seu capuz preto. “Tem sido um trabalho árduo, mas estamos muito satisfeitos em ver que há muitas outras mulheres lutando contra o patriarcado”. [...] O evento não foi apenas uma oportunidade de criar redes educacionais ou profissionais, mas também um espaço para considerar a saúde e o bem-estar de uma mulher na luta pela justiça. As atividades vão desde oficinas, painéis de discussão e exibição de filmes até apresentações de teatro, exposições de arte e eventos esportivos, incluindo partidas de basquete e futebol. Os temas incluíram violência de gênero, autodefesa, autocuidado, sexismo na mídia, direitos sexuais, saúde e educação, misoginia e infância, discriminação contra comunidades LGBTQ indígenas, mulheres defensoras dos direitos ambientais e descolonização. Todas as atividades foram conduzidas e realizadas por mulheres e todas visaram gerar consciência sobre a desigualdade de gênero ou restaurar a autoconfiança e autonomia das mulheres.
+
+O EZLN conecta sua luta contra o patriarcado e o racismo à luta contra o capitalismo:
+>“O capitalismo não é apenas colonial, é também patriarcal e racista”, disse Fernanda Esquivel, uma estudante de Guadalajara de 20 anos. “Vir aqui e ver que os zapatistas ainda resistem e resistem há tantos anos é uma grande inspiração para mim. Estar com tantas mulheres e sentir-me unida também me dá esperança de realmente criar uma mudança. Na academia não há nada que possa mostrar a você como é vir aqui, sentir e compartilhar essas experiências na prática.”
+
+Os zapatistas implementaram sua Lei Revolucionária para lutar contra a opressão de gênero e outras formas de intolerância:
+>Muitos seguidores da revolução zapatista não estavam cientes dos elementos-chave que formaram o movimento antes de ir a público em 1994. Inegavelmente, uma das principais características que moldaram o movimento foi a "Lei Revolucionária das Mulheres", aprovada pelos comitês zapatistas em 1992.
+>
+>Para Sylvia Marcos, socióloga e especialista em movimentos indígenas nas Américas, a ênfase nos direitos das mulheres é um fator determinante para a organização. Além disso, ela indica que esses direitos foram reivindicados não apenas para as mulheres como indivíduos, mas estavam "totalmente vinculados e entrelaçados com os direitos coletivos".
+
+De modo geral, é claro que o EZLN adotou uma postura firme contra o patriarcado, o racismo e outras formas de discriminação.
+
+### Conclusão sobre o EZLN
+O EZLN conseguiu inúmeras grandes conquistas desde sua revolta em 1994; a recente expansão de seu território dá esperança de que sua revolução cresça e melhore. Embora ainda não tenham conseguido estabelecer o socialismo desenvolvido, suas conquistas já são suficientes para garantir-lhes um lugar na história dos grandes movimentos revolucionários proletários e antiimperialistas.
+
+Fontes:
+- [The Nation | The Zapatista Revolution is Not Over](https://www.thenation.com/article/zapatista-chiapas-caracoles/)
+- [Enlace Zapatista | Political Economy from the Perspective of the Communities: Words of Subcomandante Insurgente Moises](http://enlacezapatista.ezln.org.mx/2015/05/24/political-economy-from-the-perspective-of-the-communities-i-words-of-subcomandante-insurgente-moises-may-4-2015/)
+- [National University of Ireland, Cork | Understanding Zapatista Autonomy: An Analysis of Healthcare and Education](https://www.academia.edu/33163010/Understanding_Zapatista_Autonomy_An_Analysis_of_Healthcare_and_Education)
+- [World Health Organisation (WHO) | Health and Autonomy: The Case of Chiapas](https://www.who.int/social_determinants/resources/csdh_media/autonomy_mexico_2007_en.pdf)
+- [Waging Nonviolence | Zapatista Women Inspire Fight Against Patriarchy](https://wagingnonviolence.org/2018/04/zapatista-women-inspire-fight-against-patriarchy/)
+- [Indigenous Anarchist Federation | Zapatista Response to "The EZLN is NOT Anarchist"](https://iaf-fai.org/2019/05/05/a-zapatista-response-to-the-ezln-is-not-anarchist/)
+
+## A questão Rojava/Curdistão
+Rojava não é necessariamente anarquista, eles usam um sistema chamado "confederalismo democrático" de acordo com eles, que é uma mistura de ideologias. O patrocínio americano do SDF e a criação de um estado curdo sírio serve às políticas americanas estratégicas por meio do controle de recursos essenciais, um estado sírio enfraquecido e um estágio do qual contém o Irã. A liderança curda síria explorou essa aliança e o caos da guerra para federalizar unilateralmente (sem referendo nacional). Os dois atores precisam um do outro, mas não devemos confundir qual ator detém o poder. A balcanização se alinha com os interesses curdos, mas a ocupação projeta o domínio americano e enriquece sua classe dominante.
+
+Nesse contexto, você pode ver o Hasakah como não uma aberração ou irrelevância. O SDF lutou contra a SAA pelo controle de um portal importante durante o auge de sua luta contra o ISIS. Relatos de limpeza étnica curda remontam a 2015. Assim, os curdos não estavam apenas se livrando do ISIS, eles estavam em busca de território, recursos e mudanças demográficas. A "guerra civil" produziu condições favoráveis ​​para a secessão e os curdos agiram em busca de seus próprios interesses. Como os EUA apoiaram o SDF com poder aéreo, artilharia e pessoal, não haveria revolução sem o patrocínio americano. Em outra ação pouco notada em 2018, os EUA atiraram contra a SAA em Deir Ezzor, enquanto o SAR tentava recuperar seus recursos de petróleo legítimos. 100 mortos da SAA. Essas ações são vistas isoladamente apenas por causa da mistificação da ocupação americana.
+
+Rojava não está organizada com base na luta de classes. É incorreto dizer que seu estado avançará a luta de classes de alguma forma mais do que a Síria. Um ideal igualitário e a busca pelos direitos de gênero não é uma luta de classes em si. A burguesia curda abandonou Rojava para as cidades ocidentais. O restante é um movimento das classes média e proletária. O componente intermediário tem interesse em manter o Estado como agente do capital global. A questão da luta de classes é subsumida na luta pela identidade curda radical. Inclusive, Abdullah Öcallan que é o fundador do PKK, uma das organizações mais influentes em Rojava, uma vez disse:
+>O comunismo fez do governo tudo, mas do ser humano nada. Os Estados Unidos representam desenvolvimento.
+
+A Síria é em si mesma um estado progressista, pluralista e secular, um estado historicamente pós-colonial que protegeu admiravelmente os direitos das minorias. É claro que no Ocidente nunca ouvimos falar dos sucessos da Síria. A Síria é inimiga e implacavelmente demonizada, enquanto a cobertura de Rojava como a "melhor esperança" no Oriente Médio é barulhenta e incessante. Uma campanha de propagandização bem-sucedida alimentada e explorada pela liderança política curda e por nossa classe dominante em busca de seus interesses no Oriente Médio.
+
+Não posso dizer se os curdos tinham opções melhores do que a aliança, mas o resultado é claro. O estado curdo foi conquistado à custa da integridade territorial da Síria e nasceu de uma exploração oportunista do caos de guerra. Rojava, através da ocupação dos EUA agora controla 30% dos campos de grãos e 95% dos campos de petróleo. Os Estados Unidos intermediaram as vendas de petróleo que renderam à Rojava expressivos US$ 10 milhões por mês. É do interesse dos EUA que um estado curdo forneça para seu povo, enquanto a Síria for privada de recursos e lucros essenciais pelos quais poderia se recuperar. Como ainda é política oficial que "Assad deve ir", alia-se uma economia débil incapaz de se recuperar. O povo sírio enfrenta longas filas de combustível e pão e os lucros de Rojava. Esses campos pertencem ao SAR, apreendidos durante a guerra e controlados por ocupantes e clientes americanos.
+
+Para desmistificar Rojava, temos que entender a questão curda. Samir Amin argumentou que os curdos são uma nação contestável. A linguagem é dialeticamente distinta por região. As classes burguesas adotam as línguas do Estado hospedeiro. Os curdos persas falam farsi. Os curdos atuaram como agentes turcos no genocídio assírio e dobraram seu território na apreensão dessas terras. Assírios transferidos para o norte da Síria após o genocídio, vivem em contato próximo com seus agressores históricos. Eles são particularmente amargos e desconfiados do etnonacionalismo expansionista curdo. Nesta guerra, milícias curdas apreenderam casas e propriedades desocupadas, interferiram no currículo escolar e estão implicadas na tentativa de assassinato de um líder político siríaco.
+
+Na Síria, o nacionalismo curdo é um nacionalismo retrógrado. Os curdos representam 7% a 10% da população. Os curdos são uma minoria étnica na Síria, mas nada impede de eles conviverem harmoniosamentecom outras etnias no país, como acontece com os Uighurs na China, tanto é que nem todo curdo é defensor do etno-estado que Rojava pretende construir, assim como existem judeus que são contra o Estado genocida de Israel. Mais importante, o nacionalismo curdo sírio não é uma luta anti-imperialista anticolonial. Ele falha o princípio mais básico do ML ainda, estamos tão confusos com esta situação complexa que vacilamos em relação a Rojava e vacilamos em nosso apoio à Síria, que teve sua soberania barbaramente violada. A Síria é a agredida, não o agressor, não nos esqueçamos disso. A situação atual é uma ocupação americana, provavelmente indefinida, de 30% da Síria. Rojava é um instrumento dessa ocupação. Restam cerca de 4.000 soldados, dez bases e PMC não contabilizados e pessoal de apoio. Dada a primazia do FP para a contenção iraniana, os planejadores militares americanos falaram de um 'Sunnistão' abrangendo o território curdo do Iraque e da Síria. É por meio desses territórios que a América pode conter o Irã, bem como lançar esforços desestabilizadores. É incrivelmente ingênuo acreditar que Rojava exercerá controle sobre as bases americanas, pessoal ou ações anti-Irã. Quanto mais nos distraímos com a discussão do sucesso ou fracasso da revolução em seus próprios méritos, mais mistificamos a agressão e ocupação imperialistas. 
+
+Fontes:
+- [Middle East Forum | Abdullah Öcalan: "We Are Fighting Turks Everywhere"](https://www.meforum.org/399/abdullah-ocalan-we-are-fighting-turks-everywhere)
+- [Assyrian Confederation Of Europe | Assyrians Under Kurdish Rule: The Situation in Northeastern Syria](https://fanack.com/wp-pdf-reader.php?pdf_src=/wp-content/uploads/ace201701.pdf)
+- [Mint Press News | U.S. Coalition Cleansing Raqqa Of Arabs To Expand Kurdish “Autonomous Region”](https://www.mintpressnews.com/u-s-coalition-cleansing-raqqa-of-arabs-to-expand-kurdish-autonomous-region/229054/)
+- [Syria Comment | Romancing Rojava: Rhetoric vs. Reality](https://www.joshualandis.com/blog/romancing-rojava-rhetoric-vs-reality/)
+- [Voltaire Network | The Kurds: Washington’s Weapon Of Mass Destabilization In The Middle East](https://www.voltairenet.org/article197437.html)
+- [Alkarama | SYRIA: 15-YEAR-OLD GIRL ABDUCTED AND FORCIBLY RECRUITED BY THE KURDISH PEOPLE'S PROTECTION UNITS IN DECEMBER 2014 STILL MISSING](https://www.alkarama.org/en/articles/syria-15-year-old-girl-abducted-and-forcibly-recruited-kurdish-peoples-protection-units)
+- [Monthly Review | How the U.S. occupied the 30% of Syria containing most of its oil, water and gas](https://mronline.org/2018/04/18/how-the-u-s-occupied-the-30-of-syria-containing-most-of-its-oil-water-and-gas/)
+- [Middle East Monitor | Israel businessman working with army has his eye on Syria oil](https://www.middleeastmonitor.com/20190717-israel-businessman-working-with-army-has-his-eye-on-syria-oil/)
+- [Gowans Blog | The (Largely Unrecognized) US Occupation of Syria](https://gowans.blog/2018/03/11/the-largely-unrecognized-us-occupation-of-syria/)
+- [The Grayzone | All About Syria](https://thegrayzone.com/tag/kurds/)
+- [France 24 | In Syria's breadbasket, Kurds and regime battle for wheat](https://www.france24.com/en/20190611-syrias-breadbasket-kurds-regime-battle-wheat)
