@@ -26,6 +26,8 @@
         * [A questão Stalin](#A-questão-Stalin)
             * [O grande expurgo](#O-grande-expurgo)
             * [A fome ucraniana (holodomor)](#A-fome-ucraniana-holodomor)
+            * [Pessoas inocentes fuziladas por crimes pequenos](#Pessoas-inocentes-fuziladas-por-crimes-pequenos)
+            * [Líder não-democrático](#Líder-não-democrático)
             * [As gulags](#As-gulags)
         * [Trabalhadores na União Soviética](#Trabalhadores-na-União-Soviética)
             * [Participação do trabalhador no local de trabalho](#Participação-do-trabalhador-no-local-de-trabalho)
@@ -50,12 +52,26 @@
             * [Os nazistas não salvaram a Alemanha](#Os-nazistas-não-salvaram-a-Alemanha)
     * [A Iugoslávia](#A-Iugoslávia)
         * [Iugoslávia pré-guerra](#Iugoslávia-pré-guerra)
-        * [Desenvolvimento econômico e de infraestrutura](#Desenvolvimento-econômico-e-de-infraestrutura)
-        * [Conquistas na saúde](#Conquistas-na-saúde)
-        * [Conquistas educacionais](#Conquistas-educacionais)
+        * [Desenvolvimento econômico e de infraestrutura da Iugoslávia](#Desenvolvimento-econômico-e-de-infraestrutura-da-Iugoslávia)
+        * [Conquistas na saúde da Iugoslávia](#Conquistas-na-saúde-da-Iugoslávia)
+        * [Conquistas educacionais da Iugoslávia](#Conquistas-educacionais-da-Iugoslávia)
         * [Direitos das mulheres na Iugoslávia](#Direitos-das-mulheres-na-Iugoslávia)
         * [Conclusão sobre a Iugoslávia](#Conclusão-sobre-a-Iugoslávia)
     * [A Albânia](#A-Albânia)
+        * [Albânia pré-guerra](#Albânia-pré-guerra)
+        * [Desenvolvimento econômico e infraestrutural da Albânia](#Desenvolvimento-econômico-e-infraestrutural-da-Albânia)
+        * [Conquistas na saúde da Albânia](#Conquistas-na-saúde-da-Albânia)
+        * [Conquistas educacionais da Albânia](#Conquistas-educacionais-da-Albânia)
+        * [Segurança social na Albânia](#Segurança-social-na-Albânia)
+        * [Direitos das mulheres na Albânia](#Direitos-das-mulheres-na-Albânia)
+        * [Os problemas da Albânia comunista](#Os-problemas-da-Albânia-comunista)
+        * [Conclusão sobre a Albânia](#Conclusão-sobre-a-Albânia)
+    * [A Polônia](#A-Polônia)
+        * [Desenvolvimento econômico e industrial da Polônia](#Desenvolvimento-econômico-e-industrial-da-Polônia)
+        * [Conquistas na saúde da Polônia](#Conquistas-na-saúde-da-Polônia)
+        * [Conquistas educacionais da Polônia](#Conquistas-educacionais-da-Polônia)
+        * [Direitos das mulheres da Polônia](#Direitos-das-mulheres-da-Polônia)
+        * [Conclusão sobre a Polônia](#Conclusão-sobre-a-Polônia)
     * [Adam Smith concordava com Marx](#Adam-Smith-concordava-com-Marx)
     * [Mitos sobre Marx](#Mitos-sobre-Marx)
     * [A constituição soviética era respeitada](#A-constituição-soviética-era-respeitada)
@@ -1332,6 +1348,47 @@ Fontes:
 
 Também recomendo a leitura dos livros **Stalin: um novo olhar** de Ludo Martens, **Stalin: a história crítica de uma lenda negra** de Domenico Losurdo e **Um Stalin desconhecido** pela família Medvedev (que é liberal e anti-stalin, mas rejeita a narrativa mitíca que se tem sobre Stalin). Também recomendo o prof. Mark Tauger é um dos pesquisadores mais respeitados do mundo no tema história da agricultura soviética,  prof. Annie Lacroix-Riz, acadêmica da universidade Paris VII - Denis Diderot, que defende ser o "holodomor" um cavalo de batalha anticomunista.
 
+#### Pessoas inocentes fuziladas por crimes pequenos
+Para desmascarar esses mitos, usarei artigos do Código Penal da RSFSR 1926 (algumas edições de 1956).
+
+>Mas a minha avó roubou pão e foi condenada perpétua no Gulag.
+
+Este é o tipo de declaração que um capitalista ou anti-stalinista faz. No entanto, se olharmos para o Código Penal, ele afirma:
+>Para combater os crimes mais graves que ameaçam as fundações do poder soviético e do sistema soviético, até que o Comitê Executivo Central da União da República Socialista Soviética cancele, nos casos especialmente indicados nos artigos deste Código, a execução é utilizada como medida excepcional para proteger o estado dos trabalhadores
+>
+> Artigo 21.º do Código Penal da RSFSR
+
+>Uma criança roubou alguma coisa, mas foi condenada à morte mesmo assim, porque Stalin e a URSS são maus.
+
+Outra declaração falsa que ouvi muitas vezes. Em contrapartida, afirmo sempre que:
+>Os menores de dezoito anos à data do crime e as mulheres grávidas não podem ser condenadas à morte
+>
+> Artigo 22.º do Código Penal da RSFSR
+
+Estes são os únicos crimes sob os quais um tribunal pode condená-lo à morte (crimes contra-revolucionários):
+1. Trair a pátria-mãe, ou seja, aqueles que - ameaçam a independência do Estado ou a inviolabilidade do seu território, tais como espionagem, emissão de segredos militares ou de Estado, passagem para o lado do inimigo, fuga ou fuga para o estrangeiro. Artigo 58, parágrafo 1a, do Código Penal da RSFSR.
+2. Qualquer tipo de levante armado ou invasão de fins contra-revolucionários no território soviético por gangues armadas, tomando o poder no centro ou no terreno para os mesmos fins e, em particular, com o objetivo de arrancar à força qualquer parte de seu território a URSS e uma república sindical separada ou a rescisão dos prisioneiros da União SSR com tratados de estados estrangeiros. Artigo 58, parágrafo 2, do Código Penal da RSFSR.
+3. Prestar assistência à burguesia internacional em qualquer forma ou formato. Artigo 58, parágrafo 4
+4. Espiar, isto é, transferir, abduzir ou coletar informações ultrassecretas (contadas como secretas) com o objetivo de entregá-las a organizações contra-revolucionárias ou indivíduos privados. Artigo 58 parágrafo 6 do Código Penal da RSFSR.
+5. Sabotagem contra-revolucionária, ou seja, o não cumprimento deliberado de certos deveres ou seu desempenho deliberado e descuidado com o propósito especial de enfraquecer o poder do governo e as atividades do aparelho de estado. Artigo 58, parágrafo 14, do Código Penal da RSFSR.
+
+Estes são os únicos crimes em que um tribunal pode condená-lo à morte (crimes perigosos):
+1. Motins em massa, acompanhados de pogroms, a destruição de ferrovias ou outros meios de comunicações, assassinatos e outras ações semelhantes. Artigo 59 parágrafo 2 do Código Penal da RSFSR.
+2. Atividade criminosa, ou seja, a organização de gangues armadas e sua participação nos ataques organizados a instituições soviéticas e pessoais ou a cidadãos individuais, paradas de trens e destruição de ferrovias e outros meios de comunicação e centros de comunicação. Art 59 parágrafo 3 do Código Penal da RSFSR.
+3. Roubo de armas, peças de armas e munições. Art 59 parágrafo 3a do Código Penal da RSFSR.
+4. Propaganda ou agitação destinada a incitar o ódio ou ódio étnico ou religioso, bem como a distribuição ou produção e armazenamento de literatura da mesma natureza. Art 59 parágrafo 7 do Código Penal da RSFSR.
+5. Falsificação ou venda de moedas metálicas falsificadas, bilhetes do estado, bilhetes do Banco do Estado da URSS, papéis do governo, bem como falsificação ou venda de moeda estrangeira falsificada. Aer 59 parágrafo 8 do Código Penal da RSFSR.
+6. Contrabando de qualquer forma. Art 59 parágrafo 9 do Código Penal da RSFSR
+
+
+Este é o único crime em que um tribunal pode condená-lo à morte (indivíduos):
+1. Matar outro indivíduo intencionalmente. Art. 136 do Código Penal da RSFSR
+
+Tenham em mente que se você infringir alguma dessas leis, o tribunal decide se vocês seriam ou não condenados à morte. No entanto, em algumas circunstâncias (o tribunal decide), você poderia ser mandado para a prisão em vez de ser baleado, de 3 meses a 10 anos (o que não era raro). Assim, podemos concluir que a URSS de Stalin não atirou em pessoas aleatoriamente sem motivo, pois os tribunais precisavam de legislação adequada para poder condenar pessoas à morte, nem atirou em pessoas por crimes menores. As sentenças de morte seriam aplicadas aos crimes mais severos contra o Estado e a classe trabalhadora.
+
+#### Líder não-democrático
+Em primeiro lugar, Stalin não foi um psicoditador que subiu ao poder por causa de sua violência, ele subiu para seus cargos importantes por meio de eleições. Se você der uma olhada no capítulo 3, artigos 30-34 da [Constituição Soviética de 1936](https://www.marxists.org/reference/archive/stalin/works/1936/12/05.htm), verá que o Soviete Supremo age de forma semelhante a um Parlamento, como nas democracias parlamentares de o Reino Unido e a Holanda, onde o povo não elege diretamente o primeiro-ministro, mas sim vota para o Parlamento e o Parlamento elege um primeiro-ministro, adota novas leis, etc. Os soviéticos fizeram exatamente isso, mas com delegados, “O Soviete da União é eleita pelos cidadãos da URSS de acordo com as áreas eleitorais na base de um deputado para cada 300.000 habitantes”. A legislação (art. 39-40 da constituição de 1936), políticas e diferentes posições no partido (art. 48 da constituição de 1936) também são escolhidos pelo Soviete Supremo por voto popular. Assim, podemos concluir que a URSS de Stalin não foi uma ditadura autoritária desagradável, já que ele havia entrado em confronto com os órgãos às vezes e foi derrotado tanto pelo Politburo quanto pelo Soviete Supremo.
+
 #### As gulags
 Toda a retórica que se vê hoje sobre gulags partem do livro de caráter sensacionalista, beirando a ficção, "Arquipélago Gulag", mas ok, vamos aos fatos:
 1. Gulag era um nome de sistema prisional
@@ -1832,7 +1889,7 @@ De acordo com o Comitê de Helsinque:
 
 Em suma, a Iugoslávia antes da guerra era uma nação economicamente subdesenvolvida, atormentada por altos níveis de analfabetismo, altas taxas de mortalidade, baixa expectativa de vida e epidemias de doenças. Agora que entendemos um pouco mais sobre o estado de coisas quando os comunistas assumiram o controle, vamos agora ver o que eles acharam dessa situação.
 
-### Desenvolvimento econômico e de infraestrutura
+### Desenvolvimento econômico e de infraestrutura da Iugoslávia
 Antes da Segunda Guerra Mundial (e da aquisição comunista), a economia da Iugoslávia estava estagnada. De acordo com o Comitê de Helsinque:
 >De 1921 até a eclosão da Segunda Guerra Mundial, o país não se caracterizou por nenhum progresso econômico excepcional. Nisso, porém, não era diferente da maioria dos países vizinhos, quer se trate, por exemplo, da Grécia, da Hungria ou da Bulgária. Em parte, isso foi consequência do crescimento demográfico, mas já que estamos falando de várias décadas, é claro que no geral a economia estava estagnada e que não é possível falar de qualquer progresso significativo em relação ao desenvolvimento econômico em território iugoslavo no tempo antes do estabelecimento do estado comunista.
 
@@ -1853,7 +1910,7 @@ Infelizmente, a economia iugoslava acabou por começar a estagnar, um problema q
 
 Apesar disso, o rápido crescimento econômico gerado pelo sistema socialista na Iugoslávia continua impressionante, e sua eventual queda serve como um alerta sobre os terríveis perigos de depender excessivamente de investimento estrangeiro, especialmente de instituições burguesas.
 
-### Conquistas na saúde
+### Conquistas na saúde da Iugoslávia
 A Iugoslávia pré-guerra era assolada por péssimas condições de saúde, situação que só foi agravada pela Segunda Guerra Mundial. De acordo com o Comitê de Helsinque:
 >No que diz respeito aos cuidados de saúde da população no Reino da Iugoslávia, era o nível mais baixo de acordo com os padrões europeus. De acordo com dados de 1930, havia 12.204 membros do pessoal médico, incluindo 4.545 médicos e 208 dentistas. Havia também 172 hospitais e 22.895 leitos hospitalares. Na Iugoslávia até 1939, havia 18.193 membros do pessoal médico, incluindo 5.131 médicos e 380 dentistas, o que implica que havia um médico por 3.060 habitantes e um dentista por 41.324 habitantes. Desse número de médicos, 927 trabalhavam em 169 hospitais com 23.534 leitos (apenas 429 mais de vinte anos antes).
 
@@ -1885,7 +1942,7 @@ Para resumir, o Comitê de Helsinque diz:
 
 Os avanços gerais feitos pelo governo comunista na Iugoslávia são notáveis.
 
-### Conquistas educacionais
+### Conquistas educacionais da Iugoslávia
 Outra área em que os comunistas melhoraram dramaticamente a Iugoslávia é a da educação. A Iugoslávia do pré-guerra estava extremamente atrasada no que diz respeito à educação. De acordo com o Comitê de Helsinque:
 >No Reino da Iugoslávia, apesar dos esforços específicos para elevar o nível educacional da população, não houve avanços significativos neste campo. Em 1921, o número de analfabetos com mais de 10 anos chegava a 4.402.059 (50,5% da população), enquanto no censo de 1931 seu número havia aumentado para 4.408.471 (44,6% da população com mais de 10 anos).
 
@@ -1999,3 +2056,250 @@ Mesmo apesar desses problemas, não se pode negar que a era socialista na Albân
 >Apesar das deficiências óbvias da economia albanesa, é inegável que o desenvolvimento econômico ocorreu na Albânia sob Enver Hoxha. [...] Quando se considera que a Albânia antes da guerra praticamente não tinha indústria, os avanços que foram feitos são extremamente impressionantes devido às circunstâncias em que a Albânia se encontrava após a Segunda Guerra Mundial, a decisão do Partido do Trabalho Albanês de implementar uma economia centralizada fazia muito sentido. [...] Do lado positivo, uma análise objetiva deve concluir que o plano de Enver Hoxha de mobilizar todos os recursos da Albânia sob a arregimentação de um plano central foi eficaz e bem sucedido, os resultados alcançados, especialmente nas fases iniciais o planejamento e a construção da base econômica foram impressionantes e positivos.
 
 Em suma, o governo comunista na Albânia foi capaz de realizar um impressionante desenvolvimento econômico e de infraestrutura, com várias décadas de rápido crescimento, especialmente no setor industrial. No entanto, o país acabou enfrentando sérios problemas, causados ​​em grande parte pela insistência dogmática na autossuficiência e na adesão excessiva ao modelo stalinista encorajada por Enver Hoxha.
+
+### Conquistas na saúde da Albânia
+Devido às condições de saúde extraordinariamente ruins que a população enfrentava antes de 1945, o novo governo comunista rapidamente fez da saúde uma prioridade:
+>Conforme explicado anteriormente, quando os comunistas assumiram o poder na Albânia em 1945, o estado de saúde da população e o sistema de saúde albanês estavam em muito mau estado. [...] Para fazer frente a essa situação, o governo, a partir de 1947, introduziu um amplo plano de seguro social e médico. A maioria dos tratamentos médicos (embora não os medicamentos) era fornecida gratuitamente. Foi introduzida legislação para proteger a mãe e o filho e instituiu o regime de pensões, bem como outros regulamentos sobre as condições e controle sanitário e o tratamento de doenças infecciosas.
+
+Os resultados dessas políticas podem ser vistos claramente ao se olhar para as estatísticas de saúde na Albânia. Por exemplo, pegue este gráfico que mostra o aumento na expectativa de vida ao nascer de 1950-1990, retirado do estudo LSE mencionado anteriormente (lembre-se de que a expectativa de vida em 1938 era de aproximadamente 38 anos):
+
+```
+1950 - 51.6
+1954-55	- 55.0
+1960 - 62.0
+1964-65	- 64.1
+1969 - 66.5
+1975-1976 - 67.0
+1979 - 68.0
+1989 - 70.7
+```
+
+A partir dessas estatísticas, fica claro que os comunistas alcançaram um enorme aumento na expectativa de vida, de 38 anos em 1938 para 68 anos em 1979, um aumento de trinta anos em apenas quatro décadas. Continuou a melhorar até 1989, embora de forma mais lenta. Os comunistas também conseguiram eliminar várias doenças infecciosas que assolavam o país, especialmente a malária, que havia sido a maior causa de morte na Albânia antes da guerra:
+>Uma série de doenças endêmicas foram controladas, incluindo malária, tuberculose e sífilis. Se olharmos para a transição da mortalidade de 1950 a 1990, é claro que o padrão muda conforme a expectativa de vida aumenta. Assim, as doenças infecciosas e parasitárias (incluindo a tuberculose) diminuem e quase desaparecem nas décadas de setenta e oitenta.
+
+Resumindo a questão do desenvolvimento médico durante a era socialista, O'Donnell escreve que "é inquestionável que grandes avanços foram feitos na área de saúde". Ele continua:
+>A expectativa de vida e as taxas de mortalidade infantil foram muito melhoradas. Os serviços de saúde como um todo, em termos de qualidade e, mais importante, em termos de disponibilidade foram melhorados exponencialmente.
+
+Os comunistas albaneses alcançaram uma série de realizações extremamente impressionantes no campo da saúde. Infelizmente, isso também começou a sofrer no final do período comunista, quando a falta de investimento e o isolamento auto-imposto cobraram seu preço, causando a falta de tecnologia médica. O'Donnell escreve:
+>Deve-se aplaudir objetivamente as melhorias feitas que foram substanciais e de fato um desenvolvimento positivo. No entanto, por outro lado, deve-se também condenar objetivamente a escassez de equipamentos e suprimentos modernos devido a preocupações ideológicas e isolamento.
+
+Mesmo assim, ele conclui argumentando:
+>A assistência médica deve ser considerada um desenvolvimento positivo na história dos anos de Enver Hoxha no poder na Albânia.
+
+### Conquistas educacionais da Albânia
+A educação era outra das principais prioridades do governo comunista e recebeu atenção substancial assim que assumiram o poder. De acordo com o estudo da LSE acima mencionado:
+>Imediatamente após a tomada do poder em 1944, o regime comunista deu alta prioridade à abertura de escolas e à organização de todo o sistema educacional segundo as linhas comunistas. Uma intensa campanha contra o analfabetismo começou imediatamente.
+
+Essa ênfase resultou em melhorias gerais substanciais para o sistema educacional, com um grande aumento na acessibilidade e frequência. O estudo LSE:
+>Em termos de matrículas, a Albânia tinha um sistema de ensino de base ampla, com quase 90% dos alunos concluindo a escola básica obrigatória de 8 anos e 74% deles continuando na escola secundária. Destes, mais de 40% foram para a universidade. Segundo dados oficiais, no final de 1972 havia 700.000 alunos em idade escolar e universitários, o que significava que um em cada três cidadãos estava matriculado em algum tipo de instituição de ensino. O número de jardins de infância nas áreas urbanas aumentou 112% de 1970 a 1990, enquanto nas áreas rurais aumentou 150%. O número de escolas primárias nas áreas urbanas, no mesmo período, aumentou 31% e nas áreas rurais 24%. O número total de escolas secundárias aumentou 291% e o das escolas secundárias 60%. Uma tendência semelhante é observada no número de alunos que se formaram. Assim, o número de alunos que concluíram o ensino fundamental no período 1970-1990 aumentou 74,8%, no ensino médio o número aumentou 914,2% e, na universidade, 147%. A mensalidade da educação era gratuita. Os alunos cujas famílias tinham baixa renda tinham direito a bolsas de estudo, que lhes davam hospedagem gratuita, alimentação, etc.
+
+A eliminação do analfabetismo é uma das conquistas mais importantes da era socialista na Albânia. O'Donnell escreve:
+>Em termos de educação, onde a grande maioria da população era anteriormente analfabeta, como resultado do sistema educacional de Hoxha, quase todos os albaneses sabem ler e escrever. Esta é, sem dúvida, uma conquista positiva e significativa
+
+O estudo da LSE concorda amplamente com esta avaliação:
+>No final da década de oitenta, a Albânia tinha uma taxa de analfabetismo inferior a 5%, situando-se entre os países desenvolvidos. [...] A realização da educação universal deve ser considerada uma das principais conquistas do regime comunista.
+
+Em suma, a educação se destaca como um dos principais desenvolvimentos positivos da era socialista, algo que mesmo os oponentes do regime geralmente consideram uma grande conquista.
+
+### Segurança social na Albânia
+O sistema de seguridade social era uma das principais prioridades do governo comunista. Com base no modelo soviético, os comunistas desenvolveram um sistema de bem-estar social do berço ao túmulo em todo o país. O estudo LSE acima mencionado:
+>O seguro social foi introduzido pela primeira vez pelo governo comunista albanês em 1947. O esquema inicial de previdência social cobria aproximadamente 75.000 pessoas. O programa de seguro social era administrado por organizações estaduais e cobria assistência médica, indenização por invalidez, aposentadoria por idade, abono de família e descanso e recreação. Várias modificações foram feitas posteriormente no programa básico. A lei de 1953 forneceu um programa muito semelhante ao da União Soviética, ou seja, um sistema clássico de segurança social do berço ao túmulo. Durante vários anos, os sindicatos administraram um grande número de atividades de seguro social. Em 1965, o estado assumiu a administração de todas as fases, exceto as de descanso e recreação.
+
+A licença maternidade e o seguro de invalidez foram fornecidos:
+>Se as pessoas perdessem a capacidade de trabalhar total ou parcialmente, recebiam pensões de invalidez. O valor da pensão variava entre 40-85% do salário dependendo da escala de invalidez, causa da invalidez e número de anos de trabalho. As mulheres grávidas tinham licença de oitenta e quatro dias em circunstâncias normais e eram pagas a 95% do seu salário se tivessem trabalhado por mais de cinco anos e 75% se tivessem trabalhado menos de cinco. O período de licença-gravidez foi estendido para seis meses em 1981. As trabalhadoras podiam ficar em casa por períodos limitados para cuidar dos doentes e durante esse período recebiam 60% do seu salário.
+
+Pensões de velhice também foram fornecidas a todos os trabalhadores aposentados:
+>As pensões de velhice foram baseadas na idade e anos de trabalho. Os pagamentos foram calculados à taxa de 70% do salário médio mensal do trabalhador. Duas exceções foram os veteranos da Segunda Guerra Mundial e os líderes do Partido que receberam um adicional de 10%. A lei também previa pensões para viúvas e órfãos.
+
+Todos os trabalhadores tiveram licença de trabalho garantida, com remuneração:
+>Todos os segurados tinham direito a férias remuneradas. A duração das férias dependia do tipo de trabalho e da duração do vínculo empregatício.
+
+O seguro de cuidados infantis também era um aspecto do sistema de seguridade social:
+>Quando crianças menores de sete anos estavam doentes, um dos pais tinha licença de até dez dias durante um período de três meses. Um pagamento único foi feito à família para cada criança nascida. Em caso de morte, uma quantia fixa foi paga à família para despesas de funeral.
+
+Eventualmente, o sistema foi expandido para incluir camponeses em cooperativas agrícolas:
+>A partir de 1 de julho de 1972, o sistema de pensões e segurança social foi estendido aos camponeses que trabalhavam em cooperativas agrícolas. O objetivo era diminuir as diferenças entre as áreas urbanas e rurais. Algumas cooperativas agrícolas já haviam introduzido algumas formas de pensões e seguro social que fornecem ajuda para seus membros na velhice e quando eles não podiam trabalhar. O financiamento desse sistema de seguridade social no meio rural veio das contribuições das cooperativas com algum subsídio do Estado.
+
+A provisão de um sistema de bem-estar social do berço ao túmulo é uma enorme conquista e um dos principais avanços feitos pelo governo comunista.
+
+### Direitos das mulheres na Albânia
+A Albânia antes da guerra era uma das sociedades mais reacionárias da Terra no que diz respeito aos direitos das mulheres:
+>Para a maioria das mulheres, a vida tradicional albanesa era caracterizada pela discriminação e desigualdade em comparação com os homens, reforçada por uma ampla gama de normas culturais. No período pré-guerra imediato, havia apenas 21 professoras no país, duas mulheres médicas e nenhuma engenheira, agrônoma ou química. Apenas 2,4% dos alunos do ensino médio eram meninas.
+
+Para corrigir esta situação, os comunistas colocaram uma enorme ênfase nos direitos das mulheres:
+>Quando os comunistas chegaram ao poder, consideraram a emancipação das mulheres uma medida política importante, vinculando-a ao destino do socialismo e do comunismo. [,,,] A igualdade entre homens e mulheres foi enfatizada continuamente e até mesmo incluída na Constituição. A Introdução à Constituição do PSR da Albânia diz que “No processo incessante da revolução, a mulher albanesa conquistou a igualdade em todos os campos, tornou-se uma grande força social e está avançando em direção à sua emancipação completa.” O artigo 41 da constituição diz : “A mulher goza de direitos iguais aos do homem no trabalho, na remuneração, nas férias, na previdência social, na educação, em todas as atividades sócio-políticas e também na família.”
+
+As mulheres tornaram-se uma parte ativa da força de trabalho, embora antes fossem quase totalmente excluídas:
+>Direitos iguais incluem, entre outros, o direito igual a ter um emprego. Creches e jardins de infância subsidiados, lavanderias e cantinas em ambos os locais de trabalho e em áreas residenciais foram fornecidos para facilitar o trabalho das mães. Em 1980, as mulheres representavam 46% da população economicamente ativa, um aumento de mais de um quarto em comparação com 1960.
+
+As mulheres também fizeram grandes avanços no acesso à educação, bem como em cargos de poder governamental:
+>As oportunidades educacionais para mulheres também melhoraram consideravelmente. A Tabela 2.5 mostra o aumento do percentual de estudantes mulheres concluintes de acordo com as especialidades. A tabela mostra que o aumento do percentual no período 1960-1990, para as engenheiras foi de 258,6%, enquanto o para as agrônomas foi de 206%, para os economistas de 192%. A mesma política foi adotada para a participação das mulheres nos governos do país.
+
+Edwin E. Jacques discute essa questão em seu [livro](https://books.google.com/books/about/The_Albanians.html?id=IJ2s9sQ9bGkC) The Albanians: An Ethnographic History from Prehistoric Times to the Present. Segundo Jacques, durante a Revolução Cultural e Ideológica, as mulheres foram incentivadas a ocupar todos os cargos, inclusive cargos governamentais, o que resultou em 40,7% dos Conselhos Populares e 30,4% da Assembleia Popular composta por mulheres, incluindo duas mulheres em o Comitê Central em 1985. Em 1978, 15,1 vezes mais mulheres frequentavam escolas de oito anos do que em 1938 e 175,7 vezes mais mulheres frequentavam escolas secundárias. Em 1978, 101,9 vezes mais mulheres frequentavam escolas superiores do que em 1957.
+
+Mesmo os oponentes do regime comunista em geral reconheceram os desenvolvimentos positivos que ele fez em termos dos direitos das mulheres. Por exemplo, veja o seguinte [artigo do Telegraph](https://www.telegraph.co.uk/women/life/growing-up-under-communist-rule-made-me-the-tough-feminist-i-am/), de autoria de um escritor reacionário que cresceu na Albânia comunista:
+>Inspirado pelo debate em curso sobre as desigualdades das mulheres, refleti recentemente sobre minha própria política de infância e cheguei à surpreendente conclusão de que o lugar para procurar soluções para a desigualdade de gênero é o modelo comunista.
+
+Ela comenta sobre o incentivo comunista às mulheres na força de trabalho:
+>A promessa comunista de que as mulheres deveriam ser iguais na força de trabalho não era vazia. As mulheres foram positivamente encorajadas pelas campanhas governamentais a embarcar em todas as profissões, incluindo empregos “masculinos”, com base no fato de terem lutado em grande número ao lado dos homens como guerrilheiros durante a Segunda Guerra Mundial. Para isso, receberam estágios, qualificações profissionais e bolsas de estudo. [...] Ao crescer, nunca encontrei qualquer sugestão de que as mulheres nessas profissões fossem de alguma forma menos capazes do que os homens em virtude de seu gênero e papel adicional como mães. No geral, eles não enfrentaram barreiras de discriminação de gênero. Lembro-me de meus pais e seus amigos elogiarem frequentemente as excelentes médicas e professoras. [...] Essa forma de parceria igualitária era comum na sociedade albanesa em que cresci e, principalmente, o papel das mulheres na família informava como as mulheres eram vistas no local de trabalho e vice-versa. Se os homens sugeriam que as mulheres deveriam ser relegadas à casa, eles eram ridicularizados por suas idéias anacrônicas.
+
+Quando até mesmo um escritor reacionário cujos pais a enviaram para aulas clandestinas de italiano (a língua dos ocupantes fascistas) elogia as políticas comunistas em relação aos direitos das mulheres, isso é uma forte indicação de seu sucesso.
+
+### Os problemas da Albânia comunista
+Apesar das grandes conquistas do governo comunista, houve enormes falhas que acabaram por derrubar a nação. Estes foram:
+
+1. O rígido anti-revisionismo de Hoxha, que se recusou a permitir qualquer desvio do modelo stalinista, mesmo quando certas políticas não faziam mais sentido para as condições atuais.
+2. O isolamento auto-imposto da nação, enquanto Hoxha queimava pontes com outras nações socialistas que não compartilhavam sua interpretação doutrinária do marxismo.
+3. A paranóia que resultou deste isolamento, incluindo a infame campanha de bunker, realizada para evitar uma temida invasão da URSS ou da Iugoslávia. Em média, cada bunker custa tantos recursos quanto um apartamento de dois quartos, e os recursos totais dedicados a construí-los poderiam ter resolvido facilmente o déficit habitacional do país.
+
+Esses problemas deveriam servir como um alerta para todas as gerações subsequentes de socialistas e comunistas, pois mesmo as grandes conquistas do socialismo na Albânia não foram suficientes para evitar que as falhas acima mencionassem tudo.
+
+### Conclusão sobre a Albânia
+A República Socialista Popular da Albânia é um caso complicado para analisarmos. A seguinte avaliação da revolução é dada pelo estudo LSE:
+>No geral, como podemos caracterizar a Albânia comunista? Claramente, apesar do considerável desenvolvimento econômico em relação ao seu nível anterior, permaneceu pobre e principalmente rural. No entanto, a agenda social do desenvolvimento avançou muito mais. A educação e a seguridade social tornaram-se virtualmente universais e os cuidados de saúde estavam disponíveis para todos. Além disso, a discriminação tradicionalmente severa contra as mulheres foi bastante reduzida.
+
+Algumas conquistas dos comunistas são reconhecidas até pelos reacionários:
+>A redução das tradições de longa data de discriminação contra as mulheres e o fornecimento de educação universal e atenção primária à saúde foram conquistas que até mesmo os inimigos do regime reconhecem.
+
+Os comunistas também desenvolveram muito a economia do país, desenvolveram sua infraestrutura e a libertaram do domínio estrangeiro. Um dos melhores resumos das conquistas do socialismo na Albânia é dado pela Enciclopédia Britânica, em seu [artigo](https://www.britannica.com/biography/Enver-Hoxha) sobre Enver Hoxha:
+>A economia da Albânia foi revolucionada sob o longo governo de Hoxha. As terras agrícolas foram confiscadas de ricos proprietários de terras e reunidas em fazendas coletivas que eventualmente permitiram que a Albânia se tornasse quase totalmente autossuficiente em plantações de alimentos. A indústria, que antes era quase inexistente, recebeu enormes quantias de investimento, de modo que na década de 1980 havia crescido e contribuído com mais da metade do produto interno bruto. A eletricidade foi levada a todos os distritos rurais, as epidemias de doenças foram eliminadas e o analfabetismo tornou-se uma coisa do passado.
+
+Apesar de tudo isso, no entanto, as falhas do isolacionismo e do dogmatismo rígido impediram a nação de avançar após 1975 e, por fim, causaram sua queda. Que isso sirva de aviso: o idealismo e o isolamento são fatais para qualquer revolução.
+
+Fontes:
+- [Columbia University Press | "A Coming of Age: Albania Under Enver Hoxha" by James O'Donnell](https://espressostalinist.files.wordpress.com/2010/12/a-coming-of-age.pdf)
+- [London School of Economics | Mortality Transition in Albania, 1950-1990](http://etheses.lse.ac.uk/2870/1/U615819.pdf)
+- [Google Books | "The Albanians: An Ethnographic History from Prehistoric Times to the Present" by Edwin Jacques](https://books.google.com/books/about/The_Albanians.html?id=IJ2s9sQ9bGkC)
+- [The Telegraph | Growing Up Under Communist Rule Made Me the Tough Feminist I Am Today](https://www.telegraph.co.uk/women/life/growing-up-under-communist-rule-made-me-the-tough-feminist-i-am/)
+- [Encyclopedia Britannica | Enver Hoxha](https://www.britannica.com/biography/Enver-Hoxha)
+
+## A Polônia
+A República Popular da Polônia era uma nação complexa, com uma história política carregada. A nação foi atormentada por contradições e conflitos internos, devido a vários fatores, incluindo a influência predominante da Igreja Católica e muitos afirmam que a Polônia nunca teve uma revolução socialista, que o PPR foi estabelecido por meio de influência externa da URSS. Esta é uma visão anacrônica.
+
+Isso é problemático e, em minha opinião, apenas uma meia verdade. Embora seja improvável que a Polônia tivesse estabelecido e consolidado o socialismo sem a presença e assistência da União Soviética, isso não quer dizer que não houve uma verdadeira revolução da classe trabalhadora que levou os comunistas ao poder. Para provar isso, citarei pesadamente o [Class Struggle in Socialist Poland](https://archive.org/details/ClassStruggleInSocialistPoland), um livro escrito pelo sociólogo marxista polonês-americano Albert Syzmanski, que descreve a história da República Popular da Polônia e suas várias crises. Para evitar quaisquer acusações de parcialidade ou propaganda, Syzmanski deliberadamente apenas cita fontes acadêmicas ocidentais no livro:
+>Tal como acontece com meu livro sobre a URSS, é utilizado o princípio de usar fontes quase inteiramente pró-ocidentais e anticomunistas para estabelecer os fatos e, em seguida, interpretar esses fatos dentro da estrutura da análise de classe marxista. O princípio historiográfico de que se aqueles que estão argumentando contra uma hipótese fornecem evidências a favor dela, tais evidências têm uma alta probabilidade de serem verdadeiras, fundamenta este método. Temos sorte não só de ter uma literatura bastante rica sobre a Polônia, como é o caso da URSS, mas também de ter um estabelecimento sociológico bem desenvolvido na Polônia que durante anos, e especialmente durante 1980-81, produziu informações objetivas sobre Opinião pública polonesa. O fato de a Polônia ter sido relativamente aberta aos ocidentais desde meados da década de 1950 também facilitou muito o acúmulo de fatos sobre essa sociedade no Ocidente.
+
+Syzmanski começa o livro expondo suas afirmações, primeiro que a implementação do socialismo na Polônia foi popular, endógena e autêntica:
+>Será mostrado que, ao contrário da impressão de muitos no Ocidente, a classe trabalhadora polonesa tem uma longa tradição revolucionária e que o marxismo tem raízes profundas nesta classe. Além disso, será demonstrado que houve uma genuína revolução operária/camponesa na Polônia em 1944-48 que foi protegida, mas de forma alguma causada, pela presença do Exército Soviético.
+
+Em segundo lugar, que os vários incidentes de descontentamento na Polónia, embora muitos em número, não foram causados pelo sentimento anticomunista, sentimento anti-soviético ou a percepção da natureza antidemocrática do "regime", mas sim movimentos pró-socialistas visando para reverter erros de política específicos do governo:
+>Deve-se enfatizar que nem os membros em massa do Solidariedade nem a maioria dos participantes da classe trabalhadora em manifestações públicas anteriores se opuseram ao socialismo, nem seus protestos foram dirigidos principalmente contra a liderança geral do Partido Comunista na sociedade polonesa. O impulso da participação da classe trabalhadora em greves, manifestações e sindicatos "independentes" concentrou-se, em vez disso, em duas questões: um aumento dos padrões de vida e a institucionalização de um modelo mais descentralizado de socialismo. No entanto, o descontentamento da classe trabalhadora nessas duas questões foi manipulado por intelectuais fortemente anticomunistas que assumiram a liderança do Solidariedade no outono de 1981 com a intenção de derrubar o regime. A conseqüência de seu sucesso pode muito bem ter sido a destruição de qualquer forma de socialismo na Polônia.
+
+Ele passa a fornecer uma visão geral do movimento marxista da classe trabalhadora na Polônia antes da Segunda Guerra Mundial, a fim de demonstrar que a República Popular se manifestou naturalmente. Acontece que essa história é rica, que remonta ao século 19, quando o povo polonês foi subjugado pelo Império Russo. Depois disso, ele detalha o processo pelo qual, durante a Segunda Guerra Mundial e a ocupação nazista da Polônia, as forças progressistas restantes no país começaram a organizar um movimento de resistência, independente do governo fascista polonês exilado em Londres antes da guerra, que se recusou a cooperar com a esquerda. Os comunistas formaram o Partido dos Trabalhadores Poloneses em 1942 e, junto com o Partido Camponês, o Partido Social Democrata e o Partido Nacional Democrático, formaram um governo provisório em 1944 conhecido como Conselho Nacional, que atuou como órgão representativo dos vários comitês e conselhos surgindo em todo o país. Devido à política da Frente Popular de formar uma ampla coalizão e defender reformas democráticas ao invés de uma revolução socialista completa, os comunistas foram capazes de reunir um apoio considerável, que solidificou sua legitimidade em oposição ao agora impopular governo exilado:
+>O governo de Londres no exílio foi abandonado pelos três partidos de massa não comunistas. Mantendo sua base apenas entre as forças mais direitistas e anti-semitas no exterior e em casa, foi reduzido a um traseiro virtualmente irrelevante. Imediatamente após a reconstituição do governo provisório, os Estados Unidos e o Reino Unido reconheceram oficialmente o novo governo como o governo legítimo da Polônia.
+
+Na verdade, os comunistas estavam tão comprometidos com a democracia durante este período que, quando o Exército Vermelho libertou a Polônia e o Conselho Nacional se tornou o governo legítimo, o Partido dos Trabalhadores Poloneses concordou em reorganizar o gabinete para incluir também os exilados poloneses de Londres. reduzindo sua própria influência para apenas 5 dos 21 ministérios, enquanto antes eles detinham 7 de 16. Na próxima seção do livro, focada na Polônia do pós-guerra, Syzmanski mostra como o país se tornou socialista predominantemente devido à demanda popular ao invés da força estatal ou influência soviética, começando com os trabalhadores industriais assumindo as fábricas:
+>Não surpreendentemente, dada a devastação provocada pelos nazistas e a década e meia anterior da ditadura militar, a libertação da Polônia pelo Exército Vermelho em 1944 e 1945 foi recebida com entusiasmo, especialmente pela classe trabalhadora. Na maioria dos casos, as fábricas polonesas foram administradas durante a ocupação por alemães que foram evacuados com o exército alemão em retirada. Com a saída do Exército Alemão, os trabalhadores geralmente continuaram por conta própria, formando conselhos de trabalhadores e elegendo seus próprios supervisores. Como aconteceu em quase toda a Europa ocupada, ocorreu uma transformação socialista espontânea da economia, com os trabalhadores assumindo a produção. A principal diferença entre a Europa Oriental e Ocidental a esse respeito era que o Exército Vermelho não restaurou as fábricas à propriedade privada, em vez disso (pelo menos no início) permitiram que os trabalhadores continuassem.
+
+Embora o campesinato estivesse inicialmente cético em relação a uma possível aquisição comunista, eles também foram conquistados pelo programa de reforma agrária sem precedentes do governo:
+>Uma das primeiras ações do regime foi implementar uma reforma agrária radical, entregando todas as terras às famílias de camponeses. O regime distribuiu 10 milhões de acres para cerca de 1,5 milhão de camponeses sem terra e praticamente sem terra. O estado manteve cerca de 5 milhões de acres, principalmente para fazendas estaduais. Essa reforma neutralizou a oposição política ao regime entre os camponeses e conquistou um apoio considerável do governo nas áreas rurais.
+
+O Partido dos Trabalhadores Poloneses inicialmente continuou sua política de tempo de guerra de apaziguar os partidos não-comunistas e se contentou com um sistema de democracia liberal:
+>Antes de outubro de 1944, a política do Partido Comunista, no entanto, era a eventual restauração da maioria das fábricas à propriedade privada, a fim de criar uma ampla "frente democrática" de forças antifascistas que realizaria reformas "democráticas" básicas (ainda não socialistas).
+
+No entanto, o plano mudou quando ficou claro que a maioria da classe trabalhadora era favorável tanto à nacionalização quanto à reforma agrária, portanto essas políticas foram implementadas:
+>Abandonando sua ampla estratégia de frente popular, projetada para conquistar pequenos e médios capitalistas progressistas, os comunistas adotaram uma estratégia agressiva destinada a conquistar os trabalhadores e camponeses espontaneamente politizados, que tomavam as fábricas e as terras por conta própria.
+
+Além dessas políticas serem implementadas devido principalmente à iniciativa do povo, elas continuaram a ser apoiadas também nas consequências imediatas, enquanto a classe capitalista simultaneamente se tornava cada vez mais ilegítima:
+>A nacionalização de grandes e médias empresas industriais foi tão popular quanto a reforma agrária e foi apoiada por todos os principais partidos, incluindo o Partido dos Camponeses Poloneses, bem como pela maior parte do submundo amargamente anti-russo/anti-semita. A velha e rica burguesia e a aristocracia foram desacreditadas por sua liderança no estado entre guerras e depois dizimadas durante a ocupação nazista. Não havia apoio popular para um retorno ao antigo sistema econômico. O socialismo total estava no ar e tinha, de fato, sido espontaneamente posto em prática pelos trabalhadores imediatamente após a libertação. Em um referendo popular realizado em abril de 1946, 77% da população declarou-se a favor das recentes reformas econômicas.
+
+Na verdade, esses altos níveis de apoio ao socialismo foram mantidos por décadas:
+>Um resumo das pesquisas de atitude por sociólogos poloneses, relatadas na Scientific American em 1981, concluiu: Nossas pesquisas no final dos anos 1950 e início dos anos 1960 mostraram que "o experimento de aprendizagem social em escala nacional" conduzido pelo novo regime teve sucesso em um certo grau. As grandes mudanças na organização social e econômica da sociedade - a nacionalização da indústria, reforma agrária, planejamento econômico, a abolição da estrutura de classes pré-guerra - foram aceitas pelo povo.
+
+Apesar disso, os comunistas mantiveram sua doutrina da Frente Popular voltada para uma democracia pluralista por vários anos, enquanto muitos dos outros partidos foram gradualmente conquistados pelo marxismo:
+>Os comunistas poloneses, seguindo a lógica da Frente Popular do movimento comunista internacional, fortemente enfatizada de 1941 a 1947, fizeram todos os esforços (assim como a URSS) para construir uma coalizão de centro-esquerda tão ampla quanto possível. Governos de coalizão envolvendo comunistas, social-democratas, camponeses e partidos moderados de classe média eram a regra na maior parte da Europa - França, Itália, Finlândia, Tchecoslováquia, Hungria - assim como na Polônia. Até mesmo oficiais do antigo exército foram permitidos no novo exército, a menos que fossem claramente de direita. Boleslaw Bierut, chefe do novo governo de coalizão, declarou: "Estamos prontos para incluir no novo governo os mais amplos círculos de oposição que compartilham plenamente das decisões da Conferência da Crimeia [Ialta]". Ao longo de 1947, todos os partidos de centro e esquerda, bem como a Igreja Católica, funcionaram com um alto grau de liberdade.
+
+Embora uma política mais agressiva em relação à oposição tenha sido adotada posteriormente, isso foi o resultado de uma culminação de fatores relativos à reação dos capitalistas contra as políticas socialistas do governo. Em primeiro lugar, os poloneses de Londres continuaram a agitar contra os comunistas por meio de sua ala militar, o Exército da Pátria Polonês, que lançou uma insurgência que o governo, auxiliado pelo Exército Vermelho, não teve escolha a não ser reprimir violentamente:
+>O Exército da Pátria Polonês continuou a funcionar após a libertação, recebendo ordens dos poloneses cada vez mais direitistas e anticomunistas de Londres e lutando contra o novo regime. Em outubro de 1945, o governo declarou anistia para os soldados rasos do Exército da Pátria. A maioria dos oficiais do Exército da Pátria ordenou a seus membros que parassem de resistir ao governo e aceitassem a anistia. Cerca de 200.000 apoiadores do Exército da Pátria o fizeram. Alguns grupos de direita menores continuaram a se envolver em atos de terrorismo, recusaram-se a aceitar a anistia e, apesar do declínio de sua base popular, concentraram-se em assassinar membros do Exército Soviético e judeus.
+
+Em segundo lugar, os remanescentes de direita dentro do governo provisório decidiram se separar da coalizão e formar um novo partido, o que foi uma violação direta da doutrina da Frente Popular. Este novo desenvolvimento tornou-se mais preocupante com o passar do tempo, desde que os elementos anti-semitas restantes dentro da Polônia, dos quais todos os países da Europa haviam assumido o compromisso coletivo de se livrar, começaram a aderir ao novo partido:
+>Em setembro de 1945, o Partido dos Camponeses se dividiu, com Mikolajczyk estabelecendo um novo Partido dos Camponeses da Polônia (que obteve a maioria) e um Partido dos Camponeses de orientação pró-comunista (a minoria). O Partido dos Camponeses Poloneses de Mikolajczyk favoreceu não apenas uma reforma agrária radical - terra a ser dada a famílias camponesas individuais - mas também a expropriação sem compensação de todas as empresas que empregam mais de 100 trabalhadores por turno, bem como a nacionalização com compensação de capital médio. Em 1944-47, praticamente todos na Polônia apoiavam o socialismo. Ambos os partidos camponeses participaram do governo provisório até janeiro de 1947. No entanto, as forças anticomunistas na Polônia começaram a se agrupar em torno de Mikolajczyk e seu Partido dos Camponeses poloneses, enquanto as forças revolucionárias se agruparam em torno da aliança Socialista-Comunista.
+
+Na eleição que se seguiu entre o anticomunista Partido do Povo Polonês e a coalizão de esquerda chamada Bloco Democrático, o último grupo, liderado pelos comunistas, venceu de forma esmagadora. Embora muitas vezes se afirme que o resultado foi flagrantemente fraudulento, a realidade é muito mais matizada, é certo que houve algum jogo sujo, mas quase certamente não foi o suficiente para mudar o resultado final:
+>Não conseguindo chegar a um acordo com a aliança comunista-socialista, o Partido dos Camponeses Poloneses de Mikolajczyk fez uma lista separada da Frente Democrática, em um claro confronto com a esquerda. A Frente Democrática foi favorecida pela Lei Eleitoral de setembro de 1946, que desqualificou cerca de 1 milhão de pessoas (cerca de 8 por cento do eleitorado) de votar em razão da colaboração com os alemães ou apoio às organizações secretas fascistas, bem como pelo fato das eleições terem sido realizadas (provavelmente propositalmente) em meados de janeiro, quando as estradas rurais estavam cobertas de neve e os camponeses espalhados pelas áreas remotas do campo tiveram mais dificuldade do que os moradores das cidades em chegar às urnas. Além de desqualificar grande parte da direita radical e definir o momento da eleição para minimizar a participação dos camponeses, o governo se envolveu em uma série de outras medidas para garantir a derrota esmagadora do partido de Mikolajczyk, incluindo a desqualificação das listas do Partido dos Camponeses em 10 dos 52 distritos como sendo compostos de direitistas e quase certamente falsificando resultados em algumas áreas onde aos observadores do Partido dos Camponeses foi negado o direito de supervisionar o processo de votação. Os retornos anunciados deram ao partido de Mikolajczyk apenas 10,3% dos votos (e 28 dos 444 assentos no Sejm), em comparação com 80,1% dos votos para a Frente Democrática. A crescente identificação de Mikolajczyk com a direita tradicional que se reunia em torno dele durante a campanha eleitoral fez com que muitos progressistas de seu partido rompessem com ele e apoiassem a lista do governo. Embora os bispos poloneses instruíssem todos os católicos a votarem contra o comunismo "ateísta" (de fato para Mikolajczyk), muitos camponeses votaram na Frente Democrática na chapa pró-governo do Partido dos Camponeses / Nova Libertação. Não está nada claro que, em um concurso totalmente aberto, Mikolajczyk teria replicado o sucesso do Partido dos Camponeses Húngaros e conquistado a maioria dos votos. Um líder comunista admitiu: "Se soubéssemos antes das eleições de janeiro pela grande margem que ganharíamos, não teríamos nos envolvido nessas pressões e desonestidades menores que ocorreram em muitas localidades".
+
+Não muito depois disso, os membros anticomunistas restantes do governo foram removidos por atividades contra-revolucionárias, e os vários partidos da coalizão de esquerda formaram uma entidade monolítica chamada Partido dos Trabalhadores Unidos Polonês, efetivamente confirmando o estabelecimento de um estado socialista na Polônia. Embora pareça um tanto autoritário, é totalmente razoável quando colocado no contexto adequado, sendo a escalada da Guerra Fria, a expulsão forçada de comunistas dos governos da Europa Ocidental sancionada pelos Estados Unidos e a ameaça de mudança para o regime imperialista. A seguinte citação vem de uma [biografia de Stalin](http://www.bard.edu/library/arendt/pdfs/Deutscher_Stalin.pdf) escrita pelo marxista polonês Isaac Deutscher que, apesar de ser claramente um simpatizante do comunismo, também é um trotskista, portanto, há poucos motivos para suspeitar que ele seja tendencioso:
+>Atrás de seu escudo militar, Stalin acelerou a revolução na Europa Oriental. Se o poder econômico da América permitisse a Washington exercer um controle político indireto e discreto sobre seus aliados da Europa Ocidental, a Rússia só poderia prevalecer na Europa Oriental por meio de controle político direto e força bruta. A impressão que a oferta do Plano Marshall causou mesmo na Europa oriental mostrou quão favorável havia para a penetração americana. Os remanescentes da burguesia polonesa, húngara e da Alemanha Oriental e grande parte do campesinato individualista oravam pela aniquilação nuclear da Rússia e do comunismo. As classes trabalhadoras estavam morrendo de fome. A contra-revolução ainda poderia reunir uma força considerável. É verdade que na Iugoslávia, Tchecoslováquia e Bulgária o comunismo ainda era esmagadoramente popular; mas no resto da Europa oriental era fraco ou, pelo menos, incapaz de se manter firme por suas próprias forças. Stalin agora resolveu estabelecê-lo irrevogavelmente; e assim, enquanto os comunistas eram expulsos dos governos da Itália e da França, ele providenciou para que os anticomunistas fossem expulsos dos governos da Europa Oriental e suprimidos. Ele instalou o sistema de partido único em toda a esfera de influência soviética.
+
+Além disso, Deutscher acredita que os soviéticos inicialmente não tinham intenção de exportar o socialismo para a Polônia, ou qualquer parte do Leste Europeu, e só voltaram a isso depois desses eventos:
+>Tampouco Stalin deu qualquer impressão clara de que patrocinaria a revolução nos países da zona russa. Os propagandistas comunistas falavam uma língua nacionalista e até clerical. O rei Miguel da Romênia foi deixado em seu trono; e ele até recebeu uma das mais altas ordens militares russas por sua parte no golpe em consequência do qual a Romênia se separou da Alemanha. Os generais soviéticos e os líderes comunistas locais prestaram homenagem ao clero ortodoxo grego nos países balcânicos. Na Polônia, eles cortejaram o clero católico romano. Não se falava ainda em socialização da indústria. Apenas as reformas agrárias há muito esperadas foram iniciadas.
+
+Essa posição também é apoiada por muitos outros, incluindo o escritor, jornalista e historiador Alexander Werth, embora seu raciocínio seja um pouco diferente:
+>A Finlândia, que não representava mais nenhum perigo para a União Soviética após a Segunda Guerra Mundial, continua a ser uma democracia do tipo ocidental até hoje, assim como a Áustria. Foi até mesmo sugerido por um historiador americano que Stalin teria ficado perfeitamente satisfeito se meia dúzia de "Finlândias" pudesse ter sido criada na Europa Oriental. Mas isso dificilmente foi possível em um país como a Polônia, com sua longa tradição de russo-fobia, nem muito fácil em países como Romênia e Hungria, uma vez que a Guerra Fria, com seu desafio à “esfera de influência” da Rússia, havia começado sério, o que aconteceu desde o momento em que terminou a Segunda Guerra Mundial.
+
+Finalmente, Nikita Kruschev, apesar de ser um dos críticos mais severos de Stalin, refuta a noção de que ele teve qualquer influência sobre os assuntos poloneses durante os anos imediatos do pós-guerra, contando uma anedota sobre os expurgos que ocorreram:
+>Então, um dia, quando eu estava na casa de Stalin, ele recebeu um telefonema. Ele ouviu impassível, desligou e voltou para a mesa onde eu estava sentado. Como era seu hábito, ele não se sentou, mas caminhou pela sala. “Era Beirute ligando,” ele disse. “Eles prenderam Gomulka. Não tenho certeza se foi a coisa certa a fazer. Eu me pergunto se eles têm motivos suficientes para prendê-lo.”
+>
+>Em relação a prisão de Gomulka, não posso concordar que Stalin foi o responsável. Eu sabia com certeza, ouvi de Stalin, que ele não ordenou a prisão de Gomulka; pelo contrário, ele até expressou dúvidas sobre a prisão. Ele confiava em Gomulka.
+
+Terminarei fornecendo duas fontes adicionais, que são relatos de testemunhas oculares de pessoas que visitaram a Polônia no pós-guerra, testemunharam a transformação socialista e confirmaram que foi um processo democrático popular independente da URSS.
+
+Fontes:
+- [Transnational Economic Systems](https://drive.google.com/file/d/0B7iUwYR74MlbcFBxbWxsdHNLMHM/view), escrito pela antropóloga econômica Dorothy Douglas
+- [I Saw the New Poland](https://www.revolutionarydemocracy.org/archive/polblurb.htm), escrito pela jornalista americana Anna Louise Strong
+
+### Desenvolvimento econômico e industrial da Polônia
+Antes da Segunda Guerra Mundial, a Polônia estava atrás do resto da Europa em termos de desenvolvimento industrial. Para piorar a situação, a Segunda Guerra Mundial devastou totalmente as cidades e centros econômicos do país, deixando a economia em ruínas. De acordo com o Anuário Estatístico das Nações Unidas de 1948, a produção industrial da Polônia em 1945 era de apenas 48% do que era em 1938 (pág. 126). Isso reflete os danos causados ​​à economia polonesa pela Segunda Guerra Mundial.
+
+Depois que o sistema socialista entrou em vigor, a economia começou a crescer rapidamente. O Anuário Estatístico da ONU de 1948 mostra que a produção industrial da Polônia em 1948 já era 153% do que era em 1938 (pág. 126). Isso significa que a produção industrial cresceu mais de 300% de 1945 a 1948 (combinando a recuperação do pós-guerra com a introdução do sistema socialista).
+
+Esse crescimento continuou por várias décadas. O Anuário Estatístico da ONU de 1978 mostra que a produção industrial em 1977 era 193% do que era em 1971, em comparação com apenas 44% em 1960 (pág. 168). Isso resulta em um aumento de quase 500% na produção industrial entre 1960 e 1977 (mais do que dobrando entre 1960 e 1970, do que aumentando 93% a partir daí). Isso demonstra a imensa produtividade do sistema socialista.
+
+### Conquistas na saúde da Polônia
+Antes dos comunistas assumirem, a Polônia era uma nação terrivelmente insalubre. De acordo com a University of Bath (uma das melhores universidades de pesquisa na Grã-Bretanha):
+>Antes da Segunda Guerra Mundial, a Polônia era um dos países com pior saúde na Europa. Na década de 1930, a expectativa de vida na Polônia era de cerca de 46 anos para ambos os sexos; no mesmo período, na Alemanha, foram mais de 61 anos. A mortalidade infantil foi estimada em 150 mortes por 1.000 nascidos vivos. A situação foi agravada pela Segunda Guerra Mundial; entre 1939 e 1945, a esperança de vida na Polónia caiu 20-25 anos.
+
+Essas estatísticas são verificadas no Anuário Estatístico da ONU de 1948 (pág. 58), que incluiu dados de 1931 em diante, refletindo as condições precárias de saúde na Polônia pré-comunista. Assim que o sistema socialista entrou em vigor, as coisas começaram a melhorar rapidamente. De acordo com a University of Bath:
+>A transformação da saúde que ocorreu na Polônia após a Segunda Guerra Mundial ocorreu muito rapidamente. O controle de doenças infecciosas e mortalidade infantil tornou-se uma prioridade de Estado na República Popular da Polônia do pós-guerra. A expectativa de vida na Polônia aumentou para 70 anos e a mortalidade infantil diminuiu para 30 mortes por 1000 nascidos vivos.
+
+Assim, podemos ver que a expectativa de vida aumentou em décadas e a mortalidade infantil caiu oitenta por cento. Essas mudanças (e outras semelhantes em outras nações socialistas) levaram a Europa Central e Oriental a quase fechar a lacuna da saúde com a Europa Ocidental, que havia sido tão pronunciada antes do socialismo:
+>A transição epidemiológica que no Reino Unido ou na Alemanha levou quase um século, na Polônia e em muitos outros países da Europa Central e Oriental (CEE), ocorreu nas duas décadas seguintes à Segunda Guerra Mundial. Este processo levou a região CEE a quase fechar a lacuna de saúde que a separava da Europa Ocidental na década de 1960.
+
+No lado negativo, a República Popular da Polônia viu um consumo cada vez maior de álcool e cigarros, o que levou a um aumento nas taxas de mortes evitáveis. Este problema também ocorreu em outras nações do bloco soviético:
+>Na Polónia, o consumo de vodka e a prevalência do tabagismo atingiram alguns dos níveis mais elevados da Europa. Este aumento dramático na exposição a fatores de risco de estilo de vida (um aumento na venda de cigarros de 20 bilhões de cigarros por ano após a Segunda Guerra Mundial para cerca de 100 bilhões na década de 1980, e um aumento no consumo de álcool de 3 litros por ano para quase 9 litros no mesmo período), levou a Polônia e a região CEE a uma catástrofe de saúde causada pelo aumento de doenças crônicas.
+
+Apesar desses problemas (que não foram resultado do socialismo, mas sim do consumo excessivo de álcool e fumo), as conquistas da saúde da República Popular da Polônia continuam impressionantes.
+
+### Conquistas educacionais da Polônia
+A Polónia pré-comunista viu o analfabetismo generalizado e a falta de educação. De acordo com um artigo de 1935 da revista polonesa New Courier (não deve ser confundido com a New Courier de Varsóvia, um veículo de propaganda nazista fundado em 1939):
+>Na Polónia, no povoado de Kobrin, menos de 75% escrevem e lêem nas cidades e apenas 52% no campo. Em Kosowski poviat, 82% em cidades pequenas e 43% em áreas rurais. No povoado de Koszalin, onde não há cidades, há apenas 30% que sabem ler e escrever.
+>
+>Polesie é de fato uma das áreas da Commonwealth que é econômica e culturalmente negligenciada, mas, deve-se lembrar, não é a mais negligenciada. Infelizmente, os dados dos poviats da Província de Varsóvia, ou seja, de uma posição economicamente bastante elevada e em órbita da influência da capital, mostram que a condição não é muito melhor lá também. No poviat de Płońsk, 73% escrevem e lêem nas cidades. População, 68% no campo 77 por cento em Sierpc e 68 por cento em Ciechanów 80% (cidades) e 70% (aldeia).
+>
+>As estatísticas do censo são atuais tanto quanto há três anos. E os números dessa estatística não são apenas perigosos, eles são assustadores.
+
+Após a conquista comunista, o sistema educacional foi drasticamente melhorado. O nível de analfabetismo foi reduzido drasticamente. De acordo com a Enciclopédia Polonesa publicada pela PWN (a principal editora de obras de referência científica e acadêmica na Polônia):
+>Já em 1960, o censo mostrava 645.000 analfabetos totais e 270.000 semianalfabetos entre aqueles com mais de 50 anos. Em 1988, a taxa de analfabetismo na Polônia era de 2%.
+
+Embora o PWN coloque as taxas de alfabetização pré-comunista um pouco mais altas do que o New Courier, ainda podemos ver a melhoria drástica na situação educacional feita sob os comunistas, particularmente nas áreas rurais.
+
+### Direitos das mulheres da Polônia
+As mulheres obtiveram grandes ganhos na República Popular da Polônia. Os direitos reprodutivos e o aborto são um grande exemplo disso. Antes da era comunista, o aborto só era legal em casos de atividade sexual criminosa. De acordo com a Brown Political Review:
+>No início do século 20, o aborto era ilegal em qualquer circunstância na Polônia. Mas em 1932, a Polônia promulgou um código que legalizou o aborto nos casos de um ato criminoso, ou seja, estupro, incesto e sexo com menores. Esta foi a primeira lei de aborto que perdoou o aborto em caso de crime. A lei permaneceu nos livros de 1932 a 1956.
+
+No entanto, foi apenas na era comunista que o aborto se tornou totalmente legal, bem como disponível gratuitamente:
+>Em 1956, o Sejm polonês (a câmara dos deputados do parlamento), de acordo com a ortodoxia do Partido Comunista, legalizou o aborto quando as mulheres expressarem “difíceis condições de vida”. Durante as décadas de 60 e 70, o aborto tornou-se disponível gratuitamente em hospitais públicos e clínicas privadas. Embora o sistema soviético encorajasse as mães a engravidar, a lei deixava que os médicos decidissem se o aborto deveria ser realizado e, em grande parte, garantia fácil acesso à operação.
+
+Até mesmo comentaristas reacionários reconheceram a igualdade de gênero na era comunista. De acordo com o The Guardian:
+>Estampado no DNA dessa sociedade, desde os anos do pós-guerra até 1991, estava que todos tinham que trabalhar; para isso, deveria haver igualdade de acesso à educação, cuidados infantis (principalmente ligados aos locais de trabalho) e cuidados aos idosos.
+
+O emprego para mulheres era extremamente alto na era comunista, e caiu drasticamente depois:
+>Ao longo dos anos comunistas, a participação feminina na força de trabalho era incrivelmente alta, frequentemente citada em 90%. Com o colapso do comunismo, a participação caiu para 68% e agora está em 45%.
+
+Uma mulher polonesa é citada como tendo dito:
+>O regime não fazia absolutamente nenhuma distinção entre homens e mulheres. Eu nunca pensei sobre a divisão - todo avanço na sociedade estava aberto a homens e mulheres igualmente.
+>
+>No que diz respeito à educação era absolutamente igual, na medida em que nas universidades técnicas - as de alto padrão de engenharia - acho que 30% dos alunos eram mulheres (isso foi na década de 1960 - cursos de engenharia no Imperial College Londres ainda tem uma proporção de homens para mulheres de 5:1 hoje).
+
+Tenha em mente que este artigo do The Guardian foi escrito de uma perspectiva firmemente anticomunista, e mesmo assim reconhece que "o fim do comunismo na Polônia não ajudou as mulheres polonesas". Isso demonstra as melhorias nos direitos das mulheres feitas durante os comunistas.
+
+### Conclusão sobre a Polônia
+
+A República Popular da Polônia dificilmente era uma nação perfeita. Teve numerosos conflitos internos, devido à influência social reacionária da igreja, bem como ao fato de que o socialismo polonês não se originou com uma revolução interna, mas sim com a influência soviética externa. Ainda assim, o socialismo na Polônia conseguiu melhorar muito a saúde da população, desenvolver a economia em um ritmo rápido e melhorar muito o sistema educacional.
+
+Em suma, camaradas, devemos aprender algumas lições importantes da República Popular da Polônia:
+1. Mesmo nessas condições não ideais, o socialismo é capaz de proporcionar um desenvolvimento econômico superior e qualidade de vida quando comparado ao capitalismo.
+2. É essencial que uma revolução se concentre em eliminar os elementos reacionários da cultura nacional, para evitar uma situação semelhante à da Polônia, onde a Igreja Católica controlava amplamente a esfera social. No entanto, devemos também evitar ir longe demais nisso e perseguir a religião e as pessoas religiosas. A revolução não se opõe às crenças pessoais das pessoas; são as instituições religiosas reacionárias (como a Igreja Católica) que devem ser combatidas.
+3. Não devemos ser conservadores na Revolução, não adianta tentar manter relações sociais já fragilizadas e arruinadas pela Revolução.
+
+Essas são lições que devem ser aprendidas.
