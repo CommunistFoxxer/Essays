@@ -1,23 +1,5 @@
 # Essays
-* [Mitos](#Mitos)
-    * [Mito sobre a origem do dinheiro](#Mito-sobre-a-origem-do-dinheiro)
-    * [Espantalho da religião ser o ópio do povo](#Espantalho-da-religião-ser-o-ópio-do-povo)
-    * [O imperialismo no mundo moderno](#O-imperialismo-no-mundo-moderno)
-    * [O capitalismo não funciona](#O-capitalismo-não-funciona)
-    * [O socialismo funciona sim](#O-socialismo-funciona-sim)
-    * [Por que a educação no socialismo é melhor](#Por-que-a-educação-no-socialismo-é-melhor)
-    * [Invenções soviéticas](#Invenções-soviéticas)
-    * [Países socialistas antes do socialismo](#Países-socialistas-antes-do-socialismo)
-    * [Lenin não era antissemita](#Lenin-não-era-antissemita)
-    * [A violência segundo Lenin](#A-violência-segundo-Lenin)
-    * [A origem da teoria da conspiração judaíca-maçom](#A-origem-da-teoria-da-conspiração-judaíca-maçom)
-    * [O que realmente é o fascismo e o nazismo](#O-que-realmente-é-o-fascismo-e-o-nazismo)
-    * [Mises e Hayek admiravam o fascismo](#Mises-e-Hayek-admiravam-o-fascismo)
-    * [O verdadeiro Winston Churchill](#O-verdadeiro-Winston-Churchill)
-    * [O socialismo não matou 100 milhões](#O-socialismo-não-matou-100-milhões)
-    * [Mitos da revolução russa](#Mitos-da-revolução-russa)
-    * [Revoluções não são violentas](#Revoluções-não-são-violentas)
-    * [Apenas a luta de classes muda a realidade](#Apenas-a-luta-de-classes-muda-a-realidade)
+* [Experiências socialistas](#Experiências-socialistas)
     * [A União Soviética](#A-União-Soviética)
         * [Revolução, comunismo de guerra e NEP](#Revolução-comunismo-de-guerra-e-NEP)
         * [Criminosos anarquistas na URSS](#Criminosos-anarquistas-na-URSS)
@@ -36,21 +18,6 @@
         * [Conclusão sobre os trabalhadores na URSS](#Conclusão-sobre-os-trabalhadores-na-URSS)
         * [Conclusão sobre a URSS](#Conclusão-sobre-a-URSS)
     * [Uma resposta ao bearkunin sobre a URSS](#Uma-resposta-ao-bearkunin-sobre-a-URSS)
-    * [Mitos da guerra de inverno](#Mitos-da-guerra-de-inverno)
-    * [Segunda Guerra Mundial](#Segunda-Guerra-Mundial)
-        * [Mitos do pacto Molotov-Ribbentrop](#Mitos-do-pacto-Molotov-Ribbentrop)
-        * [Mitos da invasão polonesa](#Mitos-da-invasão-polonesa)
-        * [A URSS sabia que Hitler ia atacar](#A-URSS-sabia-que-Hitler-ia-atacar)
-        * [A URSS foi a maior responsável pela derrota dos nazistas](#A-URSS-foi-a-maior-responsável-pela-derrota-dos-nazistas)
-        * [O plano era deixar os nazistas massacrarem a URSS](#O-plano-era-deixar-os-nazistas-massacrarem-a-URSS)
-        * [Hitler não era um grande estrategista](#Hitler-não-era-um-grande-estrategista)
-        * [A família britânica e o nazismo](#A-família-britânica-e-o-nazismo)
-        * [O mito do massacre de Katyn](#O-mito-do-massacre-de-Katyn)
-        * [Sobre os crimes de guerra do Exército Vermelho](#Sobre-os-crimes-de-guerra-do-Exército-Vermelho)
-        * [Mitos sobre o nazismo](#Mitos-sobre-o-nazismo)
-            * [O nazismo não era socialista](#O-nazismo-não-era-socialista)
-            * [Os nazistas não eram sociais-democratas](#Os-nazistas-não-eram-sociais-democratas)
-            * [Os nazistas não salvaram a Alemanha](#Os-nazistas-não-salvaram-a-Alemanha)
     * [A Iugoslávia](#A-Iugoslávia)
         * [Iugoslávia pré-guerra](#Iugoslávia-pré-guerra)
         * [Desenvolvimento econômico e de infraestrutura da Iugoslávia](#Desenvolvimento-econômico-e-de-infraestrutura-da-Iugoslávia)
@@ -107,6 +74,45 @@
         * [Educação em territórios Zapatistas](#Educação-em-territórios-Zapatistas)
         * [Direitos das mulheres e anti-racismo nas comunidades zapatistas](#Direitos-das-mulheres-e-anti-racismo-nas-comunidades-zapatistas)
         * [Conclusão sobre o EZLN](#Conclusão-sobre-o-EZLN)
+    * [A Bolívia](#A-Bolívia)
+        * [Realizações econômicas, crescimento e redução da pobreza na Bolívia](#Realizações-econômicas-crescimento-e-redução-da-pobreza-na-Bolívia)
+        * [Reformas sociais e conquistas da Bolívia](#Reformas-sociais-e-conquistas-da-Bolívia)
+        * [Política externa e anti-imperialismo boliviano](#Política-externa-e-anti-imperialismo-boliviano)
+        * [Conclusão sovre a Bolívia](#Conclusão-sobre-a-Bolívia)
+* [Mitos](#Mitos)
+    * [Mito sobre a origem do dinheiro](#Mito-sobre-a-origem-do-dinheiro)
+    * [Espantalho da religião ser o ópio do povo](#Espantalho-da-religião-ser-o-ópio-do-povo)
+    * [O imperialismo no mundo moderno](#O-imperialismo-no-mundo-moderno)
+    * [O capitalismo não funciona](#O-capitalismo-não-funciona)
+    * [O socialismo funciona sim](#O-socialismo-funciona-sim)
+    * [Por que a educação no socialismo é melhor](#Por-que-a-educação-no-socialismo-é-melhor)
+    * [Invenções soviéticas](#Invenções-soviéticas)
+    * [Países socialistas antes do socialismo](#Países-socialistas-antes-do-socialismo)
+    * [Lenin não era antissemita](#Lenin-não-era-antissemita)
+    * [A violência segundo Lenin](#A-violência-segundo-Lenin)
+    * [A origem da teoria da conspiração judaíca-maçom](#A-origem-da-teoria-da-conspiração-judaíca-maçom)
+    * [O que realmente é o fascismo e o nazismo](#O-que-realmente-é-o-fascismo-e-o-nazismo)
+    * [Mises e Hayek admiravam o fascismo](#Mises-e-Hayek-admiravam-o-fascismo)
+    * [O verdadeiro Winston Churchill](#O-verdadeiro-Winston-Churchill)
+    * [O socialismo não matou 100 milhões](#O-socialismo-não-matou-100-milhões)
+    * [Mitos da revolução russa](#Mitos-da-revolução-russa)
+    * [Revoluções não são violentas](#Revoluções-não-são-violentas)
+    * [Apenas a luta de classes muda a realidade](#Apenas-a-luta-de-classes-muda-a-realidade)
+    * [Mitos da guerra de inverno](#Mitos-da-guerra-de-inverno)
+    * [Segunda Guerra Mundial](#Segunda-Guerra-Mundial)
+        * [Mitos do pacto Molotov-Ribbentrop](#Mitos-do-pacto-Molotov-Ribbentrop)
+        * [Mitos da invasão polonesa](#Mitos-da-invasão-polonesa)
+        * [A URSS sabia que Hitler ia atacar](#A-URSS-sabia-que-Hitler-ia-atacar)
+        * [A URSS foi a maior responsável pela derrota dos nazistas](#A-URSS-foi-a-maior-responsável-pela-derrota-dos-nazistas)
+        * [O plano era deixar os nazistas massacrarem a URSS](#O-plano-era-deixar-os-nazistas-massacrarem-a-URSS)
+        * [Hitler não era um grande estrategista](#Hitler-não-era-um-grande-estrategista)
+        * [A família britânica e o nazismo](#A-família-britânica-e-o-nazismo)
+        * [O mito do massacre de Katyn](#O-mito-do-massacre-de-Katyn)
+        * [Sobre os crimes de guerra do Exército Vermelho](#Sobre-os-crimes-de-guerra-do-Exército-Vermelho)
+        * [Mitos sobre o nazismo](#Mitos-sobre-o-nazismo)
+            * [O nazismo não era socialista](#O-nazismo-não-era-socialista)
+            * [Os nazistas não eram sociais-democratas](#Os-nazistas-não-eram-sociais-democratas)
+            * [Os nazistas não salvaram a Alemanha](#Os-nazistas-não-salvaram-a-Alemanha)
     * [A questão Rojava/Curdistão](#A-questão-Rojava/Curdistão)
     * [Adam Smith concordava com Marx](#Adam-Smith-concordava-com-Marx)
     * [Mitos sobre Marx](#Mitos-sobre-Marx)
@@ -119,8 +125,6 @@
     * [Não havia um fosso entre os EUA e a URSS](#Não-havia-um-fosso-entre-os-EUA-e-a-URSS)
     * [A farsa do discurso secreto](#A-farsa-do-discurso-secreto)
     * [Mitos sobre Che Guevara e Fidel Castro](#Mitos-sobre-Che-Guevara-e-Fidel-Castro)
-    * [Como a Romênia realmente caiu](#Como-a-Romênia-realmente-caiu)
-        * [A farsa do julgamento de Ceausescu](#A-farsa-do-julgamento-de-Ceausescu)
     * [Como a URSS realmente colapsou](#Como-a-URSS-realmente-colapsou)
     * [O mito dos uigures](#O-mito-dos-uigures)
     * [O mito dos Falun Gong](#O-mito-dos-Falun-Gong)
@@ -323,6 +327,1787 @@
         * [Realismo capitalista e o fim da história](#Realismo-capitalista-e-o-fim-da-história)
 * [Teoria verde e ambientalismo](#Teoria-verde-e-ambientalismo)
     * [Conservacionismo vs preservacionismo](#Conservacionismo-vs-preservacionismo)
+
+# Experiências socialistas
+## A União Soviética
+A União das Repúblicas Socialistas Soviéticas foi a primeira nação a se declarar um estado socialista, dedicado à construção do comunismo. Ao longo das sete décadas de sua existência, a URSS passou por muitos estágios e fases de desenvolvimento, de uma sociedade feudal semicapitalista a uma nação capitalista de estado durante os anos da NEP, a um país socialista desenvolvido e, finalmente, a um estado revisionista em regressão em direção ao capitalismo. O objetivo deste é examinar as conquistas do socialismo na URSS até o início dos anos 1960, quando as reformas de mercado e a restauração capitalista começaram a surtir efeito. Também examinaremos os efeitos desastrosos que essas reformas tiveram sobre a saúde e o bem-estar do povo soviético.
+
+Este ensaio será composto por três partes. Esta primeira parte é uma discussão sobre as conquistas do socialismo soviético em termos de desenvolvimento econômico, padrão de vida e saúde. A questão de Stalin e a fome na Ucrânia também serão discutidas. A segunda parte será uma discussão sobre os avanços soviéticos nos direitos das mulheres, bem como a oposição ao racismo (tanto internamente como em sua manifestação global do imperialismo). Também discutiremos a natureza da democracia soviética. A terceira parte discutirá a eventual queda da URSS e os efeitos desastrosos da restauração capitalista e do revisionismo na URSS.
+
+### Revolução, comunismo de guerra e NEP
+Quando a revolução de 1917 ocorreu, a Rússia era **uma sociedade feudal atrasada e semicapitalista**. O sistema feudal havia sido abolido recentemente e substituído pela forma mais brutal e primitiva de capitalismo. A nação estava terrivelmente subdesenvolvida, sem sinais de melhora no futuro. Não apenas isso, mas o pequeno crescimento que ocorreu levou à enormes desigualdades. De acordo com o professor [Robert Allen](https://nyuad.nyu.edu/en/academics/divisions/social-science/faculty/robert-allen.html) (ex-Oxford University, agora na NYU):
+>Não apenas as bases do avanço imperial eram estreitas, mas o processo de crescimento deu origem a mudanças tão desiguais na distribuição de renda que a revolução dificilmente foi uma surpresa. Os salários reais dos trabalhadores urbanos eram estáticos no final do período imperial, apesar de um aumento significativo na produção por trabalhador... A revolução também foi uma revolta camponesa, e os interesses dos camponeses eram diferentes... Como nas cidades, não houve ganho em salários reais.
+
+[Simon Clarke](https://homepages.warwick.ac.uk/~syrbe/), Professor Emérito de Sociologia da Universidade de Warwick, apóia estas afirmações:
+>A agricultura havia atingido os níveis de produtividade da América do Norte em 1913 e os preços do trigo despencaram depois de 1914. A expansão das ferrovias havia terminado seu curso e não havia perspectiva de que a indústria leve protegida se tornasse internacionalmente competitiva. Os comparadores apropriados para as perspectivas do capitalismo russo no século XX não são o Japão, mas a Argentina ou mesmo a Índia. Além disso, o desenvolvimento capitalista russo trouxe pouco ou nenhum benefício para a classe trabalhadora urbana e rural, intensificando os conflitos de classe que eclodiram na Revolução.
+
+Com a revolução de 1917 (e depois da sangrenta guerra civil, com sua política de comunismo de guerra), a economia soviética começou a crescer rapidamente. A [Nova Política Econômica](https://en.wikipedia.org/wiki/New_Economic_Policy) (que nacionalizou a indústria em grande escala e redistribuiu a terra, enquanto permitia a venda privada do excedente agrícola) conseguiu transformar a Rússia de uma sociedade semi-capitalista em uma sociedade capitalista de estado em desenvolvimento, estabelecendo as bases para o socialismo. O Professor Clarke afirma:
+>Após o comunismo de guerra, a Nova Política Econômica (NEP) procurou desenvolver a economia russa dentro de uma estrutura quase capitalista.
+
+No entanto, as circunstâncias econômicas passaram a exigir a transição para uma economia socialista planejada:
+>No entanto, as barreiras institucionais e estruturais ao desenvolvimento econômico russo eram agora agravadas pelas circunstâncias desfavoráveis da economia mundial, de modo que não havia perspectiva de desenvolvimento liderado pelas exportações, enquanto a baixa renda doméstica fornecia apenas um mercado limitado para a indústria doméstica. Sem um programa de investimento coordenado pelo Estado, a economia soviética cairia na armadilha da baixa renda típica do mundo subdesenvolvido.
+
+Assim, as condições materiais da época tornavam a transição para uma economia socialista uma necessidade.
+
+### Criminosos anarquistas na URSS
+O tópico a seguir é uma visão geral detalhada sobre o movimento anarquista anti-soviético na Rússia e na Ucrânia após a Revolução de Outubro. O objetivo deste tópico é lançar luz sobre os atos criminosos e traiçoeiros que os anarquistas anti-soviéticos cometeram que são deliberadamente ou inconscientemente ignorados pela vasta maioria dos anarquistas contemporâneos quando criticam Lenin (que foi coagido por Trotsky) sobre a perseguição do [Exército Negro](https://en.wikipedia.org/wiki/Revolutionary_Insurrectionary_Army_of_Ukraine) de Nestor Makhno.
+
+Eu gostaria de deixar algo claro desde o início que muitos anarquistas modernos falham em reconhecer. Dezenas de anarquistas na Rússia Soviética eram defensores fervorosos do regime soviético; dando sua energia na batalha, suas vidas na frente e sua participação nas instituições soviéticas. Os bolcheviques trabalharam ao lado desses anarquistas e os consideraram seus camaradas.
+
+Quatro anarquistas, Bogatsky, Bleikhman, Shatov e Iatshurk eram membros do Comitê Militar Revolucionário que realizou a Revolução de Outubro - a insurreição que os anarquistas de hoje (erroneamente) denunciam como um golpe de estado. O destacamento armado que cumpria as ordens do governo soviético de dissolver a Assembleia Constituinte era liderado por um anarquista chamado Anatoly Zheleteznyakov. Quase todos os anarquistas se opuseram à Assembleia Constituinte burguesa na Rússia revolucionária, mas os anarquistas de hoje denunciam a decisão dos bolcheviques de dissolvê-la como tendo sido "antidemocrática". Que irônico!
+
+Um trecho de Jeff Hemmer dá mais detalhes sobre o mencionado Vladimir Shatov e outros anarquistas que defenderam firmemente o regime soviético:
+>Membro do Comitê Militar Revolucionário em 1917, Chátov tornou-se chefe da polícia em Petrogrado em 1918. Em 1919, ele defendeu Petrogrado contra o avanço do general Yudenich como oficial do Décimo Exército Vermelho e, em 1920, foi nomeado Ministro dos Transportes na República do Extremo Oriente. Vários outros anarquistas seguiram seu exemplo e aceitaram pequenos cargos no governo, incitando seus camaradas a fazer o mesmo ou pelo menos se abster de atividades antibolcheviques que colocariam em risco a revolução. A causa bolchevique atraiu anarquistas de todas as origens, desde ex-terroristas Bandeira Negra como Heitzman e Roschin a Anarco-comunistas como Sandomirskii alemão, que assumiu uma posição no Comissariado de Relações Exteriores de Chicherin, e Alexander Ge, segundo Victor Serge um dos organizadores Terror Vermelho na região de Terek. Outros anarquistas bem conhecidos a serviço dos bolcheviques foram os anarco-sindicalistas Shapiro, que se juntou a Sandomirskii no Comissariado das Relações Exteriores, e Daniil Novomirskii, em 1905, figura proeminente nos círculos sindicalistas de Odessa, que ingressou no Partido Comunista e se tornou um oficial do Comintern em 1919...
+>
+>Na primavera de 1918, o anarco-comunista Apollon Karelin formou a pró-bolchevique Federação Russa de Anarco-Comunistas em Moscou, argumentando que a ditadura soviética era aceitável como uma fase de transição no desenvolvimento de uma sociedade anarquista livre. Segundo Karelin, a defesa do governo soviético não deveria ser considerada uma afirmação de autoridade, mas um meio de proteger a revolução. Uma visão semelhante foi apresentada pelos universalistas baseados em Moscou, formados em 1920 pelos irmãos Gordin, que anteriormente eram anti-marxistas e antiintelectuais raivosos, e o alemão Askarov, um anarquista-comunista que também era membro do soviete Comitê Executivo Central [como foi Karelin de 1918]. Roschin, o ex-Chernoznamenets e ferrenho antimarxista que, em 1919, passou a ver os bolcheviques como “a guarda avançada da revolução”, parece ter levado essas idéias ainda mais longe; de acordo com Victor Serge, ele tentou desenvolver uma “teoria anarquista da ditadura do proletariado”.
+>
+>O apoio dos “Anarquistas Soviéticos” foi bem recebido pela liderança bolchevique, que insistiu que os únicos anarquistas perseguidos na Rússia eram elementos criminosos.
+
+É claro que são exatamente esses “elementos criminosos” que discutiremos agora.
+
+>No primeiro período do poder soviético, muitas bandas floresceram na Grande Rússia. Todos foram aniquilados há muito tempo: seus membros mais culpados foram baleados e os demais estão expiando seus crimes em centros de detenção. O mesmo destino aguarda os bandidos da Ucrânia. Unidades firmes e confiáveis ​​foram enviadas a todas as partes da Ucrânia, com a tarefa de encontrar e coletar armas, capturar desertores e exterminar bandos. O expurgo será realizado até o fim.
+>
+> -- <cite>Leon Trotsky, para soldados ucranianos enganados por bandidos.</cite>
+
+Antes de falar sobre Nestor Makhno e seu Exército Insurrecional Revolucionário da Ucrânia, é preciso primeiro entender de onde veio esse “Exército Negro” Makhnovista. A resposta está nos guardas negros anarquistas que floresceram por toda a Rússia e Ucrânia em 1918. Originalmente criados em Alexandrovsk durante o verão de 1917 por Maria Nikiforova, esses destacamentos anarquistas armados haviam se espalhado para Moscou em janeiro de 1918, e em abril de 1918 já existiam mais de 50 grupos e destacamentos da Guarda Negra, totalizando cerca de 2.000 militantes na cidade.
+
+>Todos os grupos e unidades organizacionais da Guarda Negra foram agrupados em torno do Conselho da MFAG [Federação de Grupos Anarquistas de Moscou] e da sede da Guarda Negra, estacionada na Casa da Anarquia na Malásia Dmitrovka.
+
+Nestor Makhno mais tarde estabeleceria destacamentos semelhantes em diferentes regiões da Ucrânia, que acabaram se transformando no Exército Insurrecional Revolucionário da Ucrânia. De acordo com o historiador anarquista americano Paul Avrich, a MFAG armou os Guardas Negros com rifles, pistolas e granadas. A partir de sua sede na Casa da Anarquia, os líderes da Federação tentaram impor uma medida de disciplina aos Guardas Negros e limitar as atividades dos clubes locais à distribuição de propaganda e à “requisição” de residências privadas. Isso provou ser uma tarefa impossível; uma vez armados, vários grupos e indivíduos isolados sucumbiram à tentação de realizar “desapropriações” e, para piorar as coisas, às vezes agiam em nome da Federação.
+
+Avrich explica:
+>Destacamentos armados de Guardas Negros assaltaram bancos, lojas e residências particulares. Muitos de seus camaradas - especialmente os "anarquistas soviéticos" - condenaram tais atos como paródias do ideal libertário, que desperdiçou vidas preciosas, desmoralizou os verdadeiros adeptos do movimento e desacreditou o anarquismo aos olhos do público em geral.
+
+A pilhagem era abundante entre os Guardas Negros. A liderança da MFAG parecia incapaz de disciplinar seus destacamentos. O bolchevique (e ex-anarquista) Victor Serge escreveu:
+>Os próprios anarquistas admitiam que elementos suspeitos, aventureiros, criminosos comuns e contra-revolucionários, prosperavam entre eles, mas seus princípios libertários não os permitiam recusar a entrada em suas organizações a qualquer homem, ou sujeitar alguém a um controle real. Eles sentiram intensamente que seu movimento precisava ser expurgado, mas isso era impossível sem autoridade ou uma organização disciplinada. As cisões entre eles e essa reverência aos princípios levavam lentamente ao suicídio político do movimento, que se tornava mais comprometido a cada dia.
+
+A situação era - desculpe o trocadilho - anárquica. Os Guardas Negros estavam fora de controle.
+>Vários incidentes, como um ataque a um carro americano, o assassinato de vários agentes da Cheka seguido da execução sumária de vários bandidos, as prisões de “expropriadores” que foram prontamente reclamados pela Federação Anarquista, levaram Dzerzhinsky, o presidente da Cheka, insistir na liquidação da Guarda Negra.
+
+Avrich dá os detalhes desta operação:
+>Na noite de 11-12 de abril, destacamentos armados da Cheka invadiram 26 centros anarquistas na capital. A maioria dos anarquistas se rendeu sem lutar, mas no Monastério Donskoi e na própria Casa da Anarquia, os Guardas Negros ofereceram resistência feroz. Uma dúzia de agentes da Cheka foram mortos na luta, cerca de 40 anarquistas foram mortos ou feridos e mais de 500 foram feitos prisioneiros.
+
+Os propagandistas anarquistas com sua “memória seletiva” desonesta levam os eventos desta noite para fora do contexto histórico; tratando-o de forma isolada e ignorando a tendência retrógrada de conflito que os anarquistas Guardas Negros estavam desencadeando na Rússia. Os bolcheviques foram forçados a realizar a tarefa que os anarquistas eram aparentemente incapazes de realizar por conta própria; purgando de suas fileiras os “elementos criminosos” que estavam pilhando e roubando sob a bandeira do anarquismo e causando o caos em toda a Rússia. Como governo eleito e legítimo, era sua obrigação restaurar a ordem.
+
+Os bolcheviques procuraram erradicar esses “elementos criminosos” que eram considerados “pseudo-anarquistas”. Em sua opinião, nenhum anarquista genuíno poderia tolerar atos aleatórios de roubo e violência contra os trabalhadores e os oficiais dos soviéticos. Trotsky declarou em Moscou no dia 14 de abril:
+>Esses hooligans são simplesmente invasores e ladrões que comprometem os anarquistas. O anarquismo é uma ideia, embora equivocada, mas o hooliganismo é o hooliganismo. Falei sobre isso com os anarquistas idealistas e eles próprios dizem: 'Muitos desses presidiários, hooligans e criminosos se infiltraram em nosso movimento'. E afirmou que entre esses hooligans há alguns que são anarquistas honestos; se isso for verdade, então é uma grande pena, e é necessário dar a eles sua liberdade o mais rápido possível.
+
+Seu argumento geral era que os "anarquistas honestos" deveriam se distanciar dos "hooligans" para que alguém soubesse de uma vez por todas quem é um ladrão, e quem é um idealista honesto. Este não foi um ataque contra o anarquismo ou os Anarquistas “honestos”. Foi um ataque contra os hooligans, que colocaram a máscara do anarquismo para destruir a ordem, a vida e o trabalho da classe trabalhadora. Mesmo assim, cerca de quinze anarquistas deixaram o salão de forma demonstrativa, criando uma cena assustadora, quebrando a solidariedade e a ordem.
+
+E em pouco tempo os anarquistas iriam recorrer mais uma vez aos seus métodos terroristas. De acordo com Avrich:
+>Anarquistas em Rostov, Ekaterinoslav e Briansk invadiram as prisões da cidade e libertaram os prisioneiros no meio de uma guerra civil. No verão de 1918, os Guardas Negros que sobreviveram aos ataques da Cheka nos meses anteriores, contemplaram a apreensão armada da capital, mas Aleksei Borovoi e Daniil Novomirskii os dissuadiram.
+
+Mas de acordo com o historiador Marcel Liebman - evidentemente contra a vontade de Borovoi e Novomirskii - alguns anarquistas estiveram envolvidos na revolta de Esquerda SR em Moscou nos dias 6 e 7 de julho, que foi, obviamente, uma tomada armada da capital que foi rapidamente esmagado.
+>Lev Chernyi, secretário da Federação de Anarquistas de Moscou, juntou-se a uma organização chamada Anarquistas Subterrâneos, fundada por Kazimir Kovalevich, membro do Sindicato dos Trabalhadores em Ferrovias de Moscou e um anarquista ucraniano chamado Petr Sobolev. Embora baseados na capital, os Anarquistas Subterrâneos estabeleceram laços com os destacamentos de batalha do sul. No dia 25 de setembro [1919], junto com vários SRs de esquerda, eles bombardearam a sede do Comitê de Moscou do Partido Comunista em Leontiev Street, durante uma reunião plenária. A explosão matou 12 membros do Comitê e feriu 55 outros, incluindo Nikolai Bukharin, o eminente teórico bolchevique e editor do Pravda.
+
+Mas mesmo enquanto o caos se seguiu nas ruas de Moscou - terrorismo conduzido sob a bandeira do anarquismo - os bolcheviques tentaram o seu melhor para encontrar os anarquistas “honestos” no meio do caminho:
+>Quando Kamenev em 1920 ofereceu aos anarquistas de Moscou liberdade para publicar seus jornais e administrar seus clubes e livrarias em troca da adoção da disciplina partidária e do expurgo dos elementos criminosos e irresponsáveis ​​que haviam se infiltrado em seus membros, eles rejeitaram indignadamente a oferta.
+
+É claro, então, pelas informações que forneci, que, ao contrário da mitologia anarquista, os bolcheviques não "esmagaram" os anarquistas na Rússia Soviética por razões ideológicas. Os bolcheviques - ao lado dos anarquistas que colaboraram pacificamente com eles - apelaram aos anarquistas sinceros envolvidos em atividades duvidosas para se distanciarem dos hooligans que haviam se infiltrado em suas fileiras. Os “anarquistas” que foram subjugados estavam saqueando, roubando, participando de atos violentos e destrutivos e assassinando figuras do governo. A “repressão” desses terroristas explicitamente anti-soviéticos e contra-revolucionários deve ser vista como nada mais do que uma retaliação atrasada à provocação criminosa.
+
+Leon Trotsky afirma:
+>Makhnovismo é um décimo de idealismo e nove décimos de pilhagem e violência.
+
+Os ataques da Cheka aos centros anarquistas em 1918 fizeram com que vários anarquistas anti-soviéticos viajassem para a Ucrânia - onde Nestor Makhno (de acordo com a mitologia anarquista) havia estabelecido uma fortaleza anarquista. Mas, na verdade, a maioria dos lutadores Makhnovistas eram pequenos proprietários camponeses que não podiam se importar menos com o anarquismo.
+>O punhado de comunas agrícolas estabelecidas na região de Gulyai-Pole abrangia apenas uma pequena fração de seus seguidores. A esmagadora maioria dos partidários de Makhno estava comprometida com sua própria propriedade privada.
+
+Os Makhnovistas eram um dos vários bandos de guerrilha que se aliaram aos Bolcheviques e se tornaram unidades do Exército Soviético Ucraniano em 1919.
+>As forças de Makhno foram designadas a uma seção estrategicamente vital da Frente Sul do Exército Vermelho enfrentando o Exército Branco contra-revolucionário do antigo General czarista Denikin.
+
+Mas mesmo durante seu tempo como comandante do Exército Soviético Ucraniano, Makhno deliberadamente roubou e minou seus aliados bolcheviques. O historiador Arthur Adams escreve:
+>Makhno se abastecia, às vezes comandando trens de abastecimento bolcheviques inteiros destinados à Frente Sul. Coletores de alimentos soviéticos e instituições políticas consideravam impossível funcionar na região sob seu domínio.
+
+Os makhnovistas exigiram que o governo bolchevique lhes fornecesse munições para usar na luta contra os brancos. Mas os makhnovistas também se recusaram a permitir que os coletores de grãos soviéticos entrassem na região sob seu controle. Os makhnovistas, portanto, buscaram ajuda econômica dos bolcheviques, mas se recusaram a retribuir o favor; muitas vezes resultando em violentos confrontos entre os guerrilheiros Makhnovistas e os coletores de grãos soviéticos.
+
+Trotsky (comissário para Assuntos Militares e Navais) escreveu:
+>Como os makhnovistas estão sentados no ramal ferroviário de Mariupol, eles se recusam a permitir que o carvão e os grãos saiam, exceto em troca de outros suprimentos. Os makhnovistas estão tentando para estabelecer o domínio de gangues e bandas: Quem agarrou algo é o seu legítimo dono, podendo então trocá-lo pelo que não possui. Isso não é troca de produtos, mas roubo de mercadorias.
+
+Em 7 de maio de 1919, outro líder guerrilheiro ucraniano chamado Grigorev - que como Makhno havia colaborado com os bolcheviques - amotinou-se contra o comando do Exército Vermelho. Grigorev declarou que os bolcheviques eram seu novo alvo principal e convocou uma aliança antibolchevique que incluísse os Guardas Brancos. O anti-semitismo dos brancos não era problema para Grigorev - ele próprio era um pogromista. De acordo com a Enciclopédia Judaica, Grigorev foi responsável por pogroms em 40 comunidades e pela morte de cerca de 6.000 judeus durante o verão de 1919.
+
+Makhno - embora inicialmente permanecesse neutro em relação à revolta de Grigorev - também agiu contra os bolcheviques. Em 29 de maio, Makhno recuou para trás das linhas de frente, abandonando seu comando e colaboração com os Reds. O historiador Michael Palij escreve:
+>Assim que Makhno deixou o front, ele e seus associados começaram a organizar novos destacamentos partidários na retaguarda dos bolcheviques, que posteriormente atacaram fortalezas, tropas, polícia, trens e coletores de alimentos.
+
+Em julho, Makhno e Grigorev firmaram uma aliança de curta duração que não terminou bem para o último. Embora não entre nisso agora, porque falarei sobre isso com mais detalhes mais tarde. Mas a força combinada dos makhnovistas, grigorevitas e outros destacamentos guerrilheiros que atacavam os bolcheviques ao mesmo tempo enfraqueceu enormemente a força do Exército Vermelho, desempenhando um papel importante no colapso da Frente Sul e permitindo que os Guardas Brancos de Denikin tomassem a maior parte da Ucrânia no outono de 1919.
+
+Após a derrota de Denikin em 1920, Makhno ainda estava lutando contra os Reds, mas mais tarde ele se ofereceu para entrar em uma aliança conjunta contra o novo sucessor de Denikin - o general Branco Wrangel. Preocupados se Makhno era confiável ou não devido às suas traições anteriores, os bolcheviques exigiram que Makhno expurgasse suas fileiras de bandidos e incorporasse suas forças ao Exército Vermelho. Trotsky - dirigindo-se a esta nova aliança makhnovista/bolchevique - escreveu em 10 de outubro de 1920:
+>Nós, é claro, podemos apenas dar as boas-vindas ao fato de que os Makhnovitas não desejam, doravante, lutar contra nós, mas conosco, contra Wrangel. Mas nosso pacto com os makhnovitas certamente não deve ser temporário. A classe trabalhadora da Ucrânia nunca pode, e especialmente em condições de tremendo perigo militar, permitir que determinadas unidades às vezes lutem em nossas fileiras e às vezes nos apunhalem pelas costas.
+
+Os bolcheviques buscavam uma aliança estável e contínua com Makhno - nenhuma que se rompesse e vacilasse no minuto em que seu inimigo comum fosse derrotado. Mas, na visão de Makhno, essa aliança era para ser nada mais do que uma conveniência de curto prazo - e por esta razão ele se recusou a reconhecer os regulamentos do Exército Vermelho.
+
+Após a derrota de Wrangel, os Makhnovistas tentaram se estabelecer como uma força de combate autônoma na Crimeia. Se os makhnovistas tivessem sucesso, os bolcheviques teriam perdido a infraestrutura vital e a Ucrânia teria se tornado um ímã para os inimigos do governo bolchevique. Conhecendo o histórico hostil de Makhno - sem mencionar sua disposição de entrar em alianças com duvidosas forças antibolcheviques como Grigorev - os bolcheviques viram isso como a gota d'água. Os bolcheviques, portanto, moveram-se para acabar com o movimento makhnovista de uma vez por todas e conseguiram fazê-lo.
+
+Mitologistas libertários gostam de argumentar que os bolcheviques “esmagaram” os makhnovistas por causa de suas convicções anarquistas formais. Claro - como eu mostrei - este não é o caso. Foram as ações hostis dos Makhnovistas que fermentaram sua morte. Sua ideologia - embora equivocada e utópica - era totalmente irrelevante.
+
+Finalmente, gostaria de falar sobre a conexão entre os makhnovistas e os pogroms anti-semitas. Embora os anarquistas estejam corretos ao argumentar que o próprio Makhno não era um anti-semita, esta declaração não diz absolutamente nada sobre as ações dos lutadores Makhnovistas no terreno. Numerosos relatos de testemunhas oculares de pogroms anti-semitas conduzidos pelos guerrilheiros Makhnovistas foram compilados pelo Instituto YIVO para Pesquisa Judaica. Ainda estou para encontrar um único anarquista que tenha examinado a confiabilidade desta evidência aparentemente contundente. Mas, independentemente, é um fato incontestável que os makhnovistas tinham pogromistas entre suas fileiras.
+
+Como assim? Porque, como aludi anteriormente, Makhno e Grigorev entraram em uma aliança de curta duração contra os bolcheviques em 1919. Mas a disposição de Grigorev de cooperar com todas e quaisquer forças antibolcheviques, incluindo Denikin, conflitava agudamente com as convicções anarquistas de Makhno. Além disso, o histórico de oportunismo militar e imprevisibilidade de Grigorev significava que Makhno não confiava nele. Essa aliança se desfez em menos de um mês, resultando na morte de Grigorev pelas mãos de Makhno e na absorção dos partidários de Grigorev no exército de Makhno. O que se segue é o relato de uma testemunha ocular do anarquista Arishnov:
+>Em 27 de julho de 1919, na aldeia de Sentovo, perto de Aleksandriya, em Kherson guberniya, por iniciativa de Makhno houve uma assembléia dos rebeldes de Ekaterinoslav, Kherson e Taurida. De acordo com a ordem do dia, a sessão deveria decidir sobre a tarefa de todos os rebeldes da Ucrânia em relação à situação atual. A massa de camponeses reunida, as seções rebeldes de Grigorev e as unidades de Makhno chegavam a cerca de 20.000 pessoas. Grigorev e Makhno e uma série de outros apoiadores deste ou daquele movimento foram designados como repórteres. Primeiro veio Grigorev. Ele convocou os camponeses e rebeldes a dar todas as suas forças para expulsar os bolcheviques do país, sem desprezar nenhum aliado neste trabalho. Grigorev não se opôs à unificação com Denikin para esse propósito. Mais tarde, quando o jugo do bolchevismo fosse derrubado, o próprio povo decidiria o que fazer.
+>
+>Essa declaração foi fatal para Grigorev. Chubenko e Makhno, falando imediatamente depois dele, mostraram que a luta com os bolcheviques só poderia ser revolucionária se continuasse em nome da revolução social. A colaboração com os mais perversos inimigos do povo - com os generais - seria uma aventura criminosa e uma contra-revolução. Grigorev chama [nós] para esta contra-revolução; consequentemente, ele é o inimigo do povo. Então Makhno publicamente, perante toda a assembléia, exigiu que Grigorev pagasse imediatamente pelo monstruoso pogrom perpertratado por ele em maio de 1919, em Elisavetgrad, e por uma série de outras ações anti-semitas.
+>
+>"Esses canalhas como Grigorev degradam todos os rebeldes da Ucrânia, e para eles não pode haver lugar nas fileiras dos trabalhadores honrados da revolução.” Assim, Makhno concluiu sua acusação de Grigorev. Este viu que o caso estava tendo um fim terrível para ele. Ele pegou sua arma. mas ele estava muito atrasado. Simon Karetnik - o assistente mais próximo de Makhno - o jogou no chão com várias balas de seu Colt e Makhno, proclamando triunfantemente "Morte ao Ataman!" atirou nele. Os amigos e membros da equipe de Grigorev teriam corrido para ajudá-lo, mas foram baleados no local por um grupo de homens de Makhno previamente designados para a tarefa. Tudo isso ocorreu em dois ou três minutos diante dos olhos da assembléia.
+>
+>De acordo com o protocolo decretado pela assembleia, os Makhnovtsy assumiram a responsabilidade pelo ato e suas consequências. Todas as seções partidárias que estavam sob a direção de Grigorev, de acordo com a resolução da assembléia, foram absorvidas pelo exército geral dos rebeldes makhnovistas.
+
+Independentemente das nobres razões de Makhno para matar Grigorev, permanece o fato de que Makhno e seus colegas conscientemente recrutaram em massa para suas fileiras os homens de Grigorev que apenas alguns meses antes haviam massacrado 3.000 judeus em Elisavetgrad. Portanto, é indiscutível que o exército de Makhno continha pogromistas anti-semitas. As evidências do YIVO servem simplesmente para reforçar a acusação de anti-semitismo entre os makhnovistas.
+
+Fontes:
+- [What was the role of anarchists in russian revolution? by Jeff Hammer](http://web.archive.org/web/20100705010640/http://www.afurnishedsoul.lu/pdf/anarchists_russianrevolution.pdf)
+- [The military writings of Leon Trotsky vol. 2](https://www.marxists.org/archive/trotsky/1919/military/index.htm)
+- [The Black Guards](https://libcom.org/history/black-guards)
+- [The russian anarchists by Paul Avrich](https://libcom.org/files/Avrich,%20Paul%20-%20The%20Russian%20Anarchists_0.PDF)
+- [Russian anarchists and the civil war by Paul Avrich](http://sites.bu.edu/revolutionaryrussia/files/2013/09/Russian-Arnarchists.pdf)
+- [Year one of the russian revolution by Victor Serge](https://libcom.org/files/Year%20One%20of%20the%20Russian%20Revolution%20-%20Victor%20Serge.pdf)
+- [An appeal to the toiling, oppressed and exhausted peoples of Europe by Leon Trotsky](https://rm3bukz.ga/book.php?id=4MUt1Bjr-EYC)
+- [Leninism under Lenin by Marcel Liebman](https://pt.scribd.com/document/143466632/Leninism-Under-Lenin)
+- [The origin of communist autocracy: The opposition in the soviet Soviet State, first phase by Leonard Schapiro](https://link.springer.com/book/10.1007/978-1-349-09509-4)
+- [The anarchism of Nestor Makhno by Michael Palij](https://theanarchistlibrary.org/library/michael-palij-the-anarchism-of-nestor-makhno-1918-1921.pdf)
+- [Hue and cry over Kronstadt by Leon Trotsky](https://www.marxists.org/archive/trotsky/1938/01/kronstadt.htm)
+- [History of the Makhnovist Movement by Peter Arshinov](https://theanarchistlibrary.org/library/peter-arshinov-history-of-the-makhnovist-movement-1918-1921)
+- [Workers Vanguard No 656 - 22 November 1996](https://pt.scribd.com/document/125412812/Workers-Vanguard-No-656-22-November-1996)
+- [Bolsheviks in the Ukraine by Arthur Adams](https://diasporiana.org.ua/wp-content/uploads/books/11695/file.pdf)
+- [Encyclopedia Judaica (Vol. 13 PP. 699-700)](https://ketab3.files.wordpress.com/2014/11/encyclopaedia-judaica-v-13-lif-mek.pdf)
+- [History of anarchism in Russia by Yemelyan Yaroslavsky](https://ithanarquista.wordpress.com/nestor-makhno-archive/nestor-makhno-archive-english/history-anarchism-russia-yaroslavsky/)
+- [The Military Writings of Leon Trotsky vol. 3 by Leon Trotsky](https://www.marxists.org/archive/trotsky/military-pdf/Military-Writings-Trotsky-v3.pdf)
+- [Pogroms by Makhno's troops](https://groups.google.com/g/alt.politics.socialism.trotsky/c/UY1DG7rwLSc)
+- [History of Makhnovist movement by Peter Arishnov](http://elib.shpl.ru/ru/nodes/38774-arshinov-p-a-istoriya-mahnovskogo-dvizheniya-1918-1921-gg-s-portretom-n-mahno-i-naglyadnoy-kartoy-rayona-i-dvizheniya-berlin-1923)
+
+### Desenvolvimento econômico e padrões de vida na era socialista
+Em 1928 (depois que Stalin chegou ao poder como chefe do Partido Comunista), a Rússia Soviética instituiu uma economia totalmente planejada e o primeiro [Plano Quinquenal](https://en.wikipedia.org/wiki/Five-year_plans_of_the_Soviet_Union) foi aprovado. Isso resultou em rápido crescimento econômico. De acordo com Robert Allen:
+>O PIB soviético aumentou rapidamente com o início do primeiro Plano Quinquenal em 1928... A expansão da indústria pesada e o uso de metas de produção e orçamentos flexíveis para direcionar as empresas eram adequados às condições da década de 1930, eles foram adotados rapidamente, e levaram a um rápido crescimento do investimento e do consumo.
+
+Os economistas burgueses frequentemente alegavam que esse rápido crescimento veio às custas do consumo per capita e dos padrões de vida. No entanto, pesquisas mais recentes mostraram que isso é falso. Allen afirma:
+>Não houve nenhum debate de que o "consumo coletivo" (principalmente serviços de educação e saúde) aumentou acentuadamente, mas a visão padrão era que o consumo privado diminuiu. Pesquisas recentes, no entanto, colocam essa conclusão em questão... Embora o investimento certamente tenha aumentado rapidamente, pesquisas recentes mostram que o padrão de vida também aumentou rapidamente.
+
+O consumo de calorias aumentou rapidamente durante este período:
+>As calorias são a dimensão mais básica do padrão de vida, e seu consumo era maior no final dos anos 1930 do que nos anos 1920... Em 1895-1910, a disponibilidade de calorias era de apenas 2100 por dia, o que é muito baixo para os padrões modernos. No final da década de 1920, a disponibilidade de calorias avançou para 2.500... No final da década de 1930, a recuperação da agricultura aumentou a disponibilidade de calorias para 2.900 por dia, um aumento significativo em relação ao final da década de 1920. A situação alimentar durante a Segunda Guerra Mundial era grave, mas em 1970 o consumo de calorias aumentou para 3.400, o que estava no mesmo nível da Europa Ocidental.
+
+No geral, o desenvolvimento da economia soviética durante o período socialista foi extremamente impressionante. De acordo com Robert Allen:
+>A economia soviética teve um bom desempenho... O planejamento levou a altas taxas de acumulação de capital, rápido crescimento do PIB e aumento do consumo per capita mesmo na década de 1930.
+
+O crescimento da URSS durante o período socialista excedeu o das nações capitalistas:
+>A URSS liderou os países não pertencentes à OCDE e, de fato, alcançou uma taxa de crescimento neste período que excedeu a regressão de catch-up da OCDE, bem como a média da OCDE.
+
+Esse sucesso também é atribuído especificamente à revolução e ao sistema socialista. Como afirma Allen:
+>Esse sucesso não teria ocorrido sem a revolução de 1917 ou o desenvolvimento planejado da indústria estatal.
+
+Os benefícios do sistema socialista são óbvios após um estudo mais detalhado. Como Simon Clarke coloca:
+>...uma economia capitalista não teria criado os empregos industriais necessários para empregar o trabalho excedente, uma vez que os capitalistas só empregariam trabalho enquanto o produto marginal do trabalho excedesse o salário. A industrialização patrocinada pelo Estado não enfrentou tais restrições, uma vez que as empresas foram incentivadas a expandir o emprego de acordo com as demandas do plano.
+
+O crescimento econômico também foi auxiliado pela liberação das mulheres e o consequente controle sobre a taxa de natalidade, bem como a participação das mulheres na força de trabalho. Allen afirma:
+>O rápido crescimento da renda per capita estava condicionada não apenas sobre a rápida expansão do PIB, mas também sobre o lento crescimento da população. Isso se deveu principalmente a uma rápida transição da fertilidade, e não a um aumento na mortalidade por coletivização, repressão política ou Segunda Guerra Mundial. A queda nas taxas de natalidade deveu-se principalmente à educação e ao emprego das mulheres fora de casa. Essas políticas, por sua vez, foram resultados da ideologia iluminista em sua variante comunista.
+
+As críticas ao trabalho de Allen corroboraram suas declarações. De acordo com Simon Clarke:
+>Allen mostra que a estratégia stalinista funcionou, em termos estritamente econômicos, até por volta de 1970... O livro de Allen convincentemente estabelece a superioridade de uma economia planejada sobre uma capitalista em condições de excedente de trabalho (que é a condição na maior parte do tempo).
+
+Outros estudos confirmaram as descobertas de que os padrões de vida da URSS aumentaram rapidamente. De acordo com a economista [Elizabeth Brainerd](https://www.ebrainerd.com/) (ex-Williams College, agora na Brandeis University):
+>Melhorias notavelmente grandes e rápidas na altura da criança, estatura adulta e mortalidade infantil foram registradas de aproximadamente 1945 a 1970... As estimativas ocidentais e soviéticas do crescimento do PIB na União Soviética indicam que o PIB per capita cresceu em cada década na era pós-guerra, às vezes ultrapassando de longe as taxas de crescimento das economias ocidentais desenvolvidas... As medidas convencionais de crescimento do PNB e do consumo das famílias indicam uma longa e ininterrupta escalada do padrão de vida soviético de 1928 a 1985; mesmo as estimativas ocidentais dessas medidas apoiam essa visão, embora em uma taxa de crescimento mais lenta do que as medidas soviéticas.
+
+Infelizmente, após a introdução de reformas de mercado e outras políticas revisionistas, os padrões de vida começaram a se deteriorar (embora algumas medidas continuassem a aumentar, embora mais lentamente). Brainerd afirma:
+>Três medidas diferentes de saúde da população mostram uma melhoria consistente e grande entre aproximadamente 1945 e 1969: altura da criança, altura do adulto e mortalidade infantil, todas melhoraram significativamente durante este período. Essas três medidas biológicas do padrão de vida também corroboram a evidência de alguma deterioração nas condições de vida a partir de 1970, quando a mortalidade infantil e adulta estava aumentando e a estatura infantil e adulta parou de aumentar e em algumas regiões começou a diminuir.
+
+O crescimento econômico também começou a desacelerar nessa época. De acordo com Robert Allen:
+>Após a Segunda Guerra Mundial, a economia soviética voltou a crescer rapidamente. Em 1970, a taxa de crescimento estava caindo e a produção per capita estava estática em 1985.
+
+A Guerra Fria foi outro fator que contribuiu para desacelerar as taxas de crescimento:
+>A Guerra Fria foi um fator adicional que reduziu o crescimento soviético depois de 1968. A criação de armamentos de alta tecnologia exigiu uma alocação desproporcional de pessoal e recursos de Pesquisa & Desenvolvimento para os militares. A inovação em máquinas e produtos civis diminuiu em conformidade. Metade da redução na taxa de crescimento do PIB per capita deveu-se ao declínio no crescimento da produtividade, e essa redução fornece um limite superior para o impacto da corrida armamentista com os Estados Unidos.
+
+Em suma, a URSS alcançou resultados econômicos maciçamente positivos até os anos 1970, quando as políticas revisionistas e a Guerra Fria começaram a causar uma estagnação. Agora, vamos passar do desenvolvimento econômico e falar sobre os padrões de saúde da população soviética.
+
+### Condições de saúde no período socialista
+As condições de saúde na Rússia czarista eram deploráveis; estava entre as nações menos saudáveis da Europa (possivelmente em todo o mundo). De acordo com o Professor Reiner Dinkel (Universidade de Munique):
+>Sem dúvida, a União Soviética era um dos países europeus mais subdesenvolvidos na época da Revolução de Outubro. Em termos de expectativa de vida, ficou atrás dos outros países industrializados da Europa por cerca de 15 anos.
+
+No entanto, após a revolução socialista, as condições de saúde começaram a aumentar rapidamente. No final do período socialista, os padrões de saúde (medidos pela expectativa de vida e taxas de mortalidade) eram superiores aos da Europa Ocidental e dos EUA. O professor Dinkel afirma:
+>Um dos avanços mais notáveis do socialismo foi e geralmente era visto como a melhoria na provisão de saúde pública para a população como um todo. De acordo com essa suposição, as taxas de mortalidade na União Soviética diminuíram rapidamente nas primeiras duas décadas após a Segunda Guerra Mundial. Em 1965, a expectativa de vida de homens e mulheres em todas as partes da União Soviética, que ainda incluía vastas regiões subdesenvolvidas com condições de vida desfavoráveis, era tão alta ou até maior do que nos Estados Unidos. Tal desenvolvimento se encaixa perfeitamente no quadro do desenvolvimento industrial emergente e na melhoria geral das condições de vida.
+
+Mesmo os intelectuais reacionários foram forçados a reconhecer essas realizações; de acordo com Nicholas Eberstadt (um consultor de think tank conservador), os padrões de saúde na União Soviética durante o período socialista ultrapassaram os dos EUA e da Europa Ocidental:
+>Durante grande parte deste século, a nação na vanguarda da revolução na saúde foi a União Soviética. Em 1897, a Rússia Imperial ofereceu ao seu povo uma expectativa de vida de talvez trinta anos. Na Rússia europeia, pelo que podemos perceber, a mortalidade infantil (ou seja, a morte no primeiro ano) atingiu cerca de uma criança em quatro, e no interior asiático da Rússia o número de mortes foi provavelmente mais próximo de um em três. No entanto, no final da década de 1950, o cidadão soviético médio podia esperar viver 68,7 anos: mais do que seu homólogo americano, que havia começado o século com uma vantagem de dezessete anos. Em 1960, a taxa de mortalidade infantil soviética, mais alta do que qualquer na Europa até os anos 20, era menor do que a da Itália, Áustria ou Alemanha Oriental, e parecia certa reduzir nações como Bélgica e Alemanha Ocidental a qualquer ano.
+
+Ele até observa que essas conquistas fizeram o socialismo parecer quase imbatível:
+>Diante dessas e de outras realizações materiais igualmente impressionantes, as afirmações soviéticas sobre a superioridade de seu sistema “socialista”, sua relevância para os países pobres e a inevitabilidade de seu triunfo sobre a ordem capitalista não foram facilmente refutadas.
+
+Embora as condições de saúde tenham começado a declinar após a introdução de políticas revisionistas em meados dos anos 60, as conquistas do sistema socialista na área de saúde permanecem incontestáveis.
+
+### A questão Stalin
+Joseph Stalin foi o principal arquiteto do período socialista na URSS. Como resultado, ele foi vítima de talvez a mais extensa campanha de difamação da história moderna. Alegações de que ele matou dezenas de milhões de pessoas, prendeu vítimas sem justa causa e deliberadamente deixou camponeses ucranianos famintos são apenas algumas das acusações de propaganda feitas contra ele. Como tal, é dever de qualquer socialista informado combater esta propaganda.
+
+Antes de tudo, eu recomendo este [artigo](https://cienciaproletarialivre.com/2019/03/06/6-mitos-sobre-stalin-que-voce-provavelmente-ja-acreditou/).
+
+Stalin não era um ditador, este é um mito desatualizado. O poder estava oficialmente investido nas mãos de vários órgãos coletivos de liderança, como o Soviete Supremo, o Presidium, o Sovnarkom, o Comitê Central e o Politburo, todos eleitos, assim como Stalin. Ele não tinha capacidade de tomar decisões individualmente e há inúmeros exemplos de como ele perdeu para a maioria, se você olhar bem. Vou te dar três exemplos:
+- Stalin tentou demitir-se do secretário-geral quatro vezes, duas vezes devido ao testamento de Lênin, uma vez devido a um pedido de Kamenev e Zinoviev e uma vez devido à deterioração da saúde, mas o partido não permitiu.
+- Quando Beria foi nomeado chefe do NKVD em 1939, Stalin se opôs a isso e preferiu Malenkov, mas o Presidium o derrotou em votos.
+- Enquanto a nova constituição soviética estava sendo criada ao longo de 1935 e 1936, Stalin pressionou por eleições multipartidárias contestadas, mas o Comitê Central temia que isso levasse à derrubada do comunismo, de modo que nunca foi implementado. Além do mais, o historiador russo Yuri Zhukov afirma que se Stalin tivesse continuado a pressionar por essas reformas à medida que o Grande Expurgo se intensificou, ele teria sido eliminado, julgado por traição e executado.
+
+Na verdade, até 1941, Stalin nem era o indivíduo mais poderoso do país. Remeto a você esta citação de Sidney Webb:
+>Às vezes, afirma-se que, embora a forma possa ser diferente, o fato é que, enquanto o Partido Comunista controla toda a administração, o próprio Partido e, portanto, indiretamente, todo o estado, é governado pela vontade de uma única pessoa, Josef Stalin. Em primeiro lugar, é preciso notar que, ao contrário de Mussolini, Hitler e outros ditadores modernos, Stalin não é investido por lei de qualquer autoridade sobre seus concidadãos, nem mesmo sobre os membros do Partido a que pertence. Ele não tem nem mesmo o amplo poder que o Congresso dos Estados Unidos temporariamente conferiu ao presidente Roosevelt, ou aquele que a Constituição americana confia por quatro anos a cada presidente sucessivo. No que diz respeito ao grau ou dignidade, Stalin não é de forma alguma o mais alto funcionário da URSS, ou mesmo do Partido Comunista. Ele não é, e nunca foi, presidente do Presidium do Comitê Executivo Central do Congresso de União Soviética - um cargo há muito ocupado por Sverdlov e agora por Kalinin, que é comumente tratado como o presidente da URSS. Ele não é (como Lênin era) o presidente do Sovnarkom da RSFSR, o membro dominante da Federação ou da própria URSS, o lugar agora ocupado por Molotov, que pode ser levado para corresponder ao primeiro-ministro de uma democracia parlamentar. Ele nem mesmo é um Comissário do Povo, ou membro do Gabinete, seja da URSS ou de qualquer uma das repúblicas constituintes. Até 1934, ele não ocupou nenhum outro cargo na máquina da constituição além daquele, desde 1930 apenas, de membro (um entre dez) do Comitê de Trabalho e Defesa (STO). Mesmo no Partido Comunista, ele não é o presidente do Comitê Central do Partido, que pode ser considerado o membro mais bem colocado; na verdade, ele nem mesmo é o presidente do presidium deste Comitê Central. Ele é, de fato, apenas o Secretário Geral do Partido, recebendo seu salário dos fundos do Partido e ocupando seu cargo por indicação do Comitê Central do Partido, e, como tal, também um membro (um entre nove) de seus mais importantes subcomitê, o Politburo.
+
+Tudo isso dito e feito, o que é verdade é que Stalin detinha uma enorme influência sobre o partido e o governo, o que significa que era de fato muito mais poderoso do que suas posições oficiais sugeriam no papel. Isso NÃO significa que as pessoas estivessem subordinadas a Stalin por medo da execução, o que significa que Stalin era uma figura ideológica extremamente respeitada e, portanto, as pessoas confiavam nele e estavam mais inclinadas a concordar com ele por causa disso. Refiro-me a esta citação de H.G. Wells:
+>Nunca conheci um homem mais franco, justo e honesto, e a essas qualidades, e a nada de oculto e sinistro, ele deve sua tremenda ascendência indiscutível na Rússia. Eu tinha pensado antes de vê-lo que ele poderia estar onde estava porque os homens tinham medo dele, mas eu sei que ele deve sua posição ao fato de que ninguém tem medo dele e todos confiam nele.
+
+Se eu tivesse que avaliar quanto poder individual Stalin tinha, diria que, durante a Segunda Guerra Mundial, foi comparável ao de Winston Churchill e, na verdade, consideravelmente menor do que o do presidente dos Estados Unidos. Remeto para outra citação de Sidney Webb:
+>Supondo que aceitemos o significado primário do termo ditador, conforme definido no The New English Dictionary - “um governante ou governador cuja palavra é lei; um governante absoluto do estado - e que prescreve com autoridade um curso de ação ou dita o que deve ser feito ”- Stalin não é um ditador. Em maio de 1941, Stalin até então satisfeito por ser um membro do Presidium, alarmado com a ameaça de um exército alemão vitorioso invadindo a Ucrânia, assumiu, com o consentimento do Presidium, o cargo de primeiro-ministro e ministro da defesa, deixando Molotov como secretário estrangeiro; exatamente da mesma maneira, e por uma razão semelhante - a guerra mundial - que Winston Churchill, com o consentimento da Câmara dos Comuns, tornou-se primeiro-ministro e ministro da defesa com Chamberlain... Nem o primeiro-ministro do gabinete britânico nem o membro que preside o Sovnarkom têm algo parecido com o poder autocrático do presidente dos EUA, que não apenas seleciona seu gabinete, sujeito apenas à aprovação por uma maioria simples do Senado, mas também é comandante-em-chefe das Forças Armadas americanas e, sob a lei Lend Lease, tem o poder de salvaguardar de uma forma ou de outra a chegada de munições e alimentos aos portos britânicos. Ao declarar, em maio de 1941, o estado de emergência nacional ilimitada, o presidente Roosevelt legalmente assume a virtual ditadura dos Estados Unidos. Ele tem o poder de assumir o transporte, de comandar o rádio para fins de propaganda, de controlar as importações em todas as transações de câmbio, de requisitar navios e de suspender as leis que regem o horário de trabalho, e, o mais importante de tudo, decidir sobre as prioridades industriais e, se necessário, para assumir o controle de plantas industriais.
+
+Lembre-se de que a Segunda Guerra Mundial foi o auge dos poderes de Stalin, foi nessa época que ele ocupou simultaneamente cinco diferentes cargos de liderança: secretário-geral do partido, presidente do Sovnarkom, ministro da defesa, presidente do Comitê de Defesa do Estado e presidente do Stavka (alto comando militar). Embora isso tornasse Stalin muito poderoso, ele ainda não conseguia tomar decisões por conta própria e era inteiramente responsável perante o órgão que o elegeu em primeiro lugar, ou seja, o Presidium do Soviete Supremo. Durante o resto do mandato de Stalin, no entanto, ele não foi nem de longe tão poderoso assim. Até 1930, o primeiro-ministro, a presidência e o Politburo eram todos controlados por membros da Oposição de Direita (Rykov, Kalinin, Bukharin, Tomsky etc.), então Stalin não conseguiu o que queria. De 1930-1941, Stalin conseguiu o que queria no sentido de que seu programa político estava sendo executado, mas ele próprio não detinha os cargos de poder, ao contrário, seus aliados como Molotov. O que é importante notar aqui é que o sistema político soviético funcionava quase da mesma maneira que as democracias ocidentais. Stalin conseguiu o que queria não porque fosse um ditador, mas porque seu programa era apoiado pela maioria no parlamento e, por extensão, pelas massas (ver o referendo do partido de 1927, Stalin derrotou Trotsky em uma votação direta entre os dois) Todas as posições de liderança eram eleitos por delegados representativos, que por sua vez eram eleitos a partir de seus Sovietes locais, isto é, conselhos de trabalhadores, e o povo diretamente nas eleições. Ao contrário da crença popular, Stalin não tinha o poder de nomear pessoalmente ninguém, todas as posições de liderança dentro do Partido Comunista foram eleitas e ratificadas nos Congressos do Partido, com a presença de milhares de delegados representando milhões de membros do partido. Além do mais, mesmo se aceitarmos que Stalin tinha controle total sobre o Soviete Supremo (ele não tinha), precisamos dissipar o mito de que o governo central em Moscou tinha controle total sobre o país. Como em qualquer democracia ocidental, as questões relativas a repúblicas sindicais, oblasts autônomos, regiões, municipalidades e locais de trabalho eram tratadas por governos locais, conselhos e sindicatos, é ridículo afirmar que Stalin teve alguma influência sobre isso.
+
+Agora, neste ponto, provavelmente é melhor falarmos um pouco sobre os expurgos. Muitas pessoas acreditam erroneamente que Stalin apenas perseguiu qualquer um que discordasse dele e, portanto, ele era um ditador de fato. Em suma, os expurgos foram um meio necessário para eliminar os conspiradores fascistas do país (especialmente importante na esteira da Segunda Guerra Mundial), mas saíram de controle devido a forças fora do controle de Stalin, eles não tinham nada a ver com a manutenção de um controle individual no poder. Alguns bons historiadores sobre o assunto incluem J Arch Getty, Robert Thurston (ambos liberais) e Grover Furr.
+
+Para uma visão precisa do sistema político soviético e de sua estrutura democrática de baixo para cima, leia Sheila Fitzpatrick (outro liberal) e a [constituição soviética de 1936](https://www.marxists.org/reference/archive/stalin/works/1936/12/05.htm). Também recomendo a leitura de Pat Sloan e Albert Syzmanski.
+
+Só gostaria de esclarecer, não nego que a União Soviética teve muitos elementos burocráticos, ou talvez até antidemocráticos, nem nego que Stalin e a posição de secretário-geral tiveram grande poder e influência sobre o partido, o governo e o país, mas chamar Stalin de ditador é totalmente errado, mesmo os historiadores anticomunistas mais fervorosos não acreditam mais nisso.
+
+A CIA também lançou um [paper](https://www.cia.gov/readingroom/docs/CIA-RDP80-00810A006000360009-0.pdf) sobre as considerações sobre a Era Stalin onde ela afirma que Stalin não era um líder antidemocrático e totalitário como circulava pelo Ocidente.
+
+Em primeiro lugar, devemos lembrar as extensas conquistas discutidas acima, que melhoraram muito a vida de centenas de milhões de pessoas. Essas conquistas foram o resultado do sistema socialista, construído principalmente sob Joseph Stalin. Mesmo os reacionários foram incapazes de negar isso. De acordo com o comentarista de direita Nicholas Ebserstadt:
+>Os resultados de Stalin foram incontestáveis. Este é um ponto que muitas vezes esquecemos no Ocidente. Stalin herdou um país que foi a principal vítima da Primeira Guerra Mundial e legou a seus sucessores uma superpotência. É apenas uma medida do sucesso do 'Líder', e sua compreensão da resistência de sua nação, que entre 1940 e 1953... a URSS dobrou sua produção de carvão e aço, triplicou sua produção de cimento e industrial e aumentou sua reserva de mão de obra qualificada por um fator de dez. Essas taxas de crescimento foram geometricamente mais altas do que no Ocidente menos devastado e sem Terror.
+
+Fontes:
+- [Soviet Democracy by Pat Sloan](https://mltheory.files.wordpress.com/2017/06/pat-sloan-soviet-democracy-victor-gollancz-1937.pdf)
+- [Is the Red Flag Flying? The Political Economy of the Soviet Union by Albert Szymanski](https://archive.org/details/IsTheRedFlagFlying)
+- [Stalin and the Struggle for Democratic Reform by Grover Furr](http://marxism.halkcephesi.net/Grover%20Furr/index.htm)
+- [The Stalin Era by Anna Louise Strong](https://www.prisoncensorship.info/archive/books/SovietUnion/StalinEra_StrongAL.pdf)
+- [Domenico Losurdo: Towards a Critique of Totalitarianism](https://mirror.explodie.org/Losurdo___Critique_of_Totalitarianism_%282004%29.pdf)
+- [Stalin and Hitler: Twin Brothers or Mortal Enemies?](http://crisiscritique.org/ccmarch/losurdo.pdf)
+- [Stalin: History and Criticism of a Black Legend by Domenico Losurdo](https://drive.google.com/drive/folders/1Dg1i8cmId3a-p_Ydz46p1jvPP6Hwc3bm)
+- [A review of Losurdo’s book by scholar Roland Boer](https://stalinsmoustache.org/2014/08/29/losurdo-on-stalin-a-review/)
+- [Kruschev Lied by Grover Furr](https://ia902707.us.archive.org/5/items/pdfy-nmIGAXUrq0OJ87zK/Khrushchev%20Lied.pdf)
+- [Critical review of Kruschev Lied by Roger Keeran (author of Socialism Betrayed)](https://mltoday.com/khrushchev-lied-but-what-is-the-truth)
+- [Grover Furr’s reply to Roger Keeran’s criticism](https://mltoday.com/rejoinder-to-roger-keeran/)
+- [Stalin: a Marxist-leninist perspective](https://revolutionaryleftradio.libsyn.com/joseph-mother-fucking-stain)
+- [Some points on Stalin and Mao](https://marxistleninist.wordpress.com/2008/09/25/some-points-on-stalin-and-mao/)
+- [Anti-Stalinism is left-wing racism: part 1](https://www.fort-russ.com/2018/07/anti-stalinism-is-left-wing-racism-part-1/)
+- [Reconstructing J.V. Stalin: exposing the myths, lies and fraud](https://thesanghakommune.org/2017/07/12/reconstructing-jv-stalin-exposing-the-myths-lies-fraud/amp/)
+- [The positive achievements of Stalin and his regime](https://barbradozier.wordpress.com/2013/01/25/the-positive-achievements-of-stalin-and-his-regime)
+- [The Essential Stalin](http://marxism.halkcephesi.net/trotskyism/the%20essential%20Stalin.htm)
+- [Another View of Stalin](https://stalinsocietypk.files.wordpress.com/2013/05/another-view-of-stalin1.pdf)
+- [The Real Stalin series by Dennis McKinsey](https://espressostalinist.com/the-real-stalin-series/)
+- [The Truth About Stalin by Wilf Dixon](http://www.oneparty.co.uk/index.html?http%3A//www.oneparty.co.uk/html/wilftas.html)
+- [Stalin’s place in history - Mao](https://www.marxists.org/reference/archive/mao/selected-works/volume-7/mswv7_467.htm)
+- [History of the Communist Party of the Soviet Union (Bolsheviks)](https://www.marxists.org/reference/archive/stalin/works/1939/x01/index.htm)
+- [Stalin and the USSR - Myth and Reality](https://youtu.be/v6GO_GxdtZQ)
+- [Stalin and the myth of the “Old Bolsheviks”](https://mltheory.wordpress.com/2016/12/20/stalin-the-myth-of-the-old-bolsheviks/)
+- [Socialism in one country - what it really means](https://mltheory.wordpress.com/2017/05/25/socialism-in-one-country-what-it-really-means/)
+- [On The Question of Stalin (By Mao Tse-tung)](https://www.marxists.org/subject/china/documents/polemic/qstalin.htm)
+- [Che Guevara: “I came to Communism because of Stalin”](http://houstoncommunistparty.com/che-guevara-i-came-to-communism-because-of-stalin/)
+- [Remorse of a dissident: Alexander Zinoviev on Stalin and the dissolution of the USSR](https://communismgr.blogspot.co.uk/2016/08/the-remorse-of-dissident-alexander.html)
+- [Bill Bland: Stalin - the myth and the reality](https://espressostalinist.com/2015/06/20/bill-bland-stalin-the-myth-and-reality/)
+- [On Stalin by W.E.B. Du Bois](https://www.marxists.org/reference/archive/stalin/biographies/1953/03/16.htm)
+- [Review: Stalin’s Wars: From World War to Cold War 1939-1953](https://mltoday.com/article/51-review-stalins-wars-from-world-war-to-cold-war-19391953/29-books-arts-and-literature)
+- [Stalingrad by Antony Beevor: a piece of Nazi war propaganda](http://neodemocracy.blogspot.co.uk/2017/09/stalingrad-by-antony-beevor-piece-of.html)
+
+#### O grande expurgo
+Os expurgos do final dos anos 1930 são uma marca negra definitiva no legado do socialismo soviético; isso não pode ser negado. Dito isto, eles foram objeto de décadas de distorções e exageros injustificados e intoleráveis por parte dos acadêmicos burgueses, necessitando de uma resposta completa.
+
+Em primeiro lugar, vamos estabelecer os fatos de quantas pessoas realmente morreram nos expurgos. Embora os ocidentais sejam frequentemente tratados com números que variam de 20 a 50 milhões, os números verdadeiros (embora ruins o suficiente por si só) estão longe de ser tão altos. De acordo com o Professor [J. Arch Getty](https://history.ucla.edu/faculty/j-arch-getty):
+>De 1921 até a morte de Stalin, em 1953, cerca de 800.000 pessoas foram condenadas à morte e fuziladas, 85% delas nos anos do Grande Terror de 1937-1938. De 1934 até a morte de Stalin, mais de um milhão morreram nos campos do gulag.
+
+A esses números deve ser acrescentada uma ressalva importante: ao contrário da opinião popular, a grande maioria dos presos do gulag não eram presos políticos inocentes. O professor Getty observa que os condenados por "crimes contra-revolucionários" representavam entre 12% e 33% (dependendo do ano) da população do gulag, sendo o restante condenado por crimes comuns. Ele também rejeita a alegação comum de que as nacionalidades não russas foram visadas de forma desproporcional. Para citar seu artigo na American Historical Review:
+>A tão esperada evidência de arquivo sobre a repressão no período dos Grandes Expurgos mostra que os níveis de prisões, prisioneiros políticos, execuções e populações em geral dos campos tendem a confirmar as ordens de magnitude indicadas por aqueles rotulados como "revisionistas" e ridicularizados por aqueles propondo altas estimativas... inferências de que o terror caiu especialmente em nacionalidades não russas não são corroboradas pelos dados da população do campo da década de 1930. A afirmação frequente de que a maioria dos prisioneiros do campo era "política" também parece não ser verdade.
+
+Esses números são confirmados em um [relatório da CIA sobre o assunto](https://www.cia.gov/readingroom/docs/CIA-RDP80T00246A032000400001-1.pdf).
+
+Além disso, os campos gulag não eram campos da morte como os dos nazistas; eram prisões, embora severas. Até mesmo estudiosos anticomunistas notáveis (como aqueles que trabalharam no infame Livro Negro do Comunismo) admitiram isso. Para citar novamente o Professor Getty:
+>Os campos de Stalin eram diferentes dos de Hitler. Dezenas de milhares de prisioneiros eram libertados todos os anos após o cumprimento de suas sentenças. Agora sabemos que antes da Segunda Guerra Mundial mais presos escapavam anualmente dos campos soviéticos do que morriam lá. [...] Werth, um conceituado especialista francês sobre a União Soviética, cujas seções do Livro Negro sobre os comunistas soviéticos são sóbrios e contundentes, disse ao Le Monde: "Não existiam campos de extermínio na União Soviética".
+
+Também deve ser notado que, ao contrário da concepção popular da URSS de Stalin como um lugar de "terror total" (para citar Hannah Arendt), a maioria da população não se sentiu ameaçada pelos expurgos. Referindo-se à época do Grande Expurgo, o professor [Robert Thurston](http://miamioh.edu/cas/academics/departments/history/about/faculty/emeriti-faculty/thurston/index.html) observa que "minhas evidências sugerem que o medo generalizado não existia no caso em questão". Ele também observa que o Grande Expurgo foi um acontecimento excepcional, que não pode ser usado para caracterizar a era stalinista como um todo:
+>Não vou simplesmente sugerir, mas declarar abertamente que a Ezhovshchina (Grande Expurgo) foi uma aberração. A tortura era incomum até agosto de 1937, quando se tornou a norma; terminou abruptamente com a ascensão de Beria à chefia do NKVD no final de 1938. Prisões em massa seguiram o mesmo padrão... Uma campanha por procedimentos judiciais mais regulares, justos e sistêmicos que começou em 1933-1934 foi interrompida e oprimida pelo Terror em 1937. Foi retomado na primavera de 1938, com mais força e eficácia do que antes. Assim, mais de uma tendência foi quebrada pela Ezhovshchina, apenas para reaparecer depois dela.
+
+Ele também aponta que algumas prisões que ocorreram durante o Grande Expurgo foram baseadas em crimes anteriormente ignorados (embora indiscutivelmente ainda legítimos) contra o estado soviético, como lutar com as forças reacionárias durante a Guerra Civil:
+>Pessoas foram repentinamente presas em 1937 por coisas que aconteceram muitos anos antes, mas foram ignoradas desde, por exemplo, servindo em um exército branco.
+
+Surge a pergunta: por que prender ex-soldados do Exército Branco, entre outros? A resposta está no medo geral da contra-revolução que permeou o partido naquela época. De acordo com o professor [James Harris](https://ahc.leeds.ac.uk/history/staff/64/professor-james-harris):
+>Em meados da década de 1930, a ascensão dos nazistas na Alemanha e dos militaristas no Japão, ambos estridentemente anticomunistas, representou uma ameaça muito real para a URSS. A guerra estava então no horizonte, e Stalin sentiu que não tinha escolha a não ser tomar uma ação preventiva contra o que ele via como uma potencial quinta coluna - um grupo que minaria o coletivo maior.
+
+Lembre-se que desde o momento de sua fundação (ainda um evento recente, nesta época), a União Soviética havia sido [invadida por múltiplas potências capitalistas](https://www.warhistoryonline.com/world-war-i/the-day-that-the-usa-invaded-russia-and-fought-with-the-red-army-x.html) (incluindo os Estados Unidos) no início da década de 1920, e também tinha sido objeto de espionagem e espionagem interna. sabotar. Combinado com a iminente ameaça de guerra com uma Alemanha nazista cada vez mais poderosa, não é de surpreender que esses fatores se juntaram para formar uma atmosfera de paranóia, que se prestou ao tipo de excesso violento visto durante o expurgo. Isso coincide com a interpretação do professor Thurston dos eventos, de seu livro Life and Terror in Stalin's Russia:
+>...entre 1934 e 1936, a prática policial e judicial relaxou significativamente. Então, uma série de eventos, junto com a situação internacional tensa e as memórias da atividade real do inimigo durante a selvagem Guerra Civil Russa, combinaram-se para empurrar os líderes e as pessoas em uma caçada histérica por supostos 'destruidores'. Depois do final de 1938, no entanto, a polícia e os tribunais tornaram-se dramaticamente mais brandos.
+
+Essa atmosfera geral de medo (não dos expurgos, mas dos inimigos externos e internos) é provavelmente o motivo pelo qual a maioria do povo soviético parecia apoiar as ações do governo durante o período de expurgo. De acordo com o professor Thurston:
+>As várias reações à prisão catalogadas acima sugerem que o medo geral não existia na URSS em qualquer momento no final dos anos 1930... As pessoas que permaneceram em liberdade muitas vezes sentiram que algum evento nos antecedentes dos indivíduos detidos justificava suas prisões. A sensação de que alguém poderia ser o próximo, a base de sistemas teóricos de terror, raramente aparece.
+
+No geral, talvez o resumo mais sucinto desta questão seja aquele fornecido no livro do Professor Thurston, no qual ele afirma:
+>Nunca houve um longo período de stalinismo sem uma séria ameaça estrangeira, grande deslocamento interno ou ambos, o que torna impossível identificar sua verdadeira natureza.
+
+Como marxistas, devemos estar bem cientes de que as condições materiais moldam as estruturas ideológicas e políticas. A selvageria da Guerra Civil Russa, as múltiplas invasões das potências capitalistas e a crescente ameaça de uma guerra contra o fascismo tornam a atmosfera paranóica do final dos anos 1930 compreensível, se não tolerável; no entanto, mesmo enquanto discutimos as causas genuínas do Expurgo e rejeitamos o histérico jogo de lama anticomunista dos Guerreiros Frios, ainda devemos reconhecer a marca negra que o Expurgo deixou no legado de Stalin.
+
+Fontes:
+- [Origins of Great Purges by J Arch Getty](https://books.google.com.br/books/about/Origins_of_the_Great_Purges.html?id=R5zx54LB-A4C&redir_esc=y)
+- [Life & Terror in Stalin's Russia - 1934-1941 by Robert Thurston](https://www.amazon.com.br/Life-Terror-Stalins-Russia-1934-1941/dp/0300064012)
+- [Yezhov vs Stalin: The causes of the mass repressions of 1937-1938 in the USSR by Grover Furr](https://msuweb.montclair.edu/~furrg/research/furr_yezhov_jls17.pdf)
+- [The Moscow Trials (Part 3: the Great Purge) by Finnish Bolshevik](https://www.youtube.com/watch?v=NrrDMyAz1SU&t=1894s)
+- [The Purges and Repressions in the USSR by Tovarishch Endymion](https://www.youtube.com/watch?v=RbEmfzJeY48&t=2s)
+
+#### A fome ucraniana (holodomor)
+Talvez a acusação mais perniciosa contra Stalin seja que ele orquestrou a terrível fome do início dos anos 1930 para esmagar uma revolta nacionalista ucraniana. Essa calúnia desprezível (que é propagada em grande parte por grupos nacionalistas e neofascistas ucranianos) é facilmente refutada pelo exame do consenso histórico.
+
+A fome de 1931-1932, não foi causada pelo Estado soviético, nem foi planejada ou premeditada por Stalin. Primeiro, porque não morreram apenas ucranianos, mas também russos, bielorrussos e cazaques. Os camponeses ricos da Ucrânia, que exploravam a mão de obra  do campesinato local, opondo-se à coletivização. Os próprios kulaks, que haviam enriquecido com a NEP de Lenin, recusaram-se a colher os frutos e grãos, principalmente depois que muitos camponeses sem-terra optaram por migrar para outras regiões da União Soviética, trabalhando em fazendas coletivas (as kolkhoses), em vez de ficar naquela região, sendo explorados, fora que quando o preço dos grãos caiam, eles faziam açambarcamento das mercadorias e se recusavam a vendê-los, a URSS não podia continuar se submetendo às vontades do livre-mercado, senão ocorreria outra crise das tesouras. Grupos de extrema-direita anti-comunistas, como a Organização Militar Ucraniana, atearam fogo nas suas plantações, atiraram nos rebanhos, matando animais, visando sabotar o processo de coletivização. Haviam, à época, 10 milhões de “kulaks”, para uma população camponesa total de 120 milhões de pessoas. Cerca de 1 milhão e 800 mil deles, por causa da pressão dos kulaks, optaram por migrar. Toda mentira sobre o Holodomor começou quando William Randolph Hearst, magnata da imprensa estadunidense, conhecido antes da Segunda Guerra como "o fascista nº1 da América", viajou para Alemanha em 1934, cerca de 1 ano depois da ascensão de Hitler ao poder. Nessa viagem ele travou contato principalmente com Alfred Rosenberg, ideólogo do Partido Nazista, que, terminada a Segunda Guerra (1945), acabou  julgado e executado no Tribunal de Nuremberg por crimes contra a humanidade. No ano seguinte à viagem (1935), os jornais de Hearst começaram a espalhar a farsa do “holocausto ucraniano”. Hearst havia começado sua vida como empresário em 1887 após assumir o controle do jornal The San Francisco Examiner, que era do seu pai.
+
+Douglas Tottle ressalta em Fraud, Famine and Fascism, p. 49-51:
+>É uma questão de algum significado que as alegações do cardeal Innitzer de fome-genocídio foram amplamente promovidas ao longo da década de 1930, não apenas pelo principal propagandista de Hitler, Goebbels, mas também pelos fascistas americanos.
+>Devemos relembrar que Hearst deu início à sua campanha contra a fome com uma transmissão de rádio baseada principalmente em material do "comitê de ajuda" do cardeal Innitzer. Em Organized Anti-Semitism in America, o livro de 1941 expondo grupos e atividades nazistas nos Estados Unidos antes da guerra, Donald Strong observa que o líder fascista americano, padre Coughlin, usou extensivamente o material de propaganda nazista. Isso incluía acusações nazistas de "atrocidades cometidas por judeus comunistas" e porções textuais de um discurso de Goebbels referindo-se ao "apelo de Innitzer de julho de 1934, de que milhões de pessoas estavam morrendo de fome em toda a União Soviética".
+
+Se mudando para Nova Iorque, Hearst comprou o The New York Journal e criou então a noção de "imprensa marrom", sendo por isso considerado "o pai do sensacionalismo". Neste ínterim, entrou em uma guerra de negócios com Joseph Pulitzer, dono do New York World. Porém, foi Walter Dushnyck, um colaborador dos nazistas e terrorista da “Organização Militar Ucraniana” (que apoiou os nazistas quando estes ocuparam parte da Ucrània em 1941), o homem por trás da farsa. Dushnyck refugiou-se nos EUA após a II Guerra. Dushnyck publicou o livro "50 anos atrás: o Holocausto de Fome na Ucrânia" (50 Years Ago: The Famine Holocaust in Ukraine, 1983), um panfleto repleto de referências nazistas, incluindo a capa, como uma caveira branca sob uma foice e um martelo vermelhos. Este livro continha as fotos do "genocídio ucraniano” publicadas originalmente no jornal de Hitler, o “Völkischer Beobachter” e nos de seu apoiador americano, William Randolph Hearst (cuja vida inspirou o filme Cidadão Kane). Cabe lembrar que Hearst tinha estreita relação com o senador  Joseph McCarthy, sendo um dos nomes fortes por trás do movimento de  "caça  aos comunistas" iniciado por ele na década de 1950, no que ficou conhecido como Macarthismo. Por meio do Comitê de Atividades Anti-Americanas, McCarthy liderou um comitiva inquisitorial que perseguiu qualquer que tivesse a mínima conexão com o marxismo, como o roteirista Dalton Trumbo, os diretores Edward Dmytryk, John Huston, além de Orson Welles (que Hearst fez de tudo para derrubar quando este lançou Cidadão Kane), e dos atores Humphrey Bogart, Lauren Bacall, Gregory Peck, Katharine Hepburn, Kirk Douglas, Burt Lancaster, Gene Kelly e até mesmo Frank Sinatra. Outro responsável por disseminar essas mentiras sobre a URSS foi o escritor Robert Conquest (homenageado por George W. Bush), nos livros O Grande Terror (The Great Terror, 1968) e Colheita Amarga (The Harvest of Sorrow, 1986). O que poucos sabem é que Conquest trabalhou até meados da década de 50 para o Information Research Department (Departamento de Pesquisa de Informação), um organismo secreto do Foreign Office (Ministério dos Negócios Estrangeiros) criado em 1948 pelo governo britânico para estudar o comunismo e combater ativamente a sua influência interna e externamente, promovendo um eficaz relacionamento com jornalistas dos principais jornais, dirigentes sindicais, etc. Datam desse tempo os seus primeiros textos sobre a União Soviética. Holodomor nem é a grafia correta, e sim haladamor ou golodomor, mas colocaram holodo- para parecer-se com o holocausto e assim difamar a URSS. Não morreram 4 milhões de cazaques pela fome, já que o número de cazaques na época era 3,9 milhões. Muitos fugiram e se tornaram indetectáveis. As estimativas reais são de apenas quase 2 mil mortes.
+
+![Origem do termo holodomor](images/origin_of_holodomor.jpg)
+
+Robert Conquest, para escrever seu livro, teve como ajudante James Mace que, assim como  Nicolas Werth (organizador do "Livro negro do comunismo”), adotaram um método estatístico cientificamente falho criado por Dushnyck para "medir" a quantidade de mortos na fome de 1931-32. O método de Dushnyck pode ser avaliado pelo seguinte trecho de seu livro:
+>Tomando os dados do censo de 1926 e os do censo de 1939 e a média de aumento [da população] antes da coletivização (2.36% ao ano), podemos calcular que a Ucrânia perdeu 7 milhões e 500 mil pessoas entre os dois censos.
+
+Logo, ele conclui, aleatóriamente, que esses seriam os mortos de fome entre 1932 e 1933. Não tem provas, apenas convicções. O método de Dushnyck tem outras falhas:
+1) Ignora que uma parte da população que no censo de 1926 era classificada como ucraniana – cerca de 2 a 3 milhões de cossacos – foi, no censo de 1939, reclassificada como russa, pela simples razão de que viviam da Rússia e não na Ucrânia.
+2) Pressupõe que, entre 1926 e 1939 ninguém morreu de outra causa que não a fome, como frio, pneumonia, velhice, etc.
+3) Ignora que na URSS e outros países, durante esse período, ocorreram duas grandes epidemias tifo (200.000 casos) e malária (6 milhões de casos), ambas sem tratamento conhecido na época, além de consumo de trigo infectada pela ferrugem conduzindo sintomas similares à fome, micotoxicose e a morte.
+4) Pressupõe que o número de mulheres na idade reprodutiva e com vida sexual ativa tivesse se mantido inalterado no período.
+5) Ignora as mortes na guerra e as quedas nas taxas de natalidade e fecundidade entre 1914 (início da I Guerra Mundial) e 1921 (fim da Guerra Civil).
+6) Pressupõe que a taxa de natalidade permaneceu constante durante os 13 anos em que a URSS passou por uma extraordinária transformação, com industrialização pesada sendo realizada, a reforma agrária por meio da coletivização da agricultura além da preparação da defesa do país para a guerra, passos indispensáveis para a construção do socialismo.
+
+Ou seja, pelo método de Dushnyck, adotado por outros autores como Robert Conquest e Nicolas Werth, a transformação da União Soviética, de país agrário a potencia industrial, bem com a passagem pela Guerra Civil (1918-1921) e pela Segunda Guerra Mundial (1939-1945) não teriam afetado a taxa de natalidade. Em consequência dessa falha metodológica pessoas que nunca nasceram foram considerados mortas em genocídio que nunca se provou. Pois a taxa de natalidade, evidentemente, caiu entre 1926 e 1939 – e caiu significativamente. Segundo Dushynck e os seguidores de seu método, teriam morrido 10 milhões de pessoas na fome de 1931-1932. Todavia, Rússia, Ucrânia e muitos países do mundo, até meados do século XX, quando se consolidou a chamada "Revolução Verde", enfrentavam crises periódicas de fome.
+
+Entre 1891 e 1892, no Império Russo, governado pelo czarismo, a fome matou entre 13 e 35 milhões de pessoas, em decorrência, além das técnicas precárias de cultivo, do rigoroso inverno no qual as temperaturas chegaram a -31º C.
+
+[Alexander Dallin](https://creees.stanford.edu/events/alexander-dallin-lecture-russian-east-european-and-eurasian-affairs), da Universidade de Stanford, escreve:
+>Não há provas de que foi intencionalmente dirigido contra os ucranianos... isso estaria totalmente em desacordo com o que sabemos - não faz sentido.
+
+[Moshe Lewin](https://www.upenn.edu/emeritus/memoriam/Lewin.html), da Universidade da Pensilvânia, declarou:
+>Isso é uma porcaria, uma besteira... Eu sou um anti-Stalinista, mas não vejo como essa campanha [genocídio] acrescenta ao nosso conhecimento. É adicionar horrores, adicionar horrores, até que se torne uma patologia.
+
+[Lynne Viola](https://history.utoronto.ca/people/lynne-viola), da Universidade de Toronto, escreve:
+>Eu o rejeito absolutamente... Por que, em nome de Deus, esse governo paranóico conscientemente produziria uma fome quando eles estavam apavorados com a guerra [com a Alemanha]?
+
+[Mark Tauger](https://history.wvu.edu/faculty-and-staff/faculty/mark-b-tauger), professor de história da West Virginia University (revisando o trabalho de [Stephen Wheatcroft](https://pursuit.unimelb.edu.au/individuals/professor-stephen-wheatcroft) e [R.W. Davies](https://www.birmingham.ac.uk/staff/profiles/gov/davies-bob.aspx)) tem a dizer:
+>A mídia popular e a maioria dos historiadores por décadas descreveram a grande fome que atingiu a maior parte da URSS no início dos anos 1930 como "causada pelo homem", muitas vezes até mesmo um "genocídio" que Stalin perpetrou intencionalmente contra os ucranianos e às vezes outros grupos nacionais para destruí-los como nações... Essa perspectiva, entretanto, está errada. A fome que ocorreu não se limitou à Ucrânia ou mesmo às áreas rurais da URSS, não foi fundamentalmente ou exclusivamente causada pelo homem e estava longe da intenção de Stalin e outros na liderança soviética criar um desastre. Uma pequena mas crescente literatura baseada em novos documentos de arquivo e uma abordagem crítica de outras fontes mostrou as falhas na interpretação “genocídio” ou “intencionalista” da fome e desenvolveu uma interpretação alternativa.
+
+Pesquisas mais recentes descobriram causas naturais para a fome na Ucrânia. Notas de Tauger:
+>...a URSS experimentou um desastre ambiental incomum em 1932: clima extremamente úmido que deu origem a graves infestações de doenças de plantas, especialmente ferrugem. A Ucrânia teve o dobro ou o triplo das chuvas normais em 1932. Tanto as condições climáticas quanto a ferrugem se espalharam do Leste Europeu, como documentaram os fitopatologistas da época. Patologistas de plantas soviéticos, em particular, estimaram que a ferrugem e outras doenças fúngicas reduziram a colheita potencial em 1932 em quase nove milhões de toneladas, que é a maior perda de colheita documentada por qualquer causa na história soviética.
+
+Anna Louise Strong diz:
+>PERGUNTA: É verdade que durante 1932-33 vários milhões de pessoas morreram de fome na Ucrânia e no Norte do Cáucaso porque eram politicamente hostis aos soviéticos?
+>
+>RESPOSTA: Não é verdade. Visitei vários lugares nessas regiões durante esse período. Houve uma séria escassez de grãos na safra de 1932 devido principalmente às ineficiências do período organizacional da nova agricultura mecanizada em grande escala entre os camponeses não acostumados com as máquinas. A isso foi adicionada a sabotagem por kulaks despossuídos, a saída das fazendas por 11 milhões de trabalhadores que foram para novas indústrias, o efeito cumulativo da crise mundial em deprimir o valor das exportações agrícolas soviéticas e uma seca em cinco regiões de grãos básicos em 1931 .
+>
+>A colheita de 1932 foi melhor do que a de 1931, mas não foi toda colhida; por conta de promessas superotimistas dos distritos rurais, Moscou descobriu a situação real apenas em dezembro, quando uma quantidade considerável de grãos estava sob a neve.
+
+Não foi um genocídio:
+- A maioria dos administradores governamentais da URSS eram Ucrânianos étnicos.
+- Ucrânia era uma área multiétnica.
+- O governo soviético deu um total de 13.000.000 para os cuidados de saúde e sistemas sociais Ucranianos entre 1929 e 1934.
+
+Em 1987, Hans Blumenfeld ressalta:
+>em 1920, quando a NEP foi implementada e a União Soviética passou do comunismo de guerra para um estágio temporário onde existia um mercado livre, as temidas consequências do mercado tornaram-se evidentes. Apesar da reforma agrária anterior, quase 3 milhões de camponeses, rapidamente ficaram novamente sem terra, porque os kulaks os levaram à falência e compraram suas terras por um preço baixo. Isso resultou em 10 ou 11% da população (kulaks) possuindo tanta terra e também cavalos e maquinários em comparação com o resto da população camponesa que eles produziram 56% dos alimentos comercializados. Em grande parte, os kulaks decidiriam se as cidades receberiam alimentos ou não. A especulação de Kulak no mercado de alimentos causou uma escassez já em 1927, quando a parcela de grãos comercializada era de apenas um terço dos anos anteriores à guerra, embora a produção tivesse excedido os números anteriores à guerra. Essa ineficácia foi o que deu início à ideia de coletivização, com Lenin escrevendo a ideia básica antes de sua morte e Stalin elaborando os planos e implementando-os. Entre as muitas ações do programa de coletivização estava o confisco de terras agrícolas e das máquinas e animais que estavam sobre elas (propriedade privada, NÃO propriedade pessoal). No entanto, houve alguns problemas;
+>
+>“A coletivização não foi um processo ordenado, seguindo regras burocráticas. Consistia em ações dos camponeses pobres, incentivados pelo Partido. Os camponeses pobres estavam ansiosos para expropriar os “kulaks”, mas menos ansiosos para organizar uma economia cooperativa. Em 1930 o Partido já havia enviado quadros para conter e corrigir os excessos ... Depois de ter exercido a contenção em 1930, o Partido voltou a se movimentar em 1932. Como resultado, naquele ano a economia kulak deixou de produzir, e o novo coletivo economia ainda não produzia totalmente.
+
+Neste período, houve o dilúvio do rio Volga, incêndios florestais, seca e os administradores da RSSC e a RSSU não denunciaram o mal gerenciamento dos bens coletivos na época, o que complicou a reação do governo central, então eles continuaram exportando normalmente a quantidade de colheitas.
+
+O governo do Stalin reagiu:
+- Investindo nos sistemas de saúde afetados;
+- Importando e distribuindo colheitas;
+- Desenvolvendo e melhorando o sistema Sovkhoz.
+
+Em The Stalin Era, Anna comenta sobre o fim da fome:
+>A conquista do pão foi alcançada naquele verão, uma vitória arrebatada de um grande desastre. A safra de 1933 superou a de 1930, que até então detinha o recorde. Desta vez, o novo recorde não foi feito por uma explosão de semi-organizados entusiasmo, mas por eficiência crescente e organização permanente... Esta cooperação nacional venceu a seca de 1934, garantindo uma safra total para a URSS igual ao máximo de todos os tempos de 1933.
+
+>O Bureau Político acredita que a escassez de grãos na Ucrânia é muitas vezes pior do que o que foi descrito no telegrama do camarada Kosior; portanto, o Bureau Político recomenda que o Comitê Central do Partido Comunista da Ucrânia tome todas as medidas ao seu alcance para evitar a ameaça de não semear [safras] na Ucrânia.
+>
+><cite>Assinado: Secretário do Comitê Central - J. STALIN Do Arquivo do Presidente da Federação Russa. Fond 3, Record Series 40, File 80, Page 58.</cite>
+
+Deve-se notar que isso não isenta o Estado soviético de toda e qualquer responsabilidade pelo sofrimento ocorrido; pode-se acusar o governo de resposta insuficientemente rápida e observar que os relatórios iniciais costumam ser minimizados para evitar balançar o barco. Mas está claro que a fome não foi deliberada, não foi um genocídio e (para citar Tauger) "não foi fundamentalmente ou exclusivamente causada pelo homem".
+
+Fontes:
+- [A “grande fome” na Ucrânia (Holodomor): um dos maiores mitos do século XX](https://andrezasantana-11112.medium.com/a-grande-fome-na-ucr%C3%A2nia-holodomor-um-dos-maiores-mitos-do-s%C3%A9culo-xx-22b1be62d6b6)
+- [What about Stalin, the purges, the holodomor, etc? A revleft podcast.](https://revolutionaryleftradio.libsyn.com/joseph-mother-fucking-stain)
+- [Fraud, Famine and Fascism by Doug Tottle](http://rationalrevolution.net/special/library/tottlefraud.pdf)
+- [The 1932 Harvest and the Famine of 1933 by Mark Tauger](https://drive.google.com/file/d/0B-eTgjCs2lzpQllPVzQ2UFd3aWM/view?usp=sharing)
+- [Natural Disaster and Human Actions in the Soviet Famine of 1931-1933 by Mark Tauger](https://drive.google.com/file/d/0B-eTgjCs2lzpNExnSEVhMjBLRlE/view?usp=sharing)
+- [The Years of Hunger: Soviet Agriculture, 1931-1933 by Davies and Wheatcroft](http://gen.lib.rus.ec/book/index.php?md5=32DAA2871728468189A57E0233492A3A)
+- [Lies concerning the History of the Soviet Union by Mario Sousa](http://www.mariosousa.se/LiesconcerningthehistoryoftheSovietUnion.html)
+- [The Soviet famine of 1932-1933 reconsidered](http://www.tandfonline.com/doi/abs/10.1080/09668130801999912)
+- [Archive of writings of Professor Mark Tauger on the famine scourges of the early years of the Soviet Union](https://www.newcoldwar.org/archive-of-writings-of-professor-mark-tauger-on-the-famine-scourges-of-the-early-years-of-the-soviet-union/)
+- [Blood Lies by Grover Furr](http://www.readmarxeveryday.ml/bloodlies/index.html)
+- [Pages 95-111 of Another View of Stalin by Ludo Martens - Collectivization and the ‘Ukrainian Holocaust’](https://stalinsocietypk.files.wordpress.com/2013/05/another-view-of-stalin1.pdf)
+- [J Arch Getty reviews “Harvest of Sorrow”](https://www.lrb.co.uk/v09/n02/j-arch-getty/starving-the-ukraine)
+- [Mark Tauger reviews The Years of Hunger by Davies and Wheatcroft](https://eh.net/book_reviews/the-years-of-hunger-soviet-agriculture-1931-1933/)
+- [Stop spreading Nazi propaganda: on Holodomor](https://socialistmlmusings.wordpress.com/2017/02/15/stop-spreading-nazi-propaganda/)
+- [The Holodomor Hoax: Joseph Stalin’s crime that never took place](http://www.greanvillepost.com/2015/08/10/the-holodomor-hoax-joseph-stalins-crime-that-never-took-place/)
+- [Real Stalin series: famine of 1932](https://espressostalinist.com/the-real-stalin-series/famine-of-1932/)
+- [In search of a Soviet Holocaust: A 55 year old famine feeds the Right](https://msuweb.montclair.edu/~furrg/vv.html)
+- [The Ukrainian famine: only evidence can disclose the truth](https://www.counterpunch.org/2017/03/31/the-ukrainian-famine-only-evidence-can-disclose-the-truth/)
+- [The “Holodomor” and the film “Bitter Harvest” are Fascist lies](https://www.counterpunch.org/2017/03/03/the-holodomor-and-the-film-bitter-harvest-are-fascist-lies/)
+- [Holodomor Hoax: the anatomy of a lie invented by West’s propaganda machine](https://sputniknews.com/politics/201510191028730561-holodomor-hoax-invented-hitler-west)
+- [The famine of 1932-33 in Ukraine the eyes of historians, the language of documents](http://www.archives.gov.ua/Sections/Famine/Publicat/Fam-Pyrig-1932.php)
+- [How many people did Joseph Stalin really kill?](https://anti-imperialism.org/2016/02/16/how-many-people-did-joseph-stalin-really-kill/)
+- [Evidence that Stalin was unaware of conditions in the Ukraine and tried to relieve the situation when he was informed](http://www.stalinsociety.org/2015/10/03/fighting-the-holodomor-myth-archival-evidence-that-stalin-was-unaware-of-conditions-in-the-ukraine-and-tried-to-relieve-the-situation-when-he-was-informed/)
+- [Why the Holodomor narrative is wrong](https://www.youtube.com/watch?v=mUEi7v2TMpQ)
+- [Holodomor series - part 1 - fraudulent photos](https://www.youtube.com/watch?v=QzXFXdOz_8Q)
+- [Food shortages and problems in the USSR](https://www.youtube.com/watch?v=NUO7_SiJCpw)
+- [Did Stalin continue to export grain as Ukraine starved?](https://youtu.be/SMBJ_nQ4sTA)
+- [Famines are always because of Communism](https://i.redd.it/j22mvokwzo1z.jpg)
+- [Soviet Agriculture, 1977](https://archive.org/details/SovietAgricultureMorozov)
+
+Também recomendo a leitura dos livros **Stalin: um novo olhar** de Ludo Martens, **Stalin: a história crítica de uma lenda negra** de Domenico Losurdo e **Um Stalin desconhecido** pela família Medvedev (que é liberal e anti-stalin, mas rejeita a narrativa mitíca que se tem sobre Stalin). Também recomendo o prof. Mark Tauger é um dos pesquisadores mais respeitados do mundo no tema história da agricultura soviética,  prof. Annie Lacroix-Riz, acadêmica da universidade Paris VII - Denis Diderot, que defende ser o "holodomor" um cavalo de batalha anticomunista.
+
+#### Antissemitismo
+Em primeiro lugar, todas as nacionalidades sob Stalin tinham direitos iguais, não importando a raça que pertenciam. Isso pode ser visto no Artigo 123 da Constituição Soviética de 1936. Afirma que:
+>A igualdade de direitos dos cidadãos da URSS, independentemente de sua nacionalidade ou raça, em todas as esferas da vida econômica, estatal, cultural, social e política, é uma lei indestrutível. Qualquer restrição direta ou indireta dos direitos de, ou, inversamente, qualquer estabelecimento de privilégios diretos ou indiretos para os cidadãos em razão de sua raça ou nacionalidade, bem como qualquer defesa de exclusividade racial ou nacional ou ódio e desprezo, é punível por lei.
+
+Esta lei não exclui a população judaica, já que o próprio Stalin disse isso sobre o anti-semitismo respondendo a um pedido da Agência Telegráfica Judaica da América:
+>O anti-semitismo, como uma forma extrema de chauvinismo racial, é a mais perigosa remanescência do canibalismo. Na URSS, o anti-semitismo é estritamente perseguido por lei como um fenômeno profundamente hostil ao sistema soviético. Os anti-semitas ativos são punidos pelas leis da URSS.
+
+Sob Stalin, toda a população soviética era capaz de ler e escrever, ou seja, alfabetizou-se. O império russo tinha uma taxa de alfabetização de 21% (1897), enquanto sob Stalin, 100% da população era totalmente alfabetizada em 1950, independentemente da raça ou sexo.
+
+A política de Korenizatsiya começou em 1913, mas o efeito total disso foi sob o camarada Stalin. Stalin afirma que o chauvinismo russo é um grande perigo para a União Soviética e insiste na criação do Soviete das Nacionalidades, que se tornou uma das 2 câmaras do Soviete Supremo. Conforme declarado no artigo 37 da constituição soviética de 1936:
+>Ambas as Câmaras do Soviete Supremo da União das Repúblicas Socialistas Soviéticas, o Soviete da União e o Soviete das Nacionalidades, têm direitos iguais.
+
+Enquanto:
+>O Soviete das Nacionalidades é eleito pelos cidadãos da URSS de acordo com a União e Repúblicas Autônomas, Regiões Autônomas e áreas nacionais com base em vinte e cinco deputados de cada República da União, onze deputados de cada República Autônoma, cinco deputados de cada Região Autônoma e um deputado de cada área nacional.
+
+Nos termos do artigo 35 da Constituição Soviética. Isso mostra que os russos não étnicos desempenharam um grande papel na URSS e na criação de leis, políticas e na eleição de altos funcionários.
+
+No entanto, para descobrir o quanto Stalin era um “nacionalista russo do mal”, devemos olhar para o número de pessoas enviadas aos gulags. Portanto, ao todo, em 1939, havia 810 mil russos nos gulags. Além disso, a população russa em 1939 era de 108.377.000, portanto, podemos ver que 0,75% da população russa estava em gulags (prisões). Agora, vamos examinar os outros grupos étnicos, como ucranianos e cazaques. A população ucraniana em 1939 era de 33.425.000, enquanto o número deles nas gulags era de 182.536, ou seja, 0,55% da população. A população do Cazaquistão era de 6.081.000, enquanto o número de gulags era de 17.333, ou seja, 0.28% da população. Assim, podemos dizer que mais russos estavam em gulags em comparação com outros grupos étnicos durante a época de Stalin.
+
+Podemos aplicar o mesmo aos judeus (Stalin até ajudou a criar Israel), alguns dos amigos mais próximos de Stalin eram judeus como - Lazar Kaganovich, enquanto muitos judeus soviéticos famosos receberam o "Prêmio Estatal de Stalin". Isso inclui:
+- Sergei Eisenstein
+- Yuli Raizman
+- Mikhail Romm
+
+Portanto, no geral, podemos dizer que Stalin era de fato um verdadeiro comunista soviético e não era um nacionalista russo e não odiava o povo judeu.
+
+#### Pessoas inocentes fuziladas por crimes pequenos
+Para desmascarar esses mitos, usarei artigos do Código Penal da RSFSR 1926 (algumas edições de 1956).
+
+>Mas a minha avó roubou pão e foi condenada perpétua no Gulag.
+
+Este é o tipo de declaração que um capitalista ou anti-stalinista faz. No entanto, se olharmos para o Código Penal, ele afirma:
+>Para combater os crimes mais graves que ameaçam as fundações do poder soviético e do sistema soviético, até que o Comitê Executivo Central da União da República Socialista Soviética cancele, nos casos especialmente indicados nos artigos deste Código, a execução é utilizada como medida excepcional para proteger o estado dos trabalhadores
+>
+> Artigo 21.º do Código Penal da RSFSR
+
+>Uma criança roubou alguma coisa, mas foi condenada à morte mesmo assim, porque Stalin e a URSS são maus.
+
+Outra declaração falsa que ouvi muitas vezes. Em contrapartida, afirmo sempre que:
+>Os menores de dezoito anos à data do crime e as mulheres grávidas não podem ser condenadas à morte
+>
+> Artigo 22.º do Código Penal da RSFSR
+
+Estes são os únicos crimes sob os quais um tribunal pode condená-lo à morte (crimes contra-revolucionários):
+1. Trair a pátria-mãe, ou seja, aqueles que - ameaçam a independência do Estado ou a inviolabilidade do seu território, tais como espionagem, emissão de segredos militares ou de Estado, passagem para o lado do inimigo, fuga ou fuga para o estrangeiro. Artigo 58, parágrafo 1a, do Código Penal da RSFSR.
+2. Qualquer tipo de levante armado ou invasão de fins contra-revolucionários no território soviético por gangues armadas, tomando o poder no centro ou no terreno para os mesmos fins e, em particular, com o objetivo de arrancar à força qualquer parte de seu território a URSS e uma república sindical separada ou a rescisão dos prisioneiros da União SSR com tratados de estados estrangeiros. Artigo 58, parágrafo 2, do Código Penal da RSFSR.
+3. Prestar assistência à burguesia internacional em qualquer forma ou formato. Artigo 58, parágrafo 4
+4. Espiar, isto é, transferir, abduzir ou coletar informações ultrassecretas (contadas como secretas) com o objetivo de entregá-las a organizações contra-revolucionárias ou indivíduos privados. Artigo 58 parágrafo 6 do Código Penal da RSFSR.
+5. Sabotagem contra-revolucionária, ou seja, o não cumprimento deliberado de certos deveres ou seu desempenho deliberado e descuidado com o propósito especial de enfraquecer o poder do governo e as atividades do aparelho de estado. Artigo 58, parágrafo 14, do Código Penal da RSFSR.
+
+Estes são os únicos crimes em que um tribunal pode condená-lo à morte (crimes perigosos):
+1. Motins em massa, acompanhados de pogroms, a destruição de ferrovias ou outros meios de comunicações, assassinatos e outras ações semelhantes. Artigo 59 parágrafo 2 do Código Penal da RSFSR.
+2. Atividade criminosa, ou seja, a organização de gangues armadas e sua participação nos ataques organizados a instituições soviéticas e pessoais ou a cidadãos individuais, paradas de trens e destruição de ferrovias e outros meios de comunicação e centros de comunicação. Art 59 parágrafo 3 do Código Penal da RSFSR.
+3. Roubo de armas, peças de armas e munições. Art 59 parágrafo 3a do Código Penal da RSFSR.
+4. Propaganda ou agitação destinada a incitar o ódio ou ódio étnico ou religioso, bem como a distribuição ou produção e armazenamento de literatura da mesma natureza. Art 59 parágrafo 7 do Código Penal da RSFSR.
+5. Falsificação ou venda de moedas metálicas falsificadas, bilhetes do estado, bilhetes do Banco do Estado da URSS, papéis do governo, bem como falsificação ou venda de moeda estrangeira falsificada. Aer 59 parágrafo 8 do Código Penal da RSFSR.
+6. Contrabando de qualquer forma. Art 59 parágrafo 9 do Código Penal da RSFSR
+
+
+Este é o único crime em que um tribunal pode condená-lo à morte (indivíduos):
+1. Matar outro indivíduo intencionalmente. Art. 136 do Código Penal da RSFSR
+
+Tenham em mente que se você infringir alguma dessas leis, o tribunal decide se vocês seriam ou não condenados à morte. No entanto, em algumas circunstâncias (o tribunal decide), você poderia ser mandado para a prisão em vez de ser baleado, de 3 meses a 10 anos (o que não era raro). Assim, podemos concluir que a URSS de Stalin não atirou em pessoas aleatoriamente sem motivo, pois os tribunais precisavam de legislação adequada para poder condenar pessoas à morte, nem atirou em pessoas por crimes menores. As sentenças de morte seriam aplicadas aos crimes mais severos contra o Estado e a classe trabalhadora.
+
+#### Líder não-democrático
+Em primeiro lugar, Stalin não foi um psicoditador que subiu ao poder por causa de sua violência, ele subiu para seus cargos importantes por meio de eleições. Se você der uma olhada no capítulo 3, artigos 30-34 da [Constituição Soviética de 1936](https://www.marxists.org/reference/archive/stalin/works/1936/12/05.htm), verá que o Soviete Supremo age de forma semelhante a um Parlamento, como nas democracias parlamentares de o Reino Unido e a Holanda, onde o povo não elege diretamente o primeiro-ministro, mas sim vota para o Parlamento e o Parlamento elege um primeiro-ministro, adota novas leis, etc. Os soviéticos fizeram exatamente isso, mas com delegados, “O Soviete da União é eleita pelos cidadãos da URSS de acordo com as áreas eleitorais na base de um deputado para cada 300.000 habitantes”. A legislação (art. 39-40 da constituição de 1936), políticas e diferentes posições no partido (art. 48 da constituição de 1936) também são escolhidos pelo Soviete Supremo por voto popular. Assim, podemos concluir que a URSS de Stalin não foi uma ditadura autoritária desagradável, já que ele havia entrado em confronto com os órgãos às vezes e foi derrotado tanto pelo Politburo quanto pelo Soviete Supremo.
+
+#### As gulags
+Toda a retórica que se vê hoje sobre gulags partem do livro de caráter sensacionalista, beirando a ficção, "Arquipélago Gulag", mas ok, vamos aos fatos:
+1. Gulag era um nome de sistema prisional
+2. Gulags não foram feitas por Lenin ou Stalin, e sim pelo czar
+3. A grande maioria das pessoas no Gulag eram criminosos condenados, não prisioneiros políticos
+4. Os presos políticos incluíam conspiradores contra o governo. Houveram conspirações contra o governo por trotskistas, direitistas e muitos oficiais militares.
+5. A maior parte das pessoas que entraram na gulag, saíram vivas
+6. O relato de Solzhenitsyn sobre o Gulag foi altamente ficcional. O estado real do Gulag dependia do nível de segurança envolvido, da gravidade da ofensa, da turma de trabalho e, em muitos casos, da personalidade dos funcionários da prisão. Isso é típico da vida na prisão em qualquer lugar. Alguns guardas são sádicos, outros não.
+7. Apenas uma pequena porcentagem da população soviética estava na Gulag.
+8. Os prisioneiros eram pagos. Recompensas e bônus dados por trabalho duro.
+
+Com isso, podemos fazer a síntese de que era um sistema totalmente complexo, e nenhuma gulag era igual à outra, elas eram diferentes com bases nas necessidades e realidades materiais de cada região. Recomendo os escritos sobre as gulags de Stalin, são bem complexas -- melhor que a proposta de Trotsky que até hoje quem lê entende umas 5 coisas diferentes, não cumpria com as demandas e realidade soviética e por isso não foi escolhida pelo povo.
+
+Na década de 50, a CIA analisou todo o caso das gulags secretamente e concluiu que:
+1. Até 1952, os presos recebiam comida em quantidade garantida, além de comida extra pelo cumprimento excessivo das cotas
+2. De 1952 em diante, o sistema Gulag operou com "responsabilidade econômica" de forma que quanto mais os prisioneiros trabalhavam, mais eles eram pagos.
+3. Cumprindo as normas em 105%, um dia de sentença era contado como dois, reduzindo assim o tempo gasto no Gulag em um dia a cada dia.
+4. Além disso, por causa da reconstrução socialista pós-guerra, o governo soviético tinha mais fundos e então aumentou o suprimento de comida dos prisioneiros.
+5. Até 1954, os presos trabalhavam 10 horas por dia, enquanto os trabalhadores 8 horas por dia. De 1954 em diante, tanto prisioneiros quanto trabalhadores trabalhavam 8 horas por dia.
+6. Um estudo da CIA de um campo de amostragem mostrou que 95% dos prisioneiros eram criminosos tradicionais.
+7. Em 1953, a anistia foi concedida a 70% dos "criminosos comuns" de um campo de amostragem estudado pela CIA. Nos 3 meses seguintes, a maioria deles foi presa novamente por cometer novos crimes.
+
+Paper da CIA: https://www.cia.gov/readingroom/docs/CIA-RDP80T00246A032000400001-1.pdf
+
+O trabalho, no entanto, realmente era forçado, mas era remunerado. Pagos a partir de 1952 e pagos com mais comida antes de 1952. De acordo com as fantasias burguesas, o “regime” soviético procurou deliberadamente matar de fome as populações do Gulag. No entanto, na verdade, houve esforços soviéticos para aumentar o suprimento de alimentos dos prisioneiros, após a Segunda Guerra Mundial.
+
+Em Triumph of Evil, p. 77-78:
+>Como os mitos de milhões de execuções, os contos de fadas de que Stalin fez com que dezenas de milhões de pessoas fossem presas e permanentemente lançadas em prisões ou campos de trabalho forçados para morrer no intervalo 1930-1953 (Conquest, 1990) parecem ser falsos. Em particular, os arquivos soviéticos indicam que o número de pessoas em prisões, gulags e campos de trabalho soviéticos nas décadas de 1930, 1940 e 1950 era em média de 2 milhões, dos quais 20-40% eram libertados a cada ano, (Getty, Rittersporn, e Zemskov, 1993). Essa média, que inclui anos desesperadores da Segunda Guerra Mundial, é semelhante ao número de presos nos Estados Unidos na década de 1990 (Catalinotto, 1998a) e é apenas ligeiramente maior como porcentagem da população. Deve-se notar também que a taxa anual de mortalidade da população soviética internada era de cerca de 4%, o que incorpora o efeito das execuções de prisioneiros (Getty, Rittersporn e Zemskov, 1993). Excluindo os desesperados anos da Segunda Guerra Mundial, a taxa de mortalidade nas prisões, gulags e campos de trabalho soviéticos era de apenas 2,5% (Getty, Ritterspom e Zemskov, 1993), que é ainda inferior à média dos cidadãos "livres" capitalistas Rússia sob o czar em tempo de paz em 1913 (Wheatcroft, 1993). Esta descoberta não é muito surpreendente, dado que cerca de 1/3 das pessoas confinadas nem sequer eram obrigadas a trabalhar (Bacon, 1994), e dado que a semana de trabalho máxima era de 84 horas, mesmo nos campos de trabalho soviéticos mais difíceis durante o período mais desesperador anos de guerra (Rummel, 1990). A última semana de trabalho máxima (e incomum) na verdade se compara favoravelmente às semanas de trabalho de 100 horas que existiam mesmo para crianças "gratuitas" de 6 anos durante o tempo de paz na revolução industrial capitalista (Marx e Engels, 1988b), embora possa parecer alto em comparação com a jornada de 7 horas trabalhada pelo típico cidadão soviético sob Stalin (Davies, 1997). Além disso, também deve ser mencionado que a maioria das prisões sob Stalin foram motivadas por uma tentativa de erradicar crimes civis como banditismo, roubo, uso indevido de cargo público para ganho pessoal, contrabando e estelionatos, com menos de 10% de as prisões durante o governo de Stalin foram por motivos políticos ou questões de polícia secreta (Getty, Ritterspom e Zemskov, 1993). Os arquivos soviéticos revelam muito mais dissidência política permitida na União Soviética de Stalin (incluindo uma quantidade generalizada de críticas às políticas governamentais individuais e aos líderes locais) do que normalmente se percebe no Ocidente (Davies, 1997). Dado que a polícia regular, a polícia política ou secreta, os guardas prisionais, algumas tropas da guarda nacional e os bombeiros (que estavam no mesmo ministério da polícia) representavam apenas 0,2% da população soviética sob Stalin (Thurston, 1996), grave a repressão teria sido impossível mesmo se a União Soviética quisesse exercê-la. Em comparação, os EUA hoje têm muitas vezes mais policiais como porcentagem da população (cerca de 1%, sem mencionar guardas prisionais, tropas da guarda nacional e bombeiros incluídos nos números usados ​​para calcular a proporção muito menor de 0,2% para os soviéticos União).
+
+Também:
+>Comecemos com a questão da natureza do sistema penal soviético. Depois de 1930, o sistema penal soviético incluiu prisões, campos de trabalho, as colônias de trabalho do gulag, zonas abertas especiais e obrigação de pagar multas. Quem quer que fosse detido em prisão preventiva era geralmente enviado para uma prisão normal enquanto ocorriam as investigações para estabelecer se ele era inocente e, portanto, poderia ser posto em liberdade ou se deveria ir a julgamento. Um acusado em julgamento pode ser considerado inocente (e posto em liberdade) ou culpado. Se for considerado culpado, ele poderá ser condenado a pagar multa, pena de prisão ou, o que é mais incomum, ser executado. Uma multa pode ser uma determinada porcentagem de seu salário por um determinado período de tempo. Os condenados a penas de prisão podem ser colocados em diferentes tipos de prisão, dependendo do tipo de crime envolvido.
+>
+>Para os campos de trabalho do gulag foram enviados aqueles que cometeram crimes graves (homicídio, roubo, estupro, crimes econômicos, etc.), bem como uma grande proporção dos condenados por atividades contra-revolucionárias. Outros criminosos condenados a penas superiores a 3 anos também podem ser enviados para campos de trabalho forçado. Depois de passar algum tempo em um campo de trabalhos forçados, um prisioneiro pode ser movido para uma colônia de trabalho ou para uma zona aberta especial.
+>
+>Os campos de trabalho eram áreas muito grandes onde os prisioneiros viviam e trabalhavam sob estreita supervisão. Para eles, trabalhar e não ser um fardo para a sociedade era obviamente necessário. Nenhuma pessoa saudável sobreviveu sem trabalhar. É possível que hoje em dia as pessoas pensem que isso foi uma coisa terrível, mas é assim que as coisas são. O número de campos de trabalhos forçados existentes em 1940 era de 53.
+>
+>Havia 425 colônias de trabalho de gulag. Essas unidades eram muito menores do que os campos de trabalho, com um regime mais livre e menos supervisão. Para eles, foram enviados prisioneiros com penas de prisão mais curtas - pessoas que cometeram crimes menos graves ou crimes políticos. Trabalhavam em liberdade nas fábricas ou no campo e faziam parte da sociedade civil. Na maioria dos casos, todo o salário que recebia com seu trabalho pertencia ao prisioneiro, que, a esse respeito, era tratado da mesma forma que qualquer outro trabalhador.
+>
+>As zonas abertas especiais eram geralmente áreas agrícolas para aqueles que haviam sido exilados, como os kulaks que foram expropriados durante a coletivização. Outras pessoas consideradas culpadas de delitos criminais ou políticos menores também podem cumprir suas penas nessas áreas.
+
+Fontes:
+- [Another View of Stalin (section on the Gulag)](https://stalinsocietypk.files.wordpress.com/2013/05/another-view-of-stalin1.pdf)
+- [Solzhenitsyn's Archipelago of Lies (1974 scanned book)](https://archive.org/details/ArchipelagoOfLies)
+- [The Soviet Union had a progressive penal system](https://espressostalinist.com/the-real-stalin-series/gulag/)
+- [Re-education?](http://moufawad-paul.blogspot.com/2012/03/re-education.html)
+- [Lies concerning the history of the Soviet Union](http://www.northstarcompass.org/nsc9912/lies.htm)
+- [The Gulag archipelago shouldn’t be taken seriously](https://mltheory.wordpress.com/2017/05/08/the-gulag-archipelago-shouldnt-be-taken-seriously/)
+- [Original documents on the death rate of prisoners in the Gulag system 1930-1956](http://www.alexanderyakovlev.org/fond/issues-doc/1009320)
+- [Victims of the Soviet Penal System in the Pre-War Years: a first approach on the basis of archival evidence (by J. Arch Getty, Gábor T. Rittersporn, Viktor N. Zemskov)](http://www.cercec.fr/materiaux/doc_membres/Gabor%20RITTERSPORN/Victims%20of%20the%20Gulag.pdf)
+- [What were the chances to be sent to the Gulag?](http://www.northstarcompass.org/nsc0901/gulag.htm)
+
+### Trabalhadores na União Soviética
+Uma das alegações mais comuns levantadas contra a URSS (e os estados socialistas em geral) por anticomunistas de esquerda é que não era "socialismo real", porque os trabalhadores não tinham controle direto sobre a produção. Essa afirmação pode ser encontrada nos escritos de Noam Chomsky, Murray Bookchin, Alexander Berkman, Emma Goldman e vários outros esquerdistas anti-soviéticos. Alega-se que os ganhos indiscutíveis obtidos pela classe trabalhadora nos estados socialistas (como [grandes melhorias em sua saúde e bem-estar](https://journals.sagepub.com/doi/abs/10.2190/B2TP-3R5M-Q7UP-DUA2)) são irrelevantes, porque essas revoluções foram "burocráticas" e, portanto, ilegítimas.
+
+#### Participação do trabalhador no local de trabalho
+Ao discutir este tópico, é útil começar no nível do local de trabalho individual. O professor Robert Thurston (Miami University em Ohio) afirma que "nos níveis mais baixos da sociedade, nos assuntos do dia-a-dia e na implementação de políticas, [o sistema soviético] era participativo". Ele observa que os trabalhadores eram frequentemente incentivados a participar da tomada de decisões:
+>O regime regularmente instava seu povo a criticar as condições locais e seus líderes, pelo menos abaixo de um certo nível exaltado. Por exemplo, em março de 1937, Stalin enfatizou a importância dos "laços do partido com as massas". Para mantê-los, era necessário "ouvir atentamente a voz das massas, a voz dos membros da base do partido, a voz dos chamados 'pequenos', a voz do povo comum".
+
+Não eram palavras vazias ou propaganda barata; embora houvesse limites para as críticas, o professor Thurston observa que "tais limites permitiam muitas coisas que eram profundamente significativas para os trabalhadores, incluindo alguns aspectos das normas de produção, taxas e classificações salariais, segurança no trabalho, moradia e tratamento por parte dos administradores". Os trabalhadores tiveram voz em diversos órgãos oficiais e, em geral, tiveram suas demandas atendidas:
+>O Comissariado da Justiça também ouviu e respondeu aos apelos dos trabalhadores. Em agosto de 1935, o promotor da cidade de Saratov relatou que de 118 casos relacionados a salários recentemente administrados por seu escritório, 90% ou 73,6%, haviam sido resolvidos em favor dos trabalhadores.
+
+Os trabalhadores também participaram da supervisão direta dos gerentes:
+>Os trabalhadores participaram às centenas de milhares em inspetorias especiais, comissões e brigadas que fiscalizavam o trabalho de gestores e instituições. Essas agências às vezes detinham um poder significativo.
+
+Os direitos dos trabalhadores soviéticos foram frequentemente observados em relatos posteriores da era socialista:
+>Um emigrado lembrou que sua madrasta, uma operária de fábrica, 'muitas vezes repreendia o patrão' e também reclamava das condições de vida, mas nunca foi presa. John Scott, um americano empregado por anos no final dos anos 1930 como soldador em Magnitogorsk, participou de uma reunião em uma fábrica de Moscou em 1940, onde os trabalhadores puderam 'criticar o diretor da fábrica, fazer sugestões sobre como aumentar a produção, aumentar a qualidade, e custos mais baixos.'
+
+Esses fatos são ainda mais impressionantes quando lembramos o estado sombrio dos direitos dos trabalhadores nas nações capitalistas neste momento:
+>Isso ocorreu em uma época em que os trabalhadores americanos, em particular, lutavam por um reconhecimento sindical básico, que mesmo quando conquistado não proporcionava muita influência formal no local de trabalho.
+
+Thurston faz a seguinte observação:
+>Longe de basear seu domínio nos meios negativos de coerção, o regime soviético no final dos anos 1930 promoveu um papel político limitado, mas positivo para a população... Conceitos anteriores do estado soviético requerem repensar: os trabalhadores que destituíram os administradores, alcançaram a prisão de seus alvos, e ganhou a reintegração nas fábricas o fez por meio de organizações que constituíam parte do aparelho de estado e exerciam poderes de estado.
+
+Ele também observa que "não existia nenhuma divisão nítida entre o Estado e a sociedade", embora diferentes níveis do Estado exerçam diferentes poderes.
+
+Em suma, embora a União Soviética tivesse elementos autoritários (como era inevitável dadas as condições; a URSS havia sido devastada pela guerra civil e invadida por várias nações capitalistas), havia também um forte elemento de controle dos trabalhadores, dando à URSS uma reivindicação legítima de ser um Estado operário.
+
+#### Participação política na URSS
+Os trabalhadores não tinham apenas o direito de participar na tomada de decisões no local de trabalho; eles também tinham voz nas decisões de política nacional. O professor [Kazuko Kawamoto](https://researchmap.jp/read0148263/?lang=english) (Universidade Hitotsubashi) afirma que a URSS tinha "uma face mais democrática do que normalmente se imagina, especialmente entre os ocidentais". Como eles dizem:
+>O regime soviético era democrático em seu próprio sentido da palavra... a participação por meio do envio de cartas e da participação em discussões deu ao autogoverno uma certa realidade e ajudou a legitimar o regime soviético. Portanto, ouvir as pessoas era uma obrigação importante para as autoridades... o governo incentivou as pessoas a enviarem cartas às autoridades e usou ativamente as discussões de todas as pessoas.
+
+Essas discussões de todas as pessoas existiam desde os primeiros dias da União Soviética e tinham grande significado (ao contrário das suposições dos estudiosos ocidentais):
+>Embora a primeira discussão geral tenha sido conduzida com a aprovação da constituição de Stalin de 1936 com base no fato de que as antigas classes dominantes não existiam mais, a publicação e a discussão pública de projetos de lei eram comuns antes da constituição em nome da participação das massas. Os estudiosos ocidentais geralmente interpretam isso como uma tentativa de dar uma cara de legitimidade ao processo, entendendo as discussões como uma mera formalidade. No entanto, esse não é o caso dos Princípios aqui discutidos. As discussões não foram um disfarce nem uma mera formalidade.
+
+Os legisladores participaram diretamente dessas reuniões, alterando os projetos de lei de acordo com a opinião popular. O professor Kawamoto afirma que “é importante ressaltar que os membros do subcomitê participaram ativamente da discussão, reescrevendo o rascunho ao mesmo tempo”.
+
+Também se observou que os cidadãos soviéticos "acreditavam que tinham o direito de exigir mudanças nas políticas, e os redatores dos projetos, incluindo especialistas, funcionários e deputados, sentiram-se obrigados a responder a essas demandas". O processo de coleta de opinião pública foi intenso o suficiente para muitas vezes desacelerar o processo de legislação:
+>Com relação ao processo de criação dos Princípios, a participação direta funcionou amplamente conforme o esperado na ideologia da democracia soviética, embora tenha demorado muitos anos.
+
+Como diz o professor Kawamoto, "a razão pela qual demorou tanto estava profundamente enraizada nas idéias da democracia soviética". Compare isso com a democracia burguesa, onde os [legisladores normalmente desconsideram a opinião das massas](https://scholar.princeton.edu/sites/default/files/mgilens/files/gilens_and_page_2014_-testing_theories_of_american_politics.doc.pdf). Isso pode acelerar o processo legislativo, mas resulta em [níveis extremamente altos de descontentamento popular](https://www.washingtonpost.com/news/rampage/wp/2015/09/23/americans-have-grown-to-really-really-hate-their-government/).
+
+Além dos meios de participação popular já mencionados, as autoridades soviéticas também viajaram por todo o país para reunir informações sobre a opinião popular. Usando o desenvolvimento da lei da família soviética como exemplo, o Professor Kawamoto afirma:
+>Os fabricantes de rascunhos não eram apenas destinatários passivos de cartas, mas também viajavam por toda a União Soviética para ouvir o povo. Quando o trabalho nas Comissões de Propostas Legislativas estava chegando ao fim, membros da subcomissão e funcionários que trabalhavam para eles visitaram várias repúblicas sindicais de abril a junho de 1962 para pesquisar a prática do direito de família e coletar opiniões sobre normas importantes no projeto do Princípios... Depois dessas viagens de pesquisa, a comissão concluiu o esboço e o apresentou ao Comitê Central do Partido em julho.
+
+Embora a democracia soviética tivesse suas falhas (como mencionado, o processo era frequentemente bastante lento e havia limites para a extensão das críticas), seria altamente impreciso descrever a URSS como uma sociedade "totalitária", sem estruturas democráticas; pelo contrário, a URSS praticava sua própria forma de democracia, e o fazia de maneira bastante eficaz.
+
+### Conclusão sobre os trabalhadores na URSS
+
+A União Soviética se desenvolveu sob condições de extrema pressão, enfrentando a invasão das potências capitalistas, a invasão nazista e a espionagem do Ocidente. Dadas as dificuldades que enfrentou, é notável que a URSS tenha conseguido desempenhar um papel político positivo para os trabalhadores, especialmente em um momento em que os trabalhadores do mundo capitalista ainda lutavam por direitos sindicais básicos.
+
+A URSS era um Estado operário legítimo, no qual o proletariado detinha o poder no local de trabalho e exercia uma influência significativa nas decisões de política nacional. Compare isso com a total falta de influência popular nos estados burgueses, e isso é ainda mais fácil de avaliar.
+
+Fontes:
+- [University of Oxford | Farm to Factory: A Reassessment of the Soviet Industrial Revolution](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.507.8966&rep=rep1&type=pdf)
+- [Williams College | Reassessing the Standard of Living in the Soviet Union: An Analysis Using Archival and Anthropometric Data](https://web.williams.edu/Economics/brainerd/papers/ussr_july08.pdf)
+- [University of Warwick | Review of "Farm to Factory"](https://www.jstor.org/stable/25149595)
+- [Oxford University Press | The Health Crisis in the USSR](https://academic.oup.com/ije/article/35/6/1384/660149)
+- [University of Munich | Declining Life Expectancy in a Highly Developed Nation: Paradox or Statistical Artifact?](https://link.springer.com/chapter/10.1007%2F978-3-642-95874-8_22)
+- [University of Melbourne | The Scale and Nature of German and Soviet Mass Killings and Repressions](http://sovietinfo.tripod.com/WCR-German_Soviet.pdf)
+- [American Historical Review | Victims of the Soviet Penal System in the Pre-War Years](http://sovietinfo.tripod.com/GTY-Penal_System.pdf)
+- [CIA (Freedom of Information Act) | Report on Soviet Gulags](https://www.cia.gov/readingroom/docs/CIA-RDP80T00246A032000400001-1.pdf)
+- [CIA (Freedom of Information Act) | Report on Stalin](https://www.cia.gov/readingroom/docs/CIA-RDP80-00810A006000360009-0.pdf)
+- [Yale University Press | Life and Terror in Stalin's Russia, 1934-1941](https://www.jstor.org/stable/j.ctt32bw0h)
+- [Slavic Review (Cambridge University Press) | On Desk-Bound Parochialism, Commonsense Perspectives, and Lousy Evidence: A Response to Robert Conquest on the USSR](https://www.jstor.org/stable/2499177?seq=1#metadata_info_tab_contents)
+- [Slavic Review | Fear and Belief in the USSR's "Great Terror": Response to Arrest, 1935-1939](https://www.cambridge.org/core/journals/slavic-review/article/fear-and-belief-in-the-ussrs-great-terror-response-to-arrest-19351939/748662F55C0CCEE8096BDA2BB2CCCEE0)
+- [History News Network | Historian James Harris Says Russian Archives Show We've Misunderstood Stalin](https://historynewsnetwork.org/article/163498)
+- [Village Voice | In Search of a Soviet Holocaust: A Fifty Year-Old Famine Feeds the Right](https://msuweb.montclair.edu/~furrg/vv.html)
+- [EH Reviews | The Years of Hunger: Soviet Agriculture, 1931-1933](https://eh.net/book_reviews/the-years-of-hunger-soviet-agriculture-1931-1933/)
+- [International Council for Central and East European Studies | Reassessing the History of Soviet Workers: Opportunities to Criticize and Participate in Decision-Making, 1935-1941](https://www.docdroid.net/t9gG4jQ/thurston-robert-reassessing-the-history-of-soviet-workers-opportunities-to-criticize-and-participate-in-decision-making.pdf)
+- [Japanese Political Science Review | Rethinking Soviet Democracy](http://jpsa-web.org/eibun_zassi/data/pdf/JPSA_Kawamoto_final_July_9_2014.pdf)
+
+### Conclusão sobre a URSS
+Durante seu período socialista, a União Soviética fez algumas das conquistas mais impressionantes da história moderna. O sistema socialista transformou uma nação de camponeses analfabetos e famintos em uma superpotência, com uma das economias de crescimento mais rápido da Terra, uma das populações mais educadas e saudáveis do mundo e algumas das conquistas industriais e tecnológicas mais impressionantes até hoje. Forneceu um modelo a ser seguido pelos oprimidos do mundo, como foi mostrado na China, Cuba, Vietnã e muitas outras nações.
+
+## Uma resposta ao bearkunin sobre a URSS
+O @bearkunin no medium, escreveu um [artigo contestando conquistas soviéticas](https://medium.com/@bearkunin/soviet-union-facts-and-fictions-part-1-the-economy-2a79ff1013a7) detalhadas abaixo:
+
+![Conquistas soviéticas](images/soviet_achievements.png)
+
+Primeiramente, o que eu tenho a dizer é que: Fiquem longe de posts como esses, parece argumento tirado do 4chan com tanta desinformação que há. Vou fazer um resumo dos argumentos centrais dele.
+
+>2ª economia de crescimento mais rápido do século 20 (cresceu durante a Grande Depressão)
+>
+>**Errado**. Este argumento geralmente se refere a esta fonte, mas este enredo só se preocupa com o período de 1928 a 1970.
+
+A razão pela qual desconsideramos os dados de 1970 em diante é porque, a essa altura, a URSS tinha basicamente revertido para uma economia capitalista. Em 1965, as reformas Kosygin descentralizaram e privatizaram a economia, o que coincidiu com a estagnação econômica.
+
+>Se você considerar o período de 1928 a 1989, a Coréia do Sul, Japão, Taiwan, Portugal, Finlândia, Cingapura, Itália, Noruega e Tailândia cresceram mais rápido do que a URSS.
+
+Todos esses países se beneficiaram com o financiamento dos EUA por meio do Plano Marshall. A Finlândia estava economicamente muito mais perto da URSS através do Tratado YYA do que do Ocidente. A Finlândia só mudou economicamente para um foco ocidental por volta de 1985, quando a EEC estava crescendo em importância econômica e o setor soviético estava começando a desmoronar.  É preciso lembrar que a economia da URSS foi afetada negativamente pelo isolamento, pelos danos da guerra e pelo financiamento de países socialistas em todo o mundo. Além disso, a URSS não se beneficiou da exploração imperialista do terceiro mundo da mesma forma que o Ocidente.
+
+>0% desemprego
+>
+>**Semi-errado**. Havia desemprego, mas o que eles faziam quando o desemprego estava alto era que "os empregadores preferiam cortar salários, reduzir horas de trabalho e dar aos funcionários férias sem vencimento, uma reminiscência das táticas da era soviética quando o desemprego estava praticamente fora da lei e mascarando o verdadeiro estado do mercado de trabalho."
+
+Mais uma vez, essa pessoa usa evidências do período dos anos 1970 e 1980 para justificar essa afirmação, ou seja, quando a economia havia sido em grande parte revertida ao capitalismo e as empresas operavam de acordo com a motivação do lucro. Durante a era Stalin, a URSS literalmente teve desemprego NEGATIVO, dezenas de milhares de ocidentais emigraram durante a industrialização, enquanto seus próprios países ficaram presos no meio da Grande Depressão. Além disso, reduzir os salários das pessoas para erradicar o desemprego é melhor do que ter desemprego em massa em primeiro lugar, como é o caso cada vez mais nos países capitalistas. Finalmente, não apenas o desemprego na URSS era completamente minúsculo e baseado inteiramente em evidências anedóticas, a maior parte, senão tudo, era desemprego friccional (mudança de emprego). Esta é uma distinção importante, porque difere significativamente do desemprego em massa no Ocidente, onde simplesmente não há empregos suficientes em primeiro lugar. As fontes de suas reivindicações foram um artigo do Telegraph e um artigo do JSTOR. O artigo do Telegraph é francamente uma merda de propaganda imperialista anti-Rússia. É um daqueles artigos que tentam afirmar que a Rússia moderna é secretamente a URSS para torná-la mais assustadora. Não vejo fontes para isso. Eu também folheei o artigo e nem mesmo diz o que o artigo do Telegraph diz. A pessoa que escreveu esse post é provavelmente um cracker presunçoso que simplesmente escolhe o primeiro artigo no JSTOR com as palavras "desemprego" e "URSS" e diz "veja, há pessoas que concordam comigo". O artigo do JSTOR também é uma merda. Pelo que entendi, afirma que os economistas soviéticos apenas reconhecem o desemprego friccional. Outras pessoas que não têm emprego são consideradas pela URSS aquelas que rejeitaram uma oferta de emprego. Ele nem mesmo tenta argumentar contra isso. O artigo então diz que a URSS e os EUA têm definições diferentes de "desemprego". Passou a utilizar dados de entrevistas e estimar o número de pessoas que não trabalharam por determinado período, e considerou todas desempregadas. Se os empregos estavam disponíveis ou não; se essas pessoas rejeitaram a oferta de emprego não foram atendidas. O mais importante é que a URSS foi capaz de escapar completamente das crises periódicas que levaram a picos massivos de desemprego frequentemente vistos no mundo capitalista.
+
+>Além disso, é enganoso porque estar desempregado era um crime na URSS que poderia levar à prisão.
+
+O emprego obrigatório é melhor do que o desemprego involuntário.
+
+>0% sem-teto
+>
+>**Errado**. [Fonte](https://np.reddit.com/r/AskHistorians/comments/4ljfhy/were_there_homeless_people_in_the_ussr/d3ofuqb)
+
+Essa pessoa até admite que a falta de moradia foi erradicada sob Kruschev, mas rebate dizendo que a moradia era "insatisfatória", então basicamente apertada e de baixa qualidade. Bem, pelos padrões do Ocidente, ele provavelmente está certo. Mas pelos padrões do resto do mundo? Tenho certeza que as pessoas na África e na América Latina ficariam mais do que satisfeitas com as condições de vida soviéticas. Esse é o ponto, não estou interessado em comparar os padrões de vida dos países socialistas com os do Ocidente, porque é bastante óbvio que o resto do mundo nunca poderia ser tão rico quanto eles. Essa pessoa então passa a fazer referência à era capitalista dos anos 70 e 80 NOVAMENTE, eu não acho que preciso continuar explicando por que esse não é um bom argumento, sem mencionar que qualquer evidência anedótica de sem-teto na União Soviética que essas pessoas encontram ainda está minúsculo em comparação com a maioria dos países capitalistas. Finalmente, também vale a pena mencionar que 50% das casas soviéticas foram totalmente queimadas durante a Segunda Guerra Mundial.
+
+>salvou o mundo da Alemanha nazista
+>
+>...depois de se aliar a Hitler e invadir a Polônia, Finlândia e o Báltico.
+
+Que desvio de merda. Em primeiro lugar, "aliar-se a Hitler" não muda o fato de que os soviéticos realmente salvaram o mundo da Alemanha nazista, é um fato indiscutível, 80-90% das baixas nazistas foram infligidas na Frente Oriental. Em segundo lugar, ele não se aliou a Hitler, o que é simplesmente falso, ele assinou um pacto de não agressão com os nazistas depois que todos os outros países da Europa já haviam feito o mesmo. Foram a Grã-Bretanha e a França, portanto, aliadas de Hitler? NÃO! Na verdade, pela sua própria lógica, a Grã-Bretanha era mais aliada de Hitler do que a União Soviética, já que eles deixaram os nazistas tomarem a Áustria, a Tchecoslováquia e a Polônia Ocidental antes de decidirem intervir. A propósito, os soviéticos apenas assinaram o pacto com Hitler COMO ÚLTIMO RECURSO, eles já haviam tentado formar uma aliança antifascista com a Grã-Bretanha e a França POR ANOS. Na verdade, os soviéticos foram os únicos que se preocuparam em ajudar a prevenir a propagação do fascismo, enviando suprimentos para a Espanha republicana e a China nacionalista quando ninguém mais o fez. Aqui está uma pequena lição de história. Pouco antes de Stalin assinar o pacto com Hitler, ele ofereceu enviar um milhão de soldados através da Polônia para a fronteira alemã, se a Grã-Bretanha e a França TAMBÉM atacassem a Alemanha pelo oeste. Adivinha o que aconteceu? Grã-Bretanha, França e Polônia recusaram a oferta porque odiavam o comunismo tanto quanto o nazismo, eles queriam que a Alemanha e a União Soviética se destruíssem antes de intervir. Portanto, os EUA e o Reino Unido atrasaram a abertura de uma segunda frente para 3 anos, altura em que o Exército Vermelho sofreu milhões de baixas. Até o próprio Harry Truman disse que "se a Alemanha estiver ganhando, vamos ajudar a Rússia, se a Rússia estiver ganhando, vamos ajudar a Alemanha, vamos deixá-los se destruírem". Agora, neste ponto, entre na pele dos soviéticos. Eles não tinham aliados, só haviam começado sua industrialização uma década antes e estavam completamente despreparados para um conflito com os nazistas, que presumiam que poderiam atacá-los a qualquer momento. Diante de tudo isso, o pacto com Hitler era basicamente a única opção que restava. Esses 2 anos extras fora do conflito deram-lhes tempo para organizar e preparar o exército, terminar a industrialização e, o mais importante, evacuar todas as fábricas para a Sibéria. O Exército Vermelho estava, sem dúvida, completamente despreparado em 1939, tudo que você precisa fazer é olhar para a Guerra de Inverno, onde os finlandeses mataram os soviéticos na proporção de 10/1, para ver isso. Se os nazistas tivessem invadido a União Soviética em 1939, é provável que Hitler tivesse vencido. No que diz respeito aos soviéticos que anexaram a Polônia oriental, a Finlândia e o Báltico, eles tinham razões justificáveis ​​para fazê-lo. Não apenas criou uma barreira entre os nazistas, mas também significou que milhões de judeus nesses países escaparam da perseguição nazista.
+
+>Inventou viagem espacial
+>
+>**Verdadeiro**. Devo acrescentar que eles fizeram isso por motivos militares.
+
+Não é um argumento, eu poderia dizer o mesmo sobre o celular, que foi desenvolvido principalmente no setor estatal com vários componentes-chave desenvolvidos pelos militares dos EUA (como bateria de ion-lítio, touchscreen, GPS e internet), mas acho que isso desmascararia a gloriosa inovação do livre-mercado, lol.
+
+>Acabou com o ciclo de séculos de fome na Europa Oriental
+>
+>**Verdadeiro**. Houve fomes até 1947.
+
+Referir-se à fome de 1947 é extremamente hipócrita, considerando que a fome em particular foi causada quase inteiramente pelos danos da guerra. A União Soviética encerrou o ciclo de fome em 1934, e naquele ponto a coletivização dobrou a produção de grãos, com o suficiente em reservas de emergência estaduais para alimentar o país por dois anos no caso de outra escassez.
+
+>Maior consumo calórico diário do que nos EUA
+>
+>**Errado**.
+
+Eu realmente não tenho nada a acrescentar aqui, esta pessoa está alegando que a FAO inflou os dados soviéticos e que a CIA mentiu em seu report secreto de 1983. De qualquer forma, está bastante claro que o cidadão médio do Bloco Oriental não estava lutando por comida, como afirma a narrativa burguesa desonesta. Direi que comparar a União Soviética, um país isolado e dilacerado pela guerra, aos Estados Unidos, sem dúvida o maior império econômico global da história mundial, não é exatamente justo.
+
+>Acabou com a desigualdade racial
+>
+>**Errado**. [Fonte](https://en.wikipedia.org/wiki/Racism_in_the_Soviet_Union)
+
+Lol, a porra de um artigo da Wikipedia que cita a porra do Robert Conquest de todas as pessoas, que patético. A URSS garantia igualdade de poder político para todas as etnias por meio do Soviete de Nacionalidades. Além disso, muitos afro-americanos realmente desertaram para a União Soviética a fim de obter maiores direitos civis. Paul Robeson, um negro americano e voz da versão em inglês do hino da URSS, disse que a primeira vez que pisou em solo soviético, foi a primeira vez que se sentiu um “ser humano completo”. Em relação ao artigo da Wikipedia e sua lista de suposta "limpeza étnica" na União Soviética, ele se refere à fome do Holodomor (mito da propaganda nazista), várias operações do NKVD durante o Grande Expurgo (cometido por Yezhov, que mais tarde foi executado por seus crimes, pelas costas de Stalin), perseguição de judeus (nenhuma evidência de que isso foi motivado por intenções anti-semitas) e deportações em massa durante a Segunda Guerra Mundial (cometidas por razões não raciais a fim de evacuar civis da zona de guerra, e porque vários grupos foram considerados culpados de colaborar com os nazistas). É importante mencionar que vários países realizaram deportações durante a Segunda Guerra Mundial, nomeadamente a América, que colocou 100.000 cidadãos nipo-americanos em campos de concentração literais. As etnias deportadas na União Soviética não foram presas ou fuziladas, elas foram reassentadas, há uma grande diferença.
+
+>Acabou com a desigualdade de gênero
+>
+>Isso **depende** do que eles querem dizer com desigualdade de gênero
+
+Não é um argumento. O fato é que os direitos das mulheres na União Soviética eram significativamente mais avançados do que no resto do mundo. Acho que você pode apontar para a criminalização do aborto sob Stalin, que é um argumento legítimo, mas essa proibição foi suspensa em 1955 e, independentemente, a União Soviética foi o primeiro país a permitir o aborto em todas as circunstâncias.
+
+>Educação gratuita em todos os níveis
+>
+>**Verdadeiro**. No entanto, isso não significa que a educação foi tão boa quanto a ocidental.
+
+Ele fornece absolutamente nenhuma evidência para esta afirmação. Eu já expliquei na secção [O socialismo funciona sim](#O-socialismo-funciona-sim). Por exemplo, Cuba é elogiada por ter as melhores escolas médicas do mundo e atualmente há 20.000 estudantes internacionais de todo o mundo matriculados na Escola Latino-Americana de Medicina. Além disso, na Alemanha pós-Segunda Guerra Mundial, milhões de alemães ocidentais obtiveram educação superior no leste antes de emigrar para o oeste em busca de salários mais altos.
+
+>Taxa de alfabetização de 99%
+>
+>**É verdade** que as repúblicas da ex-URSS ainda têm altas taxas de alfabetização, apesar do capitalismo.
+
+Ok, e? A taxa de alfabetização ainda caiu após a restauração capitalista, e os países historicamente comunistas sempre tiveram taxas de alfabetização mais altas do que o resto do mundo.
+
+>A maioria dos médicos per capita do mundo
+>
+>**Verdadeiro**. "Em 1985, durante a era soviética, havia 3,9 médicos para cada 1.000 pessoas. No mesmo ano, nos Estados Unidos, eram 1,7, enquanto no Japão o número era 1,5." Mas os cuidados de saúde nem sempre eram gratuitos: "Também contrariamente ao seu projeto, os cuidados de saúde soviéticos não são gratuitos. Os pacientes tratados no sistema público muitas vezes são obrigados a pagar médicos e enfermeiras por baixo da mesa para garantir que os medicamentos sejam administrados ou que uma operação seja realizada. Um jornal soviético publicou recentemente alguns amostra “preços”: 500 rublos para uma operação ou entrega (o salário médio mensal na URSS é de 200 rublos), 300 rublos para uma internação de 20 dias, 25 rublos ou a doação de uma unidade de sangue por um parente para garantir admissão ao hospital. A maioria dos pacientes deve adquirir medicamentos e eletrodomésticos a preços que incluem “sobretaxas” exigidas pelos vendedores que conseguem superar os obstáculos burocráticos e a falta de suprimentos.” [Fonte](https://nintil.com/the-soviet-union-healthcare/)
+
+Eu não posso comentar sobre o quão precisa esta fonte é, mas PELA MILÉSIMA VEZ, essa pessoa está escolhendo informações do período de reforma capitalista dos anos 1980.
+
+>Eliminou a pobreza
+>
+>**Errado**. “A URSS conseguiu reduzir a desigualdade e a pobreza em relação aos tempos pré-revolucionários e conseguiu trazer um nível de igualdade comparável ao dos países nórdicos. No entanto, não teve sucesso em eliminar a pobreza, as desigualdades entre as repúblicas, as diferenças entre as áreas urbanas e rurais, e até mesmo as 'distinções entre trabalho físico e mental'." [Fonte](https://nintil.com/2017/03/14/the-soviet-union-poverty-and-inequality)
+
+Então, basicamente, eles não alcançaram o comunismo pleno, o que ninguém nega. A URSS eliminou a pobreza no sentido de que todos tivessem suas necessidades básicas, isso é um fato inegável. Devo também mencionar que essa pessoa usou a mesma fonte duas vezes seguidas e, imagine meu choque, ele usou dados exclusivamente da década de 70.
+
+>Mudança para o capitalismo em 1991
+>
+>**Na minha opinião**, o período após a URSS pode ser dividido em duas épocas: a transição de 1991-1999 e a posterior. Os pró-URSS só olham para a fase de transição em que o capital estava deixando o país em massa, [com cerca de U$ 150 bilhões saindo entre 1992 e 1999](https://www.investopedia.com/articles/investing/012116/russian-economy-collapse-soviet-union.asp). As coisas realmente pioraram naquela época, mas depois que o mundo viu que a ex-URSS não voltou a ser socialista, [o capital estava indo para os estados da ex-URSS e tudo ficou melhor](https://static.businessinsider.com/image/4eaf0d346bb3f7f10900000e/image.jpg) do que na época da URSS. A expectativa de vida cresceu 10 anos em 20 anos, enquanto quase estagnou na URSS desde o final dos anos 1960 ([Fonte](https://en.actualitix.com/chart/est/estonia-life-expectancy-at-birth.png)). O PIB PC cresceu exponencialmente ([Fonte](https://en.wikipedia.org/wiki/Economy_of_the_Soviet_Union#/media/File:FormerUSSRRepublicsGDPPC.svg)), etc etc
+
+Ele literalmente postou um gráfico da Estônia. A Estônia não é a URSS. Se você olhar a expectativa de vida de todas as outras repúblicas pós-soviéticas, o aumento na expectativa de vida foi mínimo. Uma em cada 15 repúblicas conseguiu que sua expectativa de vida não diminuísse tanto quanto as outras - isso não ajuda em nada seu argumento. Fora a quantidade de emprego e a qualidade de vida nos ex-estados soviéticos (onde ainda há muita nostalgia de sua época soviética).
+
+O resto do post é basicamente uma tentativa de refutar as estatísticas pró-URSS citando a Wikipedia, o que não vale o meu tempo.
+
+## A Iugoslávia
+A República Federal Socialista da Iugoslávia foi um ator chave na geopolítica do século 20, mas muitas pessoas no Ocidente sabem muito pouco sobre ela. Socialistas e não-socialistas são frequentemente extremamente incultos sobre este país em particular e suas várias realizações; muitas vezes, tudo o que se sabe é que foi liderado por Tito, um dos chefes de estado mais populares do século XX. Embora seja uma informação útil, dificilmente é uma análise socialista suficiente desta grande nação. Examinemos então a Iugoslávia em detalhes e façamos uma análise apropriada.
+
+A Universidade de Rochester oferece a seguinte avaliação geral da era comunista na Iugoslávia:
+>A história da Iugoslávia desde 1945 abrange um período de rápida modernização econômica, política e social refletida no crescimento urbano e industrial, melhorias na alfabetização e bem-estar econômico, mudanças na estrutura familiar patriarcal tradicional, moderação das hostilidades étnicas e integração em economia internacional. No entanto, de forma dialética, também abrange um período de declínio econômico e intensa reação étnica. Em um sentido muito real, o caminho para o colapso da federação iugoslava, como o colapso da federação soviética, foi pavimentado pela política em relação às nacionalidades que cada um adotou, mas foi precipitado pelo envolvimento na economia global.
+
+Agora que temos uma breve impressão da ascensão e queda da nação, vamos entrar em mais detalhes.
+
+### Iugoslávia pré-guerra
+Para entender as conquistas do socialismo na Iugoslávia, devemos primeiro entender como eram as condições antes do socialismo. A Universidade de Rochester dá esta avaliação da Iugoslávia antes da guerra:
+>O país permaneceu em grande parte subdesenvolvido durante os anos entre as guerras. 77% da população eram camponeses. As taxas de analfabetismo de pessoas com mais de 10 anos variaram entre 83,8% na Macedônia e 8,8% na Eslovênia, com o número nacional sendo 51,5% em 1921. A mortalidade e a fertilidade eram altas, as epidemias eram comuns, apesar dos programas inovadores criados por Andrija Stampar, o público croata líder da saúde e o governo foram ineficazes no fornecimento de serviços de saúde preventivos e curativos, bem como a infraestrutura necessária. Altos impostos e preços agrícolas em declínio durante os anos de depressão da década de 1930 podem ter contribuído para a hostilidade dos camponeses ao governo e para seu apoio aos guerrilheiros durante a Segunda Guerra Mundial, que foi tanto uma guerra civil quanto uma guerra contra os invasores alemães.
+
+De acordo com o Comitê de Helsinque:
+>Desenvolvimento social geral da Iugoslávia de 1918 a 1941 foi extremamente lento, de modo que o país estava no extremo inferior das tendências europeias (pobreza populacional, analfabetismo, baixo nível de cultura de saúde, mobilidade deficiente, etc.), com uma perspectiva bastante fechada... No período entre guerras, a infraestrutura habitacional fora das cidades era ruim ou inexistente, sem eletricidade, água e esgoto. As condições de vida nos assentamentos dos trabalhadores municipais ou periféricos eram ruins.
+
+Em suma, a Iugoslávia antes da guerra era uma nação economicamente subdesenvolvida, atormentada por altos níveis de analfabetismo, altas taxas de mortalidade, baixa expectativa de vida e epidemias de doenças. Agora que entendemos um pouco mais sobre o estado de coisas quando os comunistas assumiram o controle, vamos agora ver o que eles acharam dessa situação.
+
+### Desenvolvimento econômico e de infraestrutura da Iugoslávia
+Antes da Segunda Guerra Mundial (e da aquisição comunista), a economia da Iugoslávia estava estagnada. De acordo com o Comitê de Helsinque:
+>De 1921 até a eclosão da Segunda Guerra Mundial, o país não se caracterizou por nenhum progresso econômico excepcional. Nisso, porém, não era diferente da maioria dos países vizinhos, quer se trate, por exemplo, da Grécia, da Hungria ou da Bulgária. Em parte, isso foi consequência do crescimento demográfico, mas já que estamos falando de várias décadas, é claro que no geral a economia estava estagnada e que não é possível falar de qualquer progresso significativo em relação ao desenvolvimento econômico em território iugoslavo no tempo antes do estabelecimento do estado comunista.
+
+Após a aquisição comunista, um novo sistema econômico foi estabelecido, baseado na autogestão dos trabalhadores dentro das empresas estatais. Este sistema é descrito pela Enciclopédia Britânica em seu artigo sobre a Iugoslávia:
+>Depois de 1945, o governo comunista nacionalizou grandes propriedades rurais, empresas industriais, serviços públicos e outros recursos e lançou um árduo processo de industrialização. Após uma ruptura com a União Soviética em 1948, na década de 1960 a Iugoslávia passou a confiar mais nos mecanismos de mercado. Uma característica distintiva deste novo “sistema iugoslavo” foi a “autogestão dos trabalhadores”, que atingiu sua forma mais plena na Lei de 1976 sobre Trabalho Associado. Segundo essa lei, os indivíduos participavam da gestão de empresas iugoslavas por meio das organizações de trabalho em que estavam divididos. As organizações de trabalho podem ser "Organizações Básicas de Trabalho Associado" (as subdivisões de uma única empresa) ou "Organizações Complexas de Trabalho Associado" unindo diferentes segmentos de uma atividade geral (por exemplo, manufatura e distribuição). Cada organização de trabalho era governada por um conselho de trabalhadores, que elegia um conselho de administração para dirigir a empresa.
+
+Esse sistema levou a um crescimento econômico dramático. De acordo com o Comitê de Helsinque:
+>O desenvolvimento nos anos posteriores à Segunda Guerra Mundial, se deixarmos de lado os anos do bloqueio soviético, é caracterizado por um significativo crescimento e desenvolvimento econômico, se este último for expresso, novamente, pelo PIB per capita. Enquanto nos primeiros vinte anos ou mais o PIB per capita aumentou pouco menos de 40%, no período de 1952 a 1979 ele aumentou pouco menos de 5 vezes. Como em ambos os casos se tratava de reconstruir o país após a devastação da grande guerra, não há dúvida de que a Iugoslávia após a Segunda Guerra Mundial alcançou um desenvolvimento econômico incomparavelmente melhor do que após a Primeira Guerra Mundial.
+
+O país passou por um grande processo de urbanização sob os comunistas:
+>Uma grande onda de urbanização ocorreu na segunda metade do século, quando foram construídos assentamentos com edifícios residenciais maiores e arranha-céus. Novas cidades ou complexos urbanos maiores, como Nova Belgrado, Novo Zagreb, Nova Gorica, Velenje e Split 3, também foram construídos. Do ponto de vista do planejamento urbano, a reconstrução de Skopje após o desastroso terremoto de 1963 foi especialmente bem-sucedida. Esses novos assentamentos foram baseados no planejamento urbano contemporâneo e em conceitos arquitetônicos como edifícios residenciais com equipamentos sociais, rodeados por áreas verdes e sem acesso direto às principais vias. Jardins de infância e escolas, parques, centros de saúde, comércio e instalações de artesanato de pequena escala também foram construídos de acordo com o plano.
+
+A péssima situação habitacional melhorou dramaticamente, assim como o acesso a serviços essenciais (eletricidade, água, saneamento, etc):
+>A cada ano, do início da década de 1960 até a década de 1980, 100-150 mil apartamentos foram construídos e um terço deles foi construído pelo setor de propriedade social. Estes apartamentos foram atribuídos aos trabalhadores com base no direito de ocupação adquirido nas empresas e instituições onde trabalharam. Uma pesquisa mostra que nos anos de pico da construção de moradias, ou seja, durante o final da década de 1970 e início da década de 1980, todas as famílias com três trabalhadores tinham eletricidade, quase todas tinham água e esgoto, um terço tinha aquecimento central e oito de dez tinham banheiro e lavabo no apartamento.
+
+Infelizmente, a economia iugoslava acabou por começar a estagnar, um problema que foi agravado pela interferência do FMI, bem como pelas tensões regionais inflamadas que ressurgiram após a morte de Tito. De acordo com a Enciclopédia Britânica:
+>A inflação e o desemprego surgiram como problemas graves, especialmente durante a década de 1980, e a produtividade permaneceu baixa. Esses defeitos no sistema foram corrigidos por empréstimos estrangeiros massivos e descoordenados, mas depois de 1983 o Fundo Monetário Internacional exigiu uma ampla reestruturação econômica como uma pré-condição para um maior apoio. O conflito sobre como atender a essa demanda ressuscitou antigas animosidades entre as regiões mais ricas do norte e oeste, que eram obrigadas a contribuir com fundos para programas de desenvolvimento administrados pelo governo federal, e as regiões mais pobres do sul e leste, onde esses fundos eram frequentemente investidos em empresas relativamente ineficientes ou em projetos de prestígio improdutivos. Essas diferenças contribuíram diretamente para a desintegração da segunda Iugoslávia.
+
+Apesar disso, o rápido crescimento econômico gerado pelo sistema socialista na Iugoslávia continua impressionante, e sua eventual queda serve como um alerta sobre os terríveis perigos de depender excessivamente de investimento estrangeiro, especialmente de instituições burguesas.
+
+### Conquistas na saúde da Iugoslávia
+A Iugoslávia pré-guerra era assolada por péssimas condições de saúde, situação que só foi agravada pela Segunda Guerra Mundial. De acordo com o Comitê de Helsinque:
+>No que diz respeito aos cuidados de saúde da população no Reino da Iugoslávia, era o nível mais baixo de acordo com os padrões europeus. De acordo com dados de 1930, havia 12.204 membros do pessoal médico, incluindo 4.545 médicos e 208 dentistas. Havia também 172 hospitais e 22.895 leitos hospitalares. Na Iugoslávia até 1939, havia 18.193 membros do pessoal médico, incluindo 5.131 médicos e 380 dentistas, o que implica que havia um médico por 3.060 habitantes e um dentista por 41.324 habitantes. Desse número de médicos, 927 trabalhavam em 169 hospitais com 23.534 leitos (apenas 429 mais de vinte anos antes).
+
+Como resultado, os comunistas fizeram da provisão de cuidados de saúde um aspecto fundamental de sua política. De acordo com a NYU:
+>A política de saúde na antiga Iugoslávia baseava-se na promessa de crescimento: expansão das unidades de saúde existentes e construção de novas, aumento da oferta de profissionais de saúde e medicamentos e, em última análise, melhoria do estado da saúde. A promessa foi repetida com tanta frequência que as pessoas passaram a considerar esses benefícios sociais "como seu devido direito", uma premissa importante do socialismo.
+
+Isso resultou em enormes aumentos nas condições de saúde do país:
+>Em 1978, o número de leitos hospitalares, em comparação com 1939, triplicou de 19 para 60 leitos por 10.000 habitantes; o número de faculdades de medicina aumentou de três para onze, resultando em um aumento de cinco vezes no número de médicos; e o seguro saúde foi estendido para cobrir 82% da população. A taxa de mortalidade infantil de 35,6 por 1.000 habitantes em 1978 era apenas um quarto do valor anterior à Segunda Guerra Mundial. Além disso, a difteria, a malária e a tifo foram eliminadas.
+
+Essas melhorias também são discutidas pelo Comitê de Helsinque:
+>Na Iugoslávia socialista, a situação melhorou radicalmente. Até 1950, havia apenas 5.138 médicos e 196 dentistas, enquanto já em 1952 havia 6.548 médicos (já que se formaram as primeiras gerações de estudantes de medicina do pós-guerra), enquanto o número de dentistas diminuiu para 184. Até 1987, os iugoslavos a população era atendida por 43.869 médicos e 9.232 dentistas, o que significa que havia um médico por 533 habitantes e um dentista por 2.535 habitantes. Em 1950, em comparação com 1939, o número de leitos hospitalares aumentou mais do que duas vezes - havia 53.760 leitos hospitalares. Em 1960, esse número também havia aumentado mais do que duas vezes, de modo que havia 102.329 leitos hospitalares, enquanto até 1988 esse número aumentou para 142.957.
+
+O acesso à saúde foi expandido em todo o país:
+>Além disso, graças ao desenvolvimento da rede rodoviária, melhores comunicações e políticas sociais diferenciadas, os cuidados de saúde tornaram-se acessíveis a um número significativamente maior de pessoas. Além dos médicos, o número de equipes médicas também aumentou. De acordo com os dados de 1962, havia um total de 112.946 trabalhadores médicos; em 1975 - 193.374, e em 1987 - 303.105... Compreensivelmente, os serviços médicos mais avançados eram fornecidos nos centros urbanos, mas os centros de reabilitação de spa estavam sendo desenvolvidos e os cuidados básicos de saúde também alcançavam as áreas rurais. Até 1989, além dos hospitais, foram abertos 8.384 centros médicos gerais e especializados e 4.425 consultórios odontológicos.
+
+A mortalidade infantil e infantil foi significativamente reduzida:
+>A melhoria da assistência social patrocinada pelo Estado para a população também resultou em um grande declínio nas taxas de mortalidade infantil, devido ao qual o Reino da Iugoslávia se classificou entre os países europeus mais atrasados.
+
+A expectativa de vida aumentou dramaticamente:
+>A expectativa de vida também aumentou significativamente. Em 1931, a expectativa de vida para mulheres e homens era de 46,1 e 45,1 anos, respectivamente. Já em 1948, os níveis de expectativa de vida aumentaram para 53 anos para as mulheres e 48,6 anos para os homens... Até 1981, a expectativa de vida no nível iugoslavo aumentou para 73,2 para as mulheres e 67,7 para os homens. Seu aumento continuou, de modo que em 1990 a expectativa de vida para as mulheres na Iugoslávia era de 74,9 e para os homens de 69,1 anos, através do qual as diferenças regionais foram reduzidas.
+
+A taxa de mortalidade diminuiu rapidamente sob o comunismo; eventualmente, as taxas de mortalidade na Iugoslávia tornaram-se mais baixas do que aquelas na Europa Ocidental:
+>Finalmente, a taxa de mortalidade também diminuiu: de 21 mortes por 1.000 habitantes em 1921 para 15 mortes por 1.000 habitantes até 1939. Depois de 1945, a taxa de mortalidade continuou a diminuir de um máximo de 14,2 mortes por 1.000 habitantes para um mínimo de 8,1 mortes por 1.000 habitantes em 1966. Ao final do período de observação, a taxa de mortalidade era de 9 óbitos por 1.000 habitantes, sendo menor que na Alemanha (9,2), França (9,3) ou Grã-Bretanha (11,2).
+
+Observe que, embora tenha havido alguma redução na taxa de mortalidade sob o governo pré-comunista, a melhora foi muito mais rápida sob os comunistas e coincidiu com melhorias drásticas na mortalidade infantil e na expectativa de vida em comparação com o período pré-comunista.
+
+Para resumir, o Comitê de Helsinque diz:
+>A nutrição e a higiene influenciaram fortemente a saúde da população... O desenvolvimento da medicina e das instituições de saúde no pós-guerra possibilitou uma maior disponibilidade de médicos e um aumento de quase cinco vezes no número de leitos hospitalares (em 1986 eram cerca de 143.000), enquanto todos os serviços eram cobertos por um seguro de saúde obrigatório. Também foram organizados exames médicos regulares e vacinação obrigatória da população. A medicina do trabalho e o sistema de segurança do trabalho proporcionavam maior segurança aos empregados. Pensões e lares para idosos inspiraram confiança nos cuidados no final da vida. Graças a melhores condições de saúde e higiene, bem como melhores condições socioeconômicas, a expectativa de vida estimada para os nascidos no início da década de 1980 era de 68 anos para os homens e 73 para as mulheres, ou seja, cerca de vinte anos a mais do que para as gerações nascidas na década de 1940. Pelas mesmas razões, a mortalidade infantil diminuiu de 143 por mil na década de 1930 para 27 por mil em meados da década de 1980, variando de 12,6 por mil na Eslovénia a 54,3 por mil no Kosovo.
+
+Os avanços gerais feitos pelo governo comunista na Iugoslávia são notáveis.
+
+### Conquistas educacionais da Iugoslávia
+Outra área em que os comunistas melhoraram dramaticamente a Iugoslávia é a da educação. A Iugoslávia do pré-guerra estava extremamente atrasada no que diz respeito à educação. De acordo com o Comitê de Helsinque:
+>No Reino da Iugoslávia, apesar dos esforços específicos para elevar o nível educacional da população, não houve avanços significativos neste campo. Em 1921, o número de analfabetos com mais de 10 anos chegava a 4.402.059 (50,5% da população), enquanto no censo de 1931 seu número havia aumentado para 4.408.471 (44,6% da população com mais de 10 anos).
+
+Depois que os comunistas assumiram o controle durante a Segunda Guerra Mundial, a situação melhorou rápida e dramaticamente:
+>Já de acordo com o censo de 1948, esse número era consideravelmente menor - 3.162.941 (25,4% da população). Esta diminuição foi o resultado de uma campanha de alfabetização em massa durante a guerra e em suas consequências... Esforços consideráveis ​​foram feitos no sentido de educar a população, de modo que o número de analfabetos com mais de 10 anos diminuiu continuamente, acompanhado de um aumento no total população, de modo que em 1961 havia 3.066.165 (21%) dessas pessoas; em 1971 - 2.549.571 (15,1%) e em 1981 - 1.780.902 (9,5%). Desse número, 1.576.238 tinham mais de 39 anos ou, em outras palavras, nasceram antes de 1945.
+
+O acesso à educação foi drasticamente expandido pelos comunistas:
+>A partir de 1945, a rede educacional se expandiu rapidamente, tanto em número de escolas como em termos de diversidade de ensino, ao mesmo tempo em que aumentava o número de anos obrigatórios do ensino fundamental e em 1958 era introduzido o ensino fundamental obrigatório de oito anos. No território da Iugoslávia, em 1946, havia 10.666 escolas primárias com 1.441.679 alunos e 23.270 professores o que, considerando o número de professores, era um grande declínio em relação a 1939. Em 1975/78, o número de escolas primárias na Iugoslávia havia crescido para 13.442, mas depois começou a diminuir, principalmente devido à fusão de escolas menores, o que foi possível graças à melhoria do transporte e maior mobilidade estudantil.
+
+Em suma, a situação educacional na Iugoslávia melhorou dramaticamente durante o período socialista, com uma redução drástica do analfabetismo e uma expansão massiva da rede educacional em todo o país.
+
+### Direitos das mulheres na Iugoslávia
+A Iugoslávia do pré-guerra tinha uma visão fortemente reacionária dos direitos das mulheres, que mudou rapidamente no período socialista. De acordo com o Comitê de Helsinque:
+>A emancipação das mulheres no Reino da Iugoslávia foi o resultado de esforços individuais, enquanto na Iugoslávia socialista foi o resultado de uma política organizada. Embora existisse um movimento feminista no Reino da Iugoslávia, ele permaneceu à margem da influência social, enquanto o status da mulher era mais bem expresso no Código Civil, em que uma mulher casada não tinha capacidade legal. Essa anacrônica disposição legal foi abolida já em 1946, com o término da vigência do Código Civil.
+
+Os comunistas promoveram ativamente a emancipação das mulheres:
+>Compreensivelmente, as mulheres obtiveram o direito de voto, as relações conjugais foram liberalizadas, o ativismo político das mulheres foi promovido através da Frente Feminina Antifascista e outras organizações de massa, e as mulheres assumiram cada vez mais funções sociais e políticas, enquanto as soluções jurídicas em todas as esferas da vida tentou garantir a igualdade de gênero. Um aumento considerável no número de divórcios também pode ser considerado uma expressão da emancipação da mulher.
+
+O acesso educacional das mulheres melhorou dramaticamente:
+>Nos cursos de alfabetização realizados durante o período de 1948–1950, até 70% dos participantes eram mulheres, embora a alfabetização e a escolaridade das meninas encontrassem resistência em ambientes conservadores, principalmente por motivos religiosos e patriarcais. De 1921 a 1981, a porcentagem de mulheres analfabetas diminuiu de 60% para 14,7%.
+
+As mulheres foram integradas à economia, da qual anteriormente haviam sido amplamente excluídas:
+>Depois de 1945, a proporção da população masculina na população economicamente ativa estava diminuindo, enquanto a taxa da população economicamente ativa na população feminina era relativamente estável e variava de 30,7% a 35,1%. Isso significa que o número absoluto da população feminina economicamente ativa (e, portanto, a parcela da população economicamente ativa) estava aumentando na proporção do aumento da parcela da população feminina na população total. No entanto, este não foi o caso da população masculina. Este é um testemunho muito confiável da emancipação das mulheres em comparação com o período pré-guerra, que ficou especialmente evidente depois de 1961.
+
+Os comunistas, portanto, fizeram uma série de melhorias enormes no status dos direitos das mulheres na Iugoslávia.
+
+### Conclusão sobre a Iugoslávia
+Os comunistas na Iugoslávia conseguiram melhorar drasticamente a vida do povo. A economia foi muito desenvolvida, a infraestrutura foi expandida dramaticamente e a política social foi muito avançada. A era socialista foi uma época de tremenda melhoria e esperança para o povo. Como afirma o Comitê de Helsinque:
+>Esse quadro de elevação do padrão de vida ficará mais completo se levarmos em consideração o nível de desenvolvimento tecnológico alcançado, elevados padrões de saúde e higiene e maior escolaridade da população. Se a questão do progresso fosse colocada sob o aspecto da vida cotidiana, isso se refletiria no desejo de eletricidade, estradas pavimentadas, um apartamento ou casa confortável, um casamento por amor e não um casamento arranjado, terra fértil, segurança no emprego, como bem como o desejo de que as crianças tenham uma vida melhor no futuro. São justamente essas questões que são temas de conversa no premiado longa metragem Train Without a Timetable (Veljko Bulajić, 1959): “Também há eletricidade e uma estrada estadual ali, e você pode ter um rádio em casa. Pode tocar e cantar para você o dia todo! Tal como num sonho...” Este sonho fez parte das mudanças que o século XX trouxe ao quotidiano, incluindo o aumento das oportunidades e necessidades. A Iugoslávia estava sintonizando o ritmo do século com seu próprio nível de desenvolvimento e prioridades políticas.
+
+Isso é algo que todos podemos apreciar.
+
+O exemplo da Iugoslávia é a evidência mais contundente dessa tendência retrógrada da esquerda. É também uma prova viva do que está em jogo. Durante as últimas quatro décadas de existência da União Soviética, o imperialismo dos EUA agiu de forma mais ou menos amigável com a Iugoslávia. Embora fosse liderada por um Partido Comunista, a Iugoslávia manteve a "neutralidade" no conflito EUA-União Soviética. A liderança da Iugoslávia introduziu reformas de mercado, abandonou em grande parte o monopólio do comércio exterior, integrou o país à economia capitalista mundial, endividou-se fortemente com os bancos ocidentais, permitiu que o desemprego em grande escala se desenvolvesse de acordo com o princípio do "mercado" e sua necessidade para uma força de trabalho flexível e começou a seguir os ditames do Fundo Monetário Internacional. No final da década de 1980, a Iugoslávia era caracterizada pela maioria da esquerda como um “país capitalista” com a clara implicação de que não havia mais nada para a esquerda defender. Mas porque a Liga dos Comunistas continuou a manter o poder na Iugoslávia, ela emergiu como uma força de resistência quando o imperialismo alemão iniciou um esforço em grande escala para desmembrar o país em 1990 e 1991. A derrubada do governo socialista da Alemanha Oriental em 1989 e sua reincorporação na Alemanha Ocidental desencadeou um intenso impulso do imperialismo alemão para ampliar sua esfera de influência. Financiou e secretamente organizou a secessão da Eslovênia e da Croácia, as repúblicas mais ocidentais da Iugoslávia multinacional. Isso, por sua vez, desencadeou uma disputa imperialista previsível e clássica entre Alemanha, França, Inglaterra e, finalmente, os Estados Unidos para dividir a Iugoslávia em esferas de influência para a penetração neocolonial.
+
+Diante dessa campanha contra-revolucionária de inspiração imperialista, a Liga dos Comunistas, liderada por Slobodan Milosevic, mudou abruptamente de curso. A privatização da indústria foi desacelerada e, em alguns casos, revertida. A cooperação com o FMI foi reduzida ou interrompida. O imperialismo demonizou a liderança iugoslava, impôs sanções econômicas e iniciou um curso de mudança de regime. A Iugoslávia lutou contra as forças da desintegração. Ela teve que confiar mais em sua base de classe trabalhadora. Esta teria sido uma virada impossível para um regime totalmente capitalista, um regime que não teve suas raízes na revolução social e na propriedade socializada. A única maneira de o imperialismo ter sucesso na Iugoslávia era travar uma guerra de bombardeio total. De 24 de março a 4 de junho de 1999, a força aérea imperialista coletiva da OTAN lançou 23.000 bombas e mísseis na Sérvia até que o governo iugoslavo decidiu deixar Kosovo cair nos braços dos imperialistas (e como consequência, Kosovo hoje é a cidade com a maior taxa de câncer da Europa). Sem pausa, a pressão imperialista se intensificou após a conclusão da guerra de 1999 para levar a cabo a derrubada contra-revolucionária final do governo iugoslavo e sua substituição por uma força servil por procuração.
+
+Tendo abandonado por muito tempo uma defesa política da Iugoslávia com base no fato de que nada restava, no sentido social e econômico, da revolução iugoslava inicial, grandes setores da esquerda internacional permaneceram à margem em 1999, assistindo a carnificina. Outros realmente apoiaram a guerra da OTAN ou deram apoio a alguma forma variante de desmembramento patrocinado pelo imperialista, proferindo proclamações vulgarizadas sobre "autodeterminação" para Kosovo. A verdadeira autodeterminação, nessas circunstâncias, significava apenas uma coisa: defender militantemente o governo iugoslavo enquanto este resistia à agressão imperialista e à contra-revolução. O exemplo iugoslavo prova que existe uma conexão orgânica entre imperialismo e contra-revolução em todas as sociedades com governos criados por uma reviravolta socialista. Apesar do surgimento de lideranças conservadoras e não revolucionárias nos governos de orientação socialista, nunca houve uma parceria estável de longo prazo entre qualquer um desses regimes e o imperialismo ou qualquer governo imperialista único.
+
+A própria existência de um partido comunista como partido governante - que se baseia nos interesses da classe trabalhadora - significa que a relação com o imperialismo é inerentemente instável. A razão para a instabilidade é que o mero controle do poder pelos partidos comunistas constitui um obstáculo à tomada total e completa e à reescravização neo-colonial do país pelo imperialismo. Em sua busca sistemática e inerente por superlucros, o imperialismo é levado à contra-revolução com o objetivo principal de derrubar o domínio político do partido comunista. O impulso para a contra-revolução está na própria natureza da besta. Embora a Iugoslávia seja um exemplo desse fenômeno contra-revolucionário, pode-se olhar para a história recente da China para observar um processo quase idêntico, mais notavelmente os eventos que levaram à supressão do movimento contra-revolucionário da Praça Tiananmen em 1989. Foi a liderança do Partido Comunista da China, em particular a liderança de Deng Xiaoping, que tomou medidas para suprimir um movimento de massa que ocupou a Praça Tiananmen por sete semanas em 1989, o mesmo ano em que a maioria dos governos do bloco socialista na Europa Oriental foi derrubada.
+
+Fontes:
+- [University of Rochester | The Making and Breaking of Yugoslavia and Its Impact on Health](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1448556/)
+- [NYU | The Once and Future Health System in the Former Yugoslavia](https://www.nyu.edu/projects/rodwin/future.html)
+- [Helsinki Committee | Yugoslavia From a Historical Perspective](http://www.yuhistorija.com/doc/yugoslavia%20from%20a%20historical%20perspective.pdf)
+- [Encyclopedia Britannica | Yugoslavia (1929-2003)](https://www.britannica.com/place/Yugoslavia-former-federated-nation-1929-2003#ref759937)
+- [The Espresso Stalinist | Yugoslav Revisionism](https://espressostalinist.com/marxism-leninism-versus-revisionism/titoism/)
+- [The year was 1991: the demise of Yugoslavia and the Soviet Union](https://www.globalresearch.ca/the-defining-year-was-1991-the-demise-of-yugoslavia-and-the-soviet-union/5628115)
+- [The rational destruction of Yugoslavia - Michael Parenti](http://www.michaelparenti.org/yugoslavia.html)
+- [US-NATO jets bomb Serb auto plant](https://www.wsws.org/en/articles/1999/04/balk-a10.html?view=article_mobile)
+- [The US war on Yugoslavia - by Michael Parenti](https://youtu.be/GEzOgpMWnVs)
+- [Sean Gervasi exposing US, German role in Balkans](https://youtu.be/ePw0Wp7lsxA)
+- [Yugoslavia - the avoidable war](https://youtu.be/u04IL4Od8Qo)
+- [Croatia - neoliberalism and corruption](https://www.jacobinmag.com/2016/07/croatia-karamarko-neoliberalism-corruption-bridge/)
+- [The Weight of Chains (full movie)](https://www.youtube.com/watch?v=xw49iL6zGyQ&feature=youtu.be)
+- [Srebrenica’s legacy should be one of peace, not war](https://www.rt.com/op-edge/273142-srebrenica-massacre-anniversary-balkans/)
+- [Harpal Brar - NATO’s predatory war on Yugoslavia (book)](http://www.cpgb-ml.org/index.php?secName=books&subName=display&bookId=15)
+
+## A Albânia
+A República Socialista Popular da Albânia é uma espécie de enigma. É simultaneamente uma das mais conhecidas e menos compreendidas de todas as nações socialistas. A única coisa que a maioria das pessoas sabe sobre a Albânia socialista é que foi liderada durante a maior parte de sua existência por Enver Hoxha, um homem que odiava o revisionismo e adorava bunkers. Mas há muito mais nesta nação do que a maioria de nós sabe, e isso deve ser estudado; oferece um caso exemplar das conquistas de que o socialismo é capaz, e uma história de advertência sobre os perigos do isolacionismo e do dogmatismo.
+
+### Albânia pré-guerra
+Antes da Segunda Guerra Mundial, a Albânia era a nação mais pobre da Europa. O país nem havia passado por uma verdadeira revolução industrial e, como tal, dependia quase inteiramente da agricultura. Como resultado disso, junto com as relações de propriedade semifeudais que existiam na época, a Albânia tinha uma das rendas per capita mais baixas do mundo. De acordo com o livro de 1999 de James O'Donnell, A Coming of Age: Albania Under Enver Hoxha, publicado pela Columbia University Press:
+>Antes da Segunda Guerra Mundial, a economia albanesa estava em frangalhos. [...] A contribuição total da produção industrial para o produto material líquido foi de apenas 4,4% (outra fonte diz que este número era na verdade menos de 4%) em 1938. [...] Além disso, em 1927 e 1928, o per capita a renda média anual era de apenas $40,07, em comparação com a Bulgária $67,57, a Grécia $75,75, a Iugoslávia $76,93 e a Romênia $77,74. Assim, antes da Segunda Guerra Mundial, devido ao estado primitivo da economia albanesa, os albaneses ganhavam cerca de apenas metade a dois terços do que seus vizinhos pobres dos Bálcãs.
+
+Apesar da forte dependência da Albânia da agricultura, até mesmo esse setor era criticamente subdesenvolvido antes da Segunda Guerra Mundial. A maioria dos camponeses do país não tinha terra e, para começar, apenas uma pequena porção das terras do país estava sendo cultivada:
+>90% da renda nacional total era derivada da agricultura, apesar de haver apenas 7% a 9% das terras cultivadas. Além disso, em 1938, 88% da população vivia em áreas rurais, mas 53% dos camponeses não tinham terra. Mais de 40% das terras cultiváveis ​​pertenciam a grandes proprietários e apenas 3% aos camponeses. O nível de mecanização era extremamente primitivo, pois havia apenas trinta e dois tratores em todo o país.
+
+As coisas só pioraram depois da guerra, que matou quase 8% da população (a parte mais ativa da força de trabalho). Apesar de algumas construções de infraestrutura pelos ocupantes fascistas, o efeito geral sobre a nação foi calamitoso. O'Donnell escreve:
+>Este quadro econômico sombrio regrediu ainda mais durante a Segunda Guerra Mundial e a Albânia se viu em uma posição econômica bastante precária quando Enver Hoxha e o Partido do Trabalho Albanês assumiram o poder. A luta destruiu muito do material útil existente para fins econômicos. Na verdade, os danos per capita da Albânia foram estimados como os mais altos da Europa.
+
+Por pior que fosse a situação econômica da Albânia pré-comunista, as coisas podem ter sido ainda piores no que diz respeito à saúde. Os recursos médicos eram lamentavelmente escassos, enquanto a expectativa de vida e as taxas de mortalidade estavam entre as piores do mundo. De acordo com um estudo de 1998 da London School of Economics:
+>Quando os comunistas assumiram o poder na Albânia em 1945, o estado de saúde da população e o sistema de saúde albanês estavam em péssimo estado. [...] O número de médicos era muito baixo - apenas 102 médicos albaneses e um número muito pequeno de médicos estrangeiros. Assim, o número de médicos (médicos e dentistas) por 10.000 da população era de apenas 1,17, enquanto o número de leitos para 1.000 da população era de apenas 0,98. [...] De acordo com a Liga das Nações em 1941, a taxa bruta de mortalidade para a Albânia em 1938 era de 17,7 por mil. Em um estudo posterior, um número sobre a expectativa de vida ao nascer é dado para 1938 como 38 anos. Mesmo esses números não são considerados precisos, porque o registro de óbitos não estava completo. [...] A maioria dos moradores morreu sem qualquer intervenção médica. No início dos anos 20, mais da metade das 2.540 aldeias do país nunca haviam sido visitadas por um médico.
+
+A educação era outro problema sério; nas áreas rurais, era praticamente inexistente. Para citar o estudo acima mencionado da LSE:
+>O fim da Segunda Guerra Mundial encontrou a Albânia em um estado educacional muito pobre. Naquela época, 80% da população era analfabeta, e nas áreas rurais esse número chegava a 90-95%. O analfabetismo era generalizado nas áreas rurais e, em particular, entre as mulheres. Imediatamente após a tomada do poder em 1944, o regime comunista deu alta prioridade à abertura de escolas e à organização de todo o sistema educacional segundo as linhas comunistas. Uma intensa campanha contra o analfabetismo começou imediatamente.
+
+Finalmente, deve-se notar que a Albânia pré-comunista era uma das sociedades mais reacionárias da Terra no que diz respeito aos direitos das mulheres. Para citar o estudo acima mencionado:
+>Para a maioria das mulheres, a vida tradicional albanesa foi caracterizada pela discriminação e desigualdade em comparação com os homens, reforçada por uma ampla gama de normas culturais. [...] No período pré-guerra imediato havia apenas 21 professoras no país, algumas médicas e nenhuma engenheira, agrônoma ou química. Apenas 2,4% dos alunos do ensino médio eram meninas.
+
+O Código de Leke (o código de leis albanês tradicional do pré-guerra relativo às mulheres) era severamente discriminatório. Até mesmo o assassinato de uma mulher grávida era punido de forma diferente, dependendo do sexo do feto que ela carregava:
+>...a morta é para ser aberta, para ver se o feto é menino ou menina. Se for um menino, o assassino deve pagar 3 bolsas [uma determinada quantia em moeda local] pelo sangue da mulher e 6 bolsas pelo sangue do menino; se for menina, além das três bolsas para a mulher assassinada, deverão ser pagas 3 bolsas para a menina.
+
+De tudo isso, podemos ver claramente que a Albânia pré-comunista era uma sociedade desesperadamente pobre e semifeudal, com estatísticas de saúde e educacionais terríveis, e algumas das mais intensas discriminações contra as mulheres vistas em qualquer lugar do mundo. Dito isso, vamos ver o que os comunistas foram capazes de fazer com essa situação.
+
+### Desenvolvimento econômico e infraestrutural da Albânia
+Quando os comunistas chegaram ao poder, eles rapidamente começaram a transformar a economia do país. Isso começou com uma ampla lei de reforma agrária, que buscava eliminar as relações de propriedade semifeudais que existiam na Albânia na época. O'Donnell escreve:
+>A construção da economia albanesa começou para valer com a aprovação da Lei da Reforma Agrária em agosto de 1945. Essa lei retirou do país todas as extensas propriedades pertencentes aos beis e grandes proprietários de terras. Todas as florestas e pastagens e todas as terras pertencentes a pessoas com renda não agrícola foram desapropriadas sem compensação. [...] Cada um dos camponeses sem terra recebia cinco hectares por família, com mais para cada filho casado que vivia na propriedade da família. [...] Essa lei é significativa porque demonstrou aos camponeses a viabilidade do novo governo.
+
+A reforma agrária teve um efeito profundo na distribuição de terras na Albânia, tornando-se "um desenvolvimento significativo em termos de conduzir gradualmente a Albânia ao século XX". Citar:
+>A Albânia foi transformada de uma terra de grandes propriedades em uma das 70.000 pequenas fazendas. Antes desta lei, 52,43% de todas as terras na Albânia pertenciam a grandes proprietários, 28,07% das terras eram propriedade de pequenos agricultores e o estado era propriedade de 18,71%. Depois que a Lei da Reforma foi aprovada, os beis possuíam apenas 16,38% da terra, os pequenos agricultores possuíam 43,17% e os camponeses anteriormente sem terra possuíam 34,63%.
+
+No setor industrial, os comunistas rapidamente se moveram para nacionalizar a pequena indústria que existia, e então começaram a se concentrar no rápido desenvolvimento da capacidade industrial do país. O'Donnell escreve:
+>O crescimento da indústria da Albânia foi surpreendente, tanto em velocidade quanto em extensão. Quando se considera a extensão dos danos causados ​​na Albânia durante a Segunda Guerra Mundial, é bastante impressionante que a Albânia foi capaz de se recuperar desses danos e em 1946 igualou seu nível de produção industrial antes da guerra. No entanto, ainda mais impressionante é o fato de que, em 1948, a Albânia dobrou sua produção industrial anterior à guerra. Todos devem concordar que este foi um começo bastante encorajador para o novo governo popular.
+
+Um resumo geral da situação econômica ao longo das primeiras décadas da Albânia socialista pode ser encontrado no estudo acima mencionado da London School of Economics:
+>O crescimento do Produto Material Líquido de um plano de cinco anos para o próximo foi, em média, quase 44%, com a indústria registrando as taxas de crescimento mais rápidas durante este período. O crescimento médio da indústria de 1951 a 1975 foi de 82,5%. A participação da agricultura caiu de 80% durante o primeiro plano quinquenal (1951-55) para 36% no quinto plano (1971-75), enquanto os números correspondentes para a indústria foram de 14% e 35%, respectivamente.
+
+O desenvolvimento da infraestrutura também foi notavelmente substancial. Talvez o mais importante desses desenvolvimentos tenha sido a eletrificação de todo o país, que a Albânia foi uma das primeiras nações da Terra a alcançar. O'Donnell escreve:
+>Uma das grandes conquistas, com as implicações de mais longo alcance em muitas esferas da vida albanesa; econômica, cultural, social, educacional, etc. que a Albânia alcançou ao longo de todo o período dos anos de Enver Hoxha no poder foi a eletrificação do país. Antes do governo de Hoxha, muitas aldeias remotas nas montanhas não só não tinham eletricidade, como é bem provável que nem soubessem da sua existência. A Albânia atingiu a eletrificação total antes do previsto em 25 de outubro de 1970. A importância desta conquista não pode ser subestimada. Este foi um dos fatores mais significativos na história da Albânia em termos de trazer a Albânia para o mundo moderno.
+
+A infraestrutura física e de transporte também foi desenvolvida. De acordo com o referido estudo da London School of Economics:
+>O sistema de rodovias do país foi amplamente expandido e, em 1985, consistia em 6.900 quilômetros de estradas capazes de transportar o tráfego de veículos motorizados e com uma pequena rede ferroviária de cerca de 603 quilômetros.
+
+Infelizmente, quando a Albânia entrou na década de 1980, sérios problemas econômicos começaram a surgir, causados ​​em grande parte pelas políticas isolacionistas perpetradas por Hoxha, bem como uma falta geral de investimento na economia e uma adesão rígida ao modelo econômico stalinista:
+>Em contraste com o período anterior, a década de oitenta testemunhou uma desaceleração acentuada da atividade econômica, que praticamente estagnou durante a segunda metade da década, refletindo o isolamento autoimposto da Albânia desde 1976 e o ​​surgimento de graves desequilíbrios internos e externos. [...] Muitos são os motivos que colocaram a economia albanesa em um beco sem saída na década de oitenta. Mais significativos são os objetivos e métodos ortodoxos de gestão da liderança comunista; a falta de investimento na economia, o que acarretou a carência de tecnologia avançada; e, acima de tudo, o auto-isolamento do país, que levou a economia albanesa a um colapso total em 1990.
+
+O'Donnell concorda amplamente com esses sentimentos, observando que "Enver Hoxha e o resto da liderança do Partido do Trabalho Albanês definitivamente se contaminaram com a mecanicidade de seus seguidores". Ele também aponta a falta de tecnologia moderna como um problema sério:
+>Não há dúvida de que a economia albanesa teve sua cota de problemas, especialmente nos últimos anos da liderança de Enver Hoxha. A economia precisava desesperadamente de uma infusão de tecnologia ocidental moderna. A tecnologia albanesa estava obsoleta quando foi recebida dos chineses e soviéticos e certamente não poderia competir com os métodos mais modernos do mundo em 1985.
+
+Mesmo apesar desses problemas, não se pode negar que a era socialista na Albânia foi uma época de imenso desenvolvimento econômico e infraestrutural, que trouxe uma melhora drástica na vida de milhões de pessoas. O'Donnell escreve que "a economia albanesa deve ser considerada um sucesso dentro dos parâmetros albaneses." Ele continua:
+>Apesar das deficiências óbvias da economia albanesa, é inegável que o desenvolvimento econômico ocorreu na Albânia sob Enver Hoxha. [...] Quando se considera que a Albânia antes da guerra praticamente não tinha indústria, os avanços que foram feitos são extremamente impressionantes devido às circunstâncias em que a Albânia se encontrava após a Segunda Guerra Mundial, a decisão do Partido do Trabalho Albanês de implementar uma economia centralizada fazia muito sentido. [...] Do lado positivo, uma análise objetiva deve concluir que o plano de Enver Hoxha de mobilizar todos os recursos da Albânia sob a arregimentação de um plano central foi eficaz e bem sucedido, os resultados alcançados, especialmente nas fases iniciais o planejamento e a construção da base econômica foram impressionantes e positivos.
+
+Em suma, o governo comunista na Albânia foi capaz de realizar um impressionante desenvolvimento econômico e de infraestrutura, com várias décadas de rápido crescimento, especialmente no setor industrial. No entanto, o país acabou enfrentando sérios problemas, causados ​​em grande parte pela insistência dogmática na autossuficiência e na adesão excessiva ao modelo stalinista encorajada por Enver Hoxha.
+
+### Conquistas na saúde da Albânia
+Devido às condições de saúde extraordinariamente ruins que a população enfrentava antes de 1945, o novo governo comunista rapidamente fez da saúde uma prioridade:
+>Conforme explicado anteriormente, quando os comunistas assumiram o poder na Albânia em 1945, o estado de saúde da população e o sistema de saúde albanês estavam em muito mau estado. [...] Para fazer frente a essa situação, o governo, a partir de 1947, introduziu um amplo plano de seguro social e médico. A maioria dos tratamentos médicos (embora não os medicamentos) era fornecida gratuitamente. Foi introduzida legislação para proteger a mãe e o filho e instituiu o regime de pensões, bem como outros regulamentos sobre as condições e controle sanitário e o tratamento de doenças infecciosas.
+
+Os resultados dessas políticas podem ser vistos claramente ao se olhar para as estatísticas de saúde na Albânia. Por exemplo, pegue este gráfico que mostra o aumento na expectativa de vida ao nascer de 1950-1990, retirado do estudo LSE mencionado anteriormente (lembre-se de que a expectativa de vida em 1938 era de aproximadamente 38 anos):
+
+```
+1950 - 51.6
+1954-55	- 55.0
+1960 - 62.0
+1964-65	- 64.1
+1969 - 66.5
+1975-1976 - 67.0
+1979 - 68.0
+1989 - 70.7
+```
+
+A partir dessas estatísticas, fica claro que os comunistas alcançaram um enorme aumento na expectativa de vida, de 38 anos em 1938 para 68 anos em 1979, um aumento de trinta anos em apenas quatro décadas. Continuou a melhorar até 1989, embora de forma mais lenta. Os comunistas também conseguiram eliminar várias doenças infecciosas que assolavam o país, especialmente a malária, que havia sido a maior causa de morte na Albânia antes da guerra:
+>Uma série de doenças endêmicas foram controladas, incluindo malária, tuberculose e sífilis. Se olharmos para a transição da mortalidade de 1950 a 1990, é claro que o padrão muda conforme a expectativa de vida aumenta. Assim, as doenças infecciosas e parasitárias (incluindo a tuberculose) diminuem e quase desaparecem nas décadas de setenta e oitenta.
+
+Resumindo a questão do desenvolvimento médico durante a era socialista, O'Donnell escreve que "é inquestionável que grandes avanços foram feitos na área de saúde". Ele continua:
+>A expectativa de vida e as taxas de mortalidade infantil foram muito melhoradas. Os serviços de saúde como um todo, em termos de qualidade e, mais importante, em termos de disponibilidade foram melhorados exponencialmente.
+
+Os comunistas albaneses alcançaram uma série de realizações extremamente impressionantes no campo da saúde. Infelizmente, isso também começou a sofrer no final do período comunista, quando a falta de investimento e o isolamento auto-imposto cobraram seu preço, causando a falta de tecnologia médica. O'Donnell escreve:
+>Deve-se aplaudir objetivamente as melhorias feitas que foram substanciais e de fato um desenvolvimento positivo. No entanto, por outro lado, deve-se também condenar objetivamente a escassez de equipamentos e suprimentos modernos devido a preocupações ideológicas e isolamento.
+
+Mesmo assim, ele conclui argumentando:
+>A assistência médica deve ser considerada um desenvolvimento positivo na história dos anos de Enver Hoxha no poder na Albânia.
+
+### Conquistas educacionais da Albânia
+A educação era outra das principais prioridades do governo comunista e recebeu atenção substancial assim que assumiram o poder. De acordo com o estudo da LSE acima mencionado:
+>Imediatamente após a tomada do poder em 1944, o regime comunista deu alta prioridade à abertura de escolas e à organização de todo o sistema educacional segundo as linhas comunistas. Uma intensa campanha contra o analfabetismo começou imediatamente.
+
+Essa ênfase resultou em melhorias gerais substanciais para o sistema educacional, com um grande aumento na acessibilidade e frequência. O estudo LSE:
+>Em termos de matrículas, a Albânia tinha um sistema de ensino de base ampla, com quase 90% dos alunos concluindo a escola básica obrigatória de 8 anos e 74% deles continuando na escola secundária. Destes, mais de 40% foram para a universidade. Segundo dados oficiais, no final de 1972 havia 700.000 alunos em idade escolar e universitários, o que significava que um em cada três cidadãos estava matriculado em algum tipo de instituição de ensino. O número de jardins de infância nas áreas urbanas aumentou 112% de 1970 a 1990, enquanto nas áreas rurais aumentou 150%. O número de escolas primárias nas áreas urbanas, no mesmo período, aumentou 31% e nas áreas rurais 24%. O número total de escolas secundárias aumentou 291% e o das escolas secundárias 60%. Uma tendência semelhante é observada no número de alunos que se formaram. Assim, o número de alunos que concluíram o ensino fundamental no período 1970-1990 aumentou 74,8%, no ensino médio o número aumentou 914,2% e, na universidade, 147%. A mensalidade da educação era gratuita. Os alunos cujas famílias tinham baixa renda tinham direito a bolsas de estudo, que lhes davam hospedagem gratuita, alimentação, etc.
+
+A eliminação do analfabetismo é uma das conquistas mais importantes da era socialista na Albânia. O'Donnell escreve:
+>Em termos de educação, onde a grande maioria da população era anteriormente analfabeta, como resultado do sistema educacional de Hoxha, quase todos os albaneses sabem ler e escrever. Esta é, sem dúvida, uma conquista positiva e significativa
+
+O estudo da LSE concorda amplamente com esta avaliação:
+>No final da década de oitenta, a Albânia tinha uma taxa de analfabetismo inferior a 5%, situando-se entre os países desenvolvidos. [...] A realização da educação universal deve ser considerada uma das principais conquistas do regime comunista.
+
+Em suma, a educação se destaca como um dos principais desenvolvimentos positivos da era socialista, algo que mesmo os oponentes do regime geralmente consideram uma grande conquista.
+
+### Segurança social na Albânia
+O sistema de seguridade social era uma das principais prioridades do governo comunista. Com base no modelo soviético, os comunistas desenvolveram um sistema de bem-estar social do berço ao túmulo em todo o país. O estudo LSE acima mencionado:
+>O seguro social foi introduzido pela primeira vez pelo governo comunista albanês em 1947. O esquema inicial de previdência social cobria aproximadamente 75.000 pessoas. O programa de seguro social era administrado por organizações estaduais e cobria assistência médica, indenização por invalidez, aposentadoria por idade, abono de família e descanso e recreação. Várias modificações foram feitas posteriormente no programa básico. A lei de 1953 forneceu um programa muito semelhante ao da União Soviética, ou seja, um sistema clássico de segurança social do berço ao túmulo. Durante vários anos, os sindicatos administraram um grande número de atividades de seguro social. Em 1965, o estado assumiu a administração de todas as fases, exceto as de descanso e recreação.
+
+A licença maternidade e o seguro de invalidez foram fornecidos:
+>Se as pessoas perdessem a capacidade de trabalhar total ou parcialmente, recebiam pensões de invalidez. O valor da pensão variava entre 40-85% do salário dependendo da escala de invalidez, causa da invalidez e número de anos de trabalho. As mulheres grávidas tinham licença de oitenta e quatro dias em circunstâncias normais e eram pagas a 95% do seu salário se tivessem trabalhado por mais de cinco anos e 75% se tivessem trabalhado menos de cinco. O período de licença-gravidez foi estendido para seis meses em 1981. As trabalhadoras podiam ficar em casa por períodos limitados para cuidar dos doentes e durante esse período recebiam 60% do seu salário.
+
+Pensões de velhice também foram fornecidas a todos os trabalhadores aposentados:
+>As pensões de velhice foram baseadas na idade e anos de trabalho. Os pagamentos foram calculados à taxa de 70% do salário médio mensal do trabalhador. Duas exceções foram os veteranos da Segunda Guerra Mundial e os líderes do Partido que receberam um adicional de 10%. A lei também previa pensões para viúvas e órfãos.
+
+Todos os trabalhadores tiveram licença de trabalho garantida, com remuneração:
+>Todos os segurados tinham direito a férias remuneradas. A duração das férias dependia do tipo de trabalho e da duração do vínculo empregatício.
+
+O seguro de cuidados infantis também era um aspecto do sistema de seguridade social:
+>Quando crianças menores de sete anos estavam doentes, um dos pais tinha licença de até dez dias durante um período de três meses. Um pagamento único foi feito à família para cada criança nascida. Em caso de morte, uma quantia fixa foi paga à família para despesas de funeral.
+
+Eventualmente, o sistema foi expandido para incluir camponeses em cooperativas agrícolas:
+>A partir de 1 de julho de 1972, o sistema de pensões e segurança social foi estendido aos camponeses que trabalhavam em cooperativas agrícolas. O objetivo era diminuir as diferenças entre as áreas urbanas e rurais. Algumas cooperativas agrícolas já haviam introduzido algumas formas de pensões e seguro social que fornecem ajuda para seus membros na velhice e quando eles não podiam trabalhar. O financiamento desse sistema de seguridade social no meio rural veio das contribuições das cooperativas com algum subsídio do Estado.
+
+A provisão de um sistema de bem-estar social do berço ao túmulo é uma enorme conquista e um dos principais avanços feitos pelo governo comunista.
+
+### Direitos das mulheres na Albânia
+A Albânia antes da guerra era uma das sociedades mais reacionárias da Terra no que diz respeito aos direitos das mulheres:
+>Para a maioria das mulheres, a vida tradicional albanesa era caracterizada pela discriminação e desigualdade em comparação com os homens, reforçada por uma ampla gama de normas culturais. No período pré-guerra imediato, havia apenas 21 professoras no país, duas mulheres médicas e nenhuma engenheira, agrônoma ou química. Apenas 2,4% dos alunos do ensino médio eram meninas.
+
+Para corrigir esta situação, os comunistas colocaram uma enorme ênfase nos direitos das mulheres:
+>Quando os comunistas chegaram ao poder, consideraram a emancipação das mulheres uma medida política importante, vinculando-a ao destino do socialismo e do comunismo. [,,,] A igualdade entre homens e mulheres foi enfatizada continuamente e até mesmo incluída na Constituição. A Introdução à Constituição do PSR da Albânia diz que “No processo incessante da revolução, a mulher albanesa conquistou a igualdade em todos os campos, tornou-se uma grande força social e está avançando em direção à sua emancipação completa.” O artigo 41 da constituição diz : “A mulher goza de direitos iguais aos do homem no trabalho, na remuneração, nas férias, na previdência social, na educação, em todas as atividades sócio-políticas e também na família.”
+
+As mulheres tornaram-se uma parte ativa da força de trabalho, embora antes fossem quase totalmente excluídas:
+>Direitos iguais incluem, entre outros, o direito igual a ter um emprego. Creches e jardins de infância subsidiados, lavanderias e cantinas em ambos os locais de trabalho e em áreas residenciais foram fornecidos para facilitar o trabalho das mães. Em 1980, as mulheres representavam 46% da população economicamente ativa, um aumento de mais de um quarto em comparação com 1960.
+
+As mulheres também fizeram grandes avanços no acesso à educação, bem como em cargos de poder governamental:
+>As oportunidades educacionais para mulheres também melhoraram consideravelmente. A Tabela 2.5 mostra o aumento do percentual de estudantes mulheres concluintes de acordo com as especialidades. A tabela mostra que o aumento do percentual no período 1960-1990, para as engenheiras foi de 258,6%, enquanto o para as agrônomas foi de 206%, para os economistas de 192%. A mesma política foi adotada para a participação das mulheres nos governos do país.
+
+Edwin E. Jacques discute essa questão em seu [livro](https://books.google.com/books/about/The_Albanians.html?id=IJ2s9sQ9bGkC) The Albanians: An Ethnographic History from Prehistoric Times to the Present. Segundo Jacques, durante a Revolução Cultural e Ideológica, as mulheres foram incentivadas a ocupar todos os cargos, inclusive cargos governamentais, o que resultou em 40,7% dos Conselhos Populares e 30,4% da Assembleia Popular composta por mulheres, incluindo duas mulheres em o Comitê Central em 1985. Em 1978, 15,1 vezes mais mulheres frequentavam escolas de oito anos do que em 1938 e 175,7 vezes mais mulheres frequentavam escolas secundárias. Em 1978, 101,9 vezes mais mulheres frequentavam escolas superiores do que em 1957.
+
+Mesmo os oponentes do regime comunista em geral reconheceram os desenvolvimentos positivos que ele fez em termos dos direitos das mulheres. Por exemplo, veja o seguinte [artigo do Telegraph](https://www.telegraph.co.uk/women/life/growing-up-under-communist-rule-made-me-the-tough-feminist-i-am/), de autoria de um escritor reacionário que cresceu na Albânia comunista:
+>Inspirado pelo debate em curso sobre as desigualdades das mulheres, refleti recentemente sobre minha própria política de infância e cheguei à surpreendente conclusão de que o lugar para procurar soluções para a desigualdade de gênero é o modelo comunista.
+
+Ela comenta sobre o incentivo comunista às mulheres na força de trabalho:
+>A promessa comunista de que as mulheres deveriam ser iguais na força de trabalho não era vazia. As mulheres foram positivamente encorajadas pelas campanhas governamentais a embarcar em todas as profissões, incluindo empregos “masculinos”, com base no fato de terem lutado em grande número ao lado dos homens como guerrilheiros durante a Segunda Guerra Mundial. Para isso, receberam estágios, qualificações profissionais e bolsas de estudo. [...] Ao crescer, nunca encontrei qualquer sugestão de que as mulheres nessas profissões fossem de alguma forma menos capazes do que os homens em virtude de seu gênero e papel adicional como mães. No geral, eles não enfrentaram barreiras de discriminação de gênero. Lembro-me de meus pais e seus amigos elogiarem frequentemente as excelentes médicas e professoras. [...] Essa forma de parceria igualitária era comum na sociedade albanesa em que cresci e, principalmente, o papel das mulheres na família informava como as mulheres eram vistas no local de trabalho e vice-versa. Se os homens sugeriam que as mulheres deveriam ser relegadas à casa, eles eram ridicularizados por suas idéias anacrônicas.
+
+Quando até mesmo um escritor reacionário cujos pais a enviaram para aulas clandestinas de italiano (a língua dos ocupantes fascistas) elogia as políticas comunistas em relação aos direitos das mulheres, isso é uma forte indicação de seu sucesso.
+
+### Os problemas da Albânia comunista
+Apesar das grandes conquistas do governo comunista, houve enormes falhas que acabaram por derrubar a nação. Estes foram:
+
+1. O rígido anti-revisionismo de Hoxha, que se recusou a permitir qualquer desvio do modelo stalinista, mesmo quando certas políticas não faziam mais sentido para as condições atuais.
+2. O isolamento auto-imposto da nação, enquanto Hoxha queimava pontes com outras nações socialistas que não compartilhavam sua interpretação doutrinária do marxismo.
+3. A paranóia que resultou deste isolamento, incluindo a infame campanha de bunker, realizada para evitar uma temida invasão da URSS ou da Iugoslávia. Em média, cada bunker custa tantos recursos quanto um apartamento de dois quartos, e os recursos totais dedicados a construí-los poderiam ter resolvido facilmente o déficit habitacional do país.
+4. Quase entrou em falência por causa do FMI.
+
+Esses problemas deveriam servir como um alerta para todas as gerações subsequentes de socialistas e comunistas, pois mesmo as grandes conquistas do socialismo na Albânia não foram suficientes para evitar que as falhas acima mencionassem tudo.
+
+### Conclusão sobre a Albânia
+A República Socialista Popular da Albânia é um caso complicado para analisarmos. A seguinte avaliação da revolução é dada pelo estudo LSE:
+>No geral, como podemos caracterizar a Albânia comunista? Claramente, apesar do considerável desenvolvimento econômico em relação ao seu nível anterior, permaneceu pobre e principalmente rural. No entanto, a agenda social do desenvolvimento avançou muito mais. A educação e a seguridade social tornaram-se virtualmente universais e os cuidados de saúde estavam disponíveis para todos. Além disso, a discriminação tradicionalmente severa contra as mulheres foi bastante reduzida.
+
+Algumas conquistas dos comunistas são reconhecidas até pelos reacionários:
+>A redução das tradições de longa data de discriminação contra as mulheres e o fornecimento de educação universal e atenção primária à saúde foram conquistas que até mesmo os inimigos do regime reconhecem.
+
+Os comunistas também desenvolveram muito a economia do país, desenvolveram sua infraestrutura e a libertaram do domínio estrangeiro. Um dos melhores resumos das conquistas do socialismo na Albânia é dado pela Enciclopédia Britânica, em seu [artigo](https://www.britannica.com/biography/Enver-Hoxha) sobre Enver Hoxha:
+>A economia da Albânia foi revolucionada sob o longo governo de Hoxha. As terras agrícolas foram confiscadas de ricos proprietários de terras e reunidas em fazendas coletivas que eventualmente permitiram que a Albânia se tornasse quase totalmente autossuficiente em plantações de alimentos. A indústria, que antes era quase inexistente, recebeu enormes quantias de investimento, de modo que na década de 1980 havia crescido e contribuído com mais da metade do produto interno bruto. A eletricidade foi levada a todos os distritos rurais, as epidemias de doenças foram eliminadas e o analfabetismo tornou-se uma coisa do passado.
+
+Apesar de tudo isso, no entanto, as falhas do isolacionismo e do dogmatismo rígido impediram a nação de avançar após 1975 e, por fim, causaram sua queda. Que isso sirva de aviso: o idealismo e o isolamento são fatais para qualquer revolução.
+
+Fontes:
+- [Columbia University Press | "A Coming of Age: Albania Under Enver Hoxha" by James O'Donnell](https://espressostalinist.files.wordpress.com/2010/12/a-coming-of-age.pdf)
+- [London School of Economics | Mortality Transition in Albania, 1950-1990](http://etheses.lse.ac.uk/2870/1/U615819.pdf)
+- [Google Books | "The Albanians: An Ethnographic History from Prehistoric Times to the Present" by Edwin Jacques](https://books.google.com/books/about/The_Albanians.html?id=IJ2s9sQ9bGkC)
+- [The Telegraph | Growing Up Under Communist Rule Made Me the Tough Feminist I Am Today](https://www.telegraph.co.uk/women/life/growing-up-under-communist-rule-made-me-the-tough-feminist-i-am/)
+- [Encyclopedia Britannica | Enver Hoxha](https://www.britannica.com/biography/Enver-Hoxha)
+
+## A Polônia
+A República Popular da Polônia era uma nação complexa, com uma história política carregada. A nação foi atormentada por contradições e conflitos internos, devido a vários fatores, incluindo a influência predominante da Igreja Católica e muitos afirmam que a Polônia nunca teve uma revolução socialista, que o PPR foi estabelecido por meio de influência externa da URSS. Esta é uma visão anacrônica.
+
+Isso é problemático e, em minha opinião, apenas uma meia verdade. Embora seja improvável que a Polônia tivesse estabelecido e consolidado o socialismo sem a presença e assistência da União Soviética, isso não quer dizer que não houve uma verdadeira revolução da classe trabalhadora que levou os comunistas ao poder. Para provar isso, citarei pesadamente o [Class Struggle in Socialist Poland](https://archive.org/details/ClassStruggleInSocialistPoland), um livro escrito pelo sociólogo marxista polonês-americano Albert Syzmanski, que descreve a história da República Popular da Polônia e suas várias crises. Para evitar quaisquer acusações de parcialidade ou propaganda, Syzmanski deliberadamente apenas cita fontes acadêmicas ocidentais no livro:
+>Tal como acontece com meu livro sobre a URSS, é utilizado o princípio de usar fontes quase inteiramente pró-ocidentais e anticomunistas para estabelecer os fatos e, em seguida, interpretar esses fatos dentro da estrutura da análise de classe marxista. O princípio historiográfico de que se aqueles que estão argumentando contra uma hipótese fornecem evidências a favor dela, tais evidências têm uma alta probabilidade de serem verdadeiras, fundamenta este método. Temos sorte não só de ter uma literatura bastante rica sobre a Polônia, como é o caso da URSS, mas também de ter um estabelecimento sociológico bem desenvolvido na Polônia que durante anos, e especialmente durante 1980-81, produziu informações objetivas sobre Opinião pública polonesa. O fato de a Polônia ter sido relativamente aberta aos ocidentais desde meados da década de 1950 também facilitou muito o acúmulo de fatos sobre essa sociedade no Ocidente.
+
+Syzmanski começa o livro expondo suas afirmações, primeiro que a implementação do socialismo na Polônia foi popular, endógena e autêntica:
+>Será mostrado que, ao contrário da impressão de muitos no Ocidente, a classe trabalhadora polonesa tem uma longa tradição revolucionária e que o marxismo tem raízes profundas nesta classe. Além disso, será demonstrado que houve uma genuína revolução operária/camponesa na Polônia em 1944-48 que foi protegida, mas de forma alguma causada, pela presença do Exército Soviético.
+
+Em segundo lugar, que os vários incidentes de descontentamento na Polónia, embora muitos em número, não foram causados pelo sentimento anticomunista, sentimento anti-soviético ou a percepção da natureza antidemocrática do "regime", mas sim movimentos pró-socialistas visando para reverter erros de política específicos do governo:
+>Deve-se enfatizar que nem os membros em massa do Solidariedade nem a maioria dos participantes da classe trabalhadora em manifestações públicas anteriores se opuseram ao socialismo, nem seus protestos foram dirigidos principalmente contra a liderança geral do Partido Comunista na sociedade polonesa. O impulso da participação da classe trabalhadora em greves, manifestações e sindicatos "independentes" concentrou-se, em vez disso, em duas questões: um aumento dos padrões de vida e a institucionalização de um modelo mais descentralizado de socialismo. No entanto, o descontentamento da classe trabalhadora nessas duas questões foi manipulado por intelectuais fortemente anticomunistas que assumiram a liderança do Solidariedade no outono de 1981 com a intenção de derrubar o regime. A consequência de seu sucesso pode muito bem ter sido a destruição de qualquer forma de socialismo na Polônia.
+
+Ele passa a fornecer uma visão geral do movimento marxista da classe trabalhadora na Polônia antes da Segunda Guerra Mundial, a fim de demonstrar que a República Popular se manifestou naturalmente. Acontece que essa história é rica, que remonta ao século 19, quando o povo polonês foi subjugado pelo Império Russo. Depois disso, ele detalha o processo pelo qual, durante a Segunda Guerra Mundial e a ocupação nazista da Polônia, as forças progressistas restantes no país começaram a organizar um movimento de resistência, independente do governo fascista polonês exilado em Londres antes da guerra, que se recusou a cooperar com a esquerda. Os comunistas formaram o Partido dos Trabalhadores Poloneses em 1942 e, junto com o Partido Camponês, o Partido Social Democrata e o Partido Nacional Democrático, formaram um governo provisório em 1944 conhecido como Conselho Nacional, que atuou como órgão representativo dos vários comitês e conselhos surgindo em todo o país. Devido à política da Frente Popular de formar uma ampla coalizão e defender reformas democráticas ao invés de uma revolução socialista completa, os comunistas foram capazes de reunir um apoio considerável, que solidificou sua legitimidade em oposição ao agora impopular governo exilado:
+>O governo de Londres no exílio foi abandonado pelos três partidos de massa não comunistas. Mantendo sua base apenas entre as forças mais direitistas e anti-semitas no exterior e em casa, foi reduzido a um traseiro virtualmente irrelevante. Imediatamente após a reconstituição do governo provisório, os Estados Unidos e o Reino Unido reconheceram oficialmente o novo governo como o governo legítimo da Polônia.
+
+Na verdade, os comunistas estavam tão comprometidos com a democracia durante este período que, quando o Exército Vermelho libertou a Polônia e o Conselho Nacional se tornou o governo legítimo, o Partido dos Trabalhadores Poloneses concordou em reorganizar o gabinete para incluir também os exilados poloneses de Londres. reduzindo sua própria influência para apenas 5 dos 21 ministérios, enquanto antes eles detinham 7 de 16. Na próxima seção do livro, focada na Polônia do pós-guerra, Syzmanski mostra como o país se tornou socialista predominantemente devido à demanda popular ao invés da força estatal ou influência soviética, começando com os trabalhadores industriais assumindo as fábricas:
+>Não surpreendentemente, dada a devastação provocada pelos nazistas e a década e meia anterior da ditadura militar, a libertação da Polônia pelo Exército Vermelho em 1944 e 1945 foi recebida com entusiasmo, especialmente pela classe trabalhadora. Na maioria dos casos, as fábricas polonesas foram administradas durante a ocupação por alemães que foram evacuados com o exército alemão em retirada. Com a saída do Exército Alemão, os trabalhadores geralmente continuaram por conta própria, formando conselhos de trabalhadores e elegendo seus próprios supervisores. Como aconteceu em quase toda a Europa ocupada, ocorreu uma transformação socialista espontânea da economia, com os trabalhadores assumindo a produção. A principal diferença entre a Europa Oriental e Ocidental a esse respeito era que o Exército Vermelho não restaurou as fábricas à propriedade privada, em vez disso (pelo menos no início) permitiram que os trabalhadores continuassem.
+
+Embora o campesinato estivesse inicialmente cético em relação a uma possível aquisição comunista, eles também foram conquistados pelo programa de reforma agrária sem precedentes do governo:
+>Uma das primeiras ações do regime foi implementar uma reforma agrária radical, entregando todas as terras às famílias de camponeses. O regime distribuiu 10 milhões de acres para cerca de 1,5 milhão de camponeses sem terra e praticamente sem terra. O estado manteve cerca de 5 milhões de acres, principalmente para fazendas estaduais. Essa reforma neutralizou a oposição política ao regime entre os camponeses e conquistou um apoio considerável do governo nas áreas rurais.
+
+O Partido dos Trabalhadores Poloneses inicialmente continuou sua política de tempo de guerra de apaziguar os partidos não-comunistas e se contentou com um sistema de democracia liberal:
+>Antes de outubro de 1944, a política do Partido Comunista, no entanto, era a eventual restauração da maioria das fábricas à propriedade privada, a fim de criar uma ampla "frente democrática" de forças antifascistas que realizaria reformas "democráticas" básicas (ainda não socialistas).
+
+No entanto, o plano mudou quando ficou claro que a maioria da classe trabalhadora era favorável tanto à nacionalização quanto à reforma agrária, portanto essas políticas foram implementadas:
+>Abandonando sua ampla estratégia de frente popular, projetada para conquistar pequenos e médios capitalistas progressistas, os comunistas adotaram uma estratégia agressiva destinada a conquistar os trabalhadores e camponeses espontaneamente politizados, que tomavam as fábricas e as terras por conta própria.
+
+Além dessas políticas serem implementadas devido principalmente à iniciativa do povo, elas continuaram a ser apoiadas também nas consequências imediatas, enquanto a classe capitalista simultaneamente se tornava cada vez mais ilegítima:
+>A nacionalização de grandes e médias empresas industriais foi tão popular quanto a reforma agrária e foi apoiada por todos os principais partidos, incluindo o Partido dos Camponeses Poloneses, bem como pela maior parte do submundo amargamente anti-russo/anti-semita. A velha e rica burguesia e a aristocracia foram desacreditadas por sua liderança no estado entre guerras e depois dizimadas durante a ocupação nazista. Não havia apoio popular para um retorno ao antigo sistema econômico. O socialismo total estava no ar e tinha, de fato, sido espontaneamente posto em prática pelos trabalhadores imediatamente após a libertação. Em um referendo popular realizado em abril de 1946, 77% da população declarou-se a favor das recentes reformas econômicas.
+
+Na verdade, esses altos níveis de apoio ao socialismo foram mantidos por décadas:
+>Um resumo das pesquisas de atitude por sociólogos poloneses, relatadas na Scientific American em 1981, concluiu: Nossas pesquisas no final dos anos 1950 e início dos anos 1960 mostraram que "o experimento de aprendizagem social em escala nacional" conduzido pelo novo regime teve sucesso em um certo grau. As grandes mudanças na organização social e econômica da sociedade - a nacionalização da indústria, reforma agrária, planejamento econômico, a abolição da estrutura de classes pré-guerra - foram aceitas pelo povo.
+
+Apesar disso, os comunistas mantiveram sua doutrina da Frente Popular voltada para uma democracia pluralista por vários anos, enquanto muitos dos outros partidos foram gradualmente conquistados pelo marxismo:
+>Os comunistas poloneses, seguindo a lógica da Frente Popular do movimento comunista internacional, fortemente enfatizada de 1941 a 1947, fizeram todos os esforços (assim como a URSS) para construir uma coalizão de centro-esquerda tão ampla quanto possível. Governos de coalizão envolvendo comunistas, social-democratas, camponeses e partidos moderados de classe média eram a regra na maior parte da Europa - França, Itália, Finlândia, Tchecoslováquia, Hungria - assim como na Polônia. Até mesmo oficiais do antigo exército foram permitidos no novo exército, a menos que fossem claramente de direita. Boleslaw Bierut, chefe do novo governo de coalizão, declarou: "Estamos prontos para incluir no novo governo os mais amplos círculos de oposição que compartilham plenamente das decisões da Conferência da Crimeia [Ialta]". Ao longo de 1947, todos os partidos de centro e esquerda, bem como a Igreja Católica, funcionaram com um alto grau de liberdade.
+
+Embora uma política mais agressiva em relação à oposição tenha sido adotada posteriormente, isso foi o resultado de uma culminação de fatores relativos à reação dos capitalistas contra as políticas socialistas do governo. Em primeiro lugar, os poloneses de Londres continuaram a agitar contra os comunistas por meio de sua ala militar, o Exército da Pátria Polonês, que lançou uma insurgência que o governo, auxiliado pelo Exército Vermelho, não teve escolha a não ser reprimir violentamente:
+>O Exército da Pátria Polonês continuou a funcionar após a libertação, recebendo ordens dos poloneses cada vez mais direitistas e anticomunistas de Londres e lutando contra o novo regime. Em outubro de 1945, o governo declarou anistia para os soldados rasos do Exército da Pátria. A maioria dos oficiais do Exército da Pátria ordenou a seus membros que parassem de resistir ao governo e aceitassem a anistia. Cerca de 200.000 apoiadores do Exército da Pátria o fizeram. Alguns grupos de direita menores continuaram a se envolver em atos de terrorismo, recusaram-se a aceitar a anistia e, apesar do declínio de sua base popular, concentraram-se em assassinar membros do Exército Soviético e judeus.
+
+Em segundo lugar, os remanescentes de direita dentro do governo provisório decidiram se separar da coalizão e formar um novo partido, o que foi uma violação direta da doutrina da Frente Popular. Este novo desenvolvimento tornou-se mais preocupante com o passar do tempo, desde que os elementos anti-semitas restantes dentro da Polônia, dos quais todos os países da Europa haviam assumido o compromisso coletivo de se livrar, começaram a aderir ao novo partido:
+>Em setembro de 1945, o Partido dos Camponeses se dividiu, com Mikolajczyk estabelecendo um novo Partido dos Camponeses da Polônia (que obteve a maioria) e um Partido dos Camponeses de orientação pró-comunista (a minoria). O Partido dos Camponeses Poloneses de Mikolajczyk favoreceu não apenas uma reforma agrária radical - terra a ser dada a famílias camponesas individuais - mas também a expropriação sem compensação de todas as empresas que empregam mais de 100 trabalhadores por turno, bem como a nacionalização com compensação de capital médio. Em 1944-47, praticamente todos na Polônia apoiavam o socialismo. Ambos os partidos camponeses participaram do governo provisório até janeiro de 1947. No entanto, as forças anticomunistas na Polônia começaram a se agrupar em torno de Mikolajczyk e seu Partido dos Camponeses poloneses, enquanto as forças revolucionárias se agruparam em torno da aliança Socialista-Comunista.
+
+Na eleição que se seguiu entre o anticomunista Partido do Povo Polonês e a coalizão de esquerda chamada Bloco Democrático, o último grupo, liderado pelos comunistas, venceu de forma esmagadora. Embora muitas vezes se afirme que o resultado foi flagrantemente fraudulento, a realidade é muito mais matizada, é certo que houve algum jogo sujo, mas quase certamente não foi o suficiente para mudar o resultado final:
+>Não conseguindo chegar a um acordo com a aliança comunista-socialista, o Partido dos Camponeses Poloneses de Mikolajczyk fez uma lista separada da Frente Democrática, em um claro confronto com a esquerda. A Frente Democrática foi favorecida pela Lei Eleitoral de setembro de 1946, que desqualificou cerca de 1 milhão de pessoas (cerca de 8% do eleitorado) de votar em razão da colaboração com os alemães ou apoio às organizações secretas fascistas, bem como pelo fato das eleições terem sido realizadas (provavelmente propositalmente) em meados de janeiro, quando as estradas rurais estavam cobertas de neve e os camponeses espalhados pelas áreas remotas do campo tiveram mais dificuldade do que os moradores das cidades em chegar às urnas. Além de desqualificar grande parte da direita radical e definir o momento da eleição para minimizar a participação dos camponeses, o governo se envolveu em uma série de outras medidas para garantir a derrota esmagadora do partido de Mikolajczyk, incluindo a desqualificação das listas do Partido dos Camponeses em 10 dos 52 distritos como sendo compostos de direitistas e quase certamente falsificando resultados em algumas áreas onde aos observadores do Partido dos Camponeses foi negado o direito de supervisionar o processo de votação. Os retornos anunciados deram ao partido de Mikolajczyk apenas 10,3% dos votos (e 28 dos 444 assentos no Sejm), em comparação com 80,1% dos votos para a Frente Democrática. A crescente identificação de Mikolajczyk com a direita tradicional que se reunia em torno dele durante a campanha eleitoral fez com que muitos progressistas de seu partido rompessem com ele e apoiassem a lista do governo. Embora os bispos poloneses instruíssem todos os católicos a votarem contra o comunismo "ateísta" (de fato para Mikolajczyk), muitos camponeses votaram na Frente Democrática na chapa pró-governo do Partido dos Camponeses / Nova Libertação. Não está nada claro que, em um concurso totalmente aberto, Mikolajczyk teria replicado o sucesso do Partido dos Camponeses Húngaros e conquistado a maioria dos votos. Um líder comunista admitiu: "Se soubéssemos antes das eleições de janeiro pela grande margem que ganharíamos, não teríamos nos envolvido nessas pressões e desonestidades menores que ocorreram em muitas localidades".
+
+Não muito depois disso, os membros anticomunistas restantes do governo foram removidos por atividades contra-revolucionárias, e os vários partidos da coalizão de esquerda formaram uma entidade monolítica chamada Partido dos Trabalhadores Unidos Polonês, efetivamente confirmando o estabelecimento de um estado socialista na Polônia. Embora pareça um tanto autoritário, é totalmente razoável quando colocado no contexto adequado, sendo a escalada da Guerra Fria, a expulsão forçada de comunistas dos governos da Europa Ocidental sancionada pelos Estados Unidos e a ameaça de mudança para o regime imperialista. A seguinte citação vem de uma [biografia de Stalin](http://www.bard.edu/library/arendt/pdfs/Deutscher_Stalin.pdf) escrita pelo marxista polonês Isaac Deutscher que, apesar de ser claramente um simpatizante do comunismo, também é um trotskista, portanto, há poucos motivos para suspeitar que ele seja tendencioso:
+>Atrás de seu escudo militar, Stalin acelerou a revolução na Europa Oriental. Se o poder econômico da América permitisse a Washington exercer um controle político indireto e discreto sobre seus aliados da Europa Ocidental, a Rússia só poderia prevalecer na Europa Oriental por meio de controle político direto e força bruta. A impressão que a oferta do Plano Marshall causou mesmo na Europa oriental mostrou quão favorável havia para a penetração americana. Os remanescentes da burguesia polonesa, húngara e da Alemanha Oriental e grande parte do campesinato individualista oravam pela aniquilação nuclear da Rússia e do comunismo. As classes trabalhadoras estavam morrendo de fome. A contra-revolução ainda poderia reunir uma força considerável. É verdade que na Iugoslávia, Tchecoslováquia e Bulgária o comunismo ainda era esmagadoramente popular; mas no resto da Europa oriental era fraco ou, pelo menos, incapaz de se manter firme por suas próprias forças. Stalin agora resolveu estabelecê-lo irrevogavelmente; e assim, enquanto os comunistas eram expulsos dos governos da Itália e da França, ele providenciou para que os anticomunistas fossem expulsos dos governos da Europa Oriental e suprimidos. Ele instalou o sistema de partido único em toda a esfera de influência soviética.
+
+Além disso, Deutscher acredita que os soviéticos inicialmente não tinham intenção de exportar o socialismo para a Polônia, ou qualquer parte do Leste Europeu, e só voltaram a isso depois desses eventos:
+>Tampouco Stalin deu qualquer impressão clara de que patrocinaria a revolução nos países da zona russa. Os propagandistas comunistas falavam uma língua nacionalista e até clerical. O rei Miguel da Romênia foi deixado em seu trono; e ele até recebeu uma das mais altas ordens militares russas por sua parte no golpe em consequência do qual a Romênia se separou da Alemanha. Os generais soviéticos e os líderes comunistas locais prestaram homenagem ao clero ortodoxo grego nos países balcânicos. Na Polônia, eles cortejaram o clero católico romano. Não se falava ainda em socialização da indústria. Apenas as reformas agrárias há muito esperadas foram iniciadas.
+
+Essa posição também é apoiada por muitos outros, incluindo o escritor, jornalista e historiador Alexander Werth, embora seu raciocínio seja um pouco diferente:
+>A Finlândia, que não representava mais nenhum perigo para a União Soviética após a Segunda Guerra Mundial, continua a ser uma democracia do tipo ocidental até hoje, assim como a Áustria. Foi até mesmo sugerido por um historiador americano que Stalin teria ficado perfeitamente satisfeito se meia dúzia de "Finlândias" pudesse ter sido criada na Europa Oriental. Mas isso dificilmente foi possível em um país como a Polônia, com sua longa tradição de russo-fobia, nem muito fácil em países como Romênia e Hungria, uma vez que a Guerra Fria, com seu desafio à “esfera de influência” da Rússia, havia começado sério, o que aconteceu desde o momento em que terminou a Segunda Guerra Mundial.
+
+Finalmente, Nikita Kruschev, apesar de ser um dos críticos mais severos de Stalin, refuta a noção de que ele teve qualquer influência sobre os assuntos poloneses durante os anos imediatos do pós-guerra, contando uma anedota sobre os expurgos que ocorreram:
+>Então, um dia, quando eu estava na casa de Stalin, ele recebeu um telefonema. Ele ouviu impassível, desligou e voltou para a mesa onde eu estava sentado. Como era seu hábito, ele não se sentou, mas caminhou pela sala. “Era Beirute ligando,” ele disse. “Eles prenderam Gomulka. Não tenho certeza se foi a coisa certa a fazer. Eu me pergunto se eles têm motivos suficientes para prendê-lo.”
+>
+>Em relação a prisão de Gomulka, não posso concordar que Stalin foi o responsável. Eu sabia com certeza, ouvi de Stalin, que ele não ordenou a prisão de Gomulka; pelo contrário, ele até expressou dúvidas sobre a prisão. Ele confiava em Gomulka.
+
+Terminarei fornecendo duas fontes adicionais, que são relatos de testemunhas oculares de pessoas que visitaram a Polônia no pós-guerra, testemunharam a transforma��ão socialista e confirmaram que foi um processo democrático popular independente da URSS.
+
+Fontes:
+- [Transnational Economic Systems](https://drive.google.com/file/d/0B7iUwYR74MlbcFBxbWxsdHNLMHM/view), escrito pela antropóloga econômica Dorothy Douglas
+- [I Saw the New Poland](https://www.revolutionarydemocracy.org/archive/polblurb.htm), escrito pela jornalista americana Anna Louise Strong
+
+### Desenvolvimento econômico e industrial da Polônia
+Antes da Segunda Guerra Mundial, a Polônia estava atrás do resto da Europa em termos de desenvolvimento industrial. Para piorar a situação, a Segunda Guerra Mundial devastou totalmente as cidades e centros econômicos do país, deixando a economia em ruínas. De acordo com o Anuário Estatístico das Nações Unidas de 1948, a produção industrial da Polônia em 1945 era de apenas 48% do que era em 1938 (pág. 126). Isso reflete os danos causados ​​à economia polonesa pela Segunda Guerra Mundial.
+
+Depois que o sistema socialista entrou em vigor, a economia começou a crescer rapidamente. O Anuário Estatístico da ONU de 1948 mostra que a produção industrial da Polônia em 1948 já era 153% do que era em 1938 (pág. 126). Isso significa que a produção industrial cresceu mais de 300% de 1945 a 1948 (combinando a recuperação do pós-guerra com a introdução do sistema socialista).
+
+Esse crescimento continuou por várias décadas. O Anuário Estatístico da ONU de 1978 mostra que a produção industrial em 1977 era 193% do que era em 1971, em comparação com apenas 44% em 1960 (pág. 168). Isso resulta em um aumento de quase 500% na produção industrial entre 1960 e 1977 (mais do que dobrando entre 1960 e 1970, do que aumentando 93% a partir daí). Isso demonstra a imensa produtividade do sistema socialista.
+
+### Conquistas na saúde da Polônia
+Antes dos comunistas assumirem, a Polônia era uma nação terrivelmente insalubre. De acordo com a University of Bath (uma das melhores universidades de pesquisa na Grã-Bretanha):
+>Antes da Segunda Guerra Mundial, a Polônia era um dos países com pior saúde na Europa. Na década de 1930, a expectativa de vida na Polônia era de cerca de 46 anos para ambos os sexos; no mesmo período, na Alemanha, foram mais de 61 anos. A mortalidade infantil foi estimada em 150 mortes por 1.000 nascidos vivos. A situação foi agravada pela Segunda Guerra Mundial; entre 1939 e 1945, a esperança de vida na Polónia caiu 20-25 anos.
+
+Essas estatísticas são verificadas no Anuário Estatístico da ONU de 1948 (pág. 58), que incluiu dados de 1931 em diante, refletindo as condições precárias de saúde na Polônia pré-comunista. Assim que o sistema socialista entrou em vigor, as coisas começaram a melhorar rapidamente. De acordo com a University of Bath:
+>A transformação da saúde que ocorreu na Polônia após a Segunda Guerra Mundial ocorreu muito rapidamente. O controle de doenças infecciosas e mortalidade infantil tornou-se uma prioridade de Estado na República Popular da Polônia do pós-guerra. A expectativa de vida na Polônia aumentou para 70 anos e a mortalidade infantil diminuiu para 30 mortes por 1000 nascidos vivos.
+
+Assim, podemos ver que a expectativa de vida aumentou em décadas e a mortalidade infantil caiu 80%. Essas mudanças (e outras semelhantes em outras nações socialistas) levaram a Europa Central e Oriental a quase fechar a lacuna da saúde com a Europa Ocidental, que havia sido tão pronunciada antes do socialismo:
+>A transição epidemiológica que no Reino Unido ou na Alemanha levou quase um século, na Polônia e em muitos outros países da Europa Central e Oriental (CEE), ocorreu nas duas décadas seguintes à Segunda Guerra Mundial. Este processo levou a região CEE a quase fechar a lacuna de saúde que a separava da Europa Ocidental na década de 1960.
+
+No lado negativo, a República Popular da Polônia viu um consumo cada vez maior de álcool e cigarros, o que levou a um aumento nas taxas de mortes evitáveis. Este problema também ocorreu em outras nações do bloco soviético:
+>Na Polónia, o consumo de vodka e a prevalência do tabagismo atingiram alguns dos níveis mais elevados da Europa. Este aumento dramático na exposição a fatores de risco de estilo de vida (um aumento na venda de cigarros de 20 bilhões de cigarros por ano após a Segunda Guerra Mundial para cerca de 100 bilhões na década de 1980, e um aumento no consumo de álcool de 3 litros por ano para quase 9 litros no mesmo período), levou a Polônia e a região CEE a uma catástrofe de saúde causada pelo aumento de doenças crônicas.
+
+Apesar desses problemas (que não foram resultado do socialismo, mas sim do consumo excessivo de álcool e fumo), as conquistas da saúde da República Popular da Polônia continuam impressionantes.
+
+### Conquistas educacionais da Polônia
+A Polónia pré-comunista viu o analfabetismo generalizado e a falta de educação. De acordo com um artigo de 1935 da revista polonesa New Courier (não deve ser confundido com a New Courier de Varsóvia, um veículo de propaganda nazista fundado em 1939):
+>Na Polónia, no povoado de Kobrin, menos de 75% escrevem e lêem nas cidades e apenas 52% no campo. Em Kosowski poviat, 82% em cidades pequenas e 43% em áreas rurais. No povoado de Koszalin, onde não há cidades, há apenas 30% que sabem ler e escrever.
+>
+>Polesie é de fato uma das áreas da Commonwealth que é econômica e culturalmente negligenciada, mas, deve-se lembrar, não é a mais negligenciada. Infelizmente, os dados dos poviats da Província de Varsóvia, ou seja, de uma posição economicamente bastante elevada e em órbita da influência da capital, mostram que a condição não é muito melhor lá também. No poviat de Płońsk, 73% escrevem e lêem nas cidades. População, 68% no campo, 77% em Sierpc e 68% em Ciechanów 80% (cidades) e 70% (aldeia).
+>
+>As estatísticas do censo são atuais tanto quanto há três anos. E os números dessa estatística não são apenas perigosos, eles são assustadores.
+
+Após a conquista comunista, o sistema educacional foi drasticamente melhorado. O nível de analfabetismo foi reduzido drasticamente. De acordo com a Enciclopédia Polonesa publicada pela PWN (a principal editora de obras de referência científica e acadêmica na Polônia):
+>Já em 1960, o censo mostrava 645.000 analfabetos totais e 270.000 semianalfabetos entre aqueles com mais de 50 anos. Em 1988, a taxa de analfabetismo na Polônia era de 2%.
+
+Embora o PWN coloque as taxas de alfabetização pré-comunista um pouco mais altas do que o New Courier, ainda podemos ver a melhoria drástica na situação educacional feita sob os comunistas, particularmente nas áreas rurais.
+
+### Direitos das mulheres da Polônia
+As mulheres obtiveram grandes ganhos na República Popular da Polônia. Os direitos reprodutivos e o aborto são um grande exemplo disso. Antes da era comunista, o aborto só era legal em casos de atividade sexual criminosa. De acordo com a Brown Political Review:
+>No início do século 20, o aborto era ilegal em qualquer circunstância na Polônia. Mas em 1932, a Polônia promulgou um código que legalizou o aborto nos casos de um ato criminoso, ou seja, estupro, incesto e sexo com menores. Esta foi a primeira lei de aborto que perdoou o aborto em caso de crime. A lei permaneceu nos livros de 1932 a 1956.
+
+No entanto, foi apenas na era comunista que o aborto se tornou totalmente legal, bem como disponível gratuitamente:
+>Em 1956, o Sejm polonês (a câmara dos deputados do parlamento), de acordo com a ortodoxia do Partido Comunista, legalizou o aborto quando as mulheres expressarem “difíceis condições de vida”. Durante as décadas de 60 e 70, o aborto tornou-se disponível gratuitamente em hospitais públicos e clínicas privadas. Embora o sistema soviético encorajasse as mães a engravidar, a lei deixava que os médicos decidissem se o aborto deveria ser realizado e, em grande parte, garantia fácil acesso à operação.
+
+Até mesmo comentaristas reacionários reconheceram a igualdade de gênero na era comunista. De acordo com o The Guardian:
+>Estampado no DNA dessa sociedade, desde os anos do pós-guerra até 1991, estava que todos tinham que trabalhar; para isso, deveria haver igualdade de acesso à educação, cuidados infantis (principalmente ligados aos locais de trabalho) e cuidados aos idosos.
+
+O emprego para mulheres era extremamente alto na era comunista, e caiu drasticamente depois:
+>Ao longo dos anos comunistas, a participação feminina na força de trabalho era incrivelmente alta, frequentemente citada em 90%. Com o colapso do comunismo, a participação caiu para 68% e agora está em 45%.
+
+Uma mulher polonesa é citada como tendo dito:
+>O regime não fazia absolutamente nenhuma distinção entre homens e mulheres. Eu nunca pensei sobre a divisão - todo avanço na sociedade estava aberto a homens e mulheres igualmente.
+>
+>No que diz respeito à educação era absolutamente igual, na medida em que nas universidades técnicas - as de alto padrão de engenharia - acho que 30% dos alunos eram mulheres (isso foi na década de 1960 - cursos de engenharia no Imperial College Londres ainda tem uma proporção de homens para mulheres de 5:1 hoje).
+
+Tenha em mente que este artigo do The Guardian foi escrito de uma perspectiva firmemente anticomunista, e mesmo assim reconhece que "o fim do comunismo na Polônia não ajudou as mulheres polonesas". Isso demonstra as melhorias nos direitos das mulheres feitas durante os comunistas.
+
+### Conclusão sobre a Polônia
+
+A República Popular da Polônia dificilmente era uma nação perfeita. Teve numerosos conflitos internos, devido à influência social reacionária da igreja, bem como ao fato de que o socialismo polonês não se originou com uma revolução interna, mas sim com a influência soviética externa. Ainda assim, o socialismo na Polônia conseguiu melhorar muito a saúde da população, desenvolver a economia em um ritmo rápido e melhorar muito o sistema educacional.
+
+Em suma, camaradas, devemos aprender algumas lições importantes da República Popular da Polônia:
+1. Mesmo nessas condições não ideais, o socialismo é capaz de proporcionar um desenvolvimento econômico superior e qualidade de vida quando comparado ao capitalismo.
+2. É essencial que uma revolução se concentre em eliminar os elementos reacionários da cultura nacional, para evitar uma situação semelhante à da Polônia, onde a Igreja Católica controlava amplamente a esfera social. No entanto, devemos também evitar ir longe demais nisso e perseguir a religião e as pessoas religiosas. A revolução não se opõe às crenças pessoais das pessoas; são as instituições religiosas reacionárias (como a Igreja Católica) que devem ser combatidas.
+3. Não devemos ser conservadores na Revolução, não adianta tentar manter relações sociais já fragilizadas e arruinadas pela Revolução.
+
+Essas são lições que devem ser aprendidas.
+
+## A Romênia
+A Romênia foi inicialmente um país socialista realmente promissor. Quando as primeiras eleições livres ocorreram após a Segunda Guerra Mundial, a frente única de esquerda assumiu o poder e aboliu a monarquia opressora de Antoniescu, e proclamou uma das primeiras Repúblicas Populares da Europa. O primeiro chefe de estado do novo regime foi Gheorghe Gheorghiu-Dej, um quadro histórico da ala comunista na Frente de Esquerda, e ele perseguiu uma política externa e econômica bastante independente. Mesmo sendo marxista-leninista, Gheorghiu-Dej achava que era tolice pensar que a única ajuda necessária para os romenos eram os soviéticos, e que uma relação comercial respeitosa, mas não submissa, deveria ser mantida com os países capitalistas; afinal, a União Soviética teve sua industrialização nos anos 20 com a [ajuda de algumas corporações ocidentais](https://cyberleninka.ru/article/v/rol-kontsessiy-v-ekonomike-sovetskoy-rossii-v-1920-1930-e-gody). Durante seu período, ele se opôs ao traidor Kruschev e sua política de "desestalinização", elevou muito o padrão de vida de seu país e realizou uma das reformas agrárias [mais bem-sucedidas do Bloco Oriental](http://documents.worldbank.org/curated/en/308951468762951181/pdf/multi-page.pdf). A era Gheorghiu-Dej é muito apreciada pelos romenos hoje em dia, que o consideram um dos maiores líderes que a Romênia já teve. Por câncer de pulmão, ele morreu em 1965 e o partido escolheu seu jovem aluno Nicolae Ceausescu como seu sucessor.
+
+Embora Ceausescu fosse um dos oradores mais proeminentes do Partido Comunista Romeno, ele não tinha experiência e era mais um cuadre político do que um teórico; é por isso que ele, durante seus primeiros anos no poder, seguiu uma política bastante neutra: ele proclamou a Romênia um país socialista, mas estabeleceu relações mais amigáveis ​​com o Ocidente; ele foi contra as ordens traiçoeiras de Kruschev e continuou uma política econômica independente, mas foi um dos primeiros países a aderir ao Fundo Monetário Internacional (FMI).
+
+Em 1968, Ceausescu, percebendo sua falta de uma teoria política real, decidiu viajar para praticamente todos os países socialistas do planeta e tentar montar uma teoria socialista real por conta própria. Ele visitou a Coreia do Norte de Kim Il Sung, o Peru do general Velasco, a China de Mao e o Vietnã do Norte. No que é conhecido hoje como suas [teses de julho]( http://thetarpit.org/posts/y03/05a-july-theses.html), ele desenvolveu uma linha teórica quase maoísta e neo-estalinista, onde o postulado central era que a filosofia marxista deveria ser estendida em todos os campos educacionais e culturais para assegurar as conquistas da revolução. Mas, para sua desgraça, havia um campo onde deveria ter sido mais cuidadoso: o econômico.
+
+Dado que, durante seu período de fundação, o Fundo Monetário Internacional era visto como uma entidade econômica neutra, a Romênia Socialista, pensando que não havia como a Comunidade Ocidental Internacional tomar medidas arriscadas em um estado neutro que não se envolvesse nas questões da Guerra Fria, pediu um empréstimo à entidade apoiada pela ONU para a aceleração de seu programa industrial. Depois de um tempo, as cláusulas leoninas do empréstimo começaram a se tornar cada vez mais evidentes. Ceausescu, diante do [aumento interminável da dívida](https://en.wikipedia.org/wiki/Foreign_debt_of_the_Socialist_Republic_of_Romania), teve que colocar o país em um período de austeridade quase perpétua ou declarar falência, coisa que praticamente destruiria a economia da Romênia. Ainda mais com o problema social dos orfanatos e por políticas conservadoras de Ceausescu.
+
+Durante a década negra da contra-revolução na Europa Oriental, a Romênia finalmente pagou toda a dívida. Na verdade, durante o ano da queda de Ceausescu, a maior parte da receita do país não era o famoso mas instável petróleo, mas os sempre confiáveis ​​manufaturados que eram exportados para o exterior. Mas espere, há mais; exatamente durante a semana do início da contra-revolução na Romênia, Ceausescu e o Partido Comunista finalmente anunciaram o fim do período de austeridade (https://ioncoja.ro/jalea-din-economie/) e o empreendimento de mais reformas de estado de bem-estar.
+
+Um general desonesto depôs o Ceausescu, que a princípio tentou correr para o campo e lutar contra a burguesia em poder; mas ele foi capturado pouco depois e julgado por um tribunal de juízes sem rosto que condenou ele e sua esposa à morte por crimes que mais tarde foram provados ter sido inventados apenas por causa disso.
+
+### A farsa do julgamento de Ceausescu
+Nicolae Ceausescu viu sua Romênia viver suas décadas de ouro, junto da Iugoslávia. Mas com a queda do socialismo mundo afora, fomentou toda uma ofensiva de difamação contra ele, e logo foi capturado por minorias apoiadas pela OTAN e fuzilado AO VIVO junto de sua esposa. Hoje a Romênia é um dos países mais pobres da Europa. No entanto, a execução e o julgamento de Nicolae foi ilegítima:
+- O julgamento foi realizado sem uma investigação criminal prévia.
+- Os suspeitos não foram examinados psiquiatricamente, o que era obrigatório por lei.
+- Os suspeitos não puderam escolher seus advogados.
+- A acusação de genocídio nunca foi provada. Quatro assessores de Nicolae mais tarde [admitiram cumplicidade em genocídio em 1990](https://www.latimes.com/archives/la-xpm-1990-01-28-mn-1255-story.html). A Pro TV declarou que 860 pessoas haviam morrido após 22 de dezembro de 1989 (ou seja, quando o casal "ditatorial" não estava mais no comando). Outra fonte indica o número de 306 pessoas mortas entre 17 e 22 de dezembro de 1989.
+- O tribunal não se deu ao trabalho de encontrar e provar a verdade. [Nenhuma evidência foi apresentada ao tribunal](https://www.mediafax.ro/marius-tuca-show/interviu-integral-marius-tuca-show-gen-c-tin-lucescu-despre-procesul-ceausestilor-nu-a-existat-niciun-fel-de-dosar-nu-am-stiut-nici-eu-nici-procurorul-18621319).
+- Os Ceaușescus [foram acusados de ter US$ 1 bilhão](https://en.wikisource.org/wiki/Transcript_of_the_closed_trial_of_Nicolae_and_Elena_Ceaușescu) em contas bancárias estrangeiras. [Nenhuma dessas contas foi encontrada](https://adevarul.ro/news/societate/nicolae-elena-ceausescu-Impreuna-luptat-murim-impreuna-1_50ad82ad7c42d5a663967ee4/index.html).
+- Nicolae negou abertamente o tribunal. Um dos advogados dos Ceaușescus afirmou, antes da execução, que como o casal não reconheceu o tribunal, não havia como recorrer do veredicto.
+- O veredicto dos juízes permitiu apelar para um tribunal superior. Os Ceaușescus foram executados alguns minutos após o veredicto, tornando essa provisão [nula](https://web.archive.org/web/20121020020554/http://www.avoconsult.ro/procese-cazuri-celebre-procesul-sotilor-ceausescu-aspecte-de-teorie-si-practica-judiciara-cel-mai-controversat-proces-romanesc.html).
+- A pessoa que assinou o decreto de organização do tribunal, o líder do golpe Ion Iliescu, não tinha poder legal para fazê-lo. A ordem foi escrita à mão em um banheiro no Ministério da Defesa romeno.
+- A lei romena proibia a execução da sentença de morte menos de dez dias após um veredicto, para dar tempo aos advogados do réu para recorrer. Após a execução de Ceaușescus, a pena de morte foi abolida na Romênia.
+- Os líderes do golpe disseram que a execução dos Ceaușescus era necessária para impedir que terroristas atacassem a nova ordem política. [Não foi encontrado nenhum terrorista ou célula terrorista ativa](https://web.archive.org/web/20121020020554/http://www.avoconsult.ro/procese-cazuri-celebre-procesul-sotilor-ceausescu-aspecte-de-teorie-si-practica-judiciara-cel-mai-controversat-proces-romanesc.html) na Romênia. Uma visão mais recente da acusação de crimes contra a humanidade afirma que o novo regime orquestrou ["uma psicose do terrorismo"](https://www.capital.ro/breaking-news-lovitura-cumplita-pentru-ion-iliescu-ce-au-decis-judecatorii.html) por meio de ações diversificadas.
+- Inicialmente, [Iliescu não desejava realizar as execuções imediatamente](https://books.google.com/books?id=vBssmkvaSoQC&pg=PA136), e preferiu um julgamento formal a ser realizado várias semanas depois. O general Victor Stănculescu insistiu na execução apressada do casal como algo imperativo para que o exército romeno apoiasse a recém-criada Frente Nacional de Salvação. Após algumas horas debatendo essa opção, Iliescu concordou com Stănculescu e assinou o decreto de organização do tribunal.
+
+Antes da execução, Nicolae Ceaușescu declarou: "Poderíamos ter sido fuzilados sem essa farsa!"
+
+### Conclusão sobre a Romênia
+A Romênia, pelo menos na época anterior aos empréstimos excessivos do Fundo Monetário Internacional e às medidas de austeridade, era um país com um governo que fazia o possível para tornar o país autossuficiente e, economicamente falando, competente. O período em que todos os romenos concordam em ser os piores foi aquele com as medidas de austeridade, que viriam por causa das cláusulas leoninas e armadilhas que os países ocidentais colocaram no caminho do país para desestabilizá-lo e torná-lo o mais contra-revolucionário possível.
+
+Ceausescu, embora fosse extremamente ingênuo em matéria de política externa, não era um político mal intencionado, mas um verdadeiro crente do socialismo e um aliado da causa marxista.
+
+Com isso, temos duras lições a aprender com a Romênia:
+1. Não podemos jamais confiar em instituições que se dizem "neutras", Bakhtin mesmo destrói o argumento de neutralidade ideológica em suas teses, mais tarde confirmados por uma derivação da hipótese Sapir-Whorf / línguistica relativista; como dizia Sankara: "Quem te alimenta, te controla"
+
+## A Hungria
+Desta vez veremos a República Popular da Hungria, uma das nações mais interessantes do Pacto de Varsóvia. É também a nação com talvez a melhor recordação entre o povo; pesquisas nos últimos anos revelaram que mais de 70% dos húngaros acham que a vida era melhor sob o comunismo. Como tal, é apropriado que estudemos e aprendamos mais sobre esta nação. 
+
+### Desenvolvimento econômico e padrão de vida da Hungria
+Antes do estabelecimento da República Popular da Hungria, a Hungria era uma nação semifeudal, com muito pouco desenvolvimento industrial e notavelmente baixa qualidade de vida. No entanto, apesar das condições turbulentas, o sistema socialista ainda conseguiu desenvolver rapidamente a economia da Hungria. De acordo com a Divisão de Pesquisa Federal dos EUA:
+>Apesar da guerra, depressão, revolução, ocupação estrangeira e períodos de quase caos, a economia da Hungria avançou no século XX de um estado quase feudal para um estágio de desenvolvimento industrial de nível médio.
+
+As notas da Enciclopédia Britânica:
+>Historicamente, antes da Segunda Guerra Mundial, a Hungria era principalmente agrária. A partir de 1948, uma política de industrialização forçada baseada no padrão soviético mudou o caráter econômico do país. Foi introduzida uma economia de planejamento centralizado e milhões de novos empregos foram criados na indústria (principalmente para mulheres) e, posteriormente, nos serviços.
+
+Isso é especialmente impressionante quando se considera a grave falta de recursos naturais que a economia húngara enfrenta, o que a forçou a depender quase inteiramente das importações soviéticas. A Divisão de Pesquisa Federal dos EUA declara:
+>A falta geral de matérias-primas no país tornou necessário o comércio exterior, uma preocupação que dominou as políticas econômicas dos governos húngaros desde 1918, quando o país perdeu grande parte do território que detinha antes da Primeira Guerra Mundial [...] A União Soviética era o principal fornecedor de matérias-primas da Hungria.
+
+Imediatamente após o estabelecimento da República Popular da Hungria, a nação instituiu uma economia planejada de estilo soviético tradicional. No entanto, no final da década de 1960, um plano de reforma econômica (conhecido como Novo Mecanismo Econômico, ou NEM) foi instituído, o que restaurou de alguma forma o papel das forças de mercado, ao mesmo tempo que retinha a propriedade estatal sobre os meios de produção, distribuição e troca.
+
+A década de 1960 viu o estado se concentrando na expansão da indústria. De acordo com a Divisão de Pesquisa Federal dos EUA:
+>Durante a década de 1960, o governo deu alta prioridade à expansão dos ramos de engenharia e química do setor industrial. A produção de ônibus, máquinas-ferramenta, instrumentos de precisão e equipamentos de telecomunicações recebeu a maior atenção no setor de engenharia. O setor químico concentrava-se na produção de fertilizantes artificiais, plásticos e fibras sintéticas. Os mercados húngaro e Comecon eram os principais alvos do governo, e as políticas resultaram no aumento das importações de energia, matérias-primas e produtos semiacabados.
+
+Após este período, a economia mudou o foco para a produção de consumo com a introdução do NEM:
+>Em meados da década de 1960, o governo percebeu que a política de expansão industrial que vinha seguindo desde 1949 não era mais viável. Embora a economia estivesse crescendo de forma constante e o padrão de vida da população estivesse melhorando, fatores-chave limitaram o crescimento... O governo introduziu o NEM em 1968 para melhorar a eficiência da indústria e tornar seus produtos mais competitivos nos mercados mundiais.
+
+Esta época foi marcada por altas taxas de crescimento econômico. A Hungria atingiu o nível de uma nação de desenvolvimento médio:
+>De 1968 a 1972, o NEM e um ambiente econômico favorável contribuíram para o bom desempenho econômico. A economia cresceu de forma constante, nem o desemprego nem a inflação eram aparentes, e a balança de pagamentos em moeda conversível do país estava em equilíbrio, pois as exportações para os mercados ocidentais cresceram mais rapidamente do que as importações. As fazendas e fábricas cooperativas aumentaram rapidamente a produção de bens e serviços que faltavam antes da reforma. Por volta de 1970, a Hungria alcançou o status de país de desenvolvimento médio. Sua indústria estava produzindo de 40% a 50% do produto interno bruto, enquanto a agricultura contribuía com menos de 20%.
+
+Em meados da década de 1980, a Hungria alcançou um padrão de vida muito alto em comparação com a era pré-comunista. A disponibilidade de alimentos era alta e a seleção era relativamente diversa. Relatórios da Divisão de Pesquisa Federal dos EUA:
+>Em 1986, o consumo per capita de carne da Hungria era o mais alto da Europa Oriental, enquanto o consumo de ovos estava entre os mais altos. O consumo per capita de carne, peixe, leite e produtos lácteos, ovos, vegetais, batatas, café, vinho, cerveja e bebidas destiladas aumentaram significativamente entre 1950 e 1984.
+
+Os húngaros também tinham altas taxas de propriedade de vários bens de consumo, e a qualidade dos bens também estava aumentando:
+>Em 1984, 96 em cada 100 residências possuíam uma máquina de lavar, todas as residências possuíam uma geladeira e a proporção de aparelhos de televisão para residências era de 108 para 100. A qualidade e a variedade dos bens de consumo duráveis ​​à venda também haviam melhorado.
+
+Apesar dessas boas estatísticas, a economia húngara não estava livre de problemas; um excesso de confiança na ortodoxia stalinista (particularmente nos primeiros anos) fez com que a Hungria se apoiasse fortemente no desenvolvimento da indústria pesada, ignorando outras formas de produção que teriam se adaptado melhor às condições materiais da nação. Além disso, as empresas e fazendas do país sofreram com os baixos níveis de produtividade relativa, o que contribuiu para uma desaceleração do crescimento na década de 1980. A Enciclopédia Britânica resume essas questões:
+>Embora a modernização econômica do tipo soviético gerasse rápido crescimento, ela se baseava em um padrão estrutural do início do século 20 e em tecnologia ultrapassada. As indústrias pesadas de ferro, aço e engenharia receberam a mais alta prioridade, enquanto os serviços de infraestrutura e comunicação modernos foram negligenciados. Novas tecnologias e indústrias de alta tecnologia foram subdesenvolvidas e ainda mais prejudicadas pelas restrições ocidentais (o Comitê Coordenador para Controles Multilaterais de Exportação) à exportação de tecnologia moderna para o bloco soviético.
+
+Finalmente, em 1982, a Hungria se tornou a segunda nação do Bloco de Leste a ingressar no FMI. Este foi um erro tremendo, pois várias condições de empréstimo durante a década de 1980 acabaram contribuindo para o colapso do sistema socialista e sua substituição por uma tensão brutal do capitalismo.
+
+No geral, a economia húngara oferece várias lições para socialistas e comunistas modernos:
+1. O desenvolvimento econômico deve se concentrar na vantagem comparativa de uma dada nação, ao invés da dependência dogmática da indústria pesada.
+2. A produção de bens de consumo e um padrão de vida crescente são essenciais para ganhar (e manter) o apoio do povo.
+3. O sistema econômico socialista, quando adequadamente dirigido, é de fato capaz de transformar estados semifeudais em países desenvolvidos. As outras nações do Bloco de Leste (junto com a China) também provam isso.
+
+### Saúde e bem-estar social da Hungria
+Os cuidados de saúde na Hungria pré-comunista eram de baixa qualidade e a população sofria de problemas de saúde e baixa expectativa de vida. No entanto, após o estabelecimento da República Popular da Hungria, as condições de saúde começaram a melhorar significativamente. Relatórios da Divisão de Pesquisa Federal dos EUA:
+>Depois que o governo comunista assumiu o poder na Hungria, dedicou muita atenção ao atendimento das necessidades específicas de saúde e segurança social da população. Em comparação com os padrões anteriores à guerra, o cidadão médio recebeu cuidados de saúde e assistência social muito melhores como resultado da política do governo.
+
+As notas da Enciclopédia Britânica:
+>Após a Segunda Guerra Mundial, os cuidados de saúde melhoraram dramaticamente sob o socialismo estatal, com aumentos significativos no número de médicos e leitos hospitalares na Hungria. Na década de 1970, o atendimento médico gratuito era garantido a todos os cidadãos.
+
+O sistema de previdência social também melhorou significativamente, oferecendo cobertura à grande maioria dos trabalhadores da Hungria. A Divisão de Pesquisa Federal dos EUA observa:
+>No final da década de 1980, o sistema previdenciário do país cobria cerca de 85% da população em idade de aposentadoria. Trabalhadores do sexo masculino podiam se qualificar para pensões aos 60 anos, e as trabalhadoras aos 55.
+
+Esses avanços são confirmados pela Enciclopédia Britânica:
+>Uma ampla gama de serviços sociais foi fornecida pelo governo comunista, incluindo pensão alimentícia, extensa licença-maternidade e um sistema de aposentadoria para o qual os homens se tornaram elegíveis aos 60 anos e as mulheres aos 55.
+
+No entanto, essas melhorias no bem-estar social tiveram uma desvantagem estranha. À medida que as pessoas começaram a viver mais e o acesso ao bem-estar social foi expandido, o sistema foi colocado sob mais pressão. A Divisão de Pesquisa Federal dos EUA declara:
+>O número de aposentados havia aumentado rapidamente desde o final da Segunda Guerra Mundial, à medida que as pessoas viviam mais e a cobertura previdenciária se expandia para incluir segmentos adicionais da população.
+
+Além disso, vários males sociais, como o alcoolismo, começaram a representar um problema para a saúde pública:
+>Em meados da década de 1980, as autoridades também discutiam a crescente incidência de abuso de substâncias. A incidência de alcoolismo havia aumentado durante a geração anterior, e uma alta porcentagem de vítimas de suicídio eram alcoólatras. Em 1986, o consumo de álcool por pessoa por ano era de 11,7 litros; o consumo de bebidas fortes (4,8 litros por pessoa) era o segundo maior do mundo.
+
+Para agravar essas questões, o governo húngaro gastou uma porcentagem preocupantemente baixa do PIB em saúde:
+>Analistas ocidentais estimam que a Hungria gasta apenas 3,3% de seu produto interno bruto especificamente em serviços de saúde (os 6% listados na maioria dos dados estatísticos na verdade incluem alguns serviços sociais). Essa porcentagem foi a mais baixa de qualquer país do Leste Europeu, exceto a Romênia (em comparação, os Estados Unidos gastaram 11% do PIB em saúde).
+
+Apesar destes problemas, o sistema socialista na Hungria proporcionou objetivamente benefícios claros às pessoas em termos de saúde e bem-estar social. Existem várias lições importantes que podemos aprender com a experiência húngara:
+
+1. É essencial que os recursos adequados sejam dedicados à saúde e ao bem-estar social. A austeridade não beneficia ninguém nessas questões, porque o declínio resultante na qualidade e disponibilidade levará à instabilidade e inquietação, para não mencionar uma redução nos padrões de vida. A ditadura do proletariado deve colocar as necessidades e interesses do proletariado como prioridade máxima; caso contrário, qual é o ponto?
+2. Também é essencial que um governo socialista tome medidas para resolver problemas sociais como o alcoolismo e o vício em drogas, que contribuíram maciçamente para o declínio da saúde em todo o Bloco de Leste nas décadas de 1970 e 1980. A importância dessas questões pode ser vista comparando o Bloco de Leste com outras nações socialistas, como Cuba, que não tem problemas tão generalizados de abuso de substâncias e que tem visto melhorias constantes e estáveis ​​nos resultados de saúde por décadas (mesmo durante o período especial "após a queda da URSS).
+3. Apesar desses fatores, o sistema socialista na Hungria conseguiu melhorar muito a saúde da população, bem como o acesso dos trabalhadores ao bem-estar social. Essas melhorias não devem ser ignoradas.
+
+### Realizações educacionais da Hungria
+A Hungria pré-comunista tinha um sistema educacional altamente elitista, amplamente dominado por instituições religiosas. Relatórios da Divisão de Pesquisa Federal dos EUA:
+>Antes da tomada do poder pelos comunistas em 1947, a religião era a principal influência na educação. O status social e material dos alunos influenciava fortemente o tipo e a extensão da escolaridade que recebiam. A educação acima do nível elementar geralmente estava disponível apenas para a elite social do país. Nas escolas secundárias e superiores, apenas 5% dos alunos vinham de famílias de trabalhadores ou camponeses. Apenas cerca de 1% ou 2% de todos os alunos ingressaram no ensino superior.
+
+No entanto, depois que os comunistas chegaram ao poder, o sistema educacional foi drasticamente reformado. As notas da Enciclopédia Britânica:
+>Tudo isso mudou após a conquista comunista da Hungria após a Segunda Guerra Mundial. Em 1948, as escolas foram nacionalizadas e o estilo elitista alemão de educação foi substituído por uma educação de massa ao estilo soviético, consistindo em oito anos de escola geral e quatro anos de educação secundária. Este último consistia em escolas de segundo grau preparatórias para a faculdade que se aproximavam dos quatro anos superiores do gimnázium, bem como das escolas profissionais mais numerosas e diversificadas (technikumok) que preparavam os alunos para faculdades técnicas ou universidades, mas na maioria dos casos simplesmente levavam diretamente para o meio empregos de nível.
+
+O sistema educacional foi amplamente expandido. A Divisão de Pesquisa Federal dos EUA declara:
+>A frequência à escola era obrigatória dos seis aos dezesseis anos. Todos os alunos frequentaram escolas gerais por pelo menos oito anos. A mensalidade era gratuita para todos os alunos de seis anos de idade até o nível universitário. A maioria dos alunos realmente começou a estudar aos cinco anos de idade; em 1986, aproximadamente 92% de todas as crianças em idade de jardim de infância frequentavam 1 dos 4.804 jardins de infância do país. Em 1980, todas as cidades e dois terços das aldeias tinham jardins de infância. Os pais pagavam uma taxa pelos serviços pré-escolares com base na renda, mas essas instituições eram fortemente subsidiadas pelos conselhos locais ou empresas que as patrocinavam.
+
+Essas reformas tiveram sucesso em expandir drasticamente os padrões educacionais em toda a Hungria:
+>Em 1980, apenas 29% dos homens com 15 anos ou mais e 38% das mulheres com 15 anos ou mais não tinham concluído oito anos de escola geral, em comparação com 78% desses homens e 80% dessas mulheres em 1949. Cerca de metade dos alunos que concluíram as escolas gerais concluíram posteriormente a sua formação em dois anos, através da formação profissional e técnica. Os alunos restantes continuaram seus estudos em um ginásio de quatro anos ou escola comercial.
+
+No entanto, o sistema sofria de problemas semelhantes aos sistemas de saúde e previdência social. Especificamente, foi subfinanciado; a Hungria gastou uma porcentagem muito baixa do PIB em educação em comparação com outras nações, o que resultou em escassez:
+>Os críticos observaram, entre outras coisas, que embora a Suíça gastasse 18,8% de seu orçamento nacional em educação, o Brasil 18,4% e o Japão 19,2%, a Hungria destinava apenas 6,6% de seu orçamento estadual à educação. Na década de 1980, o país enfrentou escassez de salas de aula e professores, de modo que as classes do ensino fundamental às vezes continham até quarenta crianças. Em muitas áreas, as escolas tinham turnos matinais e vespertinos alternados para aumentar as instalações e o pessoal. Além disso, nem todos os professores receberam treinamento adequado.
+
+Assim, a principal lição que podemos aprender com a República Popular da Hungria nesta área é que a educação deve ser devidamente financiada, a fim de garantir que todas as pessoas tenham acesso a uma educação de qualidade suficiente. É essencial que sejam disponibilizados suprimentos suficientes, bem como recursos para contratar e treinar pessoal suficiente.
+
+### Nostalgia pós-comunista na Hungria
+Apesar das questões da República Popular da Hungria, muitas pessoas na Hungria desde então anseiam pelo retorno do sistema socialista. Uma pesquisa conduzida pelo Pew Research Center encontrou o seguinte:
+>Notáveis ​​72% dos húngaros dizem que a maioria das pessoas em seu país está realmente pior economicamente hoje do que sob o comunismo. Apenas 8% dizem que a maioria das pessoas na Hungria está em melhor situação e 16% dizem que as coisas estão quase iguais.
+
+Mesmo as fontes de notícias reacionárias foram incapazes de ignorar a opinião favorável que muitos húngaros têm do antigo sistema socialista. O Daily Mail (um dos jornais de direita mais linha-dura da Grã-Bretanha) publicou um artigo de uma mulher da Hungria, que fez algumas declarações interessantes:
+>Quando as pessoas me perguntam como foi crescer atrás da Cortina de Ferro na Hungria nas décadas de 1970 e 1980, a maioria espera ouvir histórias de polícia secreta, filas de pão e outras manifestações desagradáveis ​​da vida em um Estado de partido único.
+>
+>Eles ficam invariavelmente desapontados quando eu explico que a realidade era bem diferente, e a Hungria comunista, longe de ser o inferno na terra, era na verdade um lugar divertido para se viver.
+>
+>Os comunistas proporcionaram a todos emprego garantido, boa educação e saúde gratuita. O crime violento era praticamente inexistente.
+
+O autor observa que a vida cultural foi expandida para incluir todos os húngaros, não apenas as classes altas:
+>A cultura era considerada extremamente importante pelo governo. Os comunistas não queriam restringir as coisas boas da vida às classes alta e média - o melhor da música, literatura e dança eram para todos desfrutarem.
+>
+>Isso significava que subsídios generosos eram dados a instituições, incluindo orquestras, óperas, teatros e cinemas. Os preços dos ingressos eram subsidiados pelo Estado, tornando acessíveis as visitas à ópera e ao teatro.
+>
+>'Casas culturais' foram abertas em cada cidade e vila, para que as pessoas da classe trabalhadora provinciana, como meus pais, pudessem ter fácil acesso às artes cênicas e aos melhores artistas.
+
+Ela observa que a publicidade e a cultura consumista eram praticamente inexistentes na Hungria:
+>Embora vivêssemos bem sob o "comunismo goulash" e sempre houvesse comida suficiente para comermos, não fomos bombardeados com propaganda de produtos de que não precisávamos.
+
+Ela lamenta que as perspectivas da classe trabalhadora comum do Bloco Oriental sejam normalmente ignoradas pelo Ocidente:
+>Quando o comunismo na Hungria acabou em 1989, não fiquei apenas surpresa, mas triste, como muitos outros. Sim, havia gente marchando contra o governo, mas a maioria das pessoas comuns - eu e minha família incluída - não participou dos protestos.
+>
+>Nossa voz - a voz daqueles cujas vidas foram melhoradas pelo comunismo - raramente é ouvida quando se trata de discussões sobre como era a vida atrás da Cortina de Ferro.
+>
+>Em vez disso, os relatos que ouvimos no Ocidente são quase sempre da perspectiva de emigrados ricos ou dissidentes anticomunistas com um machado para moer.
+
+Finalmente, ela observa que as perdas da era pós-comunista excederam em muito qualquer ganho potencial:
+>As pessoas não têm mais segurança no emprego. A pobreza e o crime estão aumentando. A classe trabalhadora não pode mais se dar ao luxo de ir à ópera ou ao teatro. Como na Grã-Bretanha, a TV se emburreceu a um grau preocupante - ironicamente, nunca tivemos o Big Brother sob o comunismo, mas o temos hoje.
+>
+>O mais triste de tudo é que o espírito de camaradagem de que gostávamos quase desapareceu. Nas últimas duas décadas, podemos ter ganhado shoppings, 'democracia' multipartidária, telefones celulares e internet. Mas perdemos muito mais.
+
+Ao realmente ouvir os relatos de pessoas que viveram sob o socialismo, bem como examinar as pesquisas, podemos ver o que a classe trabalhadora realmente sente sobre o socialismo, bem como sobre o capitalismo implacável que o sucedeu.
+
+### Conclusão sobre a Hungria
+
+A República Popular da Hungria era uma nação interessante, que tinha uma série de falhas, mas mesmo assim proporcionava um alto padrão de vida ao seu povo. É lembrado com carinho por aqueles que viveram sob ele, e suas conquistas, embora geralmente ignoradas no Ocidente, não devem passar despercebidas por quem se diz socialista ou comunista. Devemos estudar a Hungria (junto com todas as outras nações socialistas) para aprender as lições importantes que ela tem a oferecer.
+
+Fontes:
+- [US Federal Research Division | Hungary: A Country Study](https://www.loc.gov/item/90006426/)
+- [Encyclopedia Britannica | Hungary](https://www.britannica.com/place/Hungary/Health-and-welfare#ref34853)
+- [Pew Research Center | Hungary: Better Off Under Communism?](https://www.pewresearch.org/fact-tank/2010/04/28/hungary-better-off-under-communism/)
+- [Daily Mail | Life in Communism Hungary](https://www.dailymail.co.uk/news/article-1221064/Oppressive-grey-No-growing-communism-happiest-time-life.html)
+
+## A Alemanha Oriental
+Ao longo de seus 41 anos de existência, a República Democrática Alemã (RDA/GDR/DDR) se viu constantemente no centro da Guerra Fria. O Muro de Berlim, criado para separar Berlim Oriental da Berlim Ocidental controlada pela FRG, rapidamente se tornou o símbolo mais famoso do conflito. Apesar disso, a maioria das pessoas (incluindo a maioria dos socialistas) sabe relativamente pouco sobre esta nação; como sua economia funcionava, que tipo de vida deu ao seu povo, etc. No entanto, à luz dos eventos recentes, como estudos que descobriram que [57% dos alemães orientais têm uma visão positiva da RDA](https://www.spiegel.de/international/germany/homesick-for-a-dictatorship-majority-of-eastern-germans-feel-life-better-under-communism-a-634122.html), muitas pessoas ficaram mais curiosas sobre neste país específico.
+
+### Antecedentes históricos e condições iniciais (Segunda Guerra Mundial e era pré-guerra) da Alemanha Oriental
+A Segunda Guerra Mundial deixou a Alemanha uma sombra de seu antigo eu. Cidades foram arrasadas e a economia totalmente devastada. A Alemanha Oriental, em particular, estava em séria desvantagem; na verdade, a disparidade de riqueza entre a Alemanha Oriental e Ocidental já existia muito antes do estabelecimento da RDA. De acordo com um [estudo](https://www.deepdyve.com/lp/ou-press/the-roots-of-economic-failure-what-explains-east-germany-s-falling-A6wSaF2DRj?key=OUP) no European Journal of Economic History:
+>A "Grande Divergência" entre Oriente e Ocidente em eficiência industrial não começou em 1948, quando o desenvolvimento institucional das duas partes do país tomou rumos fundamentalmente diferentes. Os principais fatores que contribuem para essa divergência já estavam presentes anteriormente.
+
+A Alemanha Oriental sempre foi muito menos industrializada do que a Alemanha Ocidental e, como tal, dependeu muito do Ocidente para suas necessidades econômicas. De acordo com o [estudo](https://archive.org/details/eastgermanycount00bura_0) da Divisão de Pesquisa Federal dos EUA sobre a Alemanha Oriental:
+>Antes da Segunda Guerra Mundial, a área que mais tarde se tornou a Alemanha Oriental não era bem desenvolvida industrialmente. Como essa área carecia de matéria-prima, a indústria pesada geralmente estava localizada em outras partes do estado alemão. Para agravar os problemas para o recém-criado estado da Alemanha Oriental em 1949 estava a destruição maciça durante a Segunda Guerra Mundial da planta industrial que existia lá e o subsequente desmantelamento soviético e remoção das fábricas e equipamentos que haviam sobrevivido à guerra. [...] Durante os anos entre guerras, o território que agora é a Alemanha Oriental era profundamente dependente de laços econômicos externos. Em meados da década de 1930, foi despachado quase metade de sua produção total para outras partes da Alemanha. Esse comércio interno envolvia vendas de produtos agrícolas; têxteis; produtos da indústria leve, como câmeras, máquinas de escrever e equipamentos ópticos; e compras de bens e equipamentos industriais.
+
+Em outras palavras, a Alemanha Oriental dependia totalmente do Ocidente para suas necessidades industriais pesadas e pagava por essas necessidades vendendo seus produtos agrícolas e industriais leves. No entanto, após a guerra, esse equilíbrio entre o Oriente e o Ocidente foi prejudicado. De acordo com a Divisão de Pesquisa Federal dos EUA:
+>Grandes deslocamentos ocorreram após a Segunda Guerra Mundial, quando a Alemanha foi dividida em duas seções, uma parte dominada pela União Soviética e a outra pelos Aliados Ocidentais. Por não poder mais contar com seu antigo sistema de comércio interno e externo, a Zona de Ocupação Soviética teve de ser reestruturada e tornada mais autossuficiente por meio da construção de uma indústria básica.
+
+Este não foi um feito pequeno para a RDA incipiente, especialmente visto que ela não recebeu praticamente nenhuma ajuda econômica em grande escala da URSS (que estava ocupada demais se reconstruindo após a Segunda Guerra Mundial para se preocupar em injetar dinheiro na Alemanha Oriental - e a COMECON se parece mais com um Mercosul do que com um Plano Marshall). Além disso, a RDA teve de pagar pesadas indenizações à URSS pelos danos causados ​​durante a Segunda Guerra Mundial. Isso atuou como um grande obstáculo ao desenvolvimento. De acordo com o The East German Economy, 1945-2010, publicado pelo German Historical Institute, as reparações diretas e indiretas pagas pela Alemanha Oriental entre 1946 e 1953 totalizaram $14 bilhões a preços de 1938. Outra declaração sobre isso é encontrada no estudo da Divisão de Pesquisa Federal dos EUA:
+>A reorientação e reestruturação da economia da Alemanha Oriental teria sido difícil em qualquer caso. Os substanciais custos de reparação que a União Soviética impôs à sua zona ocupada e, mais tarde, à Alemanha Oriental, tornaram o processo ainda mais difícil. Os pagamentos continuaram no início dos anos 1950, terminando apenas com a morte de Stalin. De acordo com estimativas ocidentais, esses pagamentos totalizaram cerca de 25% da produção total da Alemanha Oriental até 1953.
+
+Isso está em contraste direto com o Ocidente, que recebeu grandes investimentos de ajuda dos Estados Unidos - nada afetado pela Guerra - como parte do Plano Marshall, bem como relações comerciais lucrativas com as nações desenvolvidas.
+
+### Crescimento econômico e desenvolvimento industrial da Alemanha Oriental
+Apesar de todas as desvantagens significativas acima mencionadas, a economia da Alemanha Oriental conseguiu superar suas dificuldades e se desenvolver a um ritmo impressionantemente rápido. Embora a RFA tenha uma economia geral maior do que a RDA, há um argumento real de que a RDA alcançou uma taxa de crescimento mais rápida. Talvez o [estudo](https://www.ssoar.info/ssoar/bitstream/handle/document/28587/ssoar-hsrsupp-2009-no_21-heske-volkswirtschaftliche_gesamtrechnung_ddr_1950-1989.pdf) mais extenso sobre esse tópico tenha sido feito por Gerhard Heske, publicado na revista Historical Social Research in Germany; no entanto, visto que este estudo tem cerca de trezentas páginas, citarei um [artigo](http://www.memo.uni-bremen.de/docs/m3309.pdf) de resumo da Universidade de Bremen:
+>De 1951 a 1989, a RDA atingiu uma taxa média de crescimento do PIB de 4,5%, a FRG de 4,3%. De 1961 a 1985, essas taxas de crescimento foram maiores na RDA do que na RFA.
+
+A indústria pesada cresceu especialmente rapidamente. De acordo com a Divisão de Pesquisa Federal dos EUA:
+>Durante a década de 1950, a Alemanha Oriental fez um progresso econômico significativo, pelo menos conforme indicado pelos números brutos. Em 1960, o investimento havia crescido por um fator de cerca de 4,5, enquanto a produção industrial bruta havia aumentado por um fator de cerca de 2,9. Dentro dessa ampla categoria de produção industrial, os setores básicos, como máquinas e equipamentos de transporte, cresceram de forma especialmente rápida, enquanto os setores de consumo, como os têxteis, ficaram para trás.
+
+Apesar da prioridade dada à indústria pesada, o consumo também aumentou de forma constante neste período:
+>O consumo cresceu significativamente nos primeiros anos, embora a partir de uma base muito baixa, e apresentou taxas de crescimento respeitáveis ​​ao longo de toda a década.
+
+No final da década de 1950, alguns analistas temiam uma crise econômica no Oriente, impulsionada pela "fuga de cérebros" do Oriente para o Ocidente; no entanto, isso não ocorreu, e a economia da Alemanha Oriental continuou a crescer de forma impressionante na década de 1960. Relatórios da Divisão de Pesquisa Federal dos EUA:
+>No final da década de 1950, o pessimismo sobre o futuro parecia bastante apropriado. Surpreendentemente, no entanto, após a construção do Muro de Berlim e vários anos de consolidação e realinhamento, a Alemanha Oriental entrou em um período de crescimento econômico impressionante que produziu claros benefícios para o povo. Para os anos 1966-1970, o PIB e a renda nacional cresceram a taxas médias anuais de 6,3% e 5,2%, respectivamente. Simultaneamente, o investimento cresceu a uma taxa média anual de 10,7%, o comércio varejista em 4,6% e a renda per capita real de 4,2%.
+
+Esse crescimento continuou ao longo da próxima década:
+>A partir de 1970, as taxas de crescimento nos vários setores da economia não diferiam muito daquelas da década anterior. A produção atingiu cerca de 140% a 150% dos níveis da década anterior. As taxas de crescimento da produção resultaram em aumentos substanciais no consumo pessoal. Durante a década de 1970, a economia da Alemanha Oriental como um todo teve um crescimento relativamente forte e estável. Em 1971, o primeiro secretário Honecker declarou que a "elevação do padrão de vida material e cultural" da população era uma "tarefa principal" da economia; o consumo pessoal cresceu a uma taxa média anual de 4,8% de 1971 a 1975 e 4,0% de 1976 a 1980. O Plano Quinquenal de 1976-1980 alcançou uma taxa média de crescimento anual de 4,1%.
+
+A década de 1980 viu algumas dificuldades econômicas para a RDA, à medida que os bancos ocidentais restringiam o crédito para o Leste e a URSS reduzia as entregas de petróleo em 10%. Isso levou a um período de crescimento lento, à medida que a RDA se apressava em aumentar as exportações; apesar disso, a economia conseguiu se recuperar e entregar resultados de crescimento impressionantes durante este período (embora tenha ficado aquém do planejado). Relatórios da Divisão de Pesquisa Federal dos EUA:
+>O período do plano de 1981-1985 provou ser um momento difícil para a economia da Alemanha Oriental... No entanto, no final do período, a economia registrou um desempenho geral respeitável, com uma taxa média de crescimento anual de 4,5% (o plano meta tinha sido de 5,1%).
+
+Os impactos gerais da estratégia de industrialização da RDA foram extremamente positivos. Conforme relatado pela Divisão de Pesquisa Federal dos EUA em 1988:
+>A indústria é o setor dominante da economia da Alemanha Oriental e é a principal base para um padrão de vida relativamente alto. A Alemanha Oriental está entre as principais nações industrializadas do mundo e, no Comecon, fica atrás apenas da União Soviética.
+
+Um resumo geral do desempenho econômico da Alemanha Oriental também pode ser encontrado no relatório mencionado:
+>A economia da República Democrática Alemã (Alemanha Oriental) desenvolveu-se de forma impressionante desde sua fundação em 1949. Por quase todos os indicadores, ela está no topo do mundo socialista em desenvolvimento e desempenho econômico [...] A condição da economia é ainda mais notável quando se considera as circunstâncias em que se desenvolveu. O país foi devastado durante a Segunda Guerra Mundial. Posteriormente, a ocupação soviética do território da Alemanha Oriental sobrecarregou pesadamente a população e os recursos. Além disso, a divisão das terras alemãs após a guerra afetou seriamente a economia. A capacidade da indústria pesada da Alemanha Oriental era muito baixa e seus suprimentos de matéria-prima, com exceção de carvão de linhita (baixo teor) e potássio, eram quase inexistentes. O fato de que o país por muitos anos não teve reconhecimento internacional como um Estado soberano certamente não contribuiu para o crescimento econômico, e sua perda de população antes da construção do Muro de Berlim foi um dreno significativo de recursos de trabalho.
+
+Em um [report](http://hdr.undp.org/sites/default/files/reports/219/hdr_1990_en_complete_nostats.pdf) lançado pela ONU sobre o IDH de cada país no final dos anos 80, considerando: Expectativa de vida, educação e PIB, na página 111, afirma que a RDA era o país socialista mais desenvolvido do mundo, na 20th posição, enquanto os EUA estava na 18th posição e a Alemanha Ocidental estava na 11th posição.
+
+No geral, o sistema socialista na RDA conseguiu industrializar a nação em um ritmo rápido, permitindo que o país se sustentasse sem constantes infusões do Ocidente. Ela fez isso apesar das inúmeras desvantagens acima mencionadas, um feito que deve ser comemorado.
+
+### Aumentos no padrão de vida da Alemanha Oriental
+O sistema socialista na RDA não só teve sucesso no desenvolvimento rápido da nação; também proporcionou uma qualidade de vida cada vez maior para as pessoas. Relatórios da Divisão de Pesquisa Federal dos EUA:
+>O padrão de vida da Alemanha Oriental melhorou muito desde 1949 [quando a RDA foi criada]. A maioria dos observadores, tanto do Oriente como do Ocidente, concorda que na década de 1980 os alemães orientais desfrutavam do mais alto padrão de vida na Europa Oriental. Grandes melhorias ocorreram, especialmente após 1971, quando o regime de Honecker anunciou seu compromisso de cumprir a "tarefa principal" da economia, que era definida como a melhoria do bem-estar material e cultural de todos os cidadãos.
+
+Este enfoque no aumento da qualidade de vida para todos os cidadãos, ao invés de fornecer lucro para a classe capitalista, é uma característica única do sistema socialista, que proporcionou melhoria contínua dos padrões de vida. A Divisão de Pesquisa Federal dos EUA declara:
+>Desde o início do regime, o rendimento mensal do rendimento médio da Alemanha Oriental aumentou de forma constante em termos de poder de compra efetivo. De acordo com o anuário estatístico da Alemanha Oriental de 1986, a renda média mensal dos trabalhadores no setor socializado da economia aumentou de 311 marcos da RDA em 1950 para 555 marcos da RDA em 1960, 755 marcos da RDA em 1970 e 1.130 marcos da RDA em 1985. Porque a maioria dos preços ao consumidor permaneceram estáveis ​​durante esse tempo; os números de 1985 representaram um aumento melhor do que três vezes maior nos últimos 35 anos.
+
+Os subsídios estatais significaram que as necessidades básicas (alimentação, habitação, etc.), serviços públicos (saúde, educação, etc) e até pequenos luxos (refeições em restaurantes, concertos, etc) eram todos notavelmente baratos, especialmente quando comparados com a capitalista Ocidental. Relatórios da Divisão de Pesquisa Federal dos EUA:
+>Na Alemanha Oriental, o marco da RDA pode comprar um grande número de bens de primeira necessidade porque o estado subsidia sua produção e distribuição ao povo. Assim, a habitação, que consome uma porção considerável dos rendimentos de uma família média no Ocidente, constituía menos de 3% das despesas de uma família típica de trabalhadores em 1984. Leite, batatas, pão e transporte público também eram relativamente baratos. Muitos serviços, como assistência médica e educação, continuaram disponíveis sem custo para todos, exceto para poucos. Até refeições em restaurantes, shows e selos postais eram baratos para os padrões ocidentais. Em meados da década de 1980, os alemães orientais não tinham dificuldade em obter carne, manteiga, batatas, pão, roupas e muitos outros itens essenciais.
+
+A situação da habitação também melhorou muito:
+>Começando na década de 1960, o governo iniciou uma grande campanha para fornecer instalações habitacionais modernas; buscou eliminar a longa escassez de moradias e modernizar totalmente o estoque existente até 1990. No início da década de 1980, o programa havia fornecido quase 2 milhões de unidades novas ou reformadas, e mais 2 milhões deveriam ser acrescentados em 1990. Em 1985, o progresso nesta área parecia ser satisfatório e as metas do plano estavam sendo cumpridas ou excedidas.
+
+A situação em termos de bens de consumo também estava melhorando; a Divisão de Pesquisa Federal dos Estados Unidos relata que, em 1985, na RDA, 99% das famílias tinham geladeira, 92%, máquina de lavar e 93%, televisão. Esses números são comparáveis ​​aos dos Estados Unidos em 2016 (embora a propriedade de máquinas de lavar fosse maior e a de TV ligeiramente menor na RDA).
+
+Os economistas sempre pensaram que o marco da RDA era mais fraco em termos de poder de compra do que o marco da Alemanha Ocidental; no entanto, um estudo do Instituto de Pesquisa Econômica de Berlim Ocidental (conforme relatado pela Divisão de Pesquisa Federal dos EUA) refutou essa ideia:
+>Em 1983, o Instituto de Pesquisa Econômica de Berlim Ocidental empreendeu um de seus estudos periódicos em que o poder de compra do marco da RDA era medido em comparação com o marco da Alemanha Ocidental. O Instituto concluiu que, como um todo, o marco da GDR deve ser considerada como tendo 106% do valor do marco da Alemanha Ocidental em poder de compra, um ganho impressionante sobre os 76% estimados para 1960, 86% para 1969 e 100% para 1977. A análise claramente invalidou o opinião comum no Ocidente de que o marco da RDA tinha muito pouco poder de compra.
+
+No geral, o sistema socialista na RDA conseguiu aumentar de forma constante e rápida a qualidade de vida das pessoas, apesar das inúmeras desvantagens que o país enfrentou.
+
+### Saúde na Alemanha Oriental
+A RDA ofereceu tratamento médico gratuito ao seu povo. Este sistema permitiu que a Alemanha Oriental acompanhasse a Alemanha Ocidental em termos de condições de saúde, apesar de esta última ser mais rica (em virtude de suas extensas relações comerciais com as nações desenvolvidas). Um [estudo](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4193657/) publicado na Health Care Financing Review (uma publicação afiliada ao governo dos EUA) relata:
+>Em termos de recursos reais destinados aos serviços de saúde e em termos de atividades de serviços de saúde, os dois países parecem ter sido bastante semelhantes. A RDA foi relatada como tendo 2,3 médicos por mil em 1985 (Organização Mundial da Saúde, 1987), em comparação com 2,6 no RFA. Em 1977, a RDA tinha 10,6 leitos hospitalares por mil, em comparação com 11,8 na RFA, e ambos os países tinham níveis semelhantes de dentistas e farmacêuticos por mil. O tempo de internação hospitalar foi relatado como semelhante nos dois países. Dado que os leitos hospitalares por mil eram semelhantes, isso sugere que as taxas de admissão não eram muito diferentes. Finalmente, as taxas de consulta com médicos parecem ter sido semelhantes nos dois países: 9,0 por pessoa na RDA em 1976 e 10,9 por pessoa na RFA em 1975 (Health OECD: Facts and Trends, a ser publicado).
+
+O estudo confirma o custo muito mais baixo dos cuidados de saúde na Alemanha Oriental:
+>Se a RDA desfrutava de um volume de serviços de saúde semelhante ao da RFA, mas tinha despesas de saúde per capita muito mais baixas, então os preços dos serviços de saúde deveriam ser muito mais baixos na RDA.
+
+A RDA manteve altos padrões de saúde, que melhoraram continuamente e, em alguns casos, mais rápido do que os do Ocidente (embora começando em um nível inferior; a Alemanha Oriental sempre foi pior em termos de saúde do que o Ocidente). O estudo acima mencionado afirma:
+>Quanto ao estado de saúde, em 1987, a expectativa de vida relatada ao nascer no leste da Alemanha, 69,9 anos para homens e 76,0 para mulheres, não ficava muito atrás daquela da Alemanha Ocidental de 72,2 para homens e 78,9 para mulheres. A taxa de mortalidade infantil, que era de 7,2 por 100 em 1950, caiu para 0,92 em 1986. Embora a taxa de mortalidade infantil fosse superior à da Alemanha Ocidental em 1986 (0,85), a queda desde 1950 foi maior.
+
+De modo geral, os padrões de saúde na Alemanha Oriental eram altamente respeitáveis, especialmente quando se lembram das desvantagens que a RDA enfrentava, bem como o fato de que os cuidados de saúde eram gratuitos para todas as pessoas, o que não se pode dizer o mesmo do Ocidente.
+
+### Educação e cuidados infantis na Alemanha Oriental
+O sistema educacional na RDA era muito sólido. Por um lado, havia amplo acesso aos serviços de pré-escola e jardim de infância. De acordo com a Divisão de Pesquisa Federal dos EUA:
+>A frequência ao jardim de infância não era obrigatória, mas a maioria das crianças de três a seis anos frequentava. O estado considerava os jardins de infância um elemento importante do programa educacional geral. As escolas enfocavam a saúde e a boa forma física, o desenvolvimento de valores socialistas e o ensino de habilidades rudimentares. O regime fez experiências com escolas combinadas de creches e jardins de infância, que introduzem a criança gradualmente em um programa de atividades mais organizado e aliviam as dores do ajuste. Em 1985, havia 13.148 pré-escolas que cuidavam de 788.095 crianças (cerca de 91% das crianças elegíveis para frequentar).
+
+Após o jardim de infância, as crianças entravam na fase obrigatória de educação:
+>A educação obrigatória começou aos seis anos, quando todas as crianças ingressaram na escola politécnica geral mista de dez anos. O programa foi dividido em três seções. O estágio primário incluiu da primeira à terceira série, onde as crianças aprenderam as habilidades básicas de leitura, escrita e matemática. O estágio primário também apresentou às crianças os fundamentos da boa cidadania e, de acordo com a lei de educação de 1965, proporcionou-lhes "o primeiro conhecimento e compreensão da natureza, do trabalho e da sociedade socialista". O ensino enfatizou a língua, a literatura e a arte alemãs como meio de desenvolver as habilidades expressivas e linguísticas da criança; cerca de 60% do tempo da sala de aula foi dedicado a este componente. O ensino da matemática representava cerca de 24% do currículo e incluía uma introdução às leis e relações matemáticas fundamentais. Outros 8% eram dedicados à educação física, que compreendia exercícios, jogos e atividades destinadas a desenvolver a coordenação e habilidade física. A instrução politécnica também foi iniciada no nível primário e consistia em jardinagem e artesanato que davam à criança uma apreciação básica da tecnologia, da economia e do trabalhador; cerca de 8% do tempo da sala de aula era destinado a esse tipo de instrução.
+
+Depois de concluir o ensino obrigatório, os alunos tinham várias opções:
+>Após a conclusão da escolaridade obrigatória de dez anos, o aluno tinha essencialmente três opções. A opção escolhida com mais frequência foi iniciar um período de formação profissional de dois anos. Em 1985, cerca de 86% dos que haviam concluído o curso de dez anos começaram algum tipo de treinamento vocacional. Durante a formação profissional, o aluno tornou-se aprendiz, geralmente em uma empresa local ou estadual. Os alunos receberam dezoito meses de treinamento em vocações selecionadas e especialização nos últimos seis meses. Em 1985, aproximadamente 6% dos que haviam concluído sua educação politécnica ingressaram em um programa de treinamento vocacional de três anos. Este programa levou ao Abitur, ou exame de fim de ano escolar. A aprovação no Abitur permitia que o aluno se inscrevesse em um instituto técnico ou universitário, embora esse caminho para o ensino superior fosse considerado muito difícil. Em 1985, a Alemanha Oriental tinha um total de 963 escolas profissionais; 719 eram vinculados a indústrias e outros 244 eram escolas profissionais municipais. As escolas profissionais atenderam 377.567 alunos.
+
+Os alunos tiveram um emprego garantido ao completar a escolaridade obrigatória de dez anos:
+>O principal objetivo do sistema educacional era produzir pessoal tecnicamente qualificado para atender às necessidades de mão de obra da economia. O governo garantiu emprego para aqueles que concluíram o programa obrigatório de dez anos.
+
+O sistema universitário também era de alta qualidade e a frequência era extremamente barata (embora os requisitos de admissão fossem muito competitivos):
+>Em 1985, a Alemanha Oriental tinha 54 universidades e faculdades, com um total de matrículas de 129.628 alunos. As mulheres representavam cerca de 50% da população estudantil. Os cursos de engenharia e tecnologia encabeçam a lista das disciplinas populares. Medicina, economia e educação também foram escolhas populares. Existiam 239 instituições técnicas, com uma população estudantil total de 162.221. Cerca de 61% dos alunos estudavam em tempo integral, enquanto o restante se matriculava em estudos por correspondência ou tinha aulas noturnas. Os três campos de estudo mais populares nos institutos eram medicina e saúde, engenharia e tecnologia e economia. Os cursos na universidade e institutos técnicos consistiam principalmente de palestras e exames. A conclusão do programa confere um diploma ou licença, dependendo da área de estudo.
+>
+>Em meados da década de 1980, o ensino superior era muito barato e muitos dos livros didáticos eram fornecidos gratuitamente. Assistência financeira total ou parcial na forma de bolsas de estudo estava disponível para a maioria dos alunos, e as despesas de subsistência eram geralmente mínimas porque a maioria dos alunos continuava morando em casa durante os cursos. Os alemães têm grande consideração pela educação, e o regime geralmente tem apoiado os jovens que desejam melhorar seu nível de habilidades por meio de treinamento ou educação.
+
+No geral, o sistema educacional na República Democrática Alemã era de alta qualidade e amplamente acessível a todos.
+
+### Direitos das mulheres na Alemanha Oriental
+A RDA teve um histórico notavelmente forte na proteção dos direitos das mulheres, muito mais forte do que o Ocidente capitalista. De acordo com a Divisão de Pesquisa Federal dos EUA:
+>O histórico da Alemanha Oriental na área dos direitos das mulheres tem sido bom. As mulheres estão bem representadas no mercado de trabalho, compreendendo cerca de metade da população economicamente ativa. Em 1984, aprox. 80% das mulheres em idade produtiva (entre dezoito e sessenta) estavam empregadas. O estado encorajou as mulheres a procurar trabalho e carreiras e forneceu ajuda às mães que trabalham na forma de centros generosos de benefícios de maternidade.
+
+O acesso das mulheres à educação era muito forte na RDA, novamente muito mais forte do que no Ocidente capitalista:
+>O estado também tem feito um esforço concentrado para oferecer oportunidades educacionais para mulheres. O número de mulheres com formação universitária ou técnica tem aumentado ao longo dos anos. Dos alunos matriculados em universidades e faculdades em 1985, cerca de 50% eram mulheres.
+
+O controle da natalidade estava amplamente disponível e gratuito, e o aborto estava disponível mediante solicitação da mulher. Relatórios da Divisão de Pesquisa Federal dos EUA:
+>Uma lei liberal de aborto, promulgada em 1972 em meio a protestos de círculos religiosos, permite o aborto a pedido da mãe. Em meados da década de 1980, informações sobre métodos anticoncepcionais estavam disponíveis ao público e as mulheres podiam obter pílulas anticoncepcionais gratuitamente .
+
+Além disso, o estado buscou prestar assistência às mães que trabalham por meio de um sistema de creche altamente desenvolvido:
+>Uma elaborada rede de creches cuida da criança enquanto a mãe está trabalhando. Em 1984, havia 6.605 creches durante todo o ano, com capacidade para 296.653 crianças. Essas creches cuidavam de 63% das crianças elegíveis.
+
+No geral, a situação das mulheres na Alemanha Oriental era muito melhor do que na Alemanha Ocidental, e o histórico de direitos das mulheres da RDA era bastante impressionante.
+
+### O desastre de 1989
+A maioria das pessoas no Ocidente imagina a queda da RDA como uma época de euforia e liberdade generalizadas; no entanto, para milhões de pessoas na Alemanha Oriental, isso estava longe de ser o caso. Um excelente relato dessa época foi escrito por Bruni de la Motte, uma mulher da Alemanha Oriental que desde então se tornou negociadora sindical britânica. Em seu [artigo](https://www.theguardian.com/commentisfree/2009/nov/08/1989-berlin-wall) (publicado no The Guardian), ela relata que o desemprego generalizado e a miséria ocorreram após a queda do comunismo:
+>Pouco se sabe aqui [no Ocidente] sobre o que aconteceu à economia da RDA quando o muro caiu. Assim que a fronteira foi aberta, o governo decidiu estabelecer uma tutela para garantir que as "empresas públicas" (a maioria dos negócios) fossem transferidas para os cidadãos que criaram a riqueza. No entanto, alguns meses antes da unificação, o governo conservador recém-eleito entregou a tutela a nomeados da Alemanha Ocidental, muitos representando interesses de grandes empresas. A ideia de ativos "de propriedade pública" serem transferidos para os cidadãos foi silenciosamente abandonada. Em vez disso, todos os ativos foram privatizados em uma velocidade vertiginosa. Mais de 85% foram comprados por alemães ocidentais e muitos foram fechados logo depois. No campo, 1,7 milhão de hectares de terras agrícolas e florestais foram vendidos e 80% dos trabalhadores agrícolas perderam o emprego.
+
+Outro [artigo](https://www.theguardian.com/world/2015/oct/02/german-reunification-25-years-on-how-different-are-east-and-west-really) do The Guardian relata o impacto de longo prazo que isso teve na economia da Alemanha Oriental, observando que praticamente não houve avanço na taxa de produtividade Ocidente-Oriente desde 1991:
+>A produtividade no antigo oriente era 70% da do ocidente em 1991 e subiu para apenas 73% em 2012, em parte um legado do número de fábricas que foram compradas por industriais da Alemanha Ocidental e deliberadamente faliram para a concorrência escassa. Especialistas dizem que o fato de que a maior parte da grande indústria e bases de produção estão no ocidente e que as do oriente são muito menores - com a maioria dos empregadores na agricultura ou nas indústrias de serviços, como processamento de carne e call centers - terá um longo efeito de longo prazo de cada vez mais reter a economia no oriente e garantir que a discrepância salarial permaneça e provavelmente piore.
+
+Bruni de la Motte observa que uma purificação em massa da vida acadêmica e profissional ocorreu após a queda do comunismo:
+>Um grande número de trabalhadores comuns perdeu seus empregos, mas também milhares de pesquisadores e acadêmicos. Como resultado do expurgo da academia, dos estabelecimentos de pesquisa e científicos em um processo de veto político, mais de um milhão de indivíduos com diplomas perderam seus empregos. Isso constituía cerca de 50% desse grupo, criando na Alemanha Oriental a maior porcentagem de desemprego profissional do mundo; todos os reitores universitários e diretores de empresas estatais, bem como 75.000 professores, perderam seus empregos e muitos foram colocados na lista negra. Esse processo estava em total contraste com o que aconteceu na Alemanha Ocidental após a guerra, quando poucos ex-nazistas foram tratados dessa maneira.
+
+Uma crise de habitação, bem como a apreensão em massa das casas dos trabalhadores, também ocorreu:
+>Na RDA, todos tinham garantia legal de posse e propriedade das propriedades onde moravam. Após a unificação, 2,2 milhões de reclamações de cidadãos não-pertencentes à RDA [e pertencentes à RFA em sua maioria], foram feitas em suas casas. Muitos perderam suas casas em que viveram por décadas; muitos cometeram suicídio em vez de desistir delas. Ironicamente, os pedidos de restituição ao contrário, pelos alemães orientais sobre propriedades no Ocidente, foram rejeitados como "fora do tempo".
+
+Ela observa que, desde a queda do comunismo, muitas pessoas passaram a apreciar os benefícios que o socialismo oferecia:
+>Desde o fim da RDA, muitos passaram a reconhecer e lamentar que as "conquistas sociais" genuínas de que desfrutaram foram desmanteladas: igualdade social e de gênero, pleno emprego e falta de medos existenciais, bem como aluguéis subsidiados, transporte público, cultura e instalações desportivas. Infelizmente, o colapso da RDA e do "socialismo de estado" ocorreu pouco antes do colapso do sistema de "livre mercado" no Ocidente.
+
+Isso é apoiado pelo fato de que (como mencionado acima) 57% dos ex-alemães orientais dizem que a vida era melhor sob o comunismo. Para leituras mais profundas de Bruni de la Motte, recomendo seu livro Stasi Hell or Workers' Paradise? Socialism in the GDR - What Can We Learn From It? Este livro apresenta uma avaliação honesta dos sucessos e fracassos da República Democrática Alemã da perspectiva de alguém que realmente cresceu, foi para a escola, trabalhou e criou uma família lá.
+
+### Conclusão sobre a Alemanha Oriental
+A República Democrática Alemã não era uma sociedade perfeita e não é sensato fingir que sim; no entanto, proporcionou um alto padrão de vida para seu povo, juntamente com uma forte segurança econômica e social. Garantia de emprego, moradia, saúde e educação, além de subsídios para as necessidades básicas; fortes proteções para os direitos das mulheres e crianças; atividades culturais de baixo custo e amplamente disponíveis, como teatros e concertos; esses são benefícios dos quais muitos milhões de pessoas passaram a sentir muita falta nos anos desde a queda da RDA.
+
+Talvez o melhor resumo desse tópico complexo seja dado por Bruni de la Motte, na conclusão de seu livro Stasi Hell or Workers' Paradise:
+>A experiência de socialismo da RDA está em marcante contraste com o desmantelamento do Estado de bem-estar e a concomitante privatização desenfreada de todos os aspectos da vida que agora ocorrem na Europa Ocidental, da cultura à saúde e outros serviços essenciais, bem como à negação do valores e a individualização extrema da vida. Vivemos em uma sociedade atomizada, rapidamente se desintegrando, com pouco etos social e sem objetivos de longo prazo. Muitos hoje, especialmente os jovens, vivem sem esperança ou senso de um futuro seguro. O socialismo ainda pode oferecer um antídoto e uma alternativa. E a experiência de países socialistas como a RDA pode fornecer indicações para um caminho a seguir e ajudar a renovar a esperança.
+
+Em nossa era de capitalismo tardio, mudança climática e fascismo ressurgente, essa mensagem é mais relevante do que nunca.
+
+Fontes:
+- [Der Spiegel | Majority of East Germans Defend the GDR](https://www.spiegel.de/international/germany/homesick-for-a-dictatorship-majority-of-eastern-germans-feel-life-better-under-communism-a-634122.html)
+- [European Review of Economic History | The Roots of Economic Failure: What Explains East Germany's Falling Behind Between 1945 and 1950?](https://www.deepdyve.com/lp/ou-press/the-roots-of-economic-failure-what-explains-east-germany-s-falling-A6wSaF2DRj?key=OUP)
+- [US Federal Research Division | East Germany: A Country Study](https://archive.org/details/eastgermanycount00bura_0)
+- [German Historical Institute | The East German Economy: 1945-2010](https://www.cambridge.org/core/books/the-east-german-economy-19452010/C2414E858CB605F6EE9D5AB0A839B24C)
+- [Historical Social Research | National Accounts, GDR, 1950-1989](https://www.ssoar.info/ssoar/bitstream/handle/document/28587/ssoar-hsrsupp-2009-no_21-heske-volkswirtschaftliche_gesamtrechnung_ddr_1950-1989.pdf)
+- [University of Bremen | Economic Growth in East and West Germany](http://www.memo.uni-bremen.de/docs/m3309.pdf)
+- [Health Care Financing Review | Reform of Health Care in Germany](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4193657/)
+- [The Guardian | East Germans Lost Much in 1989](https://www.theguardian.com/commentisfree/2009/nov/08/1989-berlin-wall)
+- [The Guardian | German Reunification 25 Years On](https://www.theguardian.com/world/2015/oct/02/german-reunification-25-years-on-how-different-are-east-and-west-really)
+- [Artery Publications | Stasi Hell or Workers' Paradise? Socialism in the GDR - What Can We Learn From It?](https://archive.org/details/StasiHellOrWorkersParadise)
+
+## Os naxalitas na Índia
+De todos os vários grupos socialistas e comunistas que atualmente travam a luta armada contra o capitalismo e o imperialismo, poucos são mais significativos e conhecidos do que o movimento maoísta da Índia, comumente conhecido como Naxalitas. Frequentemente demonizados e retratados como terroristas, eles continuam a lutar (com notável sucesso, como será mostrado em breve) contra a exploração implacável e o assassinato das pessoas mais pobres da Terra.
+
+Antes de mergulhar na análise difícil, eu recomendo que todos vocês leiam Walking With the Comrades, de Arundhati Roy, uma análise brilhante da situação na Índia, bem como um relato de primeira mão da época em que Roy visitou os maoístas. Ela é uma das autoras mais conhecidas do mundo hoje, e seu trabalho é geralmente aceito e aclamado até mesmo por criadores de tendências liberais; ela até conseguiu ganhar alguma atenção positiva para os naxalitas em publicações convencionais, como a Paris Review:
+
+- [The Paris Review | Arundhati Roy em "Walking With the Comrades"](https://www.theparisreview.org/blog/2011/11/01/arundhati-roy-on-walking-with-the-comrades/)
+
+Se você quiser entender a horrível exploração e o terrorismo de estado que tornaram o movimento Naxalita necessário em primeiro lugar, leia esse livro. Com isso esclarecido, vamos mergulhar nas conquistas do movimento Naxalita.
+
+### Questões econômicas e qualidade de vida (terra, salários, saúde, etc) dos naxalitas
+Uma de nossas fontes mais importantes sobre este tópico vem, ironicamente, do próprio governo indiano. Seu relatório, intitulado "Desafios de Desenvolvimento em Áreas Afetadas Pelo Extremismo", nos dá uma grande quantidade de informações sobre o sucesso dos Naxalitas:
+
+- [Indian Planning Commission | Development Challenges in Extremist Affected Areas](https://tribal.nic.in/writereaddata/AnnualReport/DevelopmentChallengesinExtremistAffectedAreas.pdf)
+
+O governo reconhece o imenso problema da distribuição desigual de terras, ao mesmo tempo que admite que os naxalitas fizeram muito para redistribuir terras aos sem-terra:
+>Embora não haja estimativas precisas disponíveis, é um fato que em alguns casos o movimento naxalita conseguiu ajudar os sem-terra a ocupar uma extensão substancial das terras do governo, seja para propriedades rurais ou para cultivo. Em Bihar, todos os partidos naxalitas tentaram ajudar, em suas respectivas áreas de influência, os Musahars sem-terra, os mais baixos entre os dalits, a tomar posse de uma extensão considerável dessas terras.
+
+Eles lutaram para acabar com a exploração implacável do trabalho adivasi (indígena):
+>Os naxalitas garantiram aumentos na taxa de pagamento pela colheita da folha de tendu, que é usada para rolinhos de plantas, nas áreas florestais de Andhra Pradesh, Chhattisgarh, Orissa, Maharashtra e Jharkhand. Essa era uma fonte muito importante de exploração da mão de obra adivasi e, embora o governo a ignorasse conscientemente, os naxalitas acabaram com ela. A exploração foi tão severa que as taxas aumentaram ao longo dos anos até cinquenta vezes o que os empreiteiros tendu patta costumavam pagar antes dos naxalitas intervirem.
+
+Os naxalitas também têm lutado para aumentar os salários em geral, com sucesso significativo:
+>A Lei do Salário Mínimo continua sendo uma lei no papel em grande parte da Índia rural. Nas áreas de sua atividade, é relatado que os naxalitas garantiram o pagamento de salários decentes, embora eles geralmente não tenham seguido os salários mínimos legais. As taxas que eles garantiram são às vezes mais altas e às vezes mais baixas do que a taxa legal. Sua orientação para os direitos em geral não é regida por direitos legais, mas pelo que eles consideram justo e justo, levando em consideração todos os fatores que consideram relevantes.
+>
+>Existem também grandes áreas de trabalho não regidas pela Lei do Salário Mínimo. Uma vez que os Naxalitas, em qualquer caso, não se importam se existe ou não uma lei que rege o direito que defendem, eles intervieram e determinaram salários justos em suas percepções em todos os processos de trabalho em suas áreas de influência. Isso inclui salários para lavar roupas, fazer potes, cuidar do gado, consertar implementos, etc.
+
+Os naxalitas também lutaram para garantir a proteção da propriedade comum e para evitar sua exploração por proprietários privados:
+>O usufruto dos recursos de propriedade comum como um direito tradicional por pastores, comunidades pesqueiras, chapéus de coco, pedreiros, tornou-se vulnerável devido à apropriação desses recursos pelos setores dominantes da sociedade ou pelos demais com seu apoio. Os naxalitas tentaram garantir a proteção desse direito onde quer que estejam ativos.
+
+A pressão dos naxalitas forçou os funcionários do governo nas áreas de saúde e educação a cumprirem adequadamente seus deveres para com o povo:
+>Em algumas ocasiões, os naxalitas conseguiram pressionar os administradores de nível inferior para que realizassem seu trabalho com eficácia. A pressão exercida pelo movimento Naxalita teve algum efeito em garantir o atendimento adequado de professores, médicos etc.
+
+Na verdade, os próprios naxalitas conseguiram melhorar os cuidados de saúde nas áreas onde atuam. Em seu livro Hello, Bastar: The Untold Story of India's Maoist Movement, Rahul Pandita (vencedor do Prêmio Internacional da Cruz Vermelha) escreve:
+>Também no campo da saúde, os maoístas costumam preencher grandes lacunas deixadas pelo estado. Suas unidades médicas móveis cobrem grandes distâncias para oferecer cuidados básicos de saúde aos tribais ... Vários campos de treinamento são realizados regularmente em medidas preventivas contra doenças como diarreia ou malária. Os médicos de base nas equipes médicas podem administrar vacinas, identificar várias doenças por meio de sintomas e tratar ferimentos que não são graves. Alguns podem até realizar exames de sangue simples para chegar a um diagnóstico. Esta é uma vantagem significativa nessas áreas.
+
+É evidente que os naxalitas fizeram grandes avanços na melhoria da qualidade de vida das pessoas nas áreas em que operam.
+
+### Questões sociais (raça, gênero, trabalho forçado, etc) dos naxalitas
+Os naxalitas fizeram conquistas extremamente positivas e importantes em termos de erradicação da discriminação e combate à opressão social. Vamos consultar o relatório do governo indiano para obter mais informações.
+
+Como mencionado acima, os naxalitas lutaram contra a discriminação contra os adivasis (povos indígenas):
+>Sempre que houver uma base para discrição por parte dos funcionários do governo, o pessoal florestal teve que ser apaziguado de diferentes maneiras para evitar o assédio. Foi só depois que os naxalitas entraram em cena que os adivasis conseguiram proteção contra esse assédio, que era bem conhecido da administração, mas normalmente ignorado.
+
+Os naxalitas também fizeram muito para combater a opressão de casta e gênero, que continua sendo um grande problema na Índia. Isso inclui acabar com a exploração sexual de mulheres da classe trabalhadora por homens da casta superior:
+>Formas de tratamento indelicado a que os dalits foram submetidos, e a proibição de usar roupas e calçados limpos na presença de castas superiores, ou ao passar por suas localidades, e a compulsão de se dirigir a eles como dora ou malik e outros semelhantes práticas opressivas, em geral, foram encerradas em suas áreas de trabalho. A humilhação diária e a exploração sexual de mulheres trabalhadoras de comunidades dalit por homens de casta superior é outra forma de opressão que tem sido combatida com sucesso.
+>
+>Em Bihar, houve muitos casos em que dalits sofreram opressão social e, recentemente, vítimas dos massacres perpetrados por castas senas como Ranbir Sena. As vítimas receberam essa ajuda dos naxalitas.
+
+Uma de suas conquistas mais importantes é acabar com o trabalho forçado nas comunidades rurais, que floresceu por décadas:
+>Não existe nenhuma lei que penalize o trabalho forçado em outras formas. Portanto, floresceu nas formas mais medievais no distrito de Telangana em Karimnagar, e foi necessário um grande aumento liderado pelos naxalitas no final dos anos setenta e início dos anos oitenta do século passado para pôr fim a ele.
+
+Crucialmente, os naxalitas também conseguiram impedir o despejo forçado e a apreensão de recursos naturais pelo governo indiano, bem como por empresas privadas:
+>Os habitantes da floresta (estavam) perpetuamente à beira da expulsão de seu próprio habitat. O medo da resistência armada naxalita dissuadiu os movimentos repressivos e depredadores das autoridades.
+
+Talvez a mais inspiradora de todas essas conquistas seja o senso de orgulho, humanidade e poder que os naxalitas incutiram nas pessoas. Isso é reconhecido até pelo governo indiano:
+>Além das questões concretas empreendidas pelos naxalitas contra a opressão social, o fato de que o quadro e também a maioria dos líderes locais das organizações naxalitas consistem em aldeões pobres de castas consideradas humildes, dotou os oprimidos de muita força. Uma sensação de impotência é uma característica da constituição psicológica das classes oprimidas. O quadro Naxalita típico, entretanto, é um adolescente confiante (provavelmente empunhando uma arma) dessas mesmas classes. Ver meninos e meninas de suas próprias aldeias e sua própria classe/casta ativa no movimento Naxalita, e exercendo poder sobre os 'grandes' homens da aldeia e o alto e poderoso tahsildar deu um sentimento de empoderamento aos oprimidos que tem valor inestimável.
+
+### Conclusão sobre os naxalitas
+Apesar da enorme campanha de propaganda dirigida contra eles, bem como da resposta totalmente perversa e violenta do governo indiano (documentada na obra de Arundhati Roy, já mencionada, Walking With The Comrades), o movimento naxalita conseguiu fazer grandes avanços pelo povo. Talvez isso seja melhor resumido pelo próprio governo indiano, em um comentário do relatório:
+>O movimento oferece proteção aos fracos contra os poderosos e leva a sério a segurança e a justiça para os fracos e os socialmente marginais.
+
+Em uma das nações mais pobres e exploradas da Terra, isso em si é uma grande conquista e algo a ser valorizado.
+
+## Os sandinistas na Nicarágua
+>O que vemos é um governo diante de enormes problemas, alguns aparentemente insuperáveis, empenhado em uma grande experiência que, embora precária e incompleta em muitos pontos, dá esperança aos setores pobres da sociedade, melhora as condições de educação, alfabetização e saúde, e pela primeira vez oferece ao povo da Nicarágua um mínimo de justiça para todos, em vez de uma sociedade que oferece privilégios exclusivamente aos ricos... e aos poderosos.
+>
+>-- <cite>Conselho Mundial de Igrejas, Relatório sobre a Nicarágua, 1983.</cite>
+
+### Indicadores econômicos e nutricionais da Nicarágua
+A ditadura de Somoza deixou os nicaraguenses atolados em uma pobreza e miséria terríveis. De acordo com o livro [Nicarágua: A Ameaça de um Bom Exemplo](https://oxfamilibrary.openrepository.com/handle/10546/121188?show=full), publicado pela Oxfam America:
+>Estudos mostraram que em algumas áreas até 83% das crianças nicaraguenses estavam desnutridas, e a proporção de crianças gravemente desnutridas pode chegar a 45%.
+
+Isso começou a mudar quando os sandinistas assumiram o poder em 1979. Para começar, a produção agrícola aumentou 8% entre 1979 e 1983. Além disso, aumentou o consumo per capita da maioria dos alimentos básicos. A Oxfam America creditou isso diretamente às políticas dos sandinistas:
+>Isso foi possibilitado por subsídios do governo e controles rígidos sobre os preços e a distribuição de alimentos básicos. Estabeleceram-se pontos de distribuição especiais para oito produtos básicos: arroz, feijão, milho, farinha, açúcar, sal, óleo de cozinha e sabão. Mais recentemente, a distribuição desses itens básicos pelos grupos de bairro foi reforçada para proteger os interesses dos mais pobres em um momento de escassez crescente e preços crescentes.
+
+Os sandinistas também realizaram uma reforma agrária significativa. De acordo com um [estudo](https://minds.wisconsin.edu/bitstream/handle/1793/56510/ltc122.pdf?sequence=1) da Universidade de Wisconsin-Madison, o programa de reforma agrária fez um grande progresso na melhoria de vida dos trabalhadores agrícolas:
+>A reforma agrária da Nicarágua realizou mais durante seu primeiro ano de operação do que a maioria das reformas agrárias alcançou em períodos muito mais longos. [...] Os trabalhadores rurais foram organizados em um sindicato nacional forte e passaram a receber melhores salários e a participar da formulação e implementação de políticas governamentais. [...] Essas conquistas foram ainda mais impressionantes devido à destruição generalizada e à quebra de safra que a Nicarágua enfrentou no final da guerra.
+
+O referido relatório da Oxfam America também discute a questão, observando que a reforma agrária forneceu terras para dezenas de milhares de famílias:
+>Os principais beneficiários da reforma agrária e do aumento de cinco vezes no crédito do Estado entre 1979 e 1982 foram os camponeses. Entre outubro de 1981 e agosto de 1984, 49.661 famílias receberam títulos de propriedade.
+
+Desde a reconquista do poder em 2005, os sandinistas conseguiram melhorias significativas na economia e na qualidade de vida da Nicarágua. Segundo [dados da FAO](http://www.fao.org/faostat/en/#country/157), as políticas sandinistas levaram a uma redução drástica da desnutrição. Além disso, dados do Banco Mundial mostram que os sandinistas [reduziram a pobreza pela metade](https://data.worldbank.org/country/nicaragua) na Nicarágua. Essas realizações devem ser apreciadas.
+
+### Conquistas na saúde da Nicarágua
+Quando os sandinistas chegaram ao poder, eles herdaram uma nação terrivelmente doente, que havia sido devastada pela ditadura de direita. De acordo com um [artigo](https://journals.sagepub.com/doi/abs/10.1177/089692058901600105) na revista Critical Sociology:
+>Quando os sandinistas chegaram ao poder em 1979, enfrentaram uma série de graves problemas de saúde legados pelo antigo regime de Somoza.
+
+Apesar disso, os sandinistas conseguiram obter muitos "ganhos impressionantes na área da saúde", como é demonstrado por um exame das evidências estatísticas. De acordo com um [estudo](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1651882/pdf/amjph00633-0082.pdf) do American Journal of Public Health:
+>Antes da revolução nicaraguense de 1979, o acesso aos serviços de saúde era amplamente limitado aos setores abastados da população urbana e à minoria de trabalhadores com cobertura de seguridade social. Tentativas repetidas de reforma pela medicina organizada foram ineficazes. Desde a revolução, ocorreu uma grande expansão nos serviços de saúde.
+
+O acesso aos cuidados de saúde expandiu-se maciçamente e foi desenvolvido um enfoque nos cuidados preventivos. De acordo com o relatório da Oxfam acima mencionado:
+>Enquanto se estima que em 1979 pouco mais de um quarto da população poderia obter serviços médicos, em 1982 cerca de 70% dos nicaraguenses tinham acesso regular aos cuidados de saúde. No processo, houve uma mudança radical de cuidados primordialmente curativos e urbanos para uma minoria privilegiada para uma ênfase na prevenção, o que é particularmente notável na área de cuidados materno-infantis.
+
+Essas políticas levaram a melhorias acentuadas nas condições de saúde da população. De acordo com o [estudo](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1651882/pdf/amjph00633-0082.pdf) citado:
+>A evolução dos serviços de saúde, atividades de prevenção e educação pode estar relacionada a melhorias rápidas no estado de saúde da população desde 1979. Estima-se que, entre 1978 e 1983, a mortalidade infantil diminuiu de 121 para 80,2 por 1.000 nascidos vivos, expectativa de vida ao nascer passou de 52 para 59 anos. O número de casos notificados de malária diminuiu em 50$, os casos de poliomielite não foram notificados durante dois anos, não foram notificados casos de sarampo no primeiro semestre de 1984 e a maioria das outras doenças evitáveis ​​por imunização foram consideravelmente reduzidas.
+
+O sistema de seguridade social também foi amplamente expandido:
+>O sistema de seguridade social está se expandindo rapidamente. Desde 1979, a percentagem da população ativa coberta pela segurança social duplicou, de 16% para 32%. Talvez mais importante, a maioria dos grupos recentemente cobertos trabalha nos setores agrícolas anteriormente negligenciados em partes remotas do país. A cobertura do INSS oferece seguro de aposentadoria e indenização trabalhista, entre outros benefícios não médicos.
+
+Essas são conquistas importantes, que representam uma melhoria substancial na qualidade de vida de centenas de milhares (senão milhões) de pessoas.
+
+### Educação e alfabetização na Nicarágua
+De acordo com um relatório da UNESCO, a campanha de alfabetização sandinista foi um grande sucesso:
+>Os resultados da campanha foram algo para se orgulhar. A Nicarágua deu uma contribuição substancial para a experiência mundial na busca de soluções para erradicar o analfabetismo.
+
+A taxa de alfabetização melhorou dramaticamente, de aprox. 50% a menos de 13%:
+>Em cinco meses, 95.582 brigadistas conseguiram ensinar 406.056 nicaraguenses a ler e escrever em espanhol de forma que a taxa de analfabetismo de 50,35% pudesse ser reduzida em 37,39 pontos percentuais para 12,96%. Na região mais industrializada do Pacífico a taxa de analfabetismo foi reduzida de 28,06 para 7,8%, na região montanhosa central de 66,74% para 20,21% e na região menos desenvolvida do Atlântico o salto foi maior com 78,07% para 25,59%.
+
+A campanha foi um grande benefício para o povo marginalizado da Nicarágua:
+>Trouxe evidências tangíveis para os grupos mais marginalizados de nicaraguenses de que a sociedade iria incluí-los e o movimento revolucionário mudaria suas vidas para melhor. A campanha foi concebida como parte de um processo de transformação social que visa a redistribuição de poder e riqueza. A campanha ajudou as pessoas a desenvolver habilidades básicas, conhecimentos e atitudes que conduzam a essa transformação.
+
+Esta é uma das expansões mais substanciais da alfabetização que a América Latina já viu e deve ser reconhecida como um modelo de educação revolucionária.
+
+### Política social e igualdade de gênero na Nicarágua
+De acordo com o Fórum Econômico Mundial, a igualdade de gênero na Nicarágua melhorou muito sob os sandinistas. Isso é observado em um [estudo](https://ideas.repec.org/p/pra/mprapa/86769.html) da Universidade de Munique:
+>Nos últimos cinco anos, o Índice Global de Diferenças de Gênero do Fórum Econômico Mundial tem relatado que a Nicarágua é um dos países com maior igualdade de gênero no mundo. Este é o ápice de um notável aumento na igualdade de gênero na Nicarágua durante a última década, mapeado pelo mesmo índice.
+
+As mulheres também se beneficiaram muito de vários programas sandinistas, como a já mencionada campanha de alfabetização. De acordo com o [relatório da UNESCO](https://unesdoc.unesco.org/ark:/48223/pf0000146007):
+>Para muitas mulheres, a campanha de alfabetização representou uma oportunidade de emancipação: 60% dos brigadistas eram mulheres, assim como cerca de 50% dos alfabetizadores. A separação do corpo docente (Exército Popular de Alfabetização) segundo homens e mulheres aumentou as oportunidades de liderança para as brigadistas.
+
+São avanços impressionantes, que deixam clara a dedicação que as revolucionárias sandinistas tiveram para melhorar a condição feminina, assim como seu envolvimento na atividade política e de luta.
+
+### Conclusão sobre a Nicarágua
+Embora os sandinistas tenham inegavelmente cometido grandes erros nos últimos anos (como sua crescente afinidade com as políticas neoliberais, austeridade etc.), suas conquistas não podem ser negadas. Isso é especialmente verdadeiro quando consideramos as terríveis condições por que passaram durante a guerra e a hostilidade do governo dos Estados Unidos desde então.
+
+Fontes:
+- [Oxfam America | Nicaragua: The Threat of a Good Example?](https://oxfamilibrary.openrepository.com/handle/10546/121188?show=full)
+- [University of Wisconsin-Madison | Agrarian Reform in Nicaragua](https://minds.wisconsin.edu/bitstream/handle/1793/56510/ltc122.pdf?sequence=1)
+- [Food and Agricultural Organization (UN) | Nicaragua Profile](http://www.fao.org/faostat/en/#country/157)
+- [World Bank | Nicaragua](https://data.worldbank.org/country/nicaragua)
+- [Critical Sociology | A Report on the Health of the Nicaraguan Revolution](https://journals.sagepub.com/doi/abs/10.1177/089692058901600105)
+- [American Journal of Public Health | Health Services Reforms in Revolutionary Nicaragua](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1651882/pdf/amjph00633-0082.pdf)
+- [UNESCO | Nicaragua's Literacy Campaign](https://unesdoc.unesco.org/ark:/48223/pf0000146007)
+- [University of Munich | An Investigation Into the Reported Closing of the Nicaraguan Gender Gap](https://ideas.repec.org/p/pra/mprapa/86769.html)
+
+## Os zapatistas no México
+Junto com o movimento naxalita da Índia, o Exército Zapatista de Libertação Nacional (mais comumente conhecido como EZLN, ou simplesmente Zapatistas) é sem dúvida a formação socialista revolucionária mais significativa do mundo hoje. Desde o lançamento de sua insurreição em 1º de janeiro de 1994, o EZLN tem servido de inspiração para esquerdistas e indígenas em todo o mundo. Em homenagem ao recente anúncio de que o EZLN está expandindo formalmente seu território, devemos aproveitar esta oportunidade para discutir os zapatistas, suas conquistas e as lições que eles podem nos ensinar. Também podemos estudar os prós e os contras de sua abordagem particular do socialismo revolucionário, que se concentra muito mais na autonomia da comunidade e na democracia direta, em vez de estabelecer uma ditadura do proletariado.
+
+Deve-se notar que, apesar das reivindicações excitadas de numerosos anarquistas, os zapatistas não são um grupo anarquista. Na verdade, eles rejeitam explicitamente o rótulo. Além disso, eles usam imagens da Revolução Cubana (particularmente Che Guevara), e conceitos marxistas aparecem com frequência nos escritos de grandes figuras do movimento zapatista, incluindo o porta-voz de facto do grupo, o Subcomandante Marcos (agora conhecido como Subcomandante Galeano).
+
+### Sistema econômico e padrões de vida zapatistas
+Antes da formação do EZLN, o povo de Chiapas era cruelmente explorado pelo sistema capitalista que existia em sua região. Em 2015, o Subcomandante Insurgente Moisés observou:
+>Antes da criação do Exército Zapatista de Libertação Nacional, nós indígenas de Chiapas não existíamos para o sistema capitalista; não éramos pessoas para isso; não éramos humanos. Nós nem existíamos como lixo por causa disso. E imaginamos que foi assim para os outros irmãos e irmãs indígenas no resto do nosso país. E é assim que imaginamos que seja em qualquer país onde existam indígenas... Ninguém sabia sobre rodovias, ninguém sabia que havia coisas chamadas clínicas e hospitais, muito menos escolas, ou salas de aula para educação. Nunca houve nenhuma campanha de saúde, programas, bolsas, nada. Fomos esquecidos.
+
+Desde o estabelecimento de suas comunidades autônomas, o EZLN transformou radicalmente o sistema econômico da região. Eles estabeleceram um sistema baseado em cooperativas e propriedades coletivas. A escritora anarquista Hilary Klein escreve:
+>Além de saúde e educação, os zapatistas também construíram uma infraestrutura econômica projetada para lidar com o alto nível de pobreza em suas comunidades. Frequentemente chamada de 'economia solidária', a economia autônoma dos zapatistas oferece uma alternativa popular ao capitalismo global [...] As cooperativas econômicas geram recursos que são investidos de volta na comunidade. Devido à divisão do trabalho por gênero, muitas vezes existem cooperativas de homens e mulheres. Os homens, por exemplo, possuem cooperativas de café ou gado, enquanto as mulheres possuem cooperativas de artesanato, cooperativas de criação de galinhas e hortas coletivas. As lojas cooperativas fornecem mercadorias para os membros da comunidade a preços razoáveis, ao mesmo tempo que geram renda. O dinheiro arrecadado pelas cooperativas é usado para cobrir despesas compartilhadas, por exemplo, quando os representantes da comunidade viajam para uma reunião regional.
+
+Este sistema teve algum sucesso no aumento de receitas para a região; no entanto, a recusa do EZLN em assumir o poder estatal limitou a extensão do que eles podem alcançar. Apesar dos ricos recursos naturais da região, o EZLN optou por permanecer primordialmente agrário, abstendo-se de tentativas de extrair e utilizar esses recursos (pelas quais recebeu críticas de muitos marxistas, como Louis Proyect). Isso está ligado tanto à recusa em assumir o poder do Estado quanto ao desejo de preservar os estilos de vida indígenas tradicionais (um aspecto importante da rebelião zapatista).
+
+Em suma, embora o EZLN tenha conseguido se libertar das cadeias do capital internacional e estabelecer um sistema baseado na ajuda mútua e na propriedade comum, eles não estabeleceram uma economia socialista plenamente desenvolvida. Se eles farão isso no futuro, ainda está para ser visto. As verdadeiras conquistas do EZLN estão nas áreas de saúde, educação e política social, como veremos em breve.
+
+### Cuidados de saúde em territórios zapatistas
+Antes do levante inicial, as pessoas no atual território do EZLN tinham muito pouco acesso a cuidados de saúde e viviam em condições de saúde realmente péssimas. De acordo com a National University of Ireland, Cork:
+>Este descaso com a provisão de serviços de saúde adequados em Chiapas tornou-se um dos principais problemas que levaram o movimento zapatista a vocalizar suas preocupações. Essa visão rapidamente reuniu a comunidade zapatista para iniciar a construção de um sistema de saúde centrado em suas necessidades individuais, costumes e cultura. O sistema de saúde autônomo nasceu e o conceito rapidamente se tornou popular entre todas as comunidades zapatistas.
+
+Desde a revolta do EZLN de 1994, os zapatistas fizeram grandes avanços na área da saúde nos territórios sob seu controle:
+>É claro que os esforços investidos pelos zapatistas no estabelecimento de um sistema de saúde totalmente independente usando recursos limitados foram recompensados ​​pelos benefícios de saúde significativos alcançados em centenas de comunidades zapatistas. Os zapatistas testemunharam melhorias na saúde das mulheres e das crianças. Eles também viram os benefícios para a saúde decorrentes da melhoria da higiene como resultado do papel do promotor de saúde e de seu papel na educação da comunidade. A assistência médica autônoma despertou um senso de propósito nos corações e mentes dos habitantes da comunidade, enquanto eles lidam com confiança com os problemas de saúde de suas aldeias. Em essência, a saúde autônoma sem dúvida trouxe benefícios de saúde duradouros para o mundo dos zapatistas.
+
+A Organização Mundial da Saúde declara:
+>Existem atualmente cerca de 200 casas de saúde comunitárias e 25 clínicas regionais autônomas, algumas das quais já em funcionamento há 10 anos, e uma clínica odontológica... Se tivermos em mente que quase todas as instalações médicas foram construídas nos locais onde não existia antes, é fácil avaliar a importância de alcançar este objetivo graças ao esforço da comunidade.
+
+A saúde das mulheres melhorou dramaticamente nos territórios zapatistas:
+>A saúde autônoma está tendo um efeito positivo na saúde das mulheres e das crianças. Em regiões onde antes havia taxas significativamente altas de mortalidade durante o parto, agora houve um período de oito anos ou mais em que nenhuma morte materna foi registrada. Com a maior disponibilidade de parteiras locais e o conhecimento médico básico fornecido pelo promotor de saúde, as mulheres zapatistas agora estão dando à luz com segurança em suas próprias comunidades, com um risco de morte drasticamente reduzido. Além disso, os exames de câncer e de saúde sexual são realizados com maior frequência, melhorando ainda mais a qualidade de vida das mulheres.
+
+A saúde das crianças também melhorou muito. A National University of Ireland, Cork declara:
+>Assim como acontece com as mulheres, a melhora na saúde das crianças também merece destaque. Os zapatistas agora priorizam ativamente a vacinação das crianças, garantindo que o maior número possível de crianças receba a imunização necessária. Os promotores de saúde também são treinados para detectar os sintomas associados à sepse e icterícia em bebês recém-nascidos e, por meio da mídia visual, organizações estrangeiras estão ensinando os promotores de saúde a identificar e tratar essas doenças.
+
+As comunidades zapatistas têm taxas de vacinação mais altas do que as comunidades pró-governo em Chiapas:
+>Com a maior disponibilidade de assistência médica autônoma, 84% das comunidades zapatistas recebem vacinas importantes contra doenças como a malária. Nas comunidades pró-governo esse número é de apenas 75%, o que significa que menos desses habitantes da comunidade têm acesso às vacinas necessárias, apesar das promessas de saúde do Estado.
+
+Além disso, os zapatistas reduziram significativamente os níveis de doenças infecciosas em suas comunidades:
+>Uma disparidade maior é aparente entre as comunidades pró-governo e as aldeias zapatistas no que diz respeito ao tratamento da tuberculose. Atualmente, 32% dos habitantes zapatistas sofrem de tuberculose, enquanto em grandes porções das comunidades pró-governo, notáveis ​​84% ​​continuam a ter essa infecção respiratória.
+
+Os zapatistas também melhoraram muito a infraestrutura de higiene e saneamento no território sob seu controle:
+>Atualmente, 74% das comunidades zapatistas agora têm acesso a banheiros e isso levou a uma grande melhoria na higiene pessoal. Apenas 54% das comunidades pró-governo podem reivindicar acesso a banheiros em suas casas. Isso fornece evidências claras do impacto positivo que o promotor de saúde tem na educação das comunidades sobre saúde e higiene. Também sugere que as comunidades zapatistas têm apetite por conhecimento e estão dispostas a aprender tudo o que é necessário para proteger sua saúde.
+
+Os zapatistas conseguiram até eliminar virtualmente o consumo de álcool em suas comunidades, o que teve um impacto extremamente positivo na saúde pública:
+>Proclamada como uma das maiores conquistas de saúde para o movimento zapatista, a erradicação da fabricação e do consumo de álcool melhorou significativamente a saúde de todos os zapatistas. Esta política de não tolerância está diretamente ligada à redução de muitas doenças e infecções, incluindo “úlcera, cirrose, desnutrición y heridas con machete”.
+
+No geral, os zapatistas fizeram uma série de avanços tremendos na área da saúde em suas comunidades. A Universidade Nacional da Irlanda, em Cork, observa:
+>É claro, como demonstram esses números, que a saúde zapatista tem um impacto profundo na qualidade de vida de muitos indígenas que frequentam regularmente os serviços de saúde autônoma. A saúde autônoma zapatista tem se mostrado bem-sucedida, em muitos aspectos, na redução de doenças e promoção da independência da comunidade. Esta abordagem à saúde capacita as comunidades a acessar recursos e conhecimentos que abriram oportunidades sem paralelo para a sobrevivência entre comunidades indígenas remotas e isoladas.
+
+A Organização Mundial da Saúde observa:
+>Trata-se de um modelo que tem se mostrado capaz de impactar o que se pode denominar de nível primário de atenção à saúde, atuando dentro de uma estrutura de saúde organizada e como parte de um projeto político. Vista sob essa ótica, conseguiu inserir no cenário uma metodologia que o Serviço Nacional de Saúde não pôde ou não quis desenvolver.
+
+Essas conquistas também conseguiram incutir um senso de dignidade e orgulho nessas comunidades, que antes eram tão mal exploradas. A National University of Ireland, Cork declara:
+>Como resultado da saúde autônoma, as comunidades agora controlam seus serviços de saúde e, juntas, decidem sobre a política de saúde local e a nomeação de um promotor de saúde adequado. Portanto, é natural que essas comunidades desenvolvam uma autoconfiança e empoderamento não sentidos antes da introdução generalizada da saúde autônoma.
+
+As conquistas da saúde nos territórios zapatistas são algumas das maiores conquistas da revolução.
+
+### Educação em territórios Zapatistas
+Além da saúde, o EZLN também melhorou muito a oferta de educação em suas comunidades. Antes da revolta, a educação estava em muito mau estado. A Universidade Nacional da Irlanda, Cork observa:
+>A educação em Chiapas era de baixo padrão e muitas das estatísticas a seguir comprovam essa afirmação. Segundo Rovira (2000), 30% das crianças em Chiapas não frequentavam a escola, enquanto 6,5% da população chiapana era considerada analfabeta. Outros críticos, no entanto, colocaram a taxa de analfabetismo em Chiapas muito mais alta, argumentando que cerca de 18% da população do estado não tinha nenhuma forma de educação básica... Além disso, outras estatísticas divulgadas destacam o baixo desempenho de quem tem acesso à educação básica escolaridade. Apenas 10% das crianças indígenas concluem o ensino fundamental em Chiapas. Em contraste direto, 54% das crianças nacionalmente atingem o mesmo padrão de educação
+
+Como mostram as estatísticas acima, as crianças indígenas estavam em particular desvantagem. Isso é especialmente verdadeiro porque a maioria dos professores não falava uma língua indígena, impedindo assim a capacidade de aprendizagem das crianças indígenas. As escolas estaduais costumam ser acusadas de envergonhar crianças indígenas, com resultados desastrosos:
+>As famílias ficam revoltadas e frustradas porque a educação do Estado “os envergonha por serem indígenas” e os professores funcionários do Estado os acusam de falar “una lengua de perros”, uma referência degradante ao uso das línguas indígenas nativas pelas crianças. De acordo com Castellanos (2014), o abuso de álcool é prevalente em muitas comunidades pró-governo e esses altos níveis de consumo estão ligados a taxas significativamente altas de suicídio entre jovens adolescentes indígenas. Afirma-se que muitos jovens indígenas dessas comunidades recorrem a níveis excessivos de consumo de álcool como forma de enfrentar a discriminação que vivenciam na escola. Estima-se que, em média, seis tentativas de suicídio ocorram por mês entre essa coorte de jovens indígenas que vivem em comunidades pró-governo.
+
+Em contraste, as escolas zapatistas protegeram e ajudaram os indígenas:
+>Muitos observadores do movimento zapatista notaram que o levante indígena de 1994 trouxe uma transformação importante e “ressignificação do que significa ser indígena” no México moderno. Para as comunidades pró-zapatistas, essas “mudanças culturais repentinas” foram experimentadas dentro da estrutura política e social protetora do movimento zapatista. Hoje, a educação autônoma incentiva as comunidades a celebrar suas identidades indígenas e acolhe a “reavaliação de sua cultura e sua língua”. É amplamente aceito que, por meio da educação autônoma, os rebeldes zapatistas “abrigaram jovens zapatistas com mudanças sociais” que tiveram um impacto tão severo sobre aqueles que vivem fora das estruturas protetoras do movimento zapatista.
+
+Os zapatistas expandiram muito o sistema educacional em seus territórios e até começaram a estabelecer um segundo nível em seu sistema educacional:
+>Com o passar dos anos, a educação autônoma expandiu seu alcance em toda a região e, como resultado, os rebeldes começaram a desenvolver uma segunda camada no sistema educacional. Este compromisso lento e constante para avançar seu sistema educacional demonstra a posição importante e respeitada que a educação ocupa no projeto mais amplo de autonomia zapatista.
+
+Embora o sistema zapatista continue focado principalmente na educação primária, ele conseguiu melhorar muito o acesso à educação na região. Relatórios da National University of Ireland, Cork:
+>Embora a educação primária esteja disponível em todas as comunidades zapatistas, há apenas cinco escolas secundárias em funcionamento na região, uma construída em cada Caracol. Os números divulgados em 2001 indicam que 37% de todos os alunos zapatistas estão agora progredindo continuamente para o segundo nível de educação. No entanto, de acordo com as observações de Barmeyer (2008), a escola primária continua sendo o único serviço educacional disponível em todas as comunidades indígenas do território autônomo. No entanto, apesar de sua infraestrutura rudimentar e salas de aula com poucos recursos, a educação autônoma é um sistema bem ajustado, projetado precisamente para cumprir os objetivos que os zapatistas esperavam dela.
+
+O sistema educacional zapatista não está focado apenas no aprendizado em sala de aula; também ajuda os jovens locais a aprender as habilidades necessárias para administrar e sustentar uma comunidade:
+>Os alunos zapatistas frequentam regularmente aulas de agricultura e sustentabilidade ambiental, aprendendo sobre técnicas agrícolas viáveis ​​que ajudam a proteger o meio ambiente e a maximizar os recursos agrícolas limitados dos agricultores locais. Hoje, os jovens agricultores estão aprendendo a plantar videira em seus campos como forma de sufocar e diminuir a disseminação de ervas daninhas em suas terras. É uma prática que devolve nutrientes ao solo e prepara os campos para safras agrícolas consecutivas. Antes da introdução deste método de cultivo único, muitos agricultores não protegiam seus campos e muitas vezes queimavam ervas daninhas, eliminando assim toda a possibilidade de “enriquecer o solo com nutrientes e nitrogênio”. A educação deste tipo é um meio de salvaguardar e assegurar o crescimento de safras vitais, importantes para apoiar os habitantes da comunidade e suas economias locais.
+
+Todas essas informações demonstram que os zapatistas melhoraram muito o acesso à educação em suas comunidades.
+
+### Direitos das mulheres e anti-racismo nas comunidades zapatistas
+Outro avanço importante dos zapatistas é a melhoria das relações de gênero em suas comunidades. Um fator importante para isso foi a proibição do álcool, que reduziu muito os níveis de violência doméstica. Relatórios da National University of Ireland, Cork:
+>As mulheres eram frequentemente trocadas em troca de álcool e as relações sociais entre os sexos muitas vezes não passavam de homens tratando as mulheres como “animais domésticos”. Agora, com sua rejeição completa ao álcool, os zapatistas podem reivindicar uma melhoria significativa nas relações de gênero, com as mulheres agora desafiando “a ordem tradicional” dos papéis de gênero nas comunidades. Remover o álcool da vida zapatista melhorou a saúde e “suavizou as relações humanas” consideravelmente.
+
+A participação democrática da comunidade também desempenhou um papel, já que as pessoas em cada comunidade são livres para discutir abertamente os problemas das relações de gênero e violência sexual:
+>Em um debate sobre saúde comunitária testemunhado pelo autor, Villarreal (2007) afirma que a questão da saúde sexual dominou as discussões em uma assembléia comunitária. Isso demonstra a liberdade que as comunidades têm para lidar com os problemas de saúde enfrentados por sua aldeia e a liberdade de fazê-lo em seus termos.
+
+O EZLN adotou uma abordagem ativa no combate ao patriarcado. Em 2018, os zapatistas organizaram um evento inteiramente por e para as mulheres. Relatórios de não violência:
+>“O que queríamos era conhecer muitas mulheres”, disse a Comandante Jenny, que coordenou o evento. “Achamos que apenas algumas mulheres iriam vir, por isso estamos muito felizes em ver quantas de vocês se juntaram a nós aqui.” Embora apenas seus olhos estivessem visíveis, um sorriso foi detectado por trás de seu capuz preto. “Tem sido um trabalho árduo, mas estamos muito satisfeitos em ver que há muitas outras mulheres lutando contra o patriarcado”. [...] O evento não foi apenas uma oportunidade de criar redes educacionais ou profissionais, mas também um espaço para considerar a saúde e o bem-estar de uma mulher na luta pela justiça. As atividades vão desde oficinas, painéis de discussão e exibição de filmes até apresentações de teatro, exposições de arte e eventos esportivos, incluindo partidas de basquete e futebol. Os temas incluíram violência de gênero, autodefesa, autocuidado, sexismo na mídia, direitos sexuais, saúde e educação, misoginia e infância, discriminação contra comunidades LGBTQ indígenas, mulheres defensoras dos direitos ambientais e descolonização. Todas as atividades foram conduzidas e realizadas por mulheres e todas visaram gerar consciência sobre a desigualdade de gênero ou restaurar a autoconfiança e autonomia das mulheres.
+
+O EZLN conecta sua luta contra o patriarcado e o racismo à luta contra o capitalismo:
+>“O capitalismo não é apenas colonial, é também patriarcal e racista”, disse Fernanda Esquivel, uma estudante de Guadalajara de 20 anos. “Vir aqui e ver que os zapatistas ainda resistem e resistem há tantos anos é uma grande inspiração para mim. Estar com tantas mulheres e sentir-me unida também me dá esperança de realmente criar uma mudança. Na academia não há nada que possa mostrar a você como é vir aqui, sentir e compartilhar essas experiências na prática.”
+
+Os zapatistas implementaram sua Lei Revolucionária para lutar contra a opressão de gênero e outras formas de intolerância:
+>Muitos seguidores da revolução zapatista não estavam cientes dos elementos-chave que formaram o movimento antes de ir a público em 1994. Inegavelmente, uma das principais características que moldaram o movimento foi a "Lei Revolucionária das Mulheres", aprovada pelos comitês zapatistas em 1992.
+>
+>Para Sylvia Marcos, socióloga e especialista em movimentos indígenas nas Américas, a ênfase nos direitos das mulheres é um fator determinante para a organização. Além disso, ela indica que esses direitos foram reivindicados não apenas para as mulheres como indivíduos, mas estavam "totalmente vinculados e entrelaçados com os direitos coletivos".
+
+De modo geral, é claro que o EZLN adotou uma postura firme contra o patriarcado, o racismo e outras formas de discriminação.
+
+### Conclusão sobre o EZLN
+O EZLN conseguiu inúmeras grandes conquistas desde sua revolta em 1994; a recente expansão de seu território dá esperança de que sua revolução cresça e melhore. Embora ainda não tenham conseguido estabelecer o socialismo desenvolvido, suas conquistas já são suficientes para garantir-lhes um lugar na história dos grandes movimentos revolucionários proletários e antiimperialistas.
+
+Fontes:
+- [The Nation | The Zapatista Revolution is Not Over](https://www.thenation.com/article/zapatista-chiapas-caracoles/)
+- [Enlace Zapatista | Political Economy from the Perspective of the Communities: Words of Subcomandante Insurgente Moises](http://enlacezapatista.ezln.org.mx/2015/05/24/political-economy-from-the-perspective-of-the-communities-i-words-of-subcomandante-insurgente-moises-may-4-2015/)
+- [National University of Ireland, Cork | Understanding Zapatista Autonomy: An Analysis of Healthcare and Education](https://www.academia.edu/33163010/Understanding_Zapatista_Autonomy_An_Analysis_of_Healthcare_and_Education)
+- [World Health Organisation (WHO) | Health and Autonomy: The Case of Chiapas](https://www.who.int/social_determinants/resources/csdh_media/autonomy_mexico_2007_en.pdf)
+- [Waging Nonviolence | Zapatista Women Inspire Fight Against Patriarchy](https://wagingnonviolence.org/2018/04/zapatista-women-inspire-fight-against-patriarchy/)
+- [Indigenous Anarchist Federation | Zapatista Response to "The EZLN is NOT Anarchist"](https://iaf-fai.org/2019/05/05/a-zapatista-response-to-the-ezln-is-not-anarchist/)
+
+## A Bolívia
+Como todos sabemos, a Venezuela tem dominado as manchetes nos últimos anos, devido à crise econômica e política que assola aquele país. Isso deu uma nova pilha de munição para os liberais e reacionários atirarem contra nós, alegando que "a Venezuela prova que o socialismo não funciona!" Em resposta, devemos dar uma olhada em um país que seguiu políticas semelhantes, com um líder explicitamente socialista, que teve um enorme sucesso. Refiro-me, com convicção, à Bolívia, sob o comando do presidente Evo Morales.
+
+Antes de começar, deve-se notar que nem a Venezuela nem a Bolívia são tecnicamente "socialistas" no sentido marxista do termo; nem existe uma ditadura do proletariado, nem a economia está totalmente sob propriedade pública. No entanto, eles são muito mais esquerdistas do que a maioria dos governos no mundo hoje e se referem explicitamente a si próprios como socialistas. Eles se engajam na nacionalização, na expansão dos sistemas de bem-estar social e em políticas externas anti-imperialistas (como apoiar o governo de Cuba); todas essas conquistas, embora possamos considerá-las insuficientes para a construção do socialismo, devem ser apreciadas.
+
+Como socialistas, é nosso dever solidarizar-nos com os nossos camaradas de todo o mundo, independentemente da forma como decidem construir o socialismo. Além disso, como a Venezuela é atualmente o exemplo favorito de "socialismo" da mídia, parece justo que usemos uma nação semelhante em resposta. Agora, vamos analisar a situação na Bolívia.
+
+### Realizações econômicas, crescimento e redução da pobreza na Bolívia
+As políticas econômicas de Evo Morales se concentraram na nacionalização de várias empresas importantes, no aumento dos direitos trabalhistas e do sistema de previdência social e na forte oposição ao FMI e ao Banco Mundial. O The Economist (uma publicação neoliberal) discutiu algumas das políticas de Morales em um artigo sobre o tema:
+>Em seu primeiro mandato, o Sr. Morales impôs muitos controles sobre empresas privadas. As telecomunicações e as minas, assim como o gás, foram nacionalizadas. Os preços do gás e de muitos alimentos foram controlados e os produtores de alimentos forçados a vender no mercado local em vez de exportar. Um novo órgão estatal distribuiu alimentos a preços subsidiados.
+
+O artigo também afirma:
+>A nacionalização do petróleo e do gás natural por Morales em 2006, junto com os preços mais altos das exportações de gás para o Brasil, deixou seu governo inundado de dinheiro. Ele usou isso para expandir a provisão de bem-estar, incluindo uma pensão não-contributiva por idade e pagamentos às mães, desde que seus filhos estejam na escola e seus bebês sejam levados para exames de saúde. O presidente também distribuiu centenas de tratores gratuitamente.
+
+Essas políticas levaram ao maior crescimento econômico que a Bolívia já viu em décadas, e agora é a economia que mais cresce na América Latina. Isso é demonstrado por um relatório do Centro de Pesquisa Econômica e Política, que afirma que o crescimento sob Morales "tem sido maior do que em qualquer momento nos últimos 30 anos, com uma média de 4,9% ao ano desde que o atual governo assumiu em 2006". 
+
+O relatório também comenta algumas das políticas redistributivas do governo Morales:
+>O governo deu início a vários programas dirigidos aos bolivianos mais pobres. Isso inclui pagamentos a famílias pobres para aumentar a matrícula escolar; uma expansão das pensões públicas para reviver a pobreza extrema entre os idosos; e, mais recentemente, pagamentos para mães sem seguro para expandir os cuidados pré e pós-natal, para reduzir a mortalidade infantil.
+
+Um artigo do The Guardian, publicado após a eleição boliviana de 2014, analisa a importância do crescimento econômico da Bolívia e seu efeito na qualidade de vida:
+>Os benefícios desse crescimento foram sentidos pelo povo boliviano: sob Morales, a pobreza diminuiu 25% e a pobreza extrema diminuiu 43%; os gastos sociais aumentaram em mais de 45%; o salário mínimo real aumentou 87,7%; e, talvez sem surpresa, a Comissão Econômica para a América Latina e o Caribe elogiou a Bolívia por ser “um dos poucos países que reduziu a desigualdade”.
+
+O artigo termina comentando sobre Morales:
+>Ele desafiou a sabedoria convencional que diz que as políticas de esquerda prejudicam o crescimento econômico, que a classe trabalhadora não pode administrar economias de sucesso e que a política não pode ser transformadora - e ele fez tudo isso em face de uma enorme pressão política do FMI, da comunidade empresarial internacional e do governo dos EUA. No sucesso de Morales, lições políticas importantes podem ser encontradas - e talvez todos possamos aprendê-las.
+
+Bolívia, com aproximadamente 40% da economia sob algum tipo de propriedade estatal, fechou 2018 com uma das maiores taxas de crescimento do mundo.
+
+De acordo com um artigo da Telesur, o modelo econômico seguido pela Bolívia é baseado na Produção Social Comunitária, amparado por uma forte participação do Estado em setores estratégicos, o que vai de encontro às recomendações do FMI, que busca a supressão dos subsídios e a redução dos investimentos públicos. A economia boliviana registrou em média um crescimento de 4,9% no período 2006-2017, onde mais de três milhões de pessoas saíram da pobreza. O PIB registrou um crescimento de 4,2% no ano passado, de acordo com o Relatório de Economia da Bolívia 2017.
+
+A desigualdade econômica (medida pelo Índice GINI do Banco Mundial) também reduziu drasticamente sob Morales (ele foi eleito em 2006).
+
+Segundo sua própria Wikipedia:
+>Durante a sua presidência, a pobreza extrema na Bolívia foi reduzida de 36,7% a 16,8% entre 2005 e 2015. O Coeficiente de Gini (utilizado para medir a desigualdade de renda) desceu de 0,60 a 0,47. Aumentado imposto sobre a grande indústria boliviana de hidrocarbonetos, ele usou esses novos lucros para criar políticas sociais de combate ao analfabetismo, pobreza, racismo e sexismo. Um crítico do neoliberalismo, buscou reduzir a dependência monetária da Bolívia do FMI e do Banco Mundial, apostando numa economia mista. O PIB boliviano cresceu consideravelmente durante o governo Morales.[] Gozou de alta popularidade durante a primeira década que esteve no poder, sendo reeleito em 2009, em 2014 e, de forma controversa, em 2019. Ainda assim, seu governo foi marcado por acusações de corrupção e abuso de poder, com a Bolívia sendo ranqueada baixo nos índices de democracia global. Na política externa, Morales buscou boas relações com outros líderes de esquerda, como Hugo Chávez, Nicolás Maduro, Luís Inácio Lula da Silva e Cristina Kirchner.
+
+Tudo isso deixa claro que as políticas econômicas do governo Morales têm sido extremamente bem-sucedidas no crescimento da economia e na redução drástica da pobreza, ao mesmo tempo que combate o neoliberalismo e o imperialismo.
+
+### Reformas sociais e conquistas da Bolívia
+O governo Morales também conseguiu implementar reformas sociais muito bem-sucedidas, especialmente nas áreas de educação e questões raciais. A Bolívia conseguiu se tornar apenas a terceira nação da América Latina (depois da Venezuela e Cuba) a ser declarada "livre do analfabetismo" pela UNESCO. Isso foi alcançado por meio de programas educacionais inspirados no modelo cubano. Além disso, o governo boliviano fez grandes avanços na luta contra o racismo contra a população indígena da Bolívia (o próprio Morales é o primeiro presidente da Bolívia entre a população indígena). Por isso, eles têm recebido elogios da ONU.
+
+De acordo com um artigo da Telesur, o governo da Bolívia fez "grandes avanços" nos últimos dez anos na luta contra o racismo e a discriminação institucional e estrutural, anunciou terça-feira em nota oficial o Escritório do Alto Comissariado das Nações Unidas para os Direitos Humanos.
+
+O governo também tem procurado combater a violência e a discriminação contra as mulheres e promover a igualdade de gênero.
+O governo Morales conseguiu fazer grandes avanços em várias questões sociais na Bolívia.
+
+### Política externa e anti-imperialismo boliviano
+O governo Morales sempre se solidarizou com os governos cubano e venezuelano e se opôs ao capitalismo neoliberal e ao imperialismo norte-americano. Em 2005, Morales visitou Cuba, recebendo todas as homenagens de Fidel Castro. Enquanto estava lá, ele assinou um acordo no qual Cuba prometia à Bolívia ajuda em saúde e educação, e Morales se referia a Castro e Hugo Chávez como "os comandantes das forças de libertação das Américas e do mundo".
+
+O governo tem procurado promover o anti-imperialismo, abrindo mesmo uma escola militar explicitamente "anti-imperialista e anticapitalista" para os seus oficiais.
+
+De acordo com um artigo no The Guardian:
+>“Se o império ensina a dominação do mundo por meio de suas escolas militares, vamos aprender com essa escola para nos libertar da opressão imperialista”, disse o primeiro presidente indígena do país em uma cerimônia de posse na quarta-feira.
+>“Queremos construir um pensamento anticolonial e anticapitalista com esta escola que vincula as forças armadas aos movimentos sociais e neutraliza a influência da Escola das Américas, que sempre viu os indígenas como inimigos internos”, disse ele a uma multidão que incluía os ministros da defesa da Venezuela e da Nicarágua.
+
+No início deste ano, Morales compareceu à posse do presidente venezuelano Nicolas Maduro. Morales declarou seu apoio ao governo sandinista na Nicarágua, referindo-se explicitamente à revolução de 1979. Morales mantém uma relação estreita com o governo cubano. Como mencionado acima, ele recebeu todas as honras de Fidel Castro, assinou um acordo de ajuda com o governo cubano e até viajou a Cuba para tratamento médico (como fez Hugo Chávez).
+
+Hugo Chávez também foi um grande apoiador de Morales. Os dois se conheceram em 2006 e afirmaram sua solidariedade, bem como fecharam um acordo comercial. Morales também denunciou repetidamente o imperialismo americano nas Nações Unidas. O governo de Morales fez grandes avanços para enfrentar o imperialismo dos EUA e o neoliberalismo global, bem como apoiar vários governos de esquerda.
+
+### Conclusão sobre a Bolívia
+Embora Morales possa não ser tão esquerdista quanto gostaríamos, fica claro pelo que dissemos que seu governo (assim como o de Hugo Chávez) alcançou uma série de realizações extremamente impressionantes. Suas políticas reduziram a pobreza e a privatização, combateram vários males sociais e se concentraram fortemente no anti-imperialismo e na solidariedade internacional.
+
+Em 2012, John Crabtree e Ann Chaplin descreveram os resultados de suas entrevistas com o povo boliviano, nas quais pediram sua opinião sobre Morales. Eles afirmaram que:
+>Para muitos - talvez a maioria - dos bolivianos, este foi um período em que as pessoas comuns sentiram os benefícios da política de uma forma que não acontecia há décadas, ou nunca.
+
+Isso é algo que todos podemos apreciar.
+
+Obs: Apesar da expropriação e nacionalização dos recursos petrolíferos brasileiros em atividade na Bolívia, o governo boliviano pagou uma indenização à Petrobrás.
+
+Fontes:
+- [The Guardian | Evo Morales has proved that socialism doesn’t damage economies](https://www.theguardian.com/commentisfree/2014/oct/14/evo-morales-reelected-socialism-doesnt-damage-economies-bolivia)
+- [The Guardian | Bolivia opens 'anti-imperialist' military school to counter US foreign policies](https://www.theguardian.com/world/2016/aug/17/bolivia-anti-imperialist-military-school-evo-morales-us)
+- [Center for Economic and Policy Research | Bolivia: The Economy During the Morales Administration](https://cepr.net/report/bolivian-economy-during-morales-administration/)
+- [The Economist | The explosive apex of Evo's power](https://www.economist.com/the-americas/2009/12/10/the-explosive-apex-of-evos-power)
+- [John Crabtreee & Ann Chaplin | Bolivia: Processes of Change](https://www.amazon.com.br/Bolivia-Processes-English-John-Crabtree-ebook/dp/B00CKPAHE2)
+- [Wikipedia | Evo Morales](https://pt.wikipedia.org/wiki/Evo_Morales)
+- [Mint Press News | Bolivia’s president declares total independence from World Bank, IMF](https://www.mintpressnews.com/bolivias-president-declares-total-independence-world-bank-imf/230062/)
+- [Socialism, not neoliberalism, creates stability: Bolivia’s Evo](https://www.telesurtv.net/english/news/Socialism-Not-Neoliberalism-Creates-Stability-Bolivias-Evo-20170315-0038.html)
 
 # Mitos
 ## Mito sobre a origem do dinheiro
@@ -966,714 +2751,6 @@ Ganância por poder não é diferente coisa nenhuma de capitalismo, um mercado �
 
 Engels descreve isso detalhadamente em A Origem da Família, da Propriedade Privada e do Estado, sim, mas não dá pra negar que isso foi resultado de muita luta social pra se conquistar mais direitos dentro do Estado, não é através do "mercado" que a gente vai conseguir avanços sociais, quase nenhum avanço social foi conquistado com o mercado, foi conquistado por conflito social, através de greves, manifestações, desobediência civil, boicotes, e até guerra aberta. As empresas privadas investindo em causas sociais ou é uma coincidência feliz (o que é muito raro), ou é oportunismo (tipo a história do **pink money** ou **black money**), ou é cooptação.
 
-## A União Soviética
-A União das Repúblicas Socialistas Soviéticas foi a primeira nação a se declarar um estado socialista, dedicado à construção do comunismo. Ao longo das sete décadas de sua existência, a URSS passou por muitos estágios e fases de desenvolvimento, de uma sociedade feudal semicapitalista a uma nação capitalista de estado durante os anos da NEP, a um país socialista desenvolvido e, finalmente, a um estado revisionista em regressão em direção ao capitalismo. O objetivo deste é examinar as conquistas do socialismo na URSS até o início dos anos 1960, quando as reformas de mercado e a restauração capitalista começaram a surtir efeito. Também examinaremos os efeitos desastrosos que essas reformas tiveram sobre a saúde e o bem-estar do povo soviético.
-
-Este ensaio será composto por três partes. Esta primeira parte é uma discussão sobre as conquistas do socialismo soviético em termos de desenvolvimento econômico, padrão de vida e saúde. A questão de Stalin e a fome na Ucrânia também serão discutidas. A segunda parte será uma discussão sobre os avanços soviéticos nos direitos das mulheres, bem como a oposição ao racismo (tanto internamente como em sua manifestação global do imperialismo). Também discutiremos a natureza da democracia soviética. A terceira parte discutirá a eventual queda da URSS e os efeitos desastrosos da restauração capitalista e do revisionismo na URSS.
-
-### Revolução, comunismo de guerra e NEP
-Quando a revolução de 1917 ocorreu, a Rússia era **uma sociedade feudal atrasada e semicapitalista**. O sistema feudal havia sido abolido recentemente e substituído pela forma mais brutal e primitiva de capitalismo. A nação estava terrivelmente subdesenvolvida, sem sinais de melhora no futuro. Não apenas isso, mas o pequeno crescimento que ocorreu levou à enormes desigualdades. De acordo com o professor [Robert Allen](https://nyuad.nyu.edu/en/academics/divisions/social-science/faculty/robert-allen.html) (ex-Oxford University, agora na NYU):
->Não apenas as bases do avanço imperial eram estreitas, mas o processo de crescimento deu origem a mudanças tão desiguais na distribuição de renda que a revolução dificilmente foi uma surpresa. Os salários reais dos trabalhadores urbanos eram estáticos no final do período imperial, apesar de um aumento significativo na produção por trabalhador... A revolução também foi uma revolta camponesa, e os interesses dos camponeses eram diferentes... Como nas cidades, não houve ganho em salários reais.
-
-[Simon Clarke](https://homepages.warwick.ac.uk/~syrbe/), Professor Emérito de Sociologia da Universidade de Warwick, apóia estas afirmações:
->A agricultura havia atingido os níveis de produtividade da América do Norte em 1913 e os preços do trigo despencaram depois de 1914. A expansão das ferrovias havia terminado seu curso e não havia perspectiva de que a indústria leve protegida se tornasse internacionalmente competitiva. Os comparadores apropriados para as perspectivas do capitalismo russo no século XX não são o Japão, mas a Argentina ou mesmo a Índia. Além disso, o desenvolvimento capitalista russo trouxe pouco ou nenhum benefício para a classe trabalhadora urbana e rural, intensificando os conflitos de classe que eclodiram na Revolução.
-
-Com a revolução de 1917 (e depois da sangrenta guerra civil, com sua política de comunismo de guerra), a economia soviética começou a crescer rapidamente. A [Nova Política Econômica](https://en.wikipedia.org/wiki/New_Economic_Policy) (que nacionalizou a indústria em grande escala e redistribuiu a terra, enquanto permitia a venda privada do excedente agrícola) conseguiu transformar a Rússia de uma sociedade semi-capitalista em uma sociedade capitalista de estado em desenvolvimento, estabelecendo as bases para o socialismo. O Professor Clarke afirma:
->Após o comunismo de guerra, a Nova Política Econômica (NEP) procurou desenvolver a economia russa dentro de uma estrutura quase capitalista.
-
-No entanto, as circunstâncias econômicas passaram a exigir a transição para uma economia socialista planejada:
->No entanto, as barreiras institucionais e estruturais ao desenvolvimento econômico russo eram agora agravadas pelas circunstâncias desfavoráveis da economia mundial, de modo que não havia perspectiva de desenvolvimento liderado pelas exportações, enquanto a baixa renda doméstica fornecia apenas um mercado limitado para a indústria doméstica. Sem um programa de investimento coordenado pelo Estado, a economia soviética cairia na armadilha da baixa renda típica do mundo subdesenvolvido.
-
-Assim, as condições materiais da época tornavam a transição para uma economia socialista uma necessidade.
-
-### Criminosos anarquistas na URSS
-O tópico a seguir é uma visão geral detalhada sobre o movimento anarquista anti-soviético na Rússia e na Ucrânia após a Revolução de Outubro. O objetivo deste tópico é lançar luz sobre os atos criminosos e traiçoeiros que os anarquistas anti-soviéticos cometeram que são deliberadamente ou inconscientemente ignorados pela vasta maioria dos anarquistas contemporâneos quando criticam Lenin (que foi coagido por Trotsky) sobre a perseguição do [Exército Negro](https://en.wikipedia.org/wiki/Revolutionary_Insurrectionary_Army_of_Ukraine) de Nestor Makhno.
-
-Eu gostaria de deixar algo claro desde o início que muitos anarquistas modernos falham em reconhecer. Dezenas de anarquistas na Rússia Soviética eram defensores fervorosos do regime soviético; dando sua energia na batalha, suas vidas na frente e sua participação nas instituições soviéticas. Os bolcheviques trabalharam ao lado desses anarquistas e os consideraram seus camaradas.
-
-Quatro anarquistas, Bogatsky, Bleikhman, Shatov e Iatshurk eram membros do Comitê Militar Revolucionário que realizou a Revolução de Outubro - a insurreição que os anarquistas de hoje (erroneamente) denunciam como um golpe de estado. O destacamento armado que cumpria as ordens do governo soviético de dissolver a Assembleia Constituinte era liderado por um anarquista chamado Anatoly Zheleteznyakov. Quase todos os anarquistas se opuseram à Assembleia Constituinte burguesa na Rússia revolucionária, mas os anarquistas de hoje denunciam a decisão dos bolcheviques de dissolvê-la como tendo sido "antidemocrática". Que irônico!
-
-Um trecho de Jeff Hemmer dá mais detalhes sobre o mencionado Vladimir Shatov e outros anarquistas que defenderam firmemente o regime soviético:
->Membro do Comitê Militar Revolucionário em 1917, Chátov tornou-se chefe da polícia em Petrogrado em 1918. Em 1919, ele defendeu Petrogrado contra o avanço do general Yudenich como oficial do Décimo Exército Vermelho e, em 1920, foi nomeado Ministro dos Transportes na República do Extremo Oriente. Vários outros anarquistas seguiram seu exemplo e aceitaram pequenos cargos no governo, incitando seus camaradas a fazer o mesmo ou pelo menos se abster de atividades antibolcheviques que colocariam em risco a revolução. A causa bolchevique atraiu anarquistas de todas as origens, desde ex-terroristas Bandeira Negra como Heitzman e Roschin a Anarco-comunistas como Sandomirskii alemão, que assumiu uma posição no Comissariado de Relações Exteriores de Chicherin, e Alexander Ge, segundo Victor Serge um dos organizadores Terror Vermelho na região de Terek. Outros anarquistas bem conhecidos a serviço dos bolcheviques foram os anarco-sindicalistas Shapiro, que se juntou a Sandomirskii no Comissariado das Relações Exteriores, e Daniil Novomirskii, em 1905, figura proeminente nos círculos sindicalistas de Odessa, que ingressou no Partido Comunista e se tornou um oficial do Comintern em 1919...
->
->Na primavera de 1918, o anarco-comunista Apollon Karelin formou a pró-bolchevique Federação Russa de Anarco-Comunistas em Moscou, argumentando que a ditadura soviética era aceitável como uma fase de transição no desenvolvimento de uma sociedade anarquista livre. Segundo Karelin, a defesa do governo soviético não deveria ser considerada uma afirmação de autoridade, mas um meio de proteger a revolução. Uma visão semelhante foi apresentada pelos universalistas baseados em Moscou, formados em 1920 pelos irmãos Gordin, que anteriormente eram anti-marxistas e antiintelectuais raivosos, e o alemão Askarov, um anarquista-comunista que também era membro do soviete Comitê Executivo Central [como foi Karelin de 1918]. Roschin, o ex-Chernoznamenets e ferrenho antimarxista que, em 1919, passou a ver os bolcheviques como “a guarda avançada da revolução”, parece ter levado essas idéias ainda mais longe; de acordo com Victor Serge, ele tentou desenvolver uma “teoria anarquista da ditadura do proletariado”.
->
->O apoio dos “Anarquistas Soviéticos” foi bem recebido pela liderança bolchevique, que insistiu que os únicos anarquistas perseguidos na Rússia eram elementos criminosos.
-
-É claro que são exatamente esses “elementos criminosos” que discutiremos agora.
-
->No primeiro período do poder soviético, muitas bandas floresceram na Grande Rússia. Todos foram aniquilados há muito tempo: seus membros mais culpados foram baleados e os demais estão expiando seus crimes em centros de detenção. O mesmo destino aguarda os bandidos da Ucrânia. Unidades firmes e confiáveis ​​foram enviadas a todas as partes da Ucrânia, com a tarefa de encontrar e coletar armas, capturar desertores e exterminar bandos. O expurgo será realizado até o fim.
->
-> -- <cite>Leon Trotsky, para soldados ucranianos enganados por bandidos.</cite>
-
-Antes de falar sobre Nestor Makhno e seu Exército Insurrecional Revolucionário da Ucrânia, é preciso primeiro entender de onde veio esse “Exército Negro” Makhnovista. A resposta está nos guardas negros anarquistas que floresceram por toda a Rússia e Ucrânia em 1918. Originalmente criados em Alexandrovsk durante o verão de 1917 por Maria Nikiforova, esses destacamentos anarquistas armados haviam se espalhado para Moscou em janeiro de 1918, e em abril de 1918 já existiam mais de 50 grupos e destacamentos da Guarda Negra, totalizando cerca de 2.000 militantes na cidade.
-
->Todos os grupos e unidades organizacionais da Guarda Negra foram agrupados em torno do Conselho da MFAG [Federação de Grupos Anarquistas de Moscou] e da sede da Guarda Negra, estacionada na Casa da Anarquia na Malásia Dmitrovka.
-
-Nestor Makhno mais tarde estabeleceria destacamentos semelhantes em diferentes regiões da Ucrânia, que acabaram se transformando no Exército Insurrecional Revolucionário da Ucrânia. De acordo com o historiador anarquista americano Paul Avrich, a MFAG armou os Guardas Negros com rifles, pistolas e granadas. A partir de sua sede na Casa da Anarquia, os líderes da Federação tentaram impor uma medida de disciplina aos Guardas Negros e limitar as atividades dos clubes locais à distribuição de propaganda e à “requisição” de residências privadas. Isso provou ser uma tarefa impossível; uma vez armados, vários grupos e indivíduos isolados sucumbiram à tentação de realizar “desapropriações” e, para piorar as coisas, às vezes agiam em nome da Federação.
-
-Avrich explica:
->Destacamentos armados de Guardas Negros assaltaram bancos, lojas e residências particulares. Muitos de seus camaradas - especialmente os "anarquistas soviéticos" - condenaram tais atos como paródias do ideal libertário, que desperdiçou vidas preciosas, desmoralizou os verdadeiros adeptos do movimento e desacreditou o anarquismo aos olhos do público em geral.
-
-A pilhagem era abundante entre os Guardas Negros. A liderança da MFAG parecia incapaz de disciplinar seus destacamentos. O bolchevique (e ex-anarquista) Victor Serge escreveu:
->Os próprios anarquistas admitiam que elementos suspeitos, aventureiros, criminosos comuns e contra-revolucionários, prosperavam entre eles, mas seus princípios libertários não os permitiam recusar a entrada em suas organizações a qualquer homem, ou sujeitar alguém a um controle real. Eles sentiram intensamente que seu movimento precisava ser expurgado, mas isso era impossível sem autoridade ou uma organização disciplinada. As cisões entre eles e essa reverência aos princípios levavam lentamente ao suicídio político do movimento, que se tornava mais comprometido a cada dia.
-
-A situação era - desculpe o trocadilho - anárquica. Os Guardas Negros estavam fora de controle.
->Vários incidentes, como um ataque a um carro americano, o assassinato de vários agentes da Cheka seguido da execução sumária de vários bandidos, as prisões de “expropriadores” que foram prontamente reclamados pela Federação Anarquista, levaram Dzerzhinsky, o presidente da Cheka, insistir na liquidação da Guarda Negra.
-
-Avrich dá os detalhes desta operação:
->Na noite de 11-12 de abril, destacamentos armados da Cheka invadiram 26 centros anarquistas na capital. A maioria dos anarquistas se rendeu sem lutar, mas no Monastério Donskoi e na própria Casa da Anarquia, os Guardas Negros ofereceram resistência feroz. Uma dúzia de agentes da Cheka foram mortos na luta, cerca de 40 anarquistas foram mortos ou feridos e mais de 500 foram feitos prisioneiros.
-
-Os propagandistas anarquistas com sua “memória seletiva” desonesta levam os eventos desta noite para fora do contexto histórico; tratando-o de forma isolada e ignorando a tendência retrógrada de conflito que os anarquistas Guardas Negros estavam desencadeando na Rússia. Os bolcheviques foram forçados a realizar a tarefa que os anarquistas eram aparentemente incapazes de realizar por conta própria; purgando de suas fileiras os “elementos criminosos” que estavam pilhando e roubando sob a bandeira do anarquismo e causando o caos em toda a Rússia. Como governo eleito e legítimo, era sua obrigação restaurar a ordem.
-
-Os bolcheviques procuraram erradicar esses “elementos criminosos” que eram considerados “pseudo-anarquistas”. Em sua opinião, nenhum anarquista genuíno poderia tolerar atos aleatórios de roubo e violência contra os trabalhadores e os oficiais dos soviéticos. Trotsky declarou em Moscou no dia 14 de abril:
->Esses hooligans são simplesmente invasores e ladrões que comprometem os anarquistas. O anarquismo é uma ideia, embora equivocada, mas o hooliganismo é o hooliganismo. Falei sobre isso com os anarquistas idealistas e eles próprios dizem: 'Muitos desses presidiários, hooligans e criminosos se infiltraram em nosso movimento'. E afirmou que entre esses hooligans há alguns que são anarquistas honestos; se isso for verdade, então é uma grande pena, e é necessário dar a eles sua liberdade o mais rápido possível.
-
-Seu argumento geral era que os "anarquistas honestos" deveriam se distanciar dos "hooligans" para que alguém soubesse de uma vez por todas quem é um ladrão, e quem é um idealista honesto. Este não foi um ataque contra o anarquismo ou os Anarquistas “honestos”. Foi um ataque contra os hooligans, que colocaram a máscara do anarquismo para destruir a ordem, a vida e o trabalho da classe trabalhadora. Mesmo assim, cerca de quinze anarquistas deixaram o salão de forma demonstrativa, criando uma cena assustadora, quebrando a solidariedade e a ordem.
-
-E em pouco tempo os anarquistas iriam recorrer mais uma vez aos seus métodos terroristas. De acordo com Avrich:
->Anarquistas em Rostov, Ekaterinoslav e Briansk invadiram as prisões da cidade e libertaram os prisioneiros no meio de uma guerra civil. No verão de 1918, os Guardas Negros que sobreviveram aos ataques da Cheka nos meses anteriores, contemplaram a apreensão armada da capital, mas Aleksei Borovoi e Daniil Novomirskii os dissuadiram.
-
-Mas de acordo com o historiador Marcel Liebman - evidentemente contra a vontade de Borovoi e Novomirskii - alguns anarquistas estiveram envolvidos na revolta de Esquerda SR em Moscou nos dias 6 e 7 de julho, que foi, obviamente, uma tomada armada da capital que foi rapidamente esmagado.
->Lev Chernyi, secretário da Federação de Anarquistas de Moscou, juntou-se a uma organização chamada Anarquistas Subterrâneos, fundada por Kazimir Kovalevich, membro do Sindicato dos Trabalhadores em Ferrovias de Moscou e um anarquista ucraniano chamado Petr Sobolev. Embora baseados na capital, os Anarquistas Subterrâneos estabeleceram laços com os destacamentos de batalha do sul. No dia 25 de setembro [1919], junto com vários SRs de esquerda, eles bombardearam a sede do Comitê de Moscou do Partido Comunista em Leontiev Street, durante uma reunião plenária. A explosão matou 12 membros do Comitê e feriu 55 outros, incluindo Nikolai Bukharin, o eminente teórico bolchevique e editor do Pravda.
-
-Mas mesmo enquanto o caos se seguiu nas ruas de Moscou - terrorismo conduzido sob a bandeira do anarquismo - os bolcheviques tentaram o seu melhor para encontrar os anarquistas “honestos” no meio do caminho:
->Quando Kamenev em 1920 ofereceu aos anarquistas de Moscou liberdade para publicar seus jornais e administrar seus clubes e livrarias em troca da adoção da disciplina partidária e do expurgo dos elementos criminosos e irresponsáveis ​​que haviam se infiltrado em seus membros, eles rejeitaram indignadamente a oferta.
-
-É claro, então, pelas informações que forneci, que, ao contrário da mitologia anarquista, os bolcheviques não "esmagaram" os anarquistas na Rússia Soviética por razões ideológicas. Os bolcheviques - ao lado dos anarquistas que colaboraram pacificamente com eles - apelaram aos anarquistas sinceros envolvidos em atividades duvidosas para se distanciarem dos hooligans que haviam se infiltrado em suas fileiras. Os “anarquistas” que foram subjugados estavam saqueando, roubando, participando de atos violentos e destrutivos e assassinando figuras do governo. A “repressão” desses terroristas explicitamente anti-soviéticos e contra-revolucionários deve ser vista como nada mais do que uma retaliação atrasada à provocação criminosa.
-
-Leon Trotsky afirma:
->Makhnovismo é um décimo de idealismo e nove décimos de pilhagem e violência.
-
-Os ataques da Cheka aos centros anarquistas em 1918 fizeram com que vários anarquistas anti-soviéticos viajassem para a Ucrânia - onde Nestor Makhno (de acordo com a mitologia anarquista) havia estabelecido uma fortaleza anarquista. Mas, na verdade, a maioria dos lutadores Makhnovistas eram pequenos proprietários camponeses que não podiam se importar menos com o anarquismo.
->O punhado de comunas agrícolas estabelecidas na região de Gulyai-Pole abrangia apenas uma pequena fração de seus seguidores. A esmagadora maioria dos partidários de Makhno estava comprometida com sua própria propriedade privada.
-
-Os Makhnovistas eram um dos vários bandos de guerrilha que se aliaram aos Bolcheviques e se tornaram unidades do Exército Soviético Ucraniano em 1919.
->As forças de Makhno foram designadas a uma seção estrategicamente vital da Frente Sul do Exército Vermelho enfrentando o Exército Branco contra-revolucionário do antigo General czarista Denikin.
-
-Mas mesmo durante seu tempo como comandante do Exército Soviético Ucraniano, Makhno deliberadamente roubou e minou seus aliados bolcheviques. O historiador Arthur Adams escreve:
->Makhno se abastecia, às vezes comandando trens de abastecimento bolcheviques inteiros destinados à Frente Sul. Coletores de alimentos soviéticos e instituições políticas consideravam impossível funcionar na região sob seu domínio.
-
-Os makhnovistas exigiram que o governo bolchevique lhes fornecesse munições para usar na luta contra os brancos. Mas os makhnovistas também se recusaram a permitir que os coletores de grãos soviéticos entrassem na região sob seu controle. Os makhnovistas, portanto, buscaram ajuda econômica dos bolcheviques, mas se recusaram a retribuir o favor; muitas vezes resultando em violentos confrontos entre os guerrilheiros Makhnovistas e os coletores de grãos soviéticos.
-
-Trotsky (comissário para Assuntos Militares e Navais) escreveu:
->Como os makhnovistas estão sentados no ramal ferroviário de Mariupol, eles se recusam a permitir que o carvão e os grãos saiam, exceto em troca de outros suprimentos. Os makhnovistas estão tentando para estabelecer o domínio de gangues e bandas: Quem agarrou algo é o seu legítimo dono, podendo então trocá-lo pelo que não possui. Isso não é troca de produtos, mas roubo de mercadorias.
-
-Em 7 de maio de 1919, outro líder guerrilheiro ucraniano chamado Grigorev - que como Makhno havia colaborado com os bolcheviques - amotinou-se contra o comando do Exército Vermelho. Grigorev declarou que os bolcheviques eram seu novo alvo principal e convocou uma aliança antibolchevique que incluísse os Guardas Brancos. O anti-semitismo dos brancos não era problema para Grigorev - ele próprio era um pogromista. De acordo com a Enciclopédia Judaica, Grigorev foi responsável por pogroms em 40 comunidades e pela morte de cerca de 6.000 judeus durante o verão de 1919.
-
-Makhno - embora inicialmente permanecesse neutro em relação à revolta de Grigorev - também agiu contra os bolcheviques. Em 29 de maio, Makhno recuou para trás das linhas de frente, abandonando seu comando e colaboração com os Reds. O historiador Michael Palij escreve:
->Assim que Makhno deixou o front, ele e seus associados começaram a organizar novos destacamentos partidários na retaguarda dos bolcheviques, que posteriormente atacaram fortalezas, tropas, polícia, trens e coletores de alimentos.
-
-Em julho, Makhno e Grigorev firmaram uma aliança de curta duração que não terminou bem para o último. Embora não entre nisso agora, porque falarei sobre isso com mais detalhes mais tarde. Mas a força combinada dos makhnovistas, grigorevitas e outros destacamentos guerrilheiros que atacavam os bolcheviques ao mesmo tempo enfraqueceu enormemente a força do Exército Vermelho, desempenhando um papel importante no colapso da Frente Sul e permitindo que os Guardas Brancos de Denikin tomassem a maior parte da Ucrânia no outono de 1919.
-
-Após a derrota de Denikin em 1920, Makhno ainda estava lutando contra os Reds, mas mais tarde ele se ofereceu para entrar em uma aliança conjunta contra o novo sucessor de Denikin - o general Branco Wrangel. Preocupados se Makhno era confiável ou não devido às suas traições anteriores, os bolcheviques exigiram que Makhno expurgasse suas fileiras de bandidos e incorporasse suas forças ao Exército Vermelho. Trotsky - dirigindo-se a esta nova aliança makhnovista/bolchevique - escreveu em 10 de outubro de 1920:
->Nós, é claro, podemos apenas dar as boas-vindas ao fato de que os Makhnovitas não desejam, doravante, lutar contra nós, mas conosco, contra Wrangel. Mas nosso pacto com os makhnovitas certamente não deve ser temporário. A classe trabalhadora da Ucrânia nunca pode, e especialmente em condições de tremendo perigo militar, permitir que determinadas unidades às vezes lutem em nossas fileiras e às vezes nos apunhalem pelas costas.
-
-Os bolcheviques buscavam uma aliança estável e contínua com Makhno - nenhuma que se rompesse e vacilasse no minuto em que seu inimigo comum fosse derrotado. Mas, na visão de Makhno, essa aliança era para ser nada mais do que uma conveniência de curto prazo - e por esta razão ele se recusou a reconhecer os regulamentos do Exército Vermelho.
-
-Após a derrota de Wrangel, os Makhnovistas tentaram se estabelecer como uma força de combate autônoma na Crimeia. Se os makhnovistas tivessem sucesso, os bolcheviques teriam perdido a infraestrutura vital e a Ucrânia teria se tornado um ímã para os inimigos do governo bolchevique. Conhecendo o histórico hostil de Makhno - sem mencionar sua disposição de entrar em alianças com duvidosas forças antibolcheviques como Grigorev - os bolcheviques viram isso como a gota d'água. Os bolcheviques, portanto, moveram-se para acabar com o movimento makhnovista de uma vez por todas e conseguiram fazê-lo.
-
-Mitologistas libertários gostam de argumentar que os bolcheviques “esmagaram” os makhnovistas por causa de suas convicções anarquistas formais. Claro - como eu mostrei - este não é o caso. Foram as ações hostis dos Makhnovistas que fermentaram sua morte. Sua ideologia - embora equivocada e utópica - era totalmente irrelevante.
-
-Finalmente, gostaria de falar sobre a conexão entre os makhnovistas e os pogroms anti-semitas. Embora os anarquistas estejam corretos ao argumentar que o próprio Makhno não era um anti-semita, esta declaração não diz absolutamente nada sobre as ações dos lutadores Makhnovistas no terreno. Numerosos relatos de testemunhas oculares de pogroms anti-semitas conduzidos pelos guerrilheiros Makhnovistas foram compilados pelo Instituto YIVO para Pesquisa Judaica. Ainda estou para encontrar um único anarquista que tenha examinado a confiabilidade desta evidência aparentemente contundente. Mas, independentemente, é um fato incontestável que os makhnovistas tinham pogromistas entre suas fileiras.
-
-Como assim? Porque, como aludi anteriormente, Makhno e Grigorev entraram em uma aliança de curta duração contra os bolcheviques em 1919. Mas a disposição de Grigorev de cooperar com todas e quaisquer forças antibolcheviques, incluindo Denikin, conflitava agudamente com as convicções anarquistas de Makhno. Além disso, o histórico de oportunismo militar e imprevisibilidade de Grigorev significava que Makhno não confiava nele. Essa aliança se desfez em menos de um mês, resultando na morte de Grigorev pelas mãos de Makhno e na absorção dos partidários de Grigorev no exército de Makhno. O que se segue é o relato de uma testemunha ocular do anarquista Arishnov:
->Em 27 de julho de 1919, na aldeia de Sentovo, perto de Aleksandriya, em Kherson guberniya, por iniciativa de Makhno houve uma assembléia dos rebeldes de Ekaterinoslav, Kherson e Taurida. De acordo com a ordem do dia, a sessão deveria decidir sobre a tarefa de todos os rebeldes da Ucrânia em relação à situação atual. A massa de camponeses reunida, as seções rebeldes de Grigorev e as unidades de Makhno chegavam a cerca de 20.000 pessoas. Grigorev e Makhno e uma série de outros apoiadores deste ou daquele movimento foram designados como repórteres. Primeiro veio Grigorev. Ele convocou os camponeses e rebeldes a dar todas as suas forças para expulsar os bolcheviques do país, sem desprezar nenhum aliado neste trabalho. Grigorev não se opôs à unificação com Denikin para esse propósito. Mais tarde, quando o jugo do bolchevismo fosse derrubado, o próprio povo decidiria o que fazer.
->
->Essa declaração foi fatal para Grigorev. Chubenko e Makhno, falando imediatamente depois dele, mostraram que a luta com os bolcheviques só poderia ser revolucionária se continuasse em nome da revolução social. A colaboração com os mais perversos inimigos do povo - com os generais - seria uma aventura criminosa e uma contra-revolução. Grigorev chama [nós] para esta contra-revolução; consequentemente, ele é o inimigo do povo. Então Makhno publicamente, perante toda a assembléia, exigiu que Grigorev pagasse imediatamente pelo monstruoso pogrom perpertratado por ele em maio de 1919, em Elisavetgrad, e por uma série de outras ações anti-semitas.
->
->"Esses canalhas como Grigorev degradam todos os rebeldes da Ucrânia, e para eles não pode haver lugar nas fileiras dos trabalhadores honrados da revolução.” Assim, Makhno concluiu sua acusação de Grigorev. Este viu que o caso estava tendo um fim terrível para ele. Ele pegou sua arma. mas ele estava muito atrasado. Simon Karetnik - o assistente mais próximo de Makhno - o jogou no chão com várias balas de seu Colt e Makhno, proclamando triunfantemente "Morte ao Ataman!" atirou nele. Os amigos e membros da equipe de Grigorev teriam corrido para ajudá-lo, mas foram baleados no local por um grupo de homens de Makhno previamente designados para a tarefa. Tudo isso ocorreu em dois ou três minutos diante dos olhos da assembléia.
->
->De acordo com o protocolo decretado pela assembleia, os Makhnovtsy assumiram a responsabilidade pelo ato e suas consequências. Todas as seções partidárias que estavam sob a direção de Grigorev, de acordo com a resolução da assembléia, foram absorvidas pelo exército geral dos rebeldes makhnovistas.
-
-Independentemente das nobres razões de Makhno para matar Grigorev, permanece o fato de que Makhno e seus colegas conscientemente recrutaram em massa para suas fileiras os homens de Grigorev que apenas alguns meses antes haviam massacrado 3.000 judeus em Elisavetgrad. Portanto, é indiscutível que o exército de Makhno continha pogromistas anti-semitas. As evidências do YIVO servem simplesmente para reforçar a acusação de anti-semitismo entre os makhnovistas.
-
-Fontes:
-- [What was the role of anarchists in russian revolution? by Jeff Hammer](http://web.archive.org/web/20100705010640/http://www.afurnishedsoul.lu/pdf/anarchists_russianrevolution.pdf)
-- [The military writings of Leon Trotsky vol. 2](https://www.marxists.org/archive/trotsky/1919/military/index.htm)
-- [The Black Guards](https://libcom.org/history/black-guards)
-- [The russian anarchists by Paul Avrich](https://libcom.org/files/Avrich,%20Paul%20-%20The%20Russian%20Anarchists_0.PDF)
-- [Russian anarchists and the civil war by Paul Avrich](http://sites.bu.edu/revolutionaryrussia/files/2013/09/Russian-Arnarchists.pdf)
-- [Year one of the russian revolution by Victor Serge](https://libcom.org/files/Year%20One%20of%20the%20Russian%20Revolution%20-%20Victor%20Serge.pdf)
-- [An appeal to the toiling, oppressed and exhausted peoples of Europe by Leon Trotsky](https://rm3bukz.ga/book.php?id=4MUt1Bjr-EYC)
-- [Leninism under Lenin by Marcel Liebman](https://pt.scribd.com/document/143466632/Leninism-Under-Lenin)
-- [The origin of communist autocracy: The opposition in the soviet Soviet State, first phase by Leonard Schapiro](https://link.springer.com/book/10.1007/978-1-349-09509-4)
-- [The anarchism of Nestor Makhno by Michael Palij](https://theanarchistlibrary.org/library/michael-palij-the-anarchism-of-nestor-makhno-1918-1921.pdf)
-- [Hue and cry over Kronstadt by Leon Trotsky](https://www.marxists.org/archive/trotsky/1938/01/kronstadt.htm)
-- [History of the Makhnovist Movement by Peter Arshinov](https://theanarchistlibrary.org/library/peter-arshinov-history-of-the-makhnovist-movement-1918-1921)
-- [Workers Vanguard No 656 - 22 November 1996](https://pt.scribd.com/document/125412812/Workers-Vanguard-No-656-22-November-1996)
-- [Bolsheviks in the Ukraine by Arthur Adams](https://diasporiana.org.ua/wp-content/uploads/books/11695/file.pdf)
-- [Encyclopedia Judaica (Vol. 13 PP. 699-700)](https://ketab3.files.wordpress.com/2014/11/encyclopaedia-judaica-v-13-lif-mek.pdf)
-- [History of anarchism in Russia by Yemelyan Yaroslavsky](https://ithanarquista.wordpress.com/nestor-makhno-archive/nestor-makhno-archive-english/history-anarchism-russia-yaroslavsky/)
-- [The Military Writings of Leon Trotsky vol. 3 by Leon Trotsky](https://www.marxists.org/archive/trotsky/military-pdf/Military-Writings-Trotsky-v3.pdf)
-- [Pogroms by Makhno's troops](https://groups.google.com/g/alt.politics.socialism.trotsky/c/UY1DG7rwLSc)
-- [History of Makhnovist movement by Peter Arishnov](http://elib.shpl.ru/ru/nodes/38774-arshinov-p-a-istoriya-mahnovskogo-dvizheniya-1918-1921-gg-s-portretom-n-mahno-i-naglyadnoy-kartoy-rayona-i-dvizheniya-berlin-1923)
-
-### Desenvolvimento econômico e padrões de vida na era socialista
-Em 1928 (depois que Stalin chegou ao poder como chefe do Partido Comunista), a Rússia Soviética instituiu uma economia totalmente planejada e o primeiro [Plano Quinquenal](https://en.wikipedia.org/wiki/Five-year_plans_of_the_Soviet_Union) foi aprovado. Isso resultou em rápido crescimento econômico. De acordo com Robert Allen:
->O PIB soviético aumentou rapidamente com o início do primeiro Plano Quinquenal em 1928... A expansão da indústria pesada e o uso de metas de produção e orçamentos flexíveis para direcionar as empresas eram adequados às condições da década de 1930, eles foram adotados rapidamente, e levaram a um rápido crescimento do investimento e do consumo.
-
-Os economistas burgueses frequentemente alegavam que esse rápido crescimento veio às custas do consumo per capita e dos padrões de vida. No entanto, pesquisas mais recentes mostraram que isso é falso. Allen afirma:
->Não houve nenhum debate de que o "consumo coletivo" (principalmente serviços de educação e saúde) aumentou acentuadamente, mas a visão padrão era que o consumo privado diminuiu. Pesquisas recentes, no entanto, colocam essa conclusão em questão... Embora o investimento certamente tenha aumentado rapidamente, pesquisas recentes mostram que o padrão de vida também aumentou rapidamente.
-
-O consumo de calorias aumentou rapidamente durante este período:
->As calorias são a dimensão mais básica do padrão de vida, e seu consumo era maior no final dos anos 1930 do que nos anos 1920... Em 1895-1910, a disponibilidade de calorias era de apenas 2100 por dia, o que é muito baixo para os padrões modernos. No final da década de 1920, a disponibilidade de calorias avançou para 2.500... No final da década de 1930, a recuperação da agricultura aumentou a disponibilidade de calorias para 2.900 por dia, um aumento significativo em relação ao final da década de 1920. A situação alimentar durante a Segunda Guerra Mundial era grave, mas em 1970 o consumo de calorias aumentou para 3.400, o que estava no mesmo nível da Europa Ocidental.
-
-No geral, o desenvolvimento da economia soviética durante o período socialista foi extremamente impressionante. De acordo com Robert Allen:
->A economia soviética teve um bom desempenho... O planejamento levou a altas taxas de acumulação de capital, rápido crescimento do PIB e aumento do consumo per capita mesmo na década de 1930.
-
-O crescimento da URSS durante o período socialista excedeu o das nações capitalistas:
->A URSS liderou os países não pertencentes à OCDE e, de fato, alcançou uma taxa de crescimento neste período que excedeu a regressão de catch-up da OCDE, bem como a média da OCDE.
-
-Esse sucesso também é atribuído especificamente à revolução e ao sistema socialista. Como afirma Allen:
->Esse sucesso não teria ocorrido sem a revolução de 1917 ou o desenvolvimento planejado da indústria estatal.
-
-Os benefícios do sistema socialista são óbvios após um estudo mais detalhado. Como Simon Clarke coloca:
->...uma economia capitalista não teria criado os empregos industriais necessários para empregar o trabalho excedente, uma vez que os capitalistas só empregariam trabalho enquanto o produto marginal do trabalho excedesse o salário. A industrialização patrocinada pelo Estado não enfrentou tais restrições, uma vez que as empresas foram incentivadas a expandir o emprego de acordo com as demandas do plano.
-
-O crescimento econômico também foi auxiliado pela liberação das mulheres e o consequente controle sobre a taxa de natalidade, bem como a participação das mulheres na força de trabalho. Allen afirma:
->O rápido crescimento da renda per capita estava condicionada não apenas sobre a rápida expansão do PIB, mas também sobre o lento crescimento da população. Isso se deveu principalmente a uma rápida transição da fertilidade, e não a um aumento na mortalidade por coletivização, repressão política ou Segunda Guerra Mundial. A queda nas taxas de natalidade deveu-se principalmente à educação e ao emprego das mulheres fora de casa. Essas políticas, por sua vez, foram resultados da ideologia iluminista em sua variante comunista.
-
-As críticas ao trabalho de Allen corroboraram suas declarações. De acordo com Simon Clarke:
->Allen mostra que a estratégia stalinista funcionou, em termos estritamente econômicos, até por volta de 1970... O livro de Allen convincentemente estabelece a superioridade de uma economia planejada sobre uma capitalista em condições de excedente de trabalho (que é a condição na maior parte do tempo).
-
-Outros estudos confirmaram as descobertas de que os padrões de vida da URSS aumentaram rapidamente. De acordo com a economista [Elizabeth Brainerd](https://www.ebrainerd.com/) (ex-Williams College, agora na Brandeis University):
->Melhorias notavelmente grandes e rápidas na altura da criança, estatura adulta e mortalidade infantil foram registradas de aproximadamente 1945 a 1970... As estimativas ocidentais e soviéticas do crescimento do PIB na União Soviética indicam que o PIB per capita cresceu em cada década na era pós-guerra, às vezes ultrapassando de longe as taxas de crescimento das economias ocidentais desenvolvidas... As medidas convencionais de crescimento do PNB e do consumo das famílias indicam uma longa e ininterrupta escalada do padrão de vida soviético de 1928 a 1985; mesmo as estimativas ocidentais dessas medidas apoiam essa visão, embora em uma taxa de crescimento mais lenta do que as medidas soviéticas.
-
-Infelizmente, após a introdução de reformas de mercado e outras políticas revisionistas, os padrões de vida começaram a se deteriorar (embora algumas medidas continuassem a aumentar, embora mais lentamente). Brainerd afirma:
->Três medidas diferentes de saúde da população mostram uma melhoria consistente e grande entre aproximadamente 1945 e 1969: altura da criança, altura do adulto e mortalidade infantil, todas melhoraram significativamente durante este período. Essas três medidas biológicas do padrão de vida também corroboram a evidência de alguma deterioração nas condições de vida a partir de 1970, quando a mortalidade infantil e adulta estava aumentando e a estatura infantil e adulta parou de aumentar e em algumas regiões começou a diminuir.
-
-O crescimento econômico também começou a desacelerar nessa época. De acordo com Robert Allen:
->Após a Segunda Guerra Mundial, a economia soviética voltou a crescer rapidamente. Em 1970, a taxa de crescimento estava caindo e a produção per capita estava estática em 1985.
-
-A Guerra Fria foi outro fator que contribuiu para desacelerar as taxas de crescimento:
->A Guerra Fria foi um fator adicional que reduziu o crescimento soviético depois de 1968. A criação de armamentos de alta tecnologia exigiu uma alocação desproporcional de pessoal e recursos de Pesquisa & Desenvolvimento para os militares. A inovação em máquinas e produtos civis diminuiu em conformidade. Metade da redução na taxa de crescimento do PIB per capita deveu-se ao declínio no crescimento da produtividade, e essa redução fornece um limite superior para o impacto da corrida armamentista com os Estados Unidos.
-
-Em suma, a URSS alcançou resultados econômicos maciçamente positivos até os anos 1970, quando as políticas revisionistas e a Guerra Fria começaram a causar uma estagnação. Agora, vamos passar do desenvolvimento econômico e falar sobre os padrões de saúde da população soviética.
-
-### Condições de saúde no período socialista
-As condições de saúde na Rússia czarista eram deploráveis; estava entre as nações menos saudáveis da Europa (possivelmente em todo o mundo). De acordo com o Professor Reiner Dinkel (Universidade de Munique):
->Sem dúvida, a União Soviética era um dos países europeus mais subdesenvolvidos na época da Revolução de Outubro. Em termos de expectativa de vida, ficou atrás dos outros países industrializados da Europa por cerca de 15 anos.
-
-No entanto, após a revolução socialista, as condições de saúde começaram a aumentar rapidamente. No final do período socialista, os padrões de saúde (medidos pela expectativa de vida e taxas de mortalidade) eram superiores aos da Europa Ocidental e dos EUA. O professor Dinkel afirma:
->Um dos avanços mais notáveis do socialismo foi e geralmente era visto como a melhoria na provisão de saúde pública para a população como um todo. De acordo com essa suposição, as taxas de mortalidade na União Soviética diminuíram rapidamente nas primeiras duas décadas após a Segunda Guerra Mundial. Em 1965, a expectativa de vida de homens e mulheres em todas as partes da União Soviética, que ainda incluía vastas regiões subdesenvolvidas com condições de vida desfavoráveis, era tão alta ou até maior do que nos Estados Unidos. Tal desenvolvimento se encaixa perfeitamente no quadro do desenvolvimento industrial emergente e na melhoria geral das condições de vida.
-
-Mesmo os intelectuais reacionários foram forçados a reconhecer essas realizações; de acordo com Nicholas Eberstadt (um consultor de think tank conservador), os padrões de saúde na União Soviética durante o período socialista ultrapassaram os dos EUA e da Europa Ocidental:
->Durante grande parte deste século, a nação na vanguarda da revolução na saúde foi a União Soviética. Em 1897, a Rússia Imperial ofereceu ao seu povo uma expectativa de vida de talvez trinta anos. Na Rússia europeia, pelo que podemos perceber, a mortalidade infantil (ou seja, a morte no primeiro ano) atingiu cerca de uma criança em quatro, e no interior asiático da Rússia o número de mortes foi provavelmente mais próximo de um em três. No entanto, no final da década de 1950, o cidadão soviético médio podia esperar viver 68,7 anos: mais do que seu homólogo americano, que havia começado o século com uma vantagem de dezessete anos. Em 1960, a taxa de mortalidade infantil soviética, mais alta do que qualquer na Europa até os anos 20, era menor do que a da Itália, Áustria ou Alemanha Oriental, e parecia certa reduzir nações como Bélgica e Alemanha Ocidental a qualquer ano.
-
-Ele até observa que essas conquistas fizeram o socialismo parecer quase imbatível:
->Diante dessas e de outras realizações materiais igualmente impressionantes, as afirmações soviéticas sobre a superioridade de seu sistema “socialista”, sua relevância para os países pobres e a inevitabilidade de seu triunfo sobre a ordem capitalista não foram facilmente refutadas.
-
-Embora as condições de saúde tenham começado a declinar após a introdução de políticas revisionistas em meados dos anos 60, as conquistas do sistema socialista na área de saúde permanecem incontestáveis.
-
-### A questão Stalin
-Joseph Stalin foi o principal arquiteto do período socialista na URSS. Como resultado, ele foi vítima de talvez a mais extensa campanha de difamação da história moderna. Alegações de que ele matou dezenas de milhões de pessoas, prendeu vítimas sem justa causa e deliberadamente deixou camponeses ucranianos famintos são apenas algumas das acusações de propaganda feitas contra ele. Como tal, é dever de qualquer socialista informado combater esta propaganda.
-
-Antes de tudo, eu recomendo este [artigo](https://cienciaproletarialivre.com/2019/03/06/6-mitos-sobre-stalin-que-voce-provavelmente-ja-acreditou/).
-
-Stalin não era um ditador, este é um mito desatualizado. O poder estava oficialmente investido nas mãos de vários órgãos coletivos de liderança, como o Soviete Supremo, o Presidium, o Sovnarkom, o Comitê Central e o Politburo, todos eleitos, assim como Stalin. Ele não tinha capacidade de tomar decisões individualmente e há inúmeros exemplos de como ele perdeu para a maioria, se você olhar bem. Vou te dar três exemplos:
-- Stalin tentou demitir-se do secretário-geral quatro vezes, duas vezes devido ao testamento de Lênin, uma vez devido a um pedido de Kamenev e Zinoviev e uma vez devido à deterioração da saúde, mas o partido não permitiu.
-- Quando Beria foi nomeado chefe do NKVD em 1939, Stalin se opôs a isso e preferiu Malenkov, mas o Presidium o derrotou em votos.
-- Enquanto a nova constituição soviética estava sendo criada ao longo de 1935 e 1936, Stalin pressionou por eleições multipartidárias contestadas, mas o Comitê Central temia que isso levasse à derrubada do comunismo, de modo que nunca foi implementado. Além do mais, o historiador russo Yuri Zhukov afirma que se Stalin tivesse continuado a pressionar por essas reformas à medida que o Grande Expurgo se intensificou, ele teria sido eliminado, julgado por traição e executado.
-
-Na verdade, até 1941, Stalin nem era o indivíduo mais poderoso do país. Remeto a você esta citação de Sidney Webb:
->Às vezes, afirma-se que, embora a forma possa ser diferente, o fato é que, enquanto o Partido Comunista controla toda a administração, o próprio Partido e, portanto, indiretamente, todo o estado, é governado pela vontade de uma única pessoa, Josef Stalin. Em primeiro lugar, é preciso notar que, ao contrário de Mussolini, Hitler e outros ditadores modernos, Stalin não é investido por lei de qualquer autoridade sobre seus concidadãos, nem mesmo sobre os membros do Partido a que pertence. Ele não tem nem mesmo o amplo poder que o Congresso dos Estados Unidos temporariamente conferiu ao presidente Roosevelt, ou aquele que a Constituição americana confia por quatro anos a cada presidente sucessivo. No que diz respeito ao grau ou dignidade, Stalin não é de forma alguma o mais alto funcionário da URSS, ou mesmo do Partido Comunista. Ele não é, e nunca foi, presidente do Presidium do Comitê Executivo Central do Congresso de União Soviética - um cargo há muito ocupado por Sverdlov e agora por Kalinin, que é comumente tratado como o presidente da URSS. Ele não é (como Lênin era) o presidente do Sovnarkom da RSFSR, o membro dominante da Federação ou da própria URSS, o lugar agora ocupado por Molotov, que pode ser levado para corresponder ao primeiro-ministro de uma democracia parlamentar. Ele nem mesmo é um Comissário do Povo, ou membro do Gabinete, seja da URSS ou de qualquer uma das repúblicas constituintes. Até 1934, ele não ocupou nenhum outro cargo na máquina da constituição além daquele, desde 1930 apenas, de membro (um entre dez) do Comitê de Trabalho e Defesa (STO). Mesmo no Partido Comunista, ele não é o presidente do Comitê Central do Partido, que pode ser considerado o membro mais bem colocado; na verdade, ele nem mesmo é o presidente do presidium deste Comitê Central. Ele é, de fato, apenas o Secretário Geral do Partido, recebendo seu salário dos fundos do Partido e ocupando seu cargo por indicação do Comitê Central do Partido, e, como tal, também um membro (um entre nove) de seus mais importantes subcomitê, o Politburo.
-
-Tudo isso dito e feito, o que é verdade é que Stalin detinha uma enorme influência sobre o partido e o governo, o que significa que era de fato muito mais poderoso do que suas posições oficiais sugeriam no papel. Isso NÃO significa que as pessoas estivessem subordinadas a Stalin por medo da execução, o que significa que Stalin era uma figura ideológica extremamente respeitada e, portanto, as pessoas confiavam nele e estavam mais inclinadas a concordar com ele por causa disso. Refiro-me a esta citação de H.G. Wells:
->Nunca conheci um homem mais franco, justo e honesto, e a essas qualidades, e a nada de oculto e sinistro, ele deve sua tremenda ascendência indiscutível na Rússia. Eu tinha pensado antes de vê-lo que ele poderia estar onde estava porque os homens tinham medo dele, mas eu sei que ele deve sua posição ao fato de que ninguém tem medo dele e todos confiam nele.
-
-Se eu tivesse que avaliar quanto poder individual Stalin tinha, diria que, durante a Segunda Guerra Mundial, foi comparável ao de Winston Churchill e, na verdade, consideravelmente menor do que o do presidente dos Estados Unidos. Remeto para outra citação de Sidney Webb:
->Supondo que aceitemos o significado primário do termo ditador, conforme definido no The New English Dictionary - “um governante ou governador cuja palavra é lei; um governante absoluto do estado - e que prescreve com autoridade um curso de ação ou dita o que deve ser feito ”- Stalin não é um ditador. Em maio de 1941, Stalin até então satisfeito por ser um membro do Presidium, alarmado com a ameaça de um exército alemão vitorioso invadindo a Ucrânia, assumiu, com o consentimento do Presidium, o cargo de primeiro-ministro e ministro da defesa, deixando Molotov como secretário estrangeiro; exatamente da mesma maneira, e por uma razão semelhante - a guerra mundial - que Winston Churchill, com o consentimento da Câmara dos Comuns, tornou-se primeiro-ministro e ministro da defesa com Chamberlain... Nem o primeiro-ministro do gabinete britânico nem o membro que preside o Sovnarkom têm algo parecido com o poder autocrático do presidente dos EUA, que não apenas seleciona seu gabinete, sujeito apenas à aprovação por uma maioria simples do Senado, mas também é comandante-em-chefe das Forças Armadas americanas e, sob a lei Lend Lease, tem o poder de salvaguardar de uma forma ou de outra a chegada de munições e alimentos aos portos britânicos. Ao declarar, em maio de 1941, o estado de emergência nacional ilimitada, o presidente Roosevelt legalmente assume a virtual ditadura dos Estados Unidos. Ele tem o poder de assumir o transporte, de comandar o rádio para fins de propaganda, de controlar as importações em todas as transações de câmbio, de requisitar navios e de suspender as leis que regem o horário de trabalho, e, o mais importante de tudo, decidir sobre as prioridades industriais e, se necessário, para assumir o controle de plantas industriais.
-
-Lembre-se de que a Segunda Guerra Mundial foi o auge dos poderes de Stalin, foi nessa época que ele ocupou simultaneamente cinco diferentes cargos de liderança: secretário-geral do partido, presidente do Sovnarkom, ministro da defesa, presidente do Comitê de Defesa do Estado e presidente do Stavka (alto comando militar). Embora isso tornasse Stalin muito poderoso, ele ainda não conseguia tomar decisões por conta própria e era inteiramente responsável perante o órgão que o elegeu em primeiro lugar, ou seja, o Presidium do Soviete Supremo. Durante o resto do mandato de Stalin, no entanto, ele não foi nem de longe tão poderoso assim. Até 1930, o primeiro-ministro, a presidência e o Politburo eram todos controlados por membros da Oposição de Direita (Rykov, Kalinin, Bukharin, Tomsky etc.), então Stalin não conseguiu o que queria. De 1930-1941, Stalin conseguiu o que queria no sentido de que seu programa político estava sendo executado, mas ele próprio não detinha os cargos de poder, ao contrário, seus aliados como Molotov. O que é importante notar aqui é que o sistema político soviético funcionava quase da mesma maneira que as democracias ocidentais. Stalin conseguiu o que queria não porque fosse um ditador, mas porque seu programa era apoiado pela maioria no parlamento e, por extensão, pelas massas (ver o referendo do partido de 1927, Stalin derrotou Trotsky em uma votação direta entre os dois) Todas as posições de liderança eram eleitos por delegados representativos, que por sua vez eram eleitos a partir de seus Sovietes locais, isto é, conselhos de trabalhadores, e o povo diretamente nas eleições. Ao contrário da crença popular, Stalin não tinha o poder de nomear pessoalmente ninguém, todas as posições de liderança dentro do Partido Comunista foram eleitas e ratificadas nos Congressos do Partido, com a presença de milhares de delegados representando milhões de membros do partido. Além do mais, mesmo se aceitarmos que Stalin tinha controle total sobre o Soviete Supremo (ele não tinha), precisamos dissipar o mito de que o governo central em Moscou tinha controle total sobre o país. Como em qualquer democracia ocidental, as questões relativas a repúblicas sindicais, oblasts autônomos, regiões, municipalidades e locais de trabalho eram tratadas por governos locais, conselhos e sindicatos, é ridículo afirmar que Stalin teve alguma influência sobre isso.
-
-Agora, neste ponto, provavelmente é melhor falarmos um pouco sobre os expurgos. Muitas pessoas acreditam erroneamente que Stalin apenas perseguiu qualquer um que discordasse dele e, portanto, ele era um ditador de fato. Em suma, os expurgos foram um meio necessário para eliminar os conspiradores fascistas do país (especialmente importante na esteira da Segunda Guerra Mundial), mas saíram de controle devido a forças fora do controle de Stalin, eles não tinham nada a ver com a manutenção de um controle individual no poder. Alguns bons historiadores sobre o assunto incluem J Arch Getty, Robert Thurston (ambos liberais) e Grover Furr.
-
-Para uma visão precisa do sistema político soviético e de sua estrutura democrática de baixo para cima, leia Sheila Fitzpatrick (outro liberal) e a [constituição soviética de 1936](https://www.marxists.org/reference/archive/stalin/works/1936/12/05.htm). Também recomendo a leitura de Pat Sloan e Albert Syzmanski.
-
-Só gostaria de esclarecer, não nego que a União Soviética teve muitos elementos burocráticos, ou talvez até antidemocráticos, nem nego que Stalin e a posição de secretário-geral tiveram grande poder e influência sobre o partido, o governo e o país, mas chamar Stalin de ditador é totalmente errado, mesmo os historiadores anticomunistas mais fervorosos não acreditam mais nisso.
-
-A CIA também lançou um [paper](https://www.cia.gov/readingroom/docs/CIA-RDP80-00810A006000360009-0.pdf) sobre as considerações sobre a Era Stalin onde ela afirma que Stalin não era um líder antidemocrático e totalitário como circulava pelo Ocidente.
-
-Em primeiro lugar, devemos lembrar as extensas conquistas discutidas acima, que melhoraram muito a vida de centenas de milhões de pessoas. Essas conquistas foram o resultado do sistema socialista, construído principalmente sob Joseph Stalin. Mesmo os reacionários foram incapazes de negar isso. De acordo com o comentarista de direita Nicholas Ebserstadt:
->Os resultados de Stalin foram incontestáveis. Este é um ponto que muitas vezes esquecemos no Ocidente. Stalin herdou um país que foi a principal vítima da Primeira Guerra Mundial e legou a seus sucessores uma superpotência. É apenas uma medida do sucesso do 'Líder', e sua compreensão da resistência de sua nação, que entre 1940 e 1953... a URSS dobrou sua produção de carvão e aço, triplicou sua produção de cimento e industrial e aumentou sua reserva de mão de obra qualificada por um fator de dez. Essas taxas de crescimento foram geometricamente mais altas do que no Ocidente menos devastado e sem Terror.
-
-Fontes:
-- [Soviet Democracy by Pat Sloan](https://mltheory.files.wordpress.com/2017/06/pat-sloan-soviet-democracy-victor-gollancz-1937.pdf)
-- [Is the Red Flag Flying? The Political Economy of the Soviet Union by Albert Szymanski](https://archive.org/details/IsTheRedFlagFlying)
-- [Stalin and the Struggle for Democratic Reform by Grover Furr](http://marxism.halkcephesi.net/Grover%20Furr/index.htm)
-- [The Stalin Era by Anna Louise Strong](https://www.prisoncensorship.info/archive/books/SovietUnion/StalinEra_StrongAL.pdf)
-- [Domenico Losurdo: Towards a Critique of Totalitarianism](https://mirror.explodie.org/Losurdo___Critique_of_Totalitarianism_%282004%29.pdf)
-- [Stalin and Hitler: Twin Brothers or Mortal Enemies?](http://crisiscritique.org/ccmarch/losurdo.pdf)
-- [Stalin: History and Criticism of a Black Legend by Domenico Losurdo](https://drive.google.com/drive/folders/1Dg1i8cmId3a-p_Ydz46p1jvPP6Hwc3bm)
-- [A review of Losurdo’s book by scholar Roland Boer](https://stalinsmoustache.org/2014/08/29/losurdo-on-stalin-a-review/)
-- [Kruschev Lied by Grover Furr](https://ia902707.us.archive.org/5/items/pdfy-nmIGAXUrq0OJ87zK/Khrushchev%20Lied.pdf)
-- [Critical review of Kruschev Lied by Roger Keeran (author of Socialism Betrayed)](https://mltoday.com/khrushchev-lied-but-what-is-the-truth)
-- [Grover Furr’s reply to Roger Keeran’s criticism](https://mltoday.com/rejoinder-to-roger-keeran/)
-- [Stalin: a Marxist-leninist perspective](https://revolutionaryleftradio.libsyn.com/joseph-mother-fucking-stain)
-- [Some points on Stalin and Mao](https://marxistleninist.wordpress.com/2008/09/25/some-points-on-stalin-and-mao/)
-- [Anti-Stalinism is left-wing racism: part 1](https://www.fort-russ.com/2018/07/anti-stalinism-is-left-wing-racism-part-1/)
-- [Reconstructing J.V. Stalin: exposing the myths, lies and fraud](https://thesanghakommune.org/2017/07/12/reconstructing-jv-stalin-exposing-the-myths-lies-fraud/amp/)
-- [The positive achievements of Stalin and his regime](https://barbradozier.wordpress.com/2013/01/25/the-positive-achievements-of-stalin-and-his-regime)
-- [The Essential Stalin](http://marxism.halkcephesi.net/trotskyism/the%20essential%20Stalin.htm)
-- [Another View of Stalin](https://stalinsocietypk.files.wordpress.com/2013/05/another-view-of-stalin1.pdf)
-- [The Real Stalin series by Dennis McKinsey](https://espressostalinist.com/the-real-stalin-series/)
-- [The Truth About Stalin by Wilf Dixon](http://www.oneparty.co.uk/index.html?http%3A//www.oneparty.co.uk/html/wilftas.html)
-- [Stalin’s place in history - Mao](https://www.marxists.org/reference/archive/mao/selected-works/volume-7/mswv7_467.htm)
-- [History of the Communist Party of the Soviet Union (Bolsheviks)](https://www.marxists.org/reference/archive/stalin/works/1939/x01/index.htm)
-- [Stalin and the USSR - Myth and Reality](https://youtu.be/v6GO_GxdtZQ)
-- [Stalin and the myth of the “Old Bolsheviks”](https://mltheory.wordpress.com/2016/12/20/stalin-the-myth-of-the-old-bolsheviks/)
-- [Socialism in one country - what it really means](https://mltheory.wordpress.com/2017/05/25/socialism-in-one-country-what-it-really-means/)
-- [On The Question of Stalin (By Mao Tse-tung)](https://www.marxists.org/subject/china/documents/polemic/qstalin.htm)
-- [Che Guevara: “I came to Communism because of Stalin”](http://houstoncommunistparty.com/che-guevara-i-came-to-communism-because-of-stalin/)
-- [Remorse of a dissident: Alexander Zinoviev on Stalin and the dissolution of the USSR](https://communismgr.blogspot.co.uk/2016/08/the-remorse-of-dissident-alexander.html)
-- [Bill Bland: Stalin - the myth and the reality](https://espressostalinist.com/2015/06/20/bill-bland-stalin-the-myth-and-reality/)
-- [On Stalin by W.E.B. Du Bois](https://www.marxists.org/reference/archive/stalin/biographies/1953/03/16.htm)
-- [Review: Stalin’s Wars: From World War to Cold War 1939-1953](https://mltoday.com/article/51-review-stalins-wars-from-world-war-to-cold-war-19391953/29-books-arts-and-literature)
-- [Stalingrad by Antony Beevor: a piece of Nazi war propaganda](http://neodemocracy.blogspot.co.uk/2017/09/stalingrad-by-antony-beevor-piece-of.html)
-
-#### O grande expurgo
-Os expurgos do final dos anos 1930 são uma marca negra definitiva no legado do socialismo soviético; isso não pode ser negado. Dito isto, eles foram objeto de décadas de distorções e exageros injustificados e intoleráveis por parte dos acadêmicos burgueses, necessitando de uma resposta completa.
-
-Em primeiro lugar, vamos estabelecer os fatos de quantas pessoas realmente morreram nos expurgos. Embora os ocidentais sejam frequentemente tratados com números que variam de 20 a 50 milhões, os números verdadeiros (embora ruins o suficiente por si só) estão longe de ser tão altos. De acordo com o Professor [J. Arch Getty](https://history.ucla.edu/faculty/j-arch-getty):
->De 1921 até a morte de Stalin, em 1953, cerca de 800.000 pessoas foram condenadas à morte e fuziladas, 85% delas nos anos do Grande Terror de 1937-1938. De 1934 até a morte de Stalin, mais de um milhão morreram nos campos do gulag.
-
-A esses números deve ser acrescentada uma ressalva importante: ao contrário da opinião popular, a grande maioria dos presos do gulag não eram presos políticos inocentes. O professor Getty observa que os condenados por "crimes contra-revolucionários" representavam entre 12 e 33 por cento (dependendo do ano) da população do gulag, sendo o restante condenado por crimes comuns. Ele também rejeita a alegação comum de que as nacionalidades não russas foram visadas de forma desproporcional. Para citar seu artigo na American Historical Review:
->A tão esperada evidência de arquivo sobre a repressão no período dos Grandes Expurgos mostra que os níveis de prisões, prisioneiros políticos, execuções e populações em geral dos campos tendem a confirmar as ordens de magnitude indicadas por aqueles rotulados como "revisionistas" e ridicularizados por aqueles propondo altas estimativas... inferências de que o terror caiu especialmente em nacionalidades não russas não são corroboradas pelos dados da população do campo da década de 1930. A afirmação frequente de que a maioria dos prisioneiros do campo era "política" também parece não ser verdade.
-
-Esses números são confirmados em um [relatório da CIA sobre o assunto](https://www.cia.gov/readingroom/docs/CIA-RDP80T00246A032000400001-1.pdf).
-
-Além disso, os campos gulag não eram campos da morte como os dos nazistas; eram prisões, embora severas. Até mesmo estudiosos anticomunistas notáveis (como aqueles que trabalharam no infame Livro Negro do Comunismo) admitiram isso. Para citar novamente o Professor Getty:
->Os campos de Stalin eram diferentes dos de Hitler. Dezenas de milhares de prisioneiros eram libertados todos os anos após o cumprimento de suas sentenças. Agora sabemos que antes da Segunda Guerra Mundial mais presos escapavam anualmente dos campos soviéticos do que morriam lá. [...] Werth, um conceituado especialista francês sobre a União Soviética, cujas seções do Livro Negro sobre os comunistas soviéticos são sóbrios e contundentes, disse ao Le Monde: "Não existiam campos de extermínio na União Soviética".
-
-Também deve ser notado que, ao contrário da concepção popular da URSS de Stalin como um lugar de "terror total" (para citar Hannah Arendt), a maioria da população não se sentiu ameaçada pelos expurgos. Referindo-se à época do Grande Expurgo, o professor [Robert Thurston](http://miamioh.edu/cas/academics/departments/history/about/faculty/emeriti-faculty/thurston/index.html) observa que "minhas evidências sugerem que o medo generalizado não existia no caso em questão". Ele também observa que o Grande Expurgo foi um acontecimento excepcional, que não pode ser usado para caracterizar a era stalinista como um todo:
->Não vou simplesmente sugerir, mas declarar abertamente que a Ezhovshchina (Grande Expurgo) foi uma aberração. A tortura era incomum até agosto de 1937, quando se tornou a norma; terminou abruptamente com a ascensão de Beria à chefia do NKVD no final de 1938. Prisões em massa seguiram o mesmo padrão... Uma campanha por procedimentos judiciais mais regulares, justos e sistêmicos que começou em 1933-1934 foi interrompida e oprimida pelo Terror em 1937. Foi retomado na primavera de 1938, com mais força e eficácia do que antes. Assim, mais de uma tendência foi quebrada pela Ezhovshchina, apenas para reaparecer depois dela.
-
-Ele também aponta que algumas prisões que ocorreram durante o Grande Expurgo foram baseadas em crimes anteriormente ignorados (embora indiscutivelmente ainda legítimos) contra o estado soviético, como lutar com as forças reacionárias durante a Guerra Civil:
->Pessoas foram repentinamente presas em 1937 por coisas que aconteceram muitos anos antes, mas foram ignoradas desde, por exemplo, servindo em um exército branco.
-
-Surge a pergunta: por que prender ex-soldados do Exército Branco, entre outros? A resposta está no medo geral da contra-revolução que permeou o partido naquela época. De acordo com o professor [James Harris](https://ahc.leeds.ac.uk/history/staff/64/professor-james-harris):
->Em meados da década de 1930, a ascensão dos nazistas na Alemanha e dos militaristas no Japão, ambos estridentemente anticomunistas, representou uma ameaça muito real para a URSS. A guerra estava então no horizonte, e Stalin sentiu que não tinha escolha a não ser tomar uma ação preventiva contra o que ele via como uma potencial quinta coluna - um grupo que minaria o coletivo maior.
-
-Lembre-se que desde o momento de sua fundação (ainda um evento recente, nesta época), a União Soviética havia sido [invadida por múltiplas potências capitalistas](https://www.warhistoryonline.com/world-war-i/the-day-that-the-usa-invaded-russia-and-fought-with-the-red-army-x.html) (incluindo os Estados Unidos) no início da década de 1920, e também tinha sido objeto de espionagem e espionagem interna. sabotar. Combinado com a iminente ameaça de guerra com uma Alemanha nazista cada vez mais poderosa, não é de surpreender que esses fatores se juntaram para formar uma atmosfera de paranóia, que se prestou ao tipo de excesso violento visto durante o expurgo. Isso coincide com a interpretação do professor Thurston dos eventos, de seu livro Life and Terror in Stalin's Russia:
->...entre 1934 e 1936, a prática policial e judicial relaxou significativamente. Então, uma série de eventos, junto com a situação internacional tensa e as memórias da atividade real do inimigo durante a selvagem Guerra Civil Russa, combinaram-se para empurrar os líderes e as pessoas em uma caçada histérica por supostos 'destruidores'. Depois do final de 1938, no entanto, a polícia e os tribunais tornaram-se dramaticamente mais brandos.
-
-Essa atmosfera geral de medo (não dos expurgos, mas dos inimigos externos e internos) é provavelmente o motivo pelo qual a maioria do povo soviético parecia apoiar as ações do governo durante o período de expurgo. De acordo com o professor Thurston:
->As várias reações à prisão catalogadas acima sugerem que o medo geral não existia na URSS em qualquer momento no final dos anos 1930... As pessoas que permaneceram em liberdade muitas vezes sentiram que algum evento nos antecedentes dos indivíduos detidos justificava suas prisões. A sensação de que alguém poderia ser o próximo, a base de sistemas teóricos de terror, raramente aparece.
-
-No geral, talvez o resumo mais sucinto desta questão seja aquele fornecido no livro do Professor Thurston, no qual ele afirma:
->Nunca houve um longo período de stalinismo sem uma séria ameaça estrangeira, grande deslocamento interno ou ambos, o que torna impossível identificar sua verdadeira natureza.
-
-Como marxistas, devemos estar bem cientes de que as condições materiais moldam as estruturas ideológicas e políticas. A selvageria da Guerra Civil Russa, as múltiplas invasões das potências capitalistas e a crescente ameaça de uma guerra contra o fascismo tornam a atmosfera paranóica do final dos anos 1930 compreensível, se não tolerável; no entanto, mesmo enquanto discutimos as causas genuínas do Expurgo e rejeitamos o histérico jogo de lama anticomunista dos Guerreiros Frios, ainda devemos reconhecer a marca negra que o Expurgo deixou no legado de Stalin.
-
-Fontes:
-- [Origins of Great Purges by J Arch Getty](https://books.google.com.br/books/about/Origins_of_the_Great_Purges.html?id=R5zx54LB-A4C&redir_esc=y)
-- [Life & Terror in Stalin's Russia - 1934-1941 by Robert Thurston](https://www.amazon.com.br/Life-Terror-Stalins-Russia-1934-1941/dp/0300064012)
-- [Yezhov vs Stalin: The causes of the mass repressions of 1937-1938 in the USSR by Grover Furr](https://msuweb.montclair.edu/~furrg/research/furr_yezhov_jls17.pdf)
-- [The Moscow Trials (Part 3: the Great Purge) by Finnish Bolshevik](https://www.youtube.com/watch?v=NrrDMyAz1SU&t=1894s)
-- [The Purges and Repressions in the USSR by Tovarishch Endymion](https://www.youtube.com/watch?v=RbEmfzJeY48&t=2s)
-
-#### A fome ucraniana (holodomor)
-Talvez a acusação mais perniciosa contra Stalin seja que ele orquestrou a terrível fome do início dos anos 1930 para esmagar uma revolta nacionalista ucraniana. Essa calúnia desprezível (que é propagada em grande parte por grupos nacionalistas e neofascistas ucranianos) é facilmente refutada pelo exame do consenso histórico.
-
-A fome de 1931-1932, não foi causada pelo Estado soviético, nem foi planejada ou premeditada por Stalin. Primeiro, porque não morreram apenas ucranianos, mas também russos, bielorrussos e cazaques. Os camponeses ricos da Ucrânia, que exploravam a mão de obra  do campesinato local, opondo-se à coletivização. Os próprios kulaks, que haviam enriquecido com a NEP de Lenin, recusaram-se a colher os frutos e grãos, principalmente depois que muitos camponeses sem-terra optaram por migrar para outras regiões da União Soviética, trabalhando em fazendas coletivas (as kolkhoses), em vez de ficar naquela região, sendo explorados, fora que quando o preço dos grãos caiam, eles faziam açambarcamento das mercadorias e se recusavam a vendê-los, a URSS não podia continuar se submetendo às vontades do livre-mercado, senão ocorreria outra crise das tesouras. Grupos de extrema-direita anti-comunistas, como a Organização Militar Ucraniana, atearam fogo nas suas plantações, atiraram nos rebanhos, matando animais, visando sabotar o processo de coletivização. Haviam, à época, 10 milhões de “kulaks”, para uma população camponesa total de 120 milhões de pessoas. Cerca de 1 milhão e 800 mil deles, por causa da pressão dos kulaks, optaram por migrar. Toda mentira sobre o Holodomor começou quando William Randolph Hearst, magnata da imprensa estadunidense, conhecido antes da Segunda Guerra como "o fascista nº1 da América", viajou para Alemanha em 1934, cerca de 1 ano depois da ascensão de Hitler ao poder. Nessa viagem ele travou contato principalmente com Alfred Rosenberg, ideólogo do Partido Nazista, que, terminada a Segunda Guerra (1945), acabou  julgado e executado no Tribunal de Nuremberg por crimes contra a humanidade. No ano seguinte à viagem (1935), os jornais de Hearst começaram a espalhar a farsa do “holocausto ucraniano”. Hearst havia começado sua vida como empresário em 1887 após assumir o controle do jornal The San Francisco Examiner, que era do seu pai.
-
-Douglas Tottle ressalta em Fraud, Famine and Fascism, p. 49-51:
->É uma questão de algum significado que as alegações do cardeal Innitzer de fome-genocídio foram amplamente promovidas ao longo da década de 1930, não apenas pelo principal propagandista de Hitler, Goebbels, mas também pelos fascistas americanos.
->Devemos relembrar que Hearst deu início à sua campanha contra a fome com uma transmissão de rádio baseada principalmente em material do "comitê de ajuda" do cardeal Innitzer. Em Organized Anti-Semitism in America, o livro de 1941 expondo grupos e atividades nazistas nos Estados Unidos antes da guerra, Donald Strong observa que o líder fascista americano, padre Coughlin, usou extensivamente o material de propaganda nazista. Isso incluía acusações nazistas de "atrocidades cometidas por judeus comunistas" e porções textuais de um discurso de Goebbels referindo-se ao "apelo de Innitzer de julho de 1934, de que milhões de pessoas estavam morrendo de fome em toda a União Soviética".
-
-Se mudando para Nova Iorque, Hearst comprou o The New York Journal e criou então a noção de "imprensa marrom", sendo por isso considerado "o pai do sensacionalismo". Neste ínterim, entrou em uma guerra de negócios com Joseph Pulitzer, dono do New York World. Porém, foi Walter Dushnyck, um colaborador dos nazistas e terrorista da “Organização Militar Ucraniana” (que apoiou os nazistas quando estes ocuparam parte da Ucrània em 1941), o homem por trás da farsa. Dushnyck refugiou-se nos EUA após a II Guerra. Dushnyck publicou o livro "50 anos atrás: o Holocausto de Fome na Ucrânia" (50 Years Ago: The Famine Holocaust in Ukraine, 1983), um panfleto repleto de referências nazistas, incluindo a capa, como uma caveira branca sob uma foice e um martelo vermelhos. Este livro continha as fotos do "genocídio ucraniano” publicadas originalmente no jornal de Hitler, o “Völkischer Beobachter” e nos de seu apoiador americano, William Randolph Hearst (cuja vida inspirou o filme Cidadão Kane). Cabe lembrar que Hearst tinha estreita relação com o senador  Joseph McCarthy, sendo um dos nomes fortes por trás do movimento de  "caça  aos comunistas" iniciado por ele na década de 1950, no que ficou conhecido como Macarthismo. Por meio do Comitê de Atividades Anti-Americanas, McCarthy liderou um comitiva inquisitorial que perseguiu qualquer que tivesse a mínima conexão com o marxismo, como o roteirista Dalton Trumbo, os diretores Edward Dmytryk, John Huston, além de Orson Welles (que Hearst fez de tudo para derrubar quando este lançou Cidadão Kane), e dos atores Humphrey Bogart, Lauren Bacall, Gregory Peck, Katharine Hepburn, Kirk Douglas, Burt Lancaster, Gene Kelly e até mesmo Frank Sinatra. Outro responsável por disseminar essas mentiras sobre a URSS foi o escritor Robert Conquest (homenageado por George W. Bush), nos livros O Grande Terror (The Great Terror, 1968) e Colheita Amarga (The Harvest of Sorrow, 1986). O que poucos sabem é que Conquest trabalhou até meados da década de 50 para o Information Research Department (Departamento de Pesquisa de Informação), um organismo secreto do Foreign Office (Ministério dos Negócios Estrangeiros) criado em 1948 pelo governo britânico para estudar o comunismo e combater ativamente a sua influência interna e externamente, promovendo um eficaz relacionamento com jornalistas dos principais jornais, dirigentes sindicais, etc. Datam desse tempo os seus primeiros textos sobre a União Soviética. Holodomor nem é a grafia correta, e sim haladamor ou golodomor, mas colocaram holodo- para parecer-se com o holocausto e assim difamar a URSS. Não morreram 4 milhões de cazaques pela fome, já que o número de cazaques na época era 3,9 milhões. Muitos fugiram e se tornaram indetectáveis. As estimativas reais são de apenas quase 2 mil mortes.
-
-![Origem do termo holodomor](images/origin_of_holodomor.jpg)
-
-Robert Conquest, para escrever seu livro, teve como ajudante James Mace que, assim como  Nicolas Werth (organizador do "Livro negro do comunismo”), adotaram um método estatístico cientificamente falho criado por Dushnyck para "medir" a quantidade de mortos na fome de 1931-32. O método de Dushnyck pode ser avaliado pelo seguinte trecho de seu livro:
->Tomando os dados do censo de 1926 e os do censo de 1939 e a média de aumento [da população] antes da coletivização (2.36% ao ano), podemos calcular que a Ucrânia perdeu 7 milhões e 500 mil pessoas entre os dois censos.
-
-Logo, ele conclui, aleatóriamente, que esses seriam os mortos de fome entre 1932 e 1933. Não tem provas, apenas convicções. O método de Dushnyck tem outras falhas:
-1) Ignora que uma parte da população que no censo de 1926 era classificada como ucraniana – cerca de 2 a 3 milhões de cossacos – foi, no censo de 1939, reclassificada como russa, pela simples razão de que viviam da Rússia e não na Ucrânia.
-2) Pressupõe que, entre 1926 e 1939 ninguém morreu de outra causa que não a fome, como frio, pneumonia, velhice, etc.
-3) Ignora que na URSS e outros países, durante esse período, ocorreram duas grandes epidemias tifo (200.000 casos) e malária (6 milhões de casos), ambas sem tratamento conhecido na época, além de consumo de trigo infectada pela ferrugem conduzindo sintomas similares à fome, micotoxicose e a morte.
-4) Pressupõe que o número de mulheres na idade reprodutiva e com vida sexual ativa tivesse se mantido inalterado no período.
-5) Ignora as mortes na guerra e as quedas nas taxas de natalidade e fecundidade entre 1914 (início da I Guerra Mundial) e 1921 (fim da Guerra Civil).
-6) Pressupõe que a taxa de natalidade permaneceu constante durante os 13 anos em que a URSS passou por uma extraordinária transformação, com industrialização pesada sendo realizada, a reforma agrária por meio da coletivização da agricultura além da preparação da defesa do país para a guerra, passos indispensáveis para a construção do socialismo.
-
-Ou seja, pelo método de Dushnyck, adotado por outros autores como Robert Conquest e Nicolas Werth, a transformação da União Soviética, de país agrário a potencia industrial, bem com a passagem pela Guerra Civil (1918-1921) e pela Segunda Guerra Mundial (1939-1945) não teriam afetado a taxa de natalidade. Em consequência dessa falha metodológica pessoas que nunca nasceram foram considerados mortas em genocídio que nunca se provou. Pois a taxa de natalidade, evidentemente, caiu entre 1926 e 1939 – e caiu significativamente. Segundo Dushynck e os seguidores de seu método, teriam morrido 10 milhões de pessoas na fome de 1931-1932. Todavia, Rússia, Ucrânia e muitos países do mundo, até meados do século XX, quando se consolidou a chamada "Revolução Verde", enfrentavam crises periódicas de fome.
-
-Entre 1891 e 1892, no Império Russo, governado pelo czarismo, a fome matou entre 13 e 35 milhões de pessoas, em decorrência, além das técnicas precárias de cultivo, do rigoroso inverno no qual as temperaturas chegaram a -31º C.
-
-[Alexander Dallin](https://creees.stanford.edu/events/alexander-dallin-lecture-russian-east-european-and-eurasian-affairs), da Universidade de Stanford, escreve:
->Não há provas de que foi intencionalmente dirigido contra os ucranianos... isso estaria totalmente em desacordo com o que sabemos - não faz sentido.
-
-[Moshe Lewin](https://www.upenn.edu/emeritus/memoriam/Lewin.html), da Universidade da Pensilvânia, declarou:
->Isso é uma porcaria, uma besteira... Eu sou um anti-Stalinista, mas não vejo como essa campanha [genocídio] acrescenta ao nosso conhecimento. É adicionar horrores, adicionar horrores, até que se torne uma patologia.
-
-[Lynne Viola](https://history.utoronto.ca/people/lynne-viola), da Universidade de Toronto, escreve:
->Eu o rejeito absolutamente... Por que, em nome de Deus, esse governo paranóico conscientemente produziria uma fome quando eles estavam apavorados com a guerra [com a Alemanha]?
-
-[Mark Tauger](https://history.wvu.edu/faculty-and-staff/faculty/mark-b-tauger), professor de história da West Virginia University (revisando o trabalho de [Stephen Wheatcroft](https://pursuit.unimelb.edu.au/individuals/professor-stephen-wheatcroft) e [R.W. Davies](https://www.birmingham.ac.uk/staff/profiles/gov/davies-bob.aspx)) tem a dizer:
->A mídia popular e a maioria dos historiadores por décadas descreveram a grande fome que atingiu a maior parte da URSS no início dos anos 1930 como "causada pelo homem", muitas vezes até mesmo um "genocídio" que Stalin perpetrou intencionalmente contra os ucranianos e às vezes outros grupos nacionais para destruí-los como nações... Essa perspectiva, entretanto, está errada. A fome que ocorreu não se limitou à Ucrânia ou mesmo às áreas rurais da URSS, não foi fundamentalmente ou exclusivamente causada pelo homem e estava longe da intenção de Stalin e outros na liderança soviética criar um desastre. Uma pequena mas crescente literatura baseada em novos documentos de arquivo e uma abordagem crítica de outras fontes mostrou as falhas na interpretação “genocídio” ou “intencionalista” da fome e desenvolveu uma interpretação alternativa.
-
-Pesquisas mais recentes descobriram causas naturais para a fome na Ucrânia. Notas de Tauger:
->...a URSS experimentou um desastre ambiental incomum em 1932: clima extremamente úmido que deu origem a graves infestações de doenças de plantas, especialmente ferrugem. A Ucrânia teve o dobro ou o triplo das chuvas normais em 1932. Tanto as condições climáticas quanto a ferrugem se espalharam do Leste Europeu, como documentaram os fitopatologistas da época. Patologistas de plantas soviéticos, em particular, estimaram que a ferrugem e outras doenças fúngicas reduziram a colheita potencial em 1932 em quase nove milhões de toneladas, que é a maior perda de colheita documentada por qualquer causa na história soviética.
-
-Anna Louise Strong diz:
->PERGUNTA: É verdade que durante 1932-33 vários milhões de pessoas morreram de fome na Ucrânia e no Norte do Cáucaso porque eram politicamente hostis aos soviéticos?
->
->RESPOSTA: Não é verdade. Visitei vários lugares nessas regiões durante esse período. Houve uma séria escassez de grãos na safra de 1932 devido principalmente às ineficiências do período organizacional da nova agricultura mecanizada em grande escala entre os camponeses não acostumados com as máquinas. A isso foi adicionada a sabotagem por kulaks despossuídos, a saída das fazendas por 11 milhões de trabalhadores que foram para novas indústrias, o efeito cumulativo da crise mundial em deprimir o valor das exportações agrícolas soviéticas e uma seca em cinco regiões de grãos básicos em 1931 .
->
->A colheita de 1932 foi melhor do que a de 1931, mas não foi toda colhida; por conta de promessas superotimistas dos distritos rurais, Moscou descobriu a situação real apenas em dezembro, quando uma quantidade considerável de grãos estava sob a neve.
-
-Não foi um genocídio:
-- A maioria dos administradores governamentais da URSS eram Ucrânianos étnicos.
-- Ucrânia era uma área multiétnica.
-- O governo soviético deu um total de 13.000.000 para os cuidados de saúde e sistemas sociais Ucranianos entre 1929 e 1934.
-
-Em 1987, Hans Blumenfeld ressalta:
->em 1920, quando a NEP foi implementada e a União Soviética passou do comunismo de guerra para um estágio temporário onde existia um mercado livre, as temidas consequências do mercado tornaram-se evidentes. Apesar da reforma agrária anterior, quase 3 milhões de camponeses, rapidamente ficaram novamente sem terra, porque os kulaks os levaram à falência e compraram suas terras por um preço baixo. Isso resultou em 10 ou 11 por cento da população (kulaks) possuindo tanta terra e também cavalos e maquinários em comparação com o resto da população camponesa que eles produziram 56 por cento dos alimentos comercializados. Em grande parte, os kulaks decidiriam se as cidades receberiam alimentos ou não. A especulação de Kulak no mercado de alimentos causou uma escassez já em 1927, quando a parcela de grãos comercializada era de apenas um terço dos anos anteriores à guerra, embora a produção tivesse excedido os números anteriores à guerra. Essa ineficácia foi o que deu início à ideia de coletivização, com Lenin escrevendo a ideia básica antes de sua morte e Stalin elaborando os planos e implementando-os. Entre as muitas ações do programa de coletivização estava o confisco de terras agrícolas e das máquinas e animais que estavam sobre elas (propriedade privada, NÃO propriedade pessoal). No entanto, houve alguns problemas;
->
->“A coletivização não foi um processo ordenado, seguindo regras burocráticas. Consistia em ações dos camponeses pobres, incentivados pelo Partido. Os camponeses pobres estavam ansiosos para expropriar os “kulaks”, mas menos ansiosos para organizar uma economia cooperativa. Em 1930 o Partido já havia enviado quadros para conter e corrigir os excessos ... Depois de ter exercido a contenção em 1930, o Partido voltou a se movimentar em 1932. Como resultado, naquele ano a economia kulak deixou de produzir, e o novo coletivo economia ainda não produzia totalmente.
-
-Neste período, houve o dilúvio do rio Volga, incêndios florestais, seca e os administradores da RSSC e a RSSU não denunciaram o mal gerenciamento dos bens coletivos na época, o que complicou a reação do governo central, então eles continuaram exportando normalmente a quantidade de colheitas.
-
-O governo do Stalin reagiu:
-- Investindo nos sistemas de saúde afetados;
-- Importando e distribuindo colheitas;
-- Desenvolvendo e melhorando o sistema Sovkhoz.
-
-Em The Stalin Era, Anna comenta sobre o fim da fome:
->A conquista do pão foi alcançada naquele verão, uma vitória arrebatada de um grande desastre. A safra de 1933 superou a de 1930, que até então detinha o recorde. Desta vez, o novo recorde não foi feito por uma explosão de semi-organizados entusiasmo, mas por eficiência crescente e organização permanente... Esta cooperação nacional venceu a seca de 1934, garantindo uma safra total para a URSS igual ao máximo de todos os tempos de 1933.
-
->O Bureau Político acredita que a escassez de grãos na Ucrânia é muitas vezes pior do que o que foi descrito no telegrama do camarada Kosior; portanto, o Bureau Político recomenda que o Comitê Central do Partido Comunista da Ucrânia tome todas as medidas ao seu alcance para evitar a ameaça de não semear [safras] na Ucrânia.
->
-><cite>Assinado: Secretário do Comitê Central - J. STALIN Do Arquivo do Presidente da Federação Russa. Fond 3, Record Series 40, File 80, Page 58.</cite>
-
-Deve-se notar que isso não isenta o Estado soviético de toda e qualquer responsabilidade pelo sofrimento ocorrido; pode-se acusar o governo de resposta insuficientemente rápida e observar que os relatórios iniciais costumam ser minimizados para evitar balançar o barco. Mas está claro que a fome não foi deliberada, não foi um genocídio e (para citar Tauger) "não foi fundamentalmente ou exclusivamente causada pelo homem".
-
-Fontes:
-- [A “grande fome” na Ucrânia (Holodomor): um dos maiores mitos do século XX](https://andrezasantana-11112.medium.com/a-grande-fome-na-ucr%C3%A2nia-holodomor-um-dos-maiores-mitos-do-s%C3%A9culo-xx-22b1be62d6b6)
-- [What about Stalin, the purges, the holodomor, etc? A revleft podcast.](https://revolutionaryleftradio.libsyn.com/joseph-mother-fucking-stain)
-- [Fraud, Famine and Fascism by Doug Tottle](http://rationalrevolution.net/special/library/tottlefraud.pdf)
-- [The 1932 Harvest and the Famine of 1933 by Mark Tauger](https://drive.google.com/file/d/0B-eTgjCs2lzpQllPVzQ2UFd3aWM/view?usp=sharing)
-- [Natural Disaster and Human Actions in the Soviet Famine of 1931-1933 by Mark Tauger](https://drive.google.com/file/d/0B-eTgjCs2lzpNExnSEVhMjBLRlE/view?usp=sharing)
-- [The Years of Hunger: Soviet Agriculture, 1931-1933 by Davies and Wheatcroft](http://gen.lib.rus.ec/book/index.php?md5=32DAA2871728468189A57E0233492A3A)
-- [Lies concerning the History of the Soviet Union by Mario Sousa](http://www.mariosousa.se/LiesconcerningthehistoryoftheSovietUnion.html)
-- [The Soviet famine of 1932-1933 reconsidered](http://www.tandfonline.com/doi/abs/10.1080/09668130801999912)
-- [Archive of writings of Professor Mark Tauger on the famine scourges of the early years of the Soviet Union](https://www.newcoldwar.org/archive-of-writings-of-professor-mark-tauger-on-the-famine-scourges-of-the-early-years-of-the-soviet-union/)
-- [Blood Lies by Grover Furr](http://www.readmarxeveryday.ml/bloodlies/index.html)
-- [Pages 95-111 of Another View of Stalin by Ludo Martens - Collectivization and the ‘Ukrainian Holocaust’](https://stalinsocietypk.files.wordpress.com/2013/05/another-view-of-stalin1.pdf)
-- [J Arch Getty reviews “Harvest of Sorrow”](https://www.lrb.co.uk/v09/n02/j-arch-getty/starving-the-ukraine)
-- [Mark Tauger reviews The Years of Hunger by Davies and Wheatcroft](https://eh.net/book_reviews/the-years-of-hunger-soviet-agriculture-1931-1933/)
-- [Stop spreading Nazi propaganda: on Holodomor](https://socialistmlmusings.wordpress.com/2017/02/15/stop-spreading-nazi-propaganda/)
-- [The Holodomor Hoax: Joseph Stalin’s crime that never took place](http://www.greanvillepost.com/2015/08/10/the-holodomor-hoax-joseph-stalins-crime-that-never-took-place/)
-- [Real Stalin series: famine of 1932](https://espressostalinist.com/the-real-stalin-series/famine-of-1932/)
-- [In search of a Soviet Holocaust: A 55 year old famine feeds the Right](https://msuweb.montclair.edu/~furrg/vv.html)
-- [The Ukrainian famine: only evidence can disclose the truth](https://www.counterpunch.org/2017/03/31/the-ukrainian-famine-only-evidence-can-disclose-the-truth/)
-- [The “Holodomor” and the film “Bitter Harvest” are Fascist lies](https://www.counterpunch.org/2017/03/03/the-holodomor-and-the-film-bitter-harvest-are-fascist-lies/)
-- [Holodomor Hoax: the anatomy of a lie invented by West’s propaganda machine](https://sputniknews.com/politics/201510191028730561-holodomor-hoax-invented-hitler-west)
-- [The famine of 1932-33 in Ukraine the eyes of historians, the language of documents](http://www.archives.gov.ua/Sections/Famine/Publicat/Fam-Pyrig-1932.php)
-- [How many people did Joseph Stalin really kill?](https://anti-imperialism.org/2016/02/16/how-many-people-did-joseph-stalin-really-kill/)
-- [Evidence that Stalin was unaware of conditions in the Ukraine and tried to relieve the situation when he was informed](http://www.stalinsociety.org/2015/10/03/fighting-the-holodomor-myth-archival-evidence-that-stalin-was-unaware-of-conditions-in-the-ukraine-and-tried-to-relieve-the-situation-when-he-was-informed/)
-- [Why the Holodomor narrative is wrong](https://www.youtube.com/watch?v=mUEi7v2TMpQ)
-- [Holodomor series - part 1 - fraudulent photos](https://www.youtube.com/watch?v=QzXFXdOz_8Q)
-- [Food shortages and problems in the USSR](https://www.youtube.com/watch?v=NUO7_SiJCpw)
-- [Did Stalin continue to export grain as Ukraine starved?](https://youtu.be/SMBJ_nQ4sTA)
-- [Famines are always because of Communism](https://i.redd.it/j22mvokwzo1z.jpg)
-- [Soviet Agriculture, 1977](https://archive.org/details/SovietAgricultureMorozov)
-
-Também recomendo a leitura dos livros **Stalin: um novo olhar** de Ludo Martens, **Stalin: a história crítica de uma lenda negra** de Domenico Losurdo e **Um Stalin desconhecido** pela família Medvedev (que é liberal e anti-stalin, mas rejeita a narrativa mitíca que se tem sobre Stalin). Também recomendo o prof. Mark Tauger é um dos pesquisadores mais respeitados do mundo no tema história da agricultura soviética,  prof. Annie Lacroix-Riz, acadêmica da universidade Paris VII - Denis Diderot, que defende ser o "holodomor" um cavalo de batalha anticomunista.
-
-#### Antissemitismo
-Em primeiro lugar, todas as nacionalidades sob Stalin tinham direitos iguais, não importando a raça que pertenciam. Isso pode ser visto no Artigo 123 da Constituição Soviética de 1936. Afirma que:
->A igualdade de direitos dos cidadãos da URSS, independentemente de sua nacionalidade ou raça, em todas as esferas da vida econômica, estatal, cultural, social e política, é uma lei indestrutível. Qualquer restrição direta ou indireta dos direitos de, ou, inversamente, qualquer estabelecimento de privilégios diretos ou indiretos para os cidadãos em razão de sua raça ou nacionalidade, bem como qualquer defesa de exclusividade racial ou nacional ou ódio e desprezo, é punível por lei.
-
-Esta lei não exclui a população judaica, já que o próprio Stalin disse isso sobre o anti-semitismo respondendo a um pedido da Agência Telegráfica Judaica da América:
->O anti-semitismo, como uma forma extrema de chauvinismo racial, é a mais perigosa remanescência do canibalismo. Na URSS, o anti-semitismo é estritamente perseguido por lei como um fenômeno profundamente hostil ao sistema soviético. Os anti-semitas ativos são punidos pelas leis da URSS.
-
-Sob Stalin, toda a população soviética era capaz de ler e escrever, ou seja, alfabetizou-se. O império russo tinha uma taxa de alfabetização de 21% (1897), enquanto sob Stalin, 100% da população era totalmente alfabetizada em 1950, independentemente da raça ou sexo.
-
-A política de Korenizatsiya começou em 1913, mas o efeito total disso foi sob o camarada Stalin. Stalin afirma que o chauvinismo russo é um grande perigo para a União Soviética e insiste na criação do Soviete das Nacionalidades, que se tornou uma das 2 câmaras do Soviete Supremo. Conforme declarado no artigo 37 da constituição soviética de 1936:
->Ambas as Câmaras do Soviete Supremo da União das Repúblicas Socialistas Soviéticas, o Soviete da União e o Soviete das Nacionalidades, têm direitos iguais.
-
-Enquanto:
->O Soviete das Nacionalidades é eleito pelos cidadãos da URSS de acordo com a União e Repúblicas Autônomas, Regiões Autônomas e áreas nacionais com base em vinte e cinco deputados de cada República da União, onze deputados de cada República Autônoma, cinco deputados de cada Região Autônoma e um deputado de cada área nacional.
-
-Nos termos do artigo 35 da Constituição Soviética. Isso mostra que os russos não étnicos desempenharam um grande papel na URSS e na criação de leis, políticas e na eleição de altos funcionários.
-
-No entanto, para descobrir o quanto Stalin era um “nacionalista russo do mal”, devemos olhar para o número de pessoas enviadas aos gulags. Portanto, ao todo, em 1939, havia 810 mil russos nos gulags. Além disso, a população russa em 1939 era de 108.377.000, portanto, podemos ver que 0,75% da população russa estava em gulags (prisões). Agora, vamos examinar os outros grupos étnicos, como ucranianos e cazaques. A população ucraniana em 1939 era de 33.425.000, enquanto o número deles nas gulags era de 182.536, ou seja, 0,55% da população. A população do Cazaquistão era de 6.081.000, enquanto o número de gulags era de 17.333, ou seja, 0.28% da população. Assim, podemos dizer que mais russos estavam em gulags em comparação com outros grupos étnicos durante a época de Stalin.
-
-Podemos aplicar o mesmo aos judeus (Stalin até ajudou a criar Israel), alguns dos amigos mais próximos de Stalin eram judeus como - Lazar Kaganovich, enquanto muitos judeus soviéticos famosos receberam o "Prêmio Estatal de Stalin". Isso inclui:
-- Sergei Eisenstein
-- Yuli Raizman
-- Mikhail Romm
-
-Portanto, no geral, podemos dizer que Stalin era de fato um verdadeiro comunista soviético e não era um nacionalista russo e não odiava o povo judeu.
-
-#### Pessoas inocentes fuziladas por crimes pequenos
-Para desmascarar esses mitos, usarei artigos do Código Penal da RSFSR 1926 (algumas edições de 1956).
-
->Mas a minha avó roubou pão e foi condenada perpétua no Gulag.
-
-Este é o tipo de declaração que um capitalista ou anti-stalinista faz. No entanto, se olharmos para o Código Penal, ele afirma:
->Para combater os crimes mais graves que ameaçam as fundações do poder soviético e do sistema soviético, até que o Comitê Executivo Central da União da República Socialista Soviética cancele, nos casos especialmente indicados nos artigos deste Código, a execução é utilizada como medida excepcional para proteger o estado dos trabalhadores
->
-> Artigo 21.º do Código Penal da RSFSR
-
->Uma criança roubou alguma coisa, mas foi condenada à morte mesmo assim, porque Stalin e a URSS são maus.
-
-Outra declaração falsa que ouvi muitas vezes. Em contrapartida, afirmo sempre que:
->Os menores de dezoito anos à data do crime e as mulheres grávidas não podem ser condenadas à morte
->
-> Artigo 22.º do Código Penal da RSFSR
-
-Estes são os únicos crimes sob os quais um tribunal pode condená-lo à morte (crimes contra-revolucionários):
-1. Trair a pátria-mãe, ou seja, aqueles que - ameaçam a independência do Estado ou a inviolabilidade do seu território, tais como espionagem, emissão de segredos militares ou de Estado, passagem para o lado do inimigo, fuga ou fuga para o estrangeiro. Artigo 58, parágrafo 1a, do Código Penal da RSFSR.
-2. Qualquer tipo de levante armado ou invasão de fins contra-revolucionários no território soviético por gangues armadas, tomando o poder no centro ou no terreno para os mesmos fins e, em particular, com o objetivo de arrancar à força qualquer parte de seu território a URSS e uma república sindical separada ou a rescisão dos prisioneiros da União SSR com tratados de estados estrangeiros. Artigo 58, parágrafo 2, do Código Penal da RSFSR.
-3. Prestar assistência à burguesia internacional em qualquer forma ou formato. Artigo 58, parágrafo 4
-4. Espiar, isto é, transferir, abduzir ou coletar informações ultrassecretas (contadas como secretas) com o objetivo de entregá-las a organizações contra-revolucionárias ou indivíduos privados. Artigo 58 parágrafo 6 do Código Penal da RSFSR.
-5. Sabotagem contra-revolucionária, ou seja, o não cumprimento deliberado de certos deveres ou seu desempenho deliberado e descuidado com o propósito especial de enfraquecer o poder do governo e as atividades do aparelho de estado. Artigo 58, parágrafo 14, do Código Penal da RSFSR.
-
-Estes são os únicos crimes em que um tribunal pode condená-lo à morte (crimes perigosos):
-1. Motins em massa, acompanhados de pogroms, a destruição de ferrovias ou outros meios de comunicações, assassinatos e outras ações semelhantes. Artigo 59 parágrafo 2 do Código Penal da RSFSR.
-2. Atividade criminosa, ou seja, a organização de gangues armadas e sua participação nos ataques organizados a instituições soviéticas e pessoais ou a cidadãos individuais, paradas de trens e destruição de ferrovias e outros meios de comunicação e centros de comunicação. Art 59 parágrafo 3 do Código Penal da RSFSR.
-3. Roubo de armas, peças de armas e munições. Art 59 parágrafo 3a do Código Penal da RSFSR.
-4. Propaganda ou agitação destinada a incitar o ódio ou ódio étnico ou religioso, bem como a distribuição ou produção e armazenamento de literatura da mesma natureza. Art 59 parágrafo 7 do Código Penal da RSFSR.
-5. Falsificação ou venda de moedas metálicas falsificadas, bilhetes do estado, bilhetes do Banco do Estado da URSS, papéis do governo, bem como falsificação ou venda de moeda estrangeira falsificada. Aer 59 parágrafo 8 do Código Penal da RSFSR.
-6. Contrabando de qualquer forma. Art 59 parágrafo 9 do Código Penal da RSFSR
-
-
-Este é o único crime em que um tribunal pode condená-lo à morte (indivíduos):
-1. Matar outro indivíduo intencionalmente. Art. 136 do Código Penal da RSFSR
-
-Tenham em mente que se você infringir alguma dessas leis, o tribunal decide se vocês seriam ou não condenados à morte. No entanto, em algumas circunstâncias (o tribunal decide), você poderia ser mandado para a prisão em vez de ser baleado, de 3 meses a 10 anos (o que não era raro). Assim, podemos concluir que a URSS de Stalin não atirou em pessoas aleatoriamente sem motivo, pois os tribunais precisavam de legislação adequada para poder condenar pessoas à morte, nem atirou em pessoas por crimes menores. As sentenças de morte seriam aplicadas aos crimes mais severos contra o Estado e a classe trabalhadora.
-
-#### Líder não-democrático
-Em primeiro lugar, Stalin não foi um psicoditador que subiu ao poder por causa de sua violência, ele subiu para seus cargos importantes por meio de eleições. Se você der uma olhada no capítulo 3, artigos 30-34 da [Constituição Soviética de 1936](https://www.marxists.org/reference/archive/stalin/works/1936/12/05.htm), verá que o Soviete Supremo age de forma semelhante a um Parlamento, como nas democracias parlamentares de o Reino Unido e a Holanda, onde o povo não elege diretamente o primeiro-ministro, mas sim vota para o Parlamento e o Parlamento elege um primeiro-ministro, adota novas leis, etc. Os soviéticos fizeram exatamente isso, mas com delegados, “O Soviete da União é eleita pelos cidadãos da URSS de acordo com as áreas eleitorais na base de um deputado para cada 300.000 habitantes”. A legislação (art. 39-40 da constituição de 1936), políticas e diferentes posições no partido (art. 48 da constituição de 1936) também são escolhidos pelo Soviete Supremo por voto popular. Assim, podemos concluir que a URSS de Stalin não foi uma ditadura autoritária desagradável, já que ele havia entrado em confronto com os órgãos às vezes e foi derrotado tanto pelo Politburo quanto pelo Soviete Supremo.
-
-#### As gulags
-Toda a retórica que se vê hoje sobre gulags partem do livro de caráter sensacionalista, beirando a ficção, "Arquipélago Gulag", mas ok, vamos aos fatos:
-1. Gulag era um nome de sistema prisional
-2. Gulags não foram feitas por Lenin ou Stalin, e sim pelo czar
-3. A grande maioria das pessoas no Gulag eram criminosos condenados, não prisioneiros políticos
-4. Os presos políticos incluíam conspiradores contra o governo. Houveram conspirações contra o governo por trotskistas, direitistas e muitos oficiais militares.
-5. A maior parte das pessoas que entraram na gulag, saíram vivas
-6. O relato de Solzhenitsyn sobre o Gulag foi altamente ficcional. O estado real do Gulag dependia do nível de segurança envolvido, da gravidade da ofensa, da turma de trabalho e, em muitos casos, da personalidade dos funcionários da prisão. Isso é típico da vida na prisão em qualquer lugar. Alguns guardas são sádicos, outros não.
-7. Apenas uma pequena porcentagem da população soviética estava na Gulag.
-8. Os prisioneiros eram pagos. Recompensas e bônus dados por trabalho duro.
-
-Com isso, podemos fazer a síntese de que era um sistema totalmente complexo, e nenhuma gulag era igual à outra, elas eram diferentes com bases nas necessidades e realidades materiais de cada região. Recomendo os escritos sobre as gulags de Stalin, são bem complexas -- melhor que a proposta de Trotsky que até hoje quem lê entende umas 5 coisas diferentes, não cumpria com as demandas e realidade soviética e por isso não foi escolhida pelo povo.
-
-Na década de 50, a CIA analisou todo o caso das gulags secretamente e concluiu que:
-1. Até 1952, os presos recebiam comida em quantidade garantida, além de comida extra pelo cumprimento excessivo das cotas
-2. De 1952 em diante, o sistema Gulag operou com "responsabilidade econômica" de forma que quanto mais os prisioneiros trabalhavam, mais eles eram pagos.
-3. Cumprindo as normas em 105%, um dia de sentença era contado como dois, reduzindo assim o tempo gasto no Gulag em um dia a cada dia.
-4. Além disso, por causa da reconstrução socialista pós-guerra, o governo soviético tinha mais fundos e então aumentou o suprimento de comida dos prisioneiros.
-5. Até 1954, os presos trabalhavam 10 horas por dia, enquanto os trabalhadores 8 horas por dia. De 1954 em diante, tanto prisioneiros quanto trabalhadores trabalhavam 8 horas por dia.
-6. Um estudo da CIA de um campo de amostragem mostrou que 95% dos prisioneiros eram criminosos tradicionais.
-7. Em 1953, a anistia foi concedida a 70% dos "criminosos comuns" de um campo de amostragem estudado pela CIA. Nos 3 meses seguintes, a maioria deles foi presa novamente por cometer novos crimes.
-
-Paper da CIA: https://www.cia.gov/readingroom/docs/CIA-RDP80T00246A032000400001-1.pdf
-
-O trabalho, no entanto, realmente era forçado, mas era remunerado. Pagos a partir de 1952 e pagos com mais comida antes de 1952. De acordo com as fantasias burguesas, o “regime” soviético procurou deliberadamente matar de fome as populações do Gulag. No entanto, na verdade, houve esforços soviéticos para aumentar o suprimento de alimentos dos prisioneiros, após a Segunda Guerra Mundial.
-
-Em Triumph of Evil, p. 77-78:
->Como os mitos de milhões de execuções, os contos de fadas de que Stalin fez com que dezenas de milhões de pessoas fossem presas e permanentemente lançadas em prisões ou campos de trabalho forçados para morrer no intervalo 1930-1953 (Conquest, 1990) parecem ser falsos. Em particular, os arquivos soviéticos indicam que o número de pessoas em prisões, gulags e campos de trabalho soviéticos nas décadas de 1930, 1940 e 1950 era em média de 2 milhões, dos quais 20-40% eram libertados a cada ano, (Getty, Rittersporn, e Zemskov, 1993). Essa média, que inclui anos desesperadores da Segunda Guerra Mundial, é semelhante ao número de presos nos Estados Unidos na década de 1990 (Catalinotto, 1998a) e é apenas ligeiramente maior como porcentagem da população. Deve-se notar também que a taxa anual de mortalidade da população soviética internada era de cerca de 4%, o que incorpora o efeito das execuções de prisioneiros (Getty, Rittersporn e Zemskov, 1993). Excluindo os desesperados anos da Segunda Guerra Mundial, a taxa de mortalidade nas prisões, gulags e campos de trabalho soviéticos era de apenas 2,5% (Getty, Ritterspom e Zemskov, 1993), que é ainda inferior à média dos cidadãos "livres" capitalistas Rússia sob o czar em tempo de paz em 1913 (Wheatcroft, 1993). Esta descoberta não é muito surpreendente, dado que cerca de 1/3 das pessoas confinadas nem sequer eram obrigadas a trabalhar (Bacon, 1994), e dado que a semana de trabalho máxima era de 84 horas, mesmo nos campos de trabalho soviéticos mais difíceis durante o período mais desesperador anos de guerra (Rummel, 1990). A última semana de trabalho máxima (e incomum) na verdade se compara favoravelmente às semanas de trabalho de 100 horas que existiam mesmo para crianças "gratuitas" de 6 anos durante o tempo de paz na revolução industrial capitalista (Marx e Engels, 1988b), embora possa parecer alto em comparação com a jornada de 7 horas trabalhada pelo típico cidadão soviético sob Stalin (Davies, 1997). Além disso, também deve ser mencionado que a maioria das prisões sob Stalin foram motivadas por uma tentativa de erradicar crimes civis como banditismo, roubo, uso indevido de cargo público para ganho pessoal, contrabando e estelionatos, com menos de 10% de as prisões durante o governo de Stalin foram por motivos políticos ou questões de polícia secreta (Getty, Ritterspom e Zemskov, 1993). Os arquivos soviéticos revelam muito mais dissidência política permitida na União Soviética de Stalin (incluindo uma quantidade generalizada de críticas às políticas governamentais individuais e aos líderes locais) do que normalmente se percebe no Ocidente (Davies, 1997). Dado que a polícia regular, a polícia política ou secreta, os guardas prisionais, algumas tropas da guarda nacional e os bombeiros (que estavam no mesmo ministério da polícia) representavam apenas 0,2% da população soviética sob Stalin (Thurston, 1996), grave a repressão teria sido impossível mesmo se a União Soviética quisesse exercê-la. Em comparação, os EUA hoje têm muitas vezes mais policiais como porcentagem da população (cerca de 1%, sem mencionar guardas prisionais, tropas da guarda nacional e bombeiros incluídos nos números usados ​​para calcular a proporção muito menor de 0,2% para os soviéticos União).
-
-Também:
->Comecemos com a questão da natureza do sistema penal soviético. Depois de 1930, o sistema penal soviético incluiu prisões, campos de trabalho, as colônias de trabalho do gulag, zonas abertas especiais e obrigação de pagar multas. Quem quer que fosse detido em prisão preventiva era geralmente enviado para uma prisão normal enquanto ocorriam as investigações para estabelecer se ele era inocente e, portanto, poderia ser posto em liberdade ou se deveria ir a julgamento. Um acusado em julgamento pode ser considerado inocente (e posto em liberdade) ou culpado. Se for considerado culpado, ele poderá ser condenado a pagar multa, pena de prisão ou, o que é mais incomum, ser executado. Uma multa pode ser uma determinada porcentagem de seu salário por um determinado período de tempo. Os condenados a penas de prisão podem ser colocados em diferentes tipos de prisão, dependendo do tipo de crime envolvido.
->
->Para os campos de trabalho do gulag foram enviados aqueles que cometeram crimes graves (homicídio, roubo, estupro, crimes econômicos, etc.), bem como uma grande proporção dos condenados por atividades contra-revolucionárias. Outros criminosos condenados a penas superiores a 3 anos também podem ser enviados para campos de trabalho forçado. Depois de passar algum tempo em um campo de trabalhos forçados, um prisioneiro pode ser movido para uma colônia de trabalho ou para uma zona aberta especial.
->
->Os campos de trabalho eram áreas muito grandes onde os prisioneiros viviam e trabalhavam sob estreita supervisão. Para eles, trabalhar e não ser um fardo para a sociedade era obviamente necessário. Nenhuma pessoa saudável sobreviveu sem trabalhar. É possível que hoje em dia as pessoas pensem que isso foi uma coisa terrível, mas é assim que as coisas são. O número de campos de trabalhos forçados existentes em 1940 era de 53.
->
->Havia 425 colônias de trabalho de gulag. Essas unidades eram muito menores do que os campos de trabalho, com um regime mais livre e menos supervisão. Para eles, foram enviados prisioneiros com penas de prisão mais curtas - pessoas que cometeram crimes menos graves ou crimes políticos. Trabalhavam em liberdade nas fábricas ou no campo e faziam parte da sociedade civil. Na maioria dos casos, todo o salário que recebia com seu trabalho pertencia ao prisioneiro, que, a esse respeito, era tratado da mesma forma que qualquer outro trabalhador.
->
->As zonas abertas especiais eram geralmente áreas agrícolas para aqueles que haviam sido exilados, como os kulaks que foram expropriados durante a coletivização. Outras pessoas consideradas culpadas de delitos criminais ou políticos menores também podem cumprir suas penas nessas áreas.
-
-Fontes:
-- [Another View of Stalin (section on the Gulag)](https://stalinsocietypk.files.wordpress.com/2013/05/another-view-of-stalin1.pdf)
-- [Solzhenitsyn's Archipelago of Lies (1974 scanned book)](https://archive.org/details/ArchipelagoOfLies)
-- [The Soviet Union had a progressive penal system](https://espressostalinist.com/the-real-stalin-series/gulag/)
-- [Re-education?](http://moufawad-paul.blogspot.com/2012/03/re-education.html)
-- [Lies concerning the history of the Soviet Union](http://www.northstarcompass.org/nsc9912/lies.htm)
-- [The Gulag archipelago shouldn’t be taken seriously](https://mltheory.wordpress.com/2017/05/08/the-gulag-archipelago-shouldnt-be-taken-seriously/)
-- [Original documents on the death rate of prisoners in the Gulag system 1930-1956](http://www.alexanderyakovlev.org/fond/issues-doc/1009320)
-- [Victims of the Soviet Penal System in the Pre-War Years: a first approach on the basis of archival evidence (by J. Arch Getty, Gábor T. Rittersporn, Viktor N. Zemskov)](http://www.cercec.fr/materiaux/doc_membres/Gabor%20RITTERSPORN/Victims%20of%20the%20Gulag.pdf)
-- [What were the chances to be sent to the Gulag?](http://www.northstarcompass.org/nsc0901/gulag.htm)
-
-### Trabalhadores na União Soviética
-Uma das alegações mais comuns levantadas contra a URSS (e os estados socialistas em geral) por anticomunistas de esquerda é que não era "socialismo real", porque os trabalhadores não tinham controle direto sobre a produção. Essa afirmação pode ser encontrada nos escritos de Noam Chomsky, Murray Bookchin, Alexander Berkman, Emma Goldman e vários outros esquerdistas anti-soviéticos. Alega-se que os ganhos indiscutíveis obtidos pela classe trabalhadora nos estados socialistas (como [grandes melhorias em sua saúde e bem-estar](https://journals.sagepub.com/doi/abs/10.2190/B2TP-3R5M-Q7UP-DUA2)) são irrelevantes, porque essas revoluções foram "burocráticas" e, portanto, ilegítimas.
-
-#### Participação do trabalhador no local de trabalho
-Ao discutir este tópico, é útil começar no nível do local de trabalho individual. O professor Robert Thurston (Miami University em Ohio) afirma que "nos níveis mais baixos da sociedade, nos assuntos do dia-a-dia e na implementação de políticas, [o sistema soviético] era participativo". Ele observa que os trabalhadores eram frequentemente incentivados a participar da tomada de decisões:
->O regime regularmente instava seu povo a criticar as condições locais e seus líderes, pelo menos abaixo de um certo nível exaltado. Por exemplo, em março de 1937, Stalin enfatizou a importância dos "laços do partido com as massas". Para mantê-los, era necessário "ouvir atentamente a voz das massas, a voz dos membros da base do partido, a voz dos chamados 'pequenos', a voz do povo comum".
-
-Não eram palavras vazias ou propaganda barata; embora houvesse limites para as críticas, o professor Thurston observa que "tais limites permitiam muitas coisas que eram profundamente significativas para os trabalhadores, incluindo alguns aspectos das normas de produção, taxas e classificações salariais, segurança no trabalho, moradia e tratamento por parte dos administradores". Os trabalhadores tiveram voz em diversos órgãos oficiais e, em geral, tiveram suas demandas atendidas:
->O Comissariado da Justiça também ouviu e respondeu aos apelos dos trabalhadores. Em agosto de 1935, o promotor da cidade de Saratov relatou que de 118 casos relacionados a salários recentemente administrados por seu escritório, 90% ou 73,6%, haviam sido resolvidos em favor dos trabalhadores.
-
-Os trabalhadores também participaram da supervisão direta dos gerentes:
->Os trabalhadores participaram às centenas de milhares em inspetorias especiais, comissões e brigadas que fiscalizavam o trabalho de gestores e instituições. Essas agências às vezes detinham um poder significativo.
-
-Os direitos dos trabalhadores soviéticos foram frequentemente observados em relatos posteriores da era socialista:
->Um emigrado lembrou que sua madrasta, uma operária de fábrica, 'muitas vezes repreendia o patrão' e também reclamava das condições de vida, mas nunca foi presa. John Scott, um americano empregado por anos no final dos anos 1930 como soldador em Magnitogorsk, participou de uma reunião em uma fábrica de Moscou em 1940, onde os trabalhadores puderam 'criticar o diretor da fábrica, fazer sugestões sobre como aumentar a produção, aumentar a qualidade, e custos mais baixos.'
-
-Esses fatos são ainda mais impressionantes quando lembramos o estado sombrio dos direitos dos trabalhadores nas nações capitalistas neste momento:
->Isso ocorreu em uma época em que os trabalhadores americanos, em particular, lutavam por um reconhecimento sindical básico, que mesmo quando conquistado não proporcionava muita influência formal no local de trabalho.
-
-Thurston faz a seguinte observação:
->Longe de basear seu domínio nos meios negativos de coerção, o regime soviético no final dos anos 1930 promoveu um papel político limitado, mas positivo para a população... Conceitos anteriores do estado soviético requerem repensar: os trabalhadores que destituíram os administradores, alcançaram a prisão de seus alvos, e ganhou a reintegração nas fábricas o fez por meio de organizações que constituíam parte do aparelho de estado e exerciam poderes de estado.
-
-Ele também observa que "não existia nenhuma divisão nítida entre o Estado e a sociedade", embora diferentes níveis do Estado exerçam diferentes poderes.
-
-Em suma, embora a União Soviética tivesse elementos autoritários (como era inevitável dadas as condições; a URSS havia sido devastada pela guerra civil e invadida por várias nações capitalistas), havia também um forte elemento de controle dos trabalhadores, dando à URSS uma reivindicação legítima de ser um Estado operário.
-
-#### Participação política na URSS
-Os trabalhadores não tinham apenas o direito de participar na tomada de decisões no local de trabalho; eles também tinham voz nas decisões de política nacional. O professor [Kazuko Kawamoto](https://researchmap.jp/read0148263/?lang=english) (Universidade Hitotsubashi) afirma que a URSS tinha "uma face mais democrática do que normalmente se imagina, especialmente entre os ocidentais". Como eles dizem:
->O regime soviético era democrático em seu próprio sentido da palavra... a participação por meio do envio de cartas e da participação em discussões deu ao autogoverno uma certa realidade e ajudou a legitimar o regime soviético. Portanto, ouvir as pessoas era uma obrigação importante para as autoridades... o governo incentivou as pessoas a enviarem cartas às autoridades e usou ativamente as discussões de todas as pessoas.
-
-Essas discussões de todas as pessoas existiam desde os primeiros dias da União Soviética e tinham grande significado (ao contrário das suposições dos estudiosos ocidentais):
->Embora a primeira discussão geral tenha sido conduzida com a aprovação da constituição de Stalin de 1936 com base no fato de que as antigas classes dominantes não existiam mais, a publicação e a discussão pública de projetos de lei eram comuns antes da constituição em nome da participação das massas. Os estudiosos ocidentais geralmente interpretam isso como uma tentativa de dar uma cara de legitimidade ao processo, entendendo as discussões como uma mera formalidade. No entanto, esse não é o caso dos Princípios aqui discutidos. As discussões não foram um disfarce nem uma mera formalidade.
-
-Os legisladores participaram diretamente dessas reuniões, alterando os projetos de lei de acordo com a opinião popular. O professor Kawamoto afirma que “é importante ressaltar que os membros do subcomitê participaram ativamente da discussão, reescrevendo o rascunho ao mesmo tempo”.
-
-Também se observou que os cidadãos soviéticos "acreditavam que tinham o direito de exigir mudanças nas políticas, e os redatores dos projetos, incluindo especialistas, funcionários e deputados, sentiram-se obrigados a responder a essas demandas". O processo de coleta de opinião pública foi intenso o suficiente para muitas vezes desacelerar o processo de legislação:
->Com relação ao processo de criação dos Princípios, a participação direta funcionou amplamente conforme o esperado na ideologia da democracia soviética, embora tenha demorado muitos anos.
-
-Como diz o professor Kawamoto, "a razão pela qual demorou tanto estava profundamente enraizada nas idéias da democracia soviética". Compare isso com a democracia burguesa, onde os [legisladores normalmente desconsideram a opinião das massas](https://scholar.princeton.edu/sites/default/files/mgilens/files/gilens_and_page_2014_-testing_theories_of_american_politics.doc.pdf). Isso pode acelerar o processo legislativo, mas resulta em [níveis extremamente altos de descontentamento popular](https://www.washingtonpost.com/news/rampage/wp/2015/09/23/americans-have-grown-to-really-really-hate-their-government/).
-
-Além dos meios de participação popular já mencionados, as autoridades soviéticas também viajaram por todo o país para reunir informações sobre a opinião popular. Usando o desenvolvimento da lei da família soviética como exemplo, o Professor Kawamoto afirma:
->Os fabricantes de rascunhos não eram apenas destinatários passivos de cartas, mas também viajavam por toda a União Soviética para ouvir o povo. Quando o trabalho nas Comissões de Propostas Legislativas estava chegando ao fim, membros da subcomissão e funcionários que trabalhavam para eles visitaram várias repúblicas sindicais de abril a junho de 1962 para pesquisar a prática do direito de família e coletar opiniões sobre normas importantes no projeto do Princípios... Depois dessas viagens de pesquisa, a comissão concluiu o esboço e o apresentou ao Comitê Central do Partido em julho.
-
-Embora a democracia soviética tivesse suas falhas (como mencionado, o processo era frequentemente bastante lento e havia limites para a extensão das críticas), seria altamente impreciso descrever a URSS como uma sociedade "totalitária", sem estruturas democráticas; pelo contrário, a URSS praticava sua própria forma de democracia, e o fazia de maneira bastante eficaz.
-
-### Conclusão sobre os trabalhadores na URSS
-
-A União Soviética se desenvolveu sob condições de extrema pressão, enfrentando a invasão das potências capitalistas, a invasão nazista e a espionagem do Ocidente. Dadas as dificuldades que enfrentou, é notável que a URSS tenha conseguido desempenhar um papel político positivo para os trabalhadores, especialmente em um momento em que os trabalhadores do mundo capitalista ainda lutavam por direitos sindicais básicos.
-
-A URSS era um Estado operário legítimo, no qual o proletariado detinha o poder no local de trabalho e exercia uma influência significativa nas decisões de política nacional. Compare isso com a total falta de influência popular nos estados burgueses, e isso é ainda mais fácil de avaliar.
-
-Fontes:
-- [University of Oxford | Farm to Factory: A Reassessment of the Soviet Industrial Revolution](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.507.8966&rep=rep1&type=pdf)
-- [Williams College | Reassessing the Standard of Living in the Soviet Union: An Analysis Using Archival and Anthropometric Data](https://web.williams.edu/Economics/brainerd/papers/ussr_july08.pdf)
-- [University of Warwick | Review of "Farm to Factory"](https://www.jstor.org/stable/25149595)
-- [Oxford University Press | The Health Crisis in the USSR](https://academic.oup.com/ije/article/35/6/1384/660149)
-- [University of Munich | Declining Life Expectancy in a Highly Developed Nation: Paradox or Statistical Artifact?](https://link.springer.com/chapter/10.1007%2F978-3-642-95874-8_22)
-- [University of Melbourne | The Scale and Nature of German and Soviet Mass Killings and Repressions](http://sovietinfo.tripod.com/WCR-German_Soviet.pdf)
-- [American Historical Review | Victims of the Soviet Penal System in the Pre-War Years](http://sovietinfo.tripod.com/GTY-Penal_System.pdf)
-- [CIA (Freedom of Information Act) | Report on Soviet Gulags](https://www.cia.gov/readingroom/docs/CIA-RDP80T00246A032000400001-1.pdf)
-- [CIA (Freedom of Information Act) | Report on Stalin](https://www.cia.gov/readingroom/docs/CIA-RDP80-00810A006000360009-0.pdf)
-- [Yale University Press | Life and Terror in Stalin's Russia, 1934-1941](https://www.jstor.org/stable/j.ctt32bw0h)
-- [Slavic Review (Cambridge University Press) | On Desk-Bound Parochialism, Commonsense Perspectives, and Lousy Evidence: A Response to Robert Conquest on the USSR](https://www.jstor.org/stable/2499177?seq=1#metadata_info_tab_contents)
-- [Slavic Review | Fear and Belief in the USSR's "Great Terror": Response to Arrest, 1935-1939](https://www.cambridge.org/core/journals/slavic-review/article/fear-and-belief-in-the-ussrs-great-terror-response-to-arrest-19351939/748662F55C0CCEE8096BDA2BB2CCCEE0)
-- [History News Network | Historian James Harris Says Russian Archives Show We've Misunderstood Stalin](https://historynewsnetwork.org/article/163498)
-- [Village Voice | In Search of a Soviet Holocaust: A Fifty Year-Old Famine Feeds the Right](https://msuweb.montclair.edu/~furrg/vv.html)
-- [EH Reviews | The Years of Hunger: Soviet Agriculture, 1931-1933](https://eh.net/book_reviews/the-years-of-hunger-soviet-agriculture-1931-1933/)
-- [International Council for Central and East European Studies | Reassessing the History of Soviet Workers: Opportunities to Criticize and Participate in Decision-Making, 1935-1941](https://www.docdroid.net/t9gG4jQ/thurston-robert-reassessing-the-history-of-soviet-workers-opportunities-to-criticize-and-participate-in-decision-making.pdf)
-- [Japanese Political Science Review | Rethinking Soviet Democracy](http://jpsa-web.org/eibun_zassi/data/pdf/JPSA_Kawamoto_final_July_9_2014.pdf)
-
-### Conclusão sobre a URSS
-Durante seu período socialista, a União Soviética fez algumas das conquistas mais impressionantes da história moderna. O sistema socialista transformou uma nação de camponeses analfabetos e famintos em uma superpotência, com uma das economias de crescimento mais rápido da Terra, uma das populações mais educadas e saudáveis do mundo e algumas das conquistas industriais e tecnológicas mais impressionantes até hoje. Forneceu um modelo a ser seguido pelos oprimidos do mundo, como foi mostrado na China, Cuba, Vietnã e muitas outras nações.
-
-## Uma resposta ao bearkunin sobre a URSS
-O @bearkunin no medium, escreveu um [artigo contestando conquistas soviéticas](https://medium.com/@bearkunin/soviet-union-facts-and-fictions-part-1-the-economy-2a79ff1013a7) detalhadas abaixo:
-
-![Conquistas soviéticas](images/soviet_achievements.png)
-
-Primeiramente, o que eu tenho a dizer é que: Fiquem longe de posts como esses, parece argumento tirado do 4chan com tanta desinformação que há. Vou fazer um resumo dos argumentos centrais dele.
-
->2ª economia de crescimento mais rápido do século 20 (cresceu durante a Grande Depressão)
->
->**Errado**. Este argumento geralmente se refere a esta fonte, mas este enredo só se preocupa com o período de 1928 a 1970.
-
-A razão pela qual desconsideramos os dados de 1970 em diante é porque, a essa altura, a URSS tinha basicamente revertido para uma economia capitalista. Em 1965, as reformas Kosygin descentralizaram e privatizaram a economia, o que coincidiu com a estagnação econômica.
-
->Se você considerar o período de 1928 a 1989, a Coréia do Sul, Japão, Taiwan, Portugal, Finlândia, Cingapura, Itália, Noruega e Tailândia cresceram mais rápido do que a URSS.
-
-Todos esses países se beneficiaram com o financiamento dos EUA por meio do Plano Marshall. A Finlândia estava economicamente muito mais perto da URSS através do Tratado YYA do que do Ocidente. A Finlândia só mudou economicamente para um foco ocidental por volta de 1985, quando a EEC estava crescendo em importância econômica e o setor soviético estava começando a desmoronar.  É preciso lembrar que a economia da URSS foi afetada negativamente pelo isolamento, pelos danos da guerra e pelo financiamento de países socialistas em todo o mundo. Além disso, a URSS não se beneficiou da exploração imperialista do terceiro mundo da mesma forma que o Ocidente.
-
->0% desemprego
->
->**Semi-errado**. Havia desemprego, mas o que eles faziam quando o desemprego estava alto era que "os empregadores preferiam cortar salários, reduzir horas de trabalho e dar aos funcionários férias sem vencimento, uma reminiscência das táticas da era soviética quando o desemprego estava praticamente fora da lei e mascarando o verdadeiro estado do mercado de trabalho."
-
-Mais uma vez, essa pessoa usa evidências do período dos anos 1970 e 1980 para justificar essa afirmação, ou seja, quando a economia havia sido em grande parte revertida ao capitalismo e as empresas operavam de acordo com a motivação do lucro. Durante a era Stalin, a URSS literalmente teve desemprego NEGATIVO, dezenas de milhares de ocidentais emigraram durante a industrialização, enquanto seus próprios países ficaram presos no meio da Grande Depressão. Além disso, reduzir os salários das pessoas para erradicar o desemprego é melhor do que ter desemprego em massa em primeiro lugar, como é o caso cada vez mais nos países capitalistas. Finalmente, não apenas o desemprego na URSS era completamente minúsculo e baseado inteiramente em evidências anedóticas, a maior parte, senão tudo, era desemprego friccional (mudança de emprego). Esta é uma distinção importante, porque difere significativamente do desemprego em massa no Ocidente, onde simplesmente não há empregos suficientes em primeiro lugar. As fontes de suas reivindicações foram um artigo do Telegraph e um artigo do JSTOR. O artigo do Telegraph é francamente uma merda de propaganda imperialista anti-Rússia. É um daqueles artigos que tentam afirmar que a Rússia moderna é secretamente a URSS para torná-la mais assustadora. Não vejo fontes para isso. Eu também folheei o artigo e nem mesmo diz o que o artigo do Telegraph diz. A pessoa que escreveu esse post é provavelmente um cracker presunçoso que simplesmente escolhe o primeiro artigo no JSTOR com as palavras "desemprego" e "URSS" e diz "veja, há pessoas que concordam comigo". O artigo do JSTOR também é uma merda. Pelo que entendi, afirma que os economistas soviéticos apenas reconhecem o desemprego friccional. Outras pessoas que não têm emprego são consideradas pela URSS aquelas que rejeitaram uma oferta de emprego. Ele nem mesmo tenta argumentar contra isso. O artigo então diz que a URSS e os EUA têm definições diferentes de "desemprego". Passou a utilizar dados de entrevistas e estimar o número de pessoas que não trabalharam por determinado período, e considerou todas desempregadas. Se os empregos estavam disponíveis ou não; se essas pessoas rejeitaram a oferta de emprego não foram atendidas. O mais importante é que a URSS foi capaz de escapar completamente das crises periódicas que levaram a picos massivos de desemprego frequentemente vistos no mundo capitalista.
-
->Além disso, é enganoso porque estar desempregado era um crime na URSS que poderia levar à prisão.
-
-O emprego obrigatório é melhor do que o desemprego involuntário.
-
->0% sem-teto
->
->**Errado**. [Fonte](https://np.reddit.com/r/AskHistorians/comments/4ljfhy/were_there_homeless_people_in_the_ussr/d3ofuqb)
-
-Essa pessoa até admite que a falta de moradia foi erradicada sob Kruschev, mas rebate dizendo que a moradia era "insatisfatória", então basicamente apertada e de baixa qualidade. Bem, pelos padrões do Ocidente, ele provavelmente está certo. Mas pelos padrões do resto do mundo? Tenho certeza que as pessoas na África e na América Latina ficariam mais do que satisfeitas com as condições de vida soviéticas. Esse é o ponto, não estou interessado em comparar os padrões de vida dos países socialistas com os do Ocidente, porque é bastante óbvio que o resto do mundo nunca poderia ser tão rico quanto eles. Essa pessoa então passa a fazer referência à era capitalista dos anos 70 e 80 NOVAMENTE, eu não acho que preciso continuar explicando por que esse não é um bom argumento, sem mencionar que qualquer evidência anedótica de sem-teto na União Soviética que essas pessoas encontram ainda está minúsculo em comparação com a maioria dos países capitalistas. Finalmente, também vale a pena mencionar que 50% das casas soviéticas foram totalmente queimadas durante a Segunda Guerra Mundial.
-
->salvou o mundo da Alemanha nazista
->
->...depois de se aliar a Hitler e invadir a Polônia, Finlândia e o Báltico.
-
-Que desvio de merda. Em primeiro lugar, "aliar-se a Hitler" não muda o fato de que os soviéticos realmente salvaram o mundo da Alemanha nazista, é um fato indiscutível, 80-90% das baixas nazistas foram infligidas na Frente Oriental. Em segundo lugar, ele não se aliou a Hitler, o que é simplesmente falso, ele assinou um pacto de não agressão com os nazistas depois que todos os outros países da Europa já haviam feito o mesmo. Foram a Grã-Bretanha e a França, portanto, aliadas de Hitler? NÃO! Na verdade, pela sua própria lógica, a Grã-Bretanha era mais aliada de Hitler do que a União Soviética, já que eles deixaram os nazistas tomarem a Áustria, a Tchecoslováquia e a Polônia Ocidental antes de decidirem intervir. A propósito, os soviéticos apenas assinaram o pacto com Hitler COMO ÚLTIMO RECURSO, eles já haviam tentado formar uma aliança antifascista com a Grã-Bretanha e a França POR ANOS. Na verdade, os soviéticos foram os únicos que se preocuparam em ajudar a prevenir a propagação do fascismo, enviando suprimentos para a Espanha republicana e a China nacionalista quando ninguém mais o fez. Aqui está uma pequena lição de história. Pouco antes de Stalin assinar o pacto com Hitler, ele ofereceu enviar um milhão de soldados através da Polônia para a fronteira alemã, se a Grã-Bretanha e a França TAMBÉM atacassem a Alemanha pelo oeste. Adivinha o que aconteceu? Grã-Bretanha, França e Polônia recusaram a oferta porque odiavam o comunismo tanto quanto o nazismo, eles queriam que a Alemanha e a União Soviética se destruíssem antes de intervir. Portanto, os EUA e o Reino Unido atrasaram a abertura de uma segunda frente para 3 anos, altura em que o Exército Vermelho sofreu milhões de baixas. Até o próprio Harry Truman disse que "se a Alemanha estiver ganhando, vamos ajudar a Rússia, se a Rússia estiver ganhando, vamos ajudar a Alemanha, vamos deixá-los se destruírem". Agora, neste ponto, entre na pele dos soviéticos. Eles não tinham aliados, só haviam começado sua industrialização uma década antes e estavam completamente despreparados para um conflito com os nazistas, que presumiam que poderiam atacá-los a qualquer momento. Diante de tudo isso, o pacto com Hitler era basicamente a única opção que restava. Esses 2 anos extras fora do conflito deram-lhes tempo para organizar e preparar o exército, terminar a industrialização e, o mais importante, evacuar todas as fábricas para a Sibéria. O Exército Vermelho estava, sem dúvida, completamente despreparado em 1939, tudo que você precisa fazer é olhar para a Guerra de Inverno, onde os finlandeses mataram os soviéticos na proporção de 10/1, para ver isso. Se os nazistas tivessem invadido a União Soviética em 1939, é provável que Hitler tivesse vencido. No que diz respeito aos soviéticos que anexaram a Polônia oriental, a Finlândia e o Báltico, eles tinham razões justificáveis ​​para fazê-lo. Não apenas criou uma barreira entre os nazistas, mas também significou que milhões de judeus nesses países escaparam da perseguição nazista.
-
->Inventou viagem espacial
->
->**Verdadeiro**. Devo acrescentar que eles fizeram isso por motivos militares.
-
-Não é um argumento, eu poderia dizer o mesmo sobre o celular, que foi desenvolvido principalmente no setor estatal com vários componentes-chave desenvolvidos pelos militares dos EUA (como bateria de ion-lítio, touchscreen, GPS e internet), mas acho que isso desmascararia a gloriosa inovação do livre-mercado, lol.
-
->Acabou com o ciclo de séculos de fome na Europa Oriental
->
->**Verdadeiro**. Houve fomes até 1947.
-
-Referir-se à fome de 1947 é extremamente hipócrita, considerando que a fome em particular foi causada quase inteiramente pelos danos da guerra. A União Soviética encerrou o ciclo de fome em 1934, e naquele ponto a coletivização dobrou a produção de grãos, com o suficiente em reservas de emergência estaduais para alimentar o país por dois anos no caso de outra escassez.
-
->Maior consumo calórico diário do que nos EUA
->
->**Errado**.
-
-Eu realmente não tenho nada a acrescentar aqui, esta pessoa está alegando que a FAO inflou os dados soviéticos e que a CIA mentiu em seu report secreto de 1983. De qualquer forma, está bastante claro que o cidadão médio do Bloco Oriental não estava lutando por comida, como afirma a narrativa burguesa desonesta. Direi que comparar a União Soviética, um país isolado e dilacerado pela guerra, aos Estados Unidos, sem dúvida o maior império econômico global da história mundial, não é exatamente justo.
-
->Acabou com a desigualdade racial
->
->**Errado**. [Fonte](https://en.wikipedia.org/wiki/Racism_in_the_Soviet_Union)
-
-Lol, a porra de um artigo da Wikipedia que cita a porra do Robert Conquest de todas as pessoas, que patético. A URSS garantia igualdade de poder político para todas as etnias por meio do Soviete de Nacionalidades. Além disso, muitos afro-americanos realmente desertaram para a União Soviética a fim de obter maiores direitos civis. Paul Robeson, um negro americano e voz da versão em inglês do hino da URSS, disse que a primeira vez que pisou em solo soviético, foi a primeira vez que se sentiu um “ser humano completo”. Em relação ao artigo da Wikipedia e sua lista de suposta "limpeza étnica" na União Soviética, ele se refere à fome do Holodomor (mito da propaganda nazista), várias operações do NKVD durante o Grande Expurgo (cometido por Yezhov, que mais tarde foi executado por seus crimes, pelas costas de Stalin), perseguição de judeus (nenhuma evidência de que isso foi motivado por intenções anti-semitas) e deportações em massa durante a Segunda Guerra Mundial (cometidas por razões não raciais a fim de evacuar civis da zona de guerra, e porque vários grupos foram considerados culpados de colaborar com os nazistas). É importante mencionar que vários países realizaram deportações durante a Segunda Guerra Mundial, nomeadamente a América, que colocou 100.000 cidadãos nipo-americanos em campos de concentração literais. As etnias deportadas na União Soviética não foram presas ou fuziladas, elas foram reassentadas, há uma grande diferença.
-
->Acabou com a desigualdade de gênero
->
->Isso **depende** do que eles querem dizer com desigualdade de gênero
-
-Não é um argumento. O fato é que os direitos das mulheres na União Soviética eram significativamente mais avançados do que no resto do mundo. Acho que você pode apontar para a criminalização do aborto sob Stalin, que é um argumento legítimo, mas essa proibição foi suspensa em 1955 e, independentemente, a União Soviética foi o primeiro país a permitir o aborto em todas as circunstâncias.
-
->Educação gratuita em todos os níveis
->
->**Verdadeiro**. No entanto, isso não significa que a educação foi tão boa quanto a ocidental.
-
-Ele fornece absolutamente nenhuma evidência para esta afirmação. Eu já expliquei na secção [O socialismo funciona sim](#O-socialismo-funciona-sim). Por exemplo, Cuba é elogiada por ter as melhores escolas médicas do mundo e atualmente há 20.000 estudantes internacionais de todo o mundo matriculados na Escola Latino-Americana de Medicina. Além disso, na Alemanha pós-Segunda Guerra Mundial, milhões de alemães ocidentais obtiveram educação superior no leste antes de emigrar para o oeste em busca de salários mais altos.
-
->Taxa de alfabetização de 99%
->
->**É verdade** que as repúblicas da ex-URSS ainda têm altas taxas de alfabetização, apesar do capitalismo.
-
-Ok, e? A taxa de alfabetização ainda caiu após a restauração capitalista, e os países historicamente comunistas sempre tiveram taxas de alfabetização mais altas do que o resto do mundo.
-
->A maioria dos médicos per capita do mundo
->
->**Verdadeiro**. "Em 1985, durante a era soviética, havia 3,9 médicos para cada 1.000 pessoas. No mesmo ano, nos Estados Unidos, eram 1,7, enquanto no Japão o número era 1,5." Mas os cuidados de saúde nem sempre eram gratuitos: "Também contrariamente ao seu projeto, os cuidados de saúde soviéticos não são gratuitos. Os pacientes tratados no sistema público muitas vezes são obrigados a pagar médicos e enfermeiras por baixo da mesa para garantir que os medicamentos sejam administrados ou que uma operação seja realizada. Um jornal soviético publicou recentemente alguns amostra “preços”: 500 rublos para uma operação ou entrega (o salário médio mensal na URSS é de 200 rublos), 300 rublos para uma internação de 20 dias, 25 rublos ou a doação de uma unidade de sangue por um parente para garantir admissão ao hospital. A maioria dos pacientes deve adquirir medicamentos e eletrodomésticos a preços que incluem “sobretaxas” exigidas pelos vendedores que conseguem superar os obstáculos burocráticos e a falta de suprimentos.” [Fonte](https://nintil.com/the-soviet-union-healthcare/)
-
-Eu não posso comentar sobre o quão precisa esta fonte é, mas PELA MILÉSIMA VEZ, essa pessoa está escolhendo informações do período de reforma capitalista dos anos 1980.
-
->Eliminou a pobreza
->
->**Errado**. “A URSS conseguiu reduzir a desigualdade e a pobreza em relação aos tempos pré-revolucionários e conseguiu trazer um nível de igualdade comparável ao dos países nórdicos. No entanto, não teve sucesso em eliminar a pobreza, as desigualdades entre as repúblicas, as diferenças entre as áreas urbanas e rurais, e até mesmo as 'distinções entre trabalho físico e mental'." [Fonte](https://nintil.com/2017/03/14/the-soviet-union-poverty-and-inequality)
-
-Então, basicamente, eles não alcançaram o comunismo pleno, o que ninguém nega. A URSS eliminou a pobreza no sentido de que todos tivessem suas necessidades básicas, isso é um fato inegável. Devo também mencionar que essa pessoa usou a mesma fonte duas vezes seguidas e, imagine meu choque, ele usou dados exclusivamente da década de 70.
-
->Mudança para o capitalismo em 1991
->
->**Na minha opinião**, o período após a URSS pode ser dividido em duas épocas: a transição de 1991-1999 e a posterior. Os pró-URSS só olham para a fase de transição em que o capital estava deixando o país em massa, [com cerca de U$ 150 bilhões saindo entre 1992 e 1999](https://www.investopedia.com/articles/investing/012116/russian-economy-collapse-soviet-union.asp). As coisas realmente pioraram naquela época, mas depois que o mundo viu que a ex-URSS não voltou a ser socialista, [o capital estava indo para os estados da ex-URSS e tudo ficou melhor](https://static.businessinsider.com/image/4eaf0d346bb3f7f10900000e/image.jpg) do que na época da URSS. A expectativa de vida cresceu 10 anos em 20 anos, enquanto quase estagnou na URSS desde o final dos anos 1960 ([Fonte](https://en.actualitix.com/chart/est/estonia-life-expectancy-at-birth.png)). O PIB PC cresceu exponencialmente ([Fonte](https://en.wikipedia.org/wiki/Economy_of_the_Soviet_Union#/media/File:FormerUSSRRepublicsGDPPC.svg)), etc etc
-
-Ele literalmente postou um gráfico da Estônia. A Estônia não é a URSS. Se você olhar a expectativa de vida de todas as outras repúblicas pós-soviéticas, o aumento na expectativa de vida foi mínimo. Uma em cada 15 repúblicas conseguiu que sua expectativa de vida não diminuísse tanto quanto as outras - isso não ajuda em nada seu argumento. Fora a quantidade de emprego e a qualidade de vida nos ex-estados soviéticos (onde ainda há muita nostalgia de sua época soviética).
-
-O resto do post é basicamente uma tentativa de refutar as estatísticas pró-URSS citando a Wikipedia, o que não vale o meu tempo.
-
 ## Mitos da guerra de inverno
 A Guerra de Inverno é o nome que se dá ao conflito finlandês-soviético entre 1939 e 1940, e a guerra de continuação de 1941 até 1944. No entanto, muitos acusam essas guerras como sendo parte do "imperialismo soviético", pois buscava conquistar e controlar territórios finlandeses. No entanto, a guerra ocorreu mais por motivos geopolíticos do que imperialistas.
 
@@ -1931,999 +3008,6 @@ Fontes:
 - [University of Barcelona | Against the Mainstream: Nazi Privatization in 1930s Germany](http://www.ub.edu/graap/nazi.pdf)
 - [Economics and Human Biology | Autarchy, Market Disintegration, and Health: The Mortality and Nutritional Crisis in Nazi Germany, 1933-1937](https://sciencedirect.com/science/article/pii/S1570677X02000023)
 - [Jewish Telegraphic Agency | Goldmann Warns Against "Distortions" in Charges Against USSR](https://www.jta.org/1965/06/11/archive/goldmann-warns-against-distortions-in-jewish-charges-against-russia)
-
-## A Iugoslávia
-A República Federal Socialista da Iugoslávia foi um ator chave na geopolítica do século 20, mas muitas pessoas no Ocidente sabem muito pouco sobre ela. Socialistas e não-socialistas são frequentemente extremamente incultos sobre este país em particular e suas várias realizações; muitas vezes, tudo o que se sabe é que foi liderado por Tito, um dos chefes de estado mais populares do século XX. Embora seja uma informação útil, dificilmente é uma análise socialista suficiente desta grande nação. Examinemos então a Iugoslávia em detalhes e façamos uma análise apropriada.
-
-A Universidade de Rochester oferece a seguinte avaliação geral da era comunista na Iugoslávia:
->A história da Iugoslávia desde 1945 abrange um período de rápida modernização econômica, política e social refletida no crescimento urbano e industrial, melhorias na alfabetização e bem-estar econômico, mudanças na estrutura familiar patriarcal tradicional, moderação das hostilidades étnicas e integração em economia internacional. No entanto, de forma dialética, também abrange um período de declínio econômico e intensa reação étnica. Em um sentido muito real, o caminho para o colapso da federação iugoslava, como o colapso da federação soviética, foi pavimentado pela política em relação às nacionalidades que cada um adotou, mas foi precipitado pelo envolvimento na economia global.
-
-Agora que temos uma breve impressão da ascensão e queda da nação, vamos entrar em mais detalhes.
-
-### Iugoslávia pré-guerra
-Para entender as conquistas do socialismo na Iugoslávia, devemos primeiro entender como eram as condições antes do socialismo. A Universidade de Rochester dá esta avaliação da Iugoslávia antes da guerra:
->O país permaneceu em grande parte subdesenvolvido durante os anos entre as guerras. Setenta e sete por cento da população eram camponeses. As taxas de analfabetismo de pessoas com mais de 10 anos variaram entre 83,8% na Macedônia e 8,8% na Eslovênia, com o número nacional sendo 51,5% em 1921. A mortalidade e a fertilidade eram altas, as epidemias eram comuns, apesar dos programas inovadores criados por Andrija Stampar, o público croata líder da saúde e o governo foram ineficazes no fornecimento de serviços de saúde preventivos e curativos, bem como a infraestrutura necessária. Altos impostos e preços agrícolas em declínio durante os anos de depressão da década de 1930 podem ter contribuído para a hostilidade dos camponeses ao governo e para seu apoio aos guerrilheiros durante a Segunda Guerra Mundial, que foi tanto uma guerra civil quanto uma guerra contra os invasores alemães.
-
-De acordo com o Comitê de Helsinque:
->Desenvolvimento social geral da Iugoslávia de 1918 a 1941 foi extremamente lento, de modo que o país estava no extremo inferior das tendências europeias (pobreza populacional, analfabetismo, baixo nível de cultura de saúde, mobilidade deficiente, etc.), com uma perspectiva bastante fechada... No período entre guerras, a infraestrutura habitacional fora das cidades era ruim ou inexistente, sem eletricidade, água e esgoto. As condições de vida nos assentamentos dos trabalhadores municipais ou periféricos eram ruins.
-
-Em suma, a Iugoslávia antes da guerra era uma nação economicamente subdesenvolvida, atormentada por altos níveis de analfabetismo, altas taxas de mortalidade, baixa expectativa de vida e epidemias de doenças. Agora que entendemos um pouco mais sobre o estado de coisas quando os comunistas assumiram o controle, vamos agora ver o que eles acharam dessa situação.
-
-### Desenvolvimento econômico e de infraestrutura da Iugoslávia
-Antes da Segunda Guerra Mundial (e da aquisição comunista), a economia da Iugoslávia estava estagnada. De acordo com o Comitê de Helsinque:
->De 1921 até a eclosão da Segunda Guerra Mundial, o país não se caracterizou por nenhum progresso econômico excepcional. Nisso, porém, não era diferente da maioria dos países vizinhos, quer se trate, por exemplo, da Grécia, da Hungria ou da Bulgária. Em parte, isso foi consequência do crescimento demográfico, mas já que estamos falando de várias décadas, é claro que no geral a economia estava estagnada e que não é possível falar de qualquer progresso significativo em relação ao desenvolvimento econômico em território iugoslavo no tempo antes do estabelecimento do estado comunista.
-
-Após a aquisição comunista, um novo sistema econômico foi estabelecido, baseado na autogestão dos trabalhadores dentro das empresas estatais. Este sistema é descrito pela Enciclopédia Britânica em seu artigo sobre a Iugoslávia:
->Depois de 1945, o governo comunista nacionalizou grandes propriedades rurais, empresas industriais, serviços públicos e outros recursos e lançou um árduo processo de industrialização. Após uma ruptura com a União Soviética em 1948, na década de 1960 a Iugoslávia passou a confiar mais nos mecanismos de mercado. Uma característica distintiva deste novo “sistema iugoslavo” foi a “autogestão dos trabalhadores”, que atingiu sua forma mais plena na Lei de 1976 sobre Trabalho Associado. Segundo essa lei, os indivíduos participavam da gestão de empresas iugoslavas por meio das organizações de trabalho em que estavam divididos. As organizações de trabalho podem ser "Organizações Básicas de Trabalho Associado" (as subdivisões de uma única empresa) ou "Organizações Complexas de Trabalho Associado" unindo diferentes segmentos de uma atividade geral (por exemplo, manufatura e distribuição). Cada organização de trabalho era governada por um conselho de trabalhadores, que elegia um conselho de administração para dirigir a empresa.
-
-Esse sistema levou a um crescimento econômico dramático. De acordo com o Comitê de Helsinque:
->O desenvolvimento nos anos posteriores à Segunda Guerra Mundial, se deixarmos de lado os anos do bloqueio soviético, é caracterizado por um significativo crescimento e desenvolvimento econômico, se este último for expresso, novamente, pelo PIB per capita. Enquanto nos primeiros vinte anos ou mais o PIB per capita aumentou pouco menos de 40%, no período de 1952 a 1979 ele aumentou pouco menos de 5 vezes. Como em ambos os casos se tratava de reconstruir o país após a devastação da grande guerra, não há dúvida de que a Iugoslávia após a Segunda Guerra Mundial alcançou um desenvolvimento econômico incomparavelmente melhor do que após a Primeira Guerra Mundial.
-
-O país passou por um grande processo de urbanização sob os comunistas:
->Uma grande onda de urbanização ocorreu na segunda metade do século, quando foram construídos assentamentos com edifícios residenciais maiores e arranha-céus. Novas cidades ou complexos urbanos maiores, como Nova Belgrado, Novo Zagreb, Nova Gorica, Velenje e Split 3, também foram construídos. Do ponto de vista do planejamento urbano, a reconstrução de Skopje após o desastroso terremoto de 1963 foi especialmente bem-sucedida. Esses novos assentamentos foram baseados no planejamento urbano contemporâneo e em conceitos arquitetônicos como edifícios residenciais com equipamentos sociais, rodeados por áreas verdes e sem acesso direto às principais vias. Jardins de infância e escolas, parques, centros de saúde, comércio e instalações de artesanato de pequena escala também foram construídos de acordo com o plano.
-
-A péssima situação habitacional melhorou dramaticamente, assim como o acesso a serviços essenciais (eletricidade, água, saneamento, etc):
->A cada ano, do início da década de 1960 até a década de 1980, 100-150 mil apartamentos foram construídos e um terço deles foi construído pelo setor de propriedade social. Estes apartamentos foram atribuídos aos trabalhadores com base no direito de ocupação adquirido nas empresas e instituições onde trabalharam. Uma pesquisa mostra que nos anos de pico da construção de moradias, ou seja, durante o final da década de 1970 e início da década de 1980, todas as famílias com três trabalhadores tinham eletricidade, quase todas tinham água e esgoto, um terço tinha aquecimento central e oito de dez tinham banheiro e lavabo no apartamento.
-
-Infelizmente, a economia iugoslava acabou por começar a estagnar, um problema que foi agravado pela interferência do FMI, bem como pelas tensões regionais inflamadas que ressurgiram após a morte de Tito. De acordo com a Enciclopédia Britânica:
->A inflação e o desemprego surgiram como problemas graves, especialmente durante a década de 1980, e a produtividade permaneceu baixa. Esses defeitos no sistema foram corrigidos por empréstimos estrangeiros massivos e descoordenados, mas depois de 1983 o Fundo Monetário Internacional exigiu uma ampla reestruturação econômica como uma pré-condição para um maior apoio. O conflito sobre como atender a essa demanda ressuscitou antigas animosidades entre as regiões mais ricas do norte e oeste, que eram obrigadas a contribuir com fundos para programas de desenvolvimento administrados pelo governo federal, e as regiões mais pobres do sul e leste, onde esses fundos eram frequentemente investidos em empresas relativamente ineficientes ou em projetos de prestígio improdutivos. Essas diferenças contribuíram diretamente para a desintegração da segunda Iugoslávia.
-
-Apesar disso, o rápido crescimento econômico gerado pelo sistema socialista na Iugoslávia continua impressionante, e sua eventual queda serve como um alerta sobre os terríveis perigos de depender excessivamente de investimento estrangeiro, especialmente de instituições burguesas.
-
-### Conquistas na saúde da Iugoslávia
-A Iugoslávia pré-guerra era assolada por péssimas condições de saúde, situação que só foi agravada pela Segunda Guerra Mundial. De acordo com o Comitê de Helsinque:
->No que diz respeito aos cuidados de saúde da população no Reino da Iugoslávia, era o nível mais baixo de acordo com os padrões europeus. De acordo com dados de 1930, havia 12.204 membros do pessoal médico, incluindo 4.545 médicos e 208 dentistas. Havia também 172 hospitais e 22.895 leitos hospitalares. Na Iugoslávia até 1939, havia 18.193 membros do pessoal médico, incluindo 5.131 médicos e 380 dentistas, o que implica que havia um médico por 3.060 habitantes e um dentista por 41.324 habitantes. Desse número de médicos, 927 trabalhavam em 169 hospitais com 23.534 leitos (apenas 429 mais de vinte anos antes).
-
-Como resultado, os comunistas fizeram da provisão de cuidados de saúde um aspecto fundamental de sua política. De acordo com a NYU:
->A política de saúde na antiga Iugoslávia baseava-se na promessa de crescimento: expansão das unidades de saúde existentes e construção de novas, aumento da oferta de profissionais de saúde e medicamentos e, em última análise, melhoria do estado da saúde. A promessa foi repetida com tanta frequência que as pessoas passaram a considerar esses benefícios sociais "como seu devido direito", uma premissa importante do socialismo.
-
-Isso resultou em enormes aumentos nas condições de saúde do país:
->Em 1978, o número de leitos hospitalares, em comparação com 1939, triplicou de 19 para 60 leitos por 10.000 habitantes; o número de faculdades de medicina aumentou de três para onze, resultando em um aumento de cinco vezes no número de médicos; e o seguro saúde foi estendido para cobrir 82 por cento da população. A taxa de mortalidade infantil de 35,6 por 1.000 habitantes em 1978 era apenas um quarto do valor anterior à Segunda Guerra Mundial. Além disso, a difteria, a malária e a tifo foram eliminadas.
-
-Essas melhorias também são discutidas pelo Comitê de Helsinque:
->Na Iugoslávia socialista, a situação melhorou radicalmente. Até 1950, havia apenas 5.138 médicos e 196 dentistas, enquanto já em 1952 havia 6.548 médicos (já que se formaram as primeiras gerações de estudantes de medicina do pós-guerra), enquanto o número de dentistas diminuiu para 184. Até 1987, os iugoslavos a população era atendida por 43.869 médicos e 9.232 dentistas, o que significa que havia um médico por 533 habitantes e um dentista por 2.535 habitantes. Em 1950, em comparação com 1939, o número de leitos hospitalares aumentou mais do que duas vezes - havia 53.760 leitos hospitalares. Em 1960, esse número também havia aumentado mais do que duas vezes, de modo que havia 102.329 leitos hospitalares, enquanto até 1988 esse número aumentou para 142.957.
-
-O acesso à saúde foi expandido em todo o país:
->Além disso, graças ao desenvolvimento da rede rodoviária, melhores comunicações e políticas sociais diferenciadas, os cuidados de saúde tornaram-se acessíveis a um número significativamente maior de pessoas. Além dos médicos, o número de equipes médicas também aumentou. De acordo com os dados de 1962, havia um total de 112.946 trabalhadores médicos; em 1975 - 193.374, e em 1987 - 303.105... Compreensivelmente, os serviços médicos mais avançados eram fornecidos nos centros urbanos, mas os centros de reabilitação de spa estavam sendo desenvolvidos e os cuidados básicos de saúde também alcançavam as áreas rurais. Até 1989, além dos hospitais, foram abertos 8.384 centros médicos gerais e especializados e 4.425 consultórios odontológicos.
-
-A mortalidade infantil e infantil foi significativamente reduzida:
->A melhoria da assistência social patrocinada pelo Estado para a população também resultou em um grande declínio nas taxas de mortalidade infantil, devido ao qual o Reino da Iugoslávia se classificou entre os países europeus mais atrasados.
-
-A expectativa de vida aumentou dramaticamente:
->A expectativa de vida também aumentou significativamente. Em 1931, a expectativa de vida para mulheres e homens era de 46,1 e 45,1 anos, respectivamente. Já em 1948, os níveis de expectativa de vida aumentaram para 53 anos para as mulheres e 48,6 anos para os homens... Até 1981, a expectativa de vida no nível iugoslavo aumentou para 73,2 para as mulheres e 67,7 para os homens. Seu aumento continuou, de modo que em 1990 a expectativa de vida para as mulheres na Iugoslávia era de 74,9 e para os homens de 69,1 anos, através do qual as diferenças regionais foram reduzidas.
-
-A taxa de mortalidade diminuiu rapidamente sob o comunismo; eventualmente, as taxas de mortalidade na Iugoslávia tornaram-se mais baixas do que aquelas na Europa Ocidental:
->Finalmente, a taxa de mortalidade também diminuiu: de 21 mortes por 1.000 habitantes em 1921 para 15 mortes por 1.000 habitantes até 1939. Depois de 1945, a taxa de mortalidade continuou a diminuir de um máximo de 14,2 mortes por 1.000 habitantes para um mínimo de 8,1 mortes por 1.000 habitantes em 1966. Ao final do período de observação, a taxa de mortalidade era de 9 óbitos por 1.000 habitantes, sendo menor que na Alemanha (9,2), França (9,3) ou Grã-Bretanha (11,2).
-
-Observe que, embora tenha havido alguma redução na taxa de mortalidade sob o governo pré-comunista, a melhora foi muito mais rápida sob os comunistas e coincidiu com melhorias drásticas na mortalidade infantil e na expectativa de vida em comparação com o período pré-comunista.
-
-Para resumir, o Comitê de Helsinque diz:
->A nutrição e a higiene influenciaram fortemente a saúde da população... O desenvolvimento da medicina e das instituições de saúde no pós-guerra possibilitou uma maior disponibilidade de médicos e um aumento de quase cinco vezes no número de leitos hospitalares (em 1986 eram cerca de 143.000), enquanto todos os serviços eram cobertos por um seguro de saúde obrigatório. Também foram organizados exames médicos regulares e vacinação obrigatória da população. A medicina do trabalho e o sistema de segurança do trabalho proporcionavam maior segurança aos empregados. Pensões e lares para idosos inspiraram confiança nos cuidados no final da vida. Graças a melhores condições de saúde e higiene, bem como melhores condições socioeconômicas, a expectativa de vida estimada para os nascidos no início da década de 1980 era de 68 anos para os homens e 73 para as mulheres, ou seja, cerca de vinte anos a mais do que para as gerações nascidas na década de 1940. Pelas mesmas razões, a mortalidade infantil diminuiu de 143 por mil na década de 1930 para 27 por mil em meados da década de 1980, variando de 12,6 por mil na Eslovénia a 54,3 por mil no Kosovo.
-
-Os avanços gerais feitos pelo governo comunista na Iugoslávia são notáveis.
-
-### Conquistas educacionais da Iugoslávia
-Outra área em que os comunistas melhoraram dramaticamente a Iugoslávia é a da educação. A Iugoslávia do pré-guerra estava extremamente atrasada no que diz respeito à educação. De acordo com o Comitê de Helsinque:
->No Reino da Iugoslávia, apesar dos esforços específicos para elevar o nível educacional da população, não houve avanços significativos neste campo. Em 1921, o número de analfabetos com mais de 10 anos chegava a 4.402.059 (50,5% da população), enquanto no censo de 1931 seu número havia aumentado para 4.408.471 (44,6% da população com mais de 10 anos).
-
-Depois que os comunistas assumiram o controle durante a Segunda Guerra Mundial, a situação melhorou rápida e dramaticamente:
->Já de acordo com o censo de 1948, esse número era consideravelmente menor - 3.162.941 (25,4% da população). Esta diminuição foi o resultado de uma campanha de alfabetização em massa durante a guerra e em suas consequências... Esforços consideráveis ​​foram feitos no sentido de educar a população, de modo que o número de analfabetos com mais de 10 anos diminuiu continuamente, acompanhado de um aumento no total população, de modo que em 1961 havia 3.066.165 (21 por cento) dessas pessoas; em 1971 - 2.549.571 (15,1 por cento) e em 1981 - 1.780.902 (9,5 por cento). Desse número, 1.576.238 tinham mais de 39 anos ou, em outras palavras, nasceram antes de 1945.
-
-O acesso à educação foi drasticamente expandido pelos comunistas:
->A partir de 1945, a rede educacional se expandiu rapidamente, tanto em número de escolas como em termos de diversidade de ensino, ao mesmo tempo em que aumentava o número de anos obrigatórios do ensino fundamental e em 1958 era introduzido o ensino fundamental obrigatório de oito anos. No território da Iugoslávia, em 1946, havia 10.666 escolas primárias com 1.441.679 alunos e 23.270 professores o que, considerando o número de professores, era um grande declínio em relação a 1939. Em 1975/78, o número de escolas primárias na Iugoslávia havia crescido para 13.442, mas depois começou a diminuir, principalmente devido à fusão de escolas menores, o que foi possível graças à melhoria do transporte e maior mobilidade estudantil.
-
-Em suma, a situação educacional na Iugoslávia melhorou dramaticamente durante o período socialista, com uma redução drástica do analfabetismo e uma expansão massiva da rede educacional em todo o país.
-
-### Direitos das mulheres na Iugoslávia
-A Iugoslávia do pré-guerra tinha uma visão fortemente reacionária dos direitos das mulheres, que mudou rapidamente no período socialista. De acordo com o Comitê de Helsinque:
->A emancipação das mulheres no Reino da Iugoslávia foi o resultado de esforços individuais, enquanto na Iugoslávia socialista foi o resultado de uma política organizada. Embora existisse um movimento feminista no Reino da Iugoslávia, ele permaneceu à margem da influência social, enquanto o status da mulher era mais bem expresso no Código Civil, em que uma mulher casada não tinha capacidade legal. Essa anacrônica disposição legal foi abolida já em 1946, com o término da vigência do Código Civil.
-
-Os comunistas promoveram ativamente a emancipação das mulheres:
->Compreensivelmente, as mulheres obtiveram o direito de voto, as relações conjugais foram liberalizadas, o ativismo político das mulheres foi promovido através da Frente Feminina Antifascista e outras organizações de massa, e as mulheres assumiram cada vez mais funções sociais e políticas, enquanto as soluções jurídicas em todas as esferas da vida tentou garantir a igualdade de gênero. Um aumento considerável no número de divórcios também pode ser considerado uma expressão da emancipação da mulher.
-
-O acesso educacional das mulheres melhorou dramaticamente:
->Nos cursos de alfabetização realizados durante o período de 1948–1950, até 70% dos participantes eram mulheres, embora a alfabetização e a escolaridade das meninas encontrassem resistência em ambientes conservadores, principalmente por motivos religiosos e patriarcais. De 1921 a 1981, a porcentagem de mulheres analfabetas diminuiu de 60% para 14,7%.
-
-As mulheres foram integradas à economia, da qual anteriormente haviam sido amplamente excluídas:
->Depois de 1945, a proporção da população masculina na população economicamente ativa estava diminuindo, enquanto a taxa da população economicamente ativa na população feminina era relativamente estável e variava de 30,7% a 35,1%. Isso significa que o número absoluto da população feminina economicamente ativa (e, portanto, a parcela da população economicamente ativa) estava aumentando na proporção do aumento da parcela da população feminina na população total. No entanto, este não foi o caso da população masculina. Este é um testemunho muito confiável da emancipação das mulheres em comparação com o período pré-guerra, que ficou especialmente evidente depois de 1961.
-
-Os comunistas, portanto, fizeram uma série de melhorias enormes no status dos direitos das mulheres na Iugoslávia.
-
-### Conclusão sobre a Iugoslávia
-Os comunistas na Iugoslávia conseguiram melhorar drasticamente a vida do povo. A economia foi muito desenvolvida, a infraestrutura foi expandida dramaticamente e a política social foi muito avançada. A era socialista foi uma época de tremenda melhoria e esperança para o povo. Como afirma o Comitê de Helsinque:
->Esse quadro de elevação do padrão de vida ficará mais completo se levarmos em consideração o nível de desenvolvimento tecnológico alcançado, elevados padrões de saúde e higiene e maior escolaridade da população. Se a questão do progresso fosse colocada sob o aspecto da vida cotidiana, isso se refletiria no desejo de eletricidade, estradas pavimentadas, um apartamento ou casa confortável, um casamento por amor e não um casamento arranjado, terra fértil, segurança no emprego, como bem como o desejo de que as crianças tenham uma vida melhor no futuro. São justamente essas questões que são temas de conversa no premiado longa metragem Train Without a Timetable (Veljko Bulajić, 1959): “Também há eletricidade e uma estrada estadual ali, e você pode ter um rádio em casa. Pode tocar e cantar para você o dia todo! Tal como num sonho...” Este sonho fez parte das mudanças que o século XX trouxe ao quotidiano, incluindo o aumento das oportunidades e necessidades. A Iugoslávia estava sintonizando o ritmo do século com seu próprio nível de desenvolvimento e prioridades políticas.
-
-Isso é algo que todos podemos apreciar.
-
-O exemplo da Iugoslávia é a evidência mais contundente dessa tendência retrógrada da esquerda. É também uma prova viva do que está em jogo. Durante as últimas quatro décadas de existência da União Soviética, o imperialismo dos EUA agiu de forma mais ou menos amigável com a Iugoslávia. Embora fosse liderada por um Partido Comunista, a Iugoslávia manteve a "neutralidade" no conflito EUA-União Soviética. A liderança da Iugoslávia introduziu reformas de mercado, abandonou em grande parte o monopólio do comércio exterior, integrou o país à economia capitalista mundial, endividou-se fortemente com os bancos ocidentais, permitiu que o desemprego em grande escala se desenvolvesse de acordo com o princípio do "mercado" e sua necessidade para uma força de trabalho flexível e começou a seguir os ditames do Fundo Monetário Internacional. No final da década de 1980, a Iugoslávia era caracterizada pela maioria da esquerda como um “país capitalista” com a clara implicação de que não havia mais nada para a esquerda defender. Mas porque a Liga dos Comunistas continuou a manter o poder na Iugoslávia, ela emergiu como uma força de resistência quando o imperialismo alemão iniciou um esforço em grande escala para desmembrar o país em 1990 e 1991. A derrubada do governo socialista da Alemanha Oriental em 1989 e sua reincorporação na Alemanha Ocidental desencadeou um intenso impulso do imperialismo alemão para ampliar sua esfera de influência. Financiou e secretamente organizou a secessão da Eslovênia e da Croácia, as repúblicas mais ocidentais da Iugoslávia multinacional. Isso, por sua vez, desencadeou uma disputa imperialista previsível e clássica entre Alemanha, França, Inglaterra e, finalmente, os Estados Unidos para dividir a Iugoslávia em esferas de influência para a penetração neocolonial.
-
-Diante dessa campanha contra-revolucionária de inspiração imperialista, a Liga dos Comunistas, liderada por Slobodan Milosevic, mudou abruptamente de curso. A privatização da indústria foi desacelerada e, em alguns casos, revertida. A cooperação com o FMI foi reduzida ou interrompida. O imperialismo demonizou a liderança iugoslava, impôs sanções econômicas e iniciou um curso de mudança de regime. A Iugoslávia lutou contra as forças da desintegração. Ela teve que confiar mais em sua base de classe trabalhadora. Esta teria sido uma virada impossível para um regime totalmente capitalista, um regime que não teve suas raízes na revolução social e na propriedade socializada. A única maneira de o imperialismo ter sucesso na Iugoslávia era travar uma guerra de bombardeio total. De 24 de março a 4 de junho de 1999, a força aérea imperialista coletiva da OTAN lançou 23.000 bombas e mísseis na Sérvia até que o governo iugoslavo decidiu deixar Kosovo cair nos braços dos imperialistas (e como consequência, Kosovo hoje é a cidade com a maior taxa de câncer da Europa). Sem pausa, a pressão imperialista se intensificou após a conclusão da guerra de 1999 para levar a cabo a derrubada contra-revolucionária final do governo iugoslavo e sua substituição por uma força servil por procuração.
-
-Tendo abandonado por muito tempo uma defesa política da Iugoslávia com base no fato de que nada restava, no sentido social e econômico, da revolução iugoslava inicial, grandes setores da esquerda internacional permaneceram à margem em 1999, assistindo a carnificina. Outros realmente apoiaram a guerra da OTAN ou deram apoio a alguma forma variante de desmembramento patrocinado pelo imperialista, proferindo proclamações vulgarizadas sobre "autodeterminação" para Kosovo. A verdadeira autodeterminação, nessas circunstâncias, significava apenas uma coisa: defender militantemente o governo iugoslavo enquanto este resistia à agressão imperialista e à contra-revolução. O exemplo iugoslavo prova que existe uma conexão orgânica entre imperialismo e contra-revolução em todas as sociedades com governos criados por uma reviravolta socialista. Apesar do surgimento de lideranças conservadoras e não revolucionárias nos governos de orientação socialista, nunca houve uma parceria estável de longo prazo entre qualquer um desses regimes e o imperialismo ou qualquer governo imperialista único.
-
-A própria existência de um partido comunista como partido governante - que se baseia nos interesses da classe trabalhadora - significa que a relação com o imperialismo é inerentemente instável. A razão para a instabilidade é que o mero controle do poder pelos partidos comunistas constitui um obstáculo à tomada total e completa e à reescravização neo-colonial do país pelo imperialismo. Em sua busca sistemática e inerente por superlucros, o imperialismo é levado à contra-revolução com o objetivo principal de derrubar o domínio político do partido comunista. O impulso para a contra-revolução está na própria natureza da besta. Embora a Iugoslávia seja um exemplo desse fenômeno contra-revolucionário, pode-se olhar para a história recente da China para observar um processo quase idêntico, mais notavelmente os eventos que levaram à supressão do movimento contra-revolucionário da Praça Tiananmen em 1989. Foi a liderança do Partido Comunista da China, em particular a liderança de Deng Xiaoping, que tomou medidas para suprimir um movimento de massa que ocupou a Praça Tiananmen por sete semanas em 1989, o mesmo ano em que a maioria dos governos do bloco socialista na Europa Oriental foi derrubada.
-
-Fontes:
-- [University of Rochester | The Making and Breaking of Yugoslavia and Its Impact on Health](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1448556/)
-- [NYU | The Once and Future Health System in the Former Yugoslavia](https://www.nyu.edu/projects/rodwin/future.html)
-- [Helsinki Committee | Yugoslavia From a Historical Perspective](http://www.yuhistorija.com/doc/yugoslavia%20from%20a%20historical%20perspective.pdf)
-- [Encyclopedia Britannica | Yugoslavia (1929-2003)](https://www.britannica.com/place/Yugoslavia-former-federated-nation-1929-2003#ref759937)
-- [The Espresso Stalinist | Yugoslav Revisionism](https://espressostalinist.com/marxism-leninism-versus-revisionism/titoism/)
-- [The year was 1991: the demise of Yugoslavia and the Soviet Union](https://www.globalresearch.ca/the-defining-year-was-1991-the-demise-of-yugoslavia-and-the-soviet-union/5628115)
-- [The rational destruction of Yugoslavia - Michael Parenti](http://www.michaelparenti.org/yugoslavia.html)
-- [US-NATO jets bomb Serb auto plant](https://www.wsws.org/en/articles/1999/04/balk-a10.html?view=article_mobile)
-- [The US war on Yugoslavia - by Michael Parenti](https://youtu.be/GEzOgpMWnVs)
-- [Sean Gervasi exposing US, German role in Balkans](https://youtu.be/ePw0Wp7lsxA)
-- [Yugoslavia - the avoidable war](https://youtu.be/u04IL4Od8Qo)
-- [Croatia - neoliberalism and corruption](https://www.jacobinmag.com/2016/07/croatia-karamarko-neoliberalism-corruption-bridge/)
-- [The Weight of Chains (full movie)](https://www.youtube.com/watch?v=xw49iL6zGyQ&feature=youtu.be)
-- [Srebrenica’s legacy should be one of peace, not war](https://www.rt.com/op-edge/273142-srebrenica-massacre-anniversary-balkans/)
-- [Harpal Brar - NATO’s predatory war on Yugoslavia (book)](http://www.cpgb-ml.org/index.php?secName=books&subName=display&bookId=15)
-
-## A Albânia
-A República Socialista Popular da Albânia é uma espécie de enigma. É simultaneamente uma das mais conhecidas e menos compreendidas de todas as nações socialistas. A única coisa que a maioria das pessoas sabe sobre a Albânia socialista é que foi liderada durante a maior parte de sua existência por Enver Hoxha, um homem que odiava o revisionismo e adorava bunkers. Mas há muito mais nesta nação do que a maioria de nós sabe, e isso deve ser estudado; oferece um caso exemplar das conquistas de que o socialismo é capaz, e uma história de advertência sobre os perigos do isolacionismo e do dogmatismo.
-
-### Albânia pré-guerra
-Antes da Segunda Guerra Mundial, a Albânia era a nação mais pobre da Europa. O país nem havia passado por uma verdadeira revolução industrial e, como tal, dependia quase inteiramente da agricultura. Como resultado disso, junto com as relações de propriedade semifeudais que existiam na época, a Albânia tinha uma das rendas per capita mais baixas do mundo. De acordo com o livro de 1999 de James O'Donnell, A Coming of Age: Albania Under Enver Hoxha, publicado pela Columbia University Press:
->Antes da Segunda Guerra Mundial, a economia albanesa estava em frangalhos. [...] A contribuição total da produção industrial para o produto material líquido foi de apenas 4,4 por cento (outra fonte diz que este número era na verdade menos de 4 por cento) em 1938. [...] Além disso, em 1927 e 1928, o per capita a renda média anual era de apenas $40,07, em comparação com a Bulgária $67,57, a Grécia $75,75, a Iugoslávia $76,93 e a Romênia $77,74. Assim, antes da Segunda Guerra Mundial, devido ao estado primitivo da economia albanesa, os albaneses ganhavam cerca de apenas metade a dois terços do que seus vizinhos pobres dos Bálcãs.
-
-Apesar da forte dependência da Albânia da agricultura, até mesmo esse setor era criticamente subdesenvolvido antes da Segunda Guerra Mundial. A maioria dos camponeses do país não tinha terra e, para começar, apenas uma pequena porção das terras do país estava sendo cultivada:
->90% da renda nacional total era derivada da agricultura, apesar de haver apenas 7% a 9% das terras cultivadas. Além disso, em 1938, 88% por cento da população vivia em áreas rurais, mas 53% dos camponeses não tinham terra. Mais de 40% das terras cultiváveis ​​pertenciam a grandes proprietários e apenas 3% aos camponeses. O nível de mecanização era extremamente primitivo, pois havia apenas trinta e dois tratores em todo o país.
-
-As coisas só pioraram depois da guerra, que matou quase 8% da população (a parte mais ativa da força de trabalho). Apesar de algumas construções de infraestrutura pelos ocupantes fascistas, o efeito geral sobre a nação foi calamitoso. O'Donnell escreve:
->Este quadro econômico sombrio regrediu ainda mais durante a Segunda Guerra Mundial e a Albânia se viu em uma posição econômica bastante precária quando Enver Hoxha e o Partido do Trabalho Albanês assumiram o poder. A luta destruiu muito do material útil existente para fins econômicos. Na verdade, os danos per capita da Albânia foram estimados como os mais altos da Europa.
-
-Por pior que fosse a situação econômica da Albânia pré-comunista, as coisas podem ter sido ainda piores no que diz respeito à saúde. Os recursos médicos eram lamentavelmente escassos, enquanto a expectativa de vida e as taxas de mortalidade estavam entre as piores do mundo. De acordo com um estudo de 1998 da London School of Economics:
->Quando os comunistas assumiram o poder na Albânia em 1945, o estado de saúde da população e o sistema de saúde albanês estavam em péssimo estado. [...] O número de médicos era muito baixo - apenas 102 médicos albaneses e um número muito pequeno de médicos estrangeiros. Assim, o número de médicos (médicos e dentistas) por 10.000 da população era de apenas 1,17, enquanto o número de leitos para 1.000 da população era de apenas 0,98. [...] De acordo com a Liga das Nações em 1941, a taxa bruta de mortalidade para a Albânia em 1938 era de 17,7 por mil. Em um estudo posterior, um número sobre a expectativa de vida ao nascer é dado para 1938 como 38 anos. Mesmo esses números não são considerados precisos, porque o registro de óbitos não estava completo. [...] A maioria dos moradores morreu sem qualquer intervenção médica. No início dos anos 20, mais da metade das 2.540 aldeias do país nunca haviam sido visitadas por um médico.
-
-A educação era outro problema sério; nas áreas rurais, era praticamente inexistente. Para citar o estudo acima mencionado da LSE:
->O fim da Segunda Guerra Mundial encontrou a Albânia em um estado educacional muito pobre. Naquela época, 80% da população era analfabeta, e nas áreas rurais esse número chegava a 90-95%. O analfabetismo era generalizado nas áreas rurais e, em particular, entre as mulheres. Imediatamente após a tomada do poder em 1944, o regime comunista deu alta prioridade à abertura de escolas e à organização de todo o sistema educacional segundo as linhas comunistas. Uma intensa campanha contra o analfabetismo começou imediatamente.
-
-Finalmente, deve-se notar que a Albânia pré-comunista era uma das sociedades mais reacionárias da Terra no que diz respeito aos direitos das mulheres. Para citar o estudo acima mencionado:
->Para a maioria das mulheres, a vida tradicional albanesa foi caracterizada pela discriminação e desigualdade em comparação com os homens, reforçada por uma ampla gama de normas culturais. [...] No período pré-guerra imediato havia apenas 21 professoras no país, algumas médicas e nenhuma engenheira, agrônoma ou química. Apenas 2,4% dos alunos do ensino médio eram meninas.
-
-O Código de Leke (o código de leis albanês tradicional do pré-guerra relativo às mulheres) era severamente discriminatório. Até mesmo o assassinato de uma mulher grávida era punido de forma diferente, dependendo do sexo do feto que ela carregava:
->...a morta é para ser aberta, para ver se o feto é menino ou menina. Se for um menino, o assassino deve pagar 3 bolsas [uma determinada quantia em moeda local] pelo sangue da mulher e 6 bolsas pelo sangue do menino; se for menina, além das três bolsas para a mulher assassinada, deverão ser pagas 3 bolsas para a menina.
-
-De tudo isso, podemos ver claramente que a Albânia pré-comunista era uma sociedade desesperadamente pobre e semifeudal, com estatísticas de saúde e educacionais terríveis, e algumas das mais intensas discriminações contra as mulheres vistas em qualquer lugar do mundo. Dito isso, vamos ver o que os comunistas foram capazes de fazer com essa situação.
-
-### Desenvolvimento econômico e infraestrutural da Albânia
-Quando os comunistas chegaram ao poder, eles rapidamente começaram a transformar a economia do país. Isso começou com uma ampla lei de reforma agrária, que buscava eliminar as relações de propriedade semifeudais que existiam na Albânia na época. O'Donnell escreve:
->A construção da economia albanesa começou para valer com a aprovação da Lei da Reforma Agrária em agosto de 1945. Essa lei retirou do país todas as extensas propriedades pertencentes aos beis e grandes proprietários de terras. Todas as florestas e pastagens e todas as terras pertencentes a pessoas com renda não agrícola foram desapropriadas sem compensação. [...] Cada um dos camponeses sem terra recebia cinco hectares por família, com mais para cada filho casado que vivia na propriedade da família. [...] Essa lei é significativa porque demonstrou aos camponeses a viabilidade do novo governo.
-
-A reforma agrária teve um efeito profundo na distribuição de terras na Albânia, tornando-se "um desenvolvimento significativo em termos de conduzir gradualmente a Albânia ao século XX". Citar:
->A Albânia foi transformada de uma terra de grandes propriedades em uma das 70.000 pequenas fazendas. Antes desta lei, 52,43% de todas as terras na Albânia pertenciam a grandes proprietários, 28,07% das terras eram propriedade de pequenos agricultores e o estado era propriedade de 18,71%. Depois que a Lei da Reforma foi aprovada, os beis possuíam apenas 16,38% da terra, os pequenos agricultores possuíam 43,17% e os camponeses anteriormente sem terra possuíam 34,63%.
-
-No setor industrial, os comunistas rapidamente se moveram para nacionalizar a pequena indústria que existia, e então começaram a se concentrar no rápido desenvolvimento da capacidade industrial do país. O'Donnell escreve:
->O crescimento da indústria da Albânia foi surpreendente, tanto em velocidade quanto em extensão. Quando se considera a extensão dos danos causados ​​na Albânia durante a Segunda Guerra Mundial, é bastante impressionante que a Albânia foi capaz de se recuperar desses danos e em 1946 igualou seu nível de produção industrial antes da guerra. No entanto, ainda mais impressionante é o fato de que, em 1948, a Albânia dobrou sua produção industrial anterior à guerra. Todos devem concordar que este foi um começo bastante encorajador para o novo governo popular.
-
-Um resumo geral da situação econômica ao longo das primeiras décadas da Albânia socialista pode ser encontrado no estudo acima mencionado da London School of Economics:
->O crescimento do Produto Material Líquido de um plano de cinco anos para o próximo foi, em média, quase 44%, com a indústria registrando as taxas de crescimento mais rápidas durante este período. O crescimento médio da indústria de 1951 a 1975 foi de 82,5%. A participação da agricultura caiu de 80% durante o primeiro plano quinquenal (1951-55) para 36% no quinto plano (1971-75), enquanto os números correspondentes para a indústria foram de 14% e 35%, respectivamente.
-
-O desenvolvimento da infraestrutura também foi notavelmente substancial. Talvez o mais importante desses desenvolvimentos tenha sido a eletrificação de todo o país, que a Albânia foi uma das primeiras nações da Terra a alcançar. O'Donnell escreve:
->Uma das grandes conquistas, com as implicações de mais longo alcance em muitas esferas da vida albanesa; econômica, cultural, social, educacional, etc. que a Albânia alcançou ao longo de todo o período dos anos de Enver Hoxha no poder foi a eletrificação do país. Antes do governo de Hoxha, muitas aldeias remotas nas montanhas não só não tinham eletricidade, como é bem provável que nem soubessem da sua existência. A Albânia atingiu a eletrificação total antes do previsto em 25 de outubro de 1970. A importância desta conquista não pode ser subestimada. Este foi um dos fatores mais significativos na história da Albânia em termos de trazer a Albânia para o mundo moderno.
-
-A infraestrutura física e de transporte também foi desenvolvida. De acordo com o referido estudo da London School of Economics:
->O sistema de rodovias do país foi amplamente expandido e, em 1985, consistia em 6.900 quilômetros de estradas capazes de transportar o tráfego de veículos motorizados e com uma pequena rede ferroviária de cerca de 603 quilômetros.
-
-Infelizmente, quando a Albânia entrou na década de 1980, sérios problemas econômicos começaram a surgir, causados ​​em grande parte pelas políticas isolacionistas perpetradas por Hoxha, bem como uma falta geral de investimento na economia e uma adesão rígida ao modelo econômico stalinista:
->Em contraste com o período anterior, a década de oitenta testemunhou uma desaceleração acentuada da atividade econômica, que praticamente estagnou durante a segunda metade da década, refletindo o isolamento autoimposto da Albânia desde 1976 e o ​​surgimento de graves desequilíbrios internos e externos. [...] Muitos são os motivos que colocaram a economia albanesa em um beco sem saída na década de oitenta. Mais significativos são os objetivos e métodos ortodoxos de gestão da liderança comunista; a falta de investimento na economia, o que acarretou a carência de tecnologia avançada; e, acima de tudo, o auto-isolamento do país, que levou a economia albanesa a um colapso total em 1990.
-
-O'Donnell concorda amplamente com esses sentimentos, observando que "Enver Hoxha e o resto da liderança do Partido do Trabalho Albanês definitivamente se contaminaram com a mecanicidade de seus seguidores". Ele também aponta a falta de tecnologia moderna como um problema sério:
->Não há dúvida de que a economia albanesa teve sua cota de problemas, especialmente nos últimos anos da liderança de Enver Hoxha. A economia precisava desesperadamente de uma infusão de tecnologia ocidental moderna. A tecnologia albanesa estava obsoleta quando foi recebida dos chineses e soviéticos e certamente não poderia competir com os métodos mais modernos do mundo em 1985.
-
-Mesmo apesar desses problemas, não se pode negar que a era socialista na Albânia foi uma época de imenso desenvolvimento econômico e infraestrutural, que trouxe uma melhora drástica na vida de milhões de pessoas. O'Donnell escreve que "a economia albanesa deve ser considerada um sucesso dentro dos parâmetros albaneses." Ele continua:
->Apesar das deficiências óbvias da economia albanesa, é inegável que o desenvolvimento econômico ocorreu na Albânia sob Enver Hoxha. [...] Quando se considera que a Albânia antes da guerra praticamente não tinha indústria, os avanços que foram feitos são extremamente impressionantes devido às circunstâncias em que a Albânia se encontrava após a Segunda Guerra Mundial, a decisão do Partido do Trabalho Albanês de implementar uma economia centralizada fazia muito sentido. [...] Do lado positivo, uma análise objetiva deve concluir que o plano de Enver Hoxha de mobilizar todos os recursos da Albânia sob a arregimentação de um plano central foi eficaz e bem sucedido, os resultados alcançados, especialmente nas fases iniciais o planejamento e a construção da base econômica foram impressionantes e positivos.
-
-Em suma, o governo comunista na Albânia foi capaz de realizar um impressionante desenvolvimento econômico e de infraestrutura, com várias décadas de rápido crescimento, especialmente no setor industrial. No entanto, o país acabou enfrentando sérios problemas, causados ​​em grande parte pela insistência dogmática na autossuficiência e na adesão excessiva ao modelo stalinista encorajada por Enver Hoxha.
-
-### Conquistas na saúde da Albânia
-Devido às condições de saúde extraordinariamente ruins que a população enfrentava antes de 1945, o novo governo comunista rapidamente fez da saúde uma prioridade:
->Conforme explicado anteriormente, quando os comunistas assumiram o poder na Albânia em 1945, o estado de saúde da população e o sistema de saúde albanês estavam em muito mau estado. [...] Para fazer frente a essa situação, o governo, a partir de 1947, introduziu um amplo plano de seguro social e médico. A maioria dos tratamentos médicos (embora não os medicamentos) era fornecida gratuitamente. Foi introduzida legislação para proteger a mãe e o filho e instituiu o regime de pensões, bem como outros regulamentos sobre as condições e controle sanitário e o tratamento de doenças infecciosas.
-
-Os resultados dessas políticas podem ser vistos claramente ao se olhar para as estatísticas de saúde na Albânia. Por exemplo, pegue este gráfico que mostra o aumento na expectativa de vida ao nascer de 1950-1990, retirado do estudo LSE mencionado anteriormente (lembre-se de que a expectativa de vida em 1938 era de aproximadamente 38 anos):
-
-```
-1950 - 51.6
-1954-55	- 55.0
-1960 - 62.0
-1964-65	- 64.1
-1969 - 66.5
-1975-1976 - 67.0
-1979 - 68.0
-1989 - 70.7
-```
-
-A partir dessas estatísticas, fica claro que os comunistas alcançaram um enorme aumento na expectativa de vida, de 38 anos em 1938 para 68 anos em 1979, um aumento de trinta anos em apenas quatro décadas. Continuou a melhorar até 1989, embora de forma mais lenta. Os comunistas também conseguiram eliminar várias doenças infecciosas que assolavam o país, especialmente a malária, que havia sido a maior causa de morte na Albânia antes da guerra:
->Uma série de doenças endêmicas foram controladas, incluindo malária, tuberculose e sífilis. Se olharmos para a transição da mortalidade de 1950 a 1990, é claro que o padrão muda conforme a expectativa de vida aumenta. Assim, as doenças infecciosas e parasitárias (incluindo a tuberculose) diminuem e quase desaparecem nas décadas de setenta e oitenta.
-
-Resumindo a questão do desenvolvimento médico durante a era socialista, O'Donnell escreve que "é inquestionável que grandes avanços foram feitos na área de saúde". Ele continua:
->A expectativa de vida e as taxas de mortalidade infantil foram muito melhoradas. Os serviços de saúde como um todo, em termos de qualidade e, mais importante, em termos de disponibilidade foram melhorados exponencialmente.
-
-Os comunistas albaneses alcançaram uma série de realizações extremamente impressionantes no campo da saúde. Infelizmente, isso também começou a sofrer no final do período comunista, quando a falta de investimento e o isolamento auto-imposto cobraram seu preço, causando a falta de tecnologia médica. O'Donnell escreve:
->Deve-se aplaudir objetivamente as melhorias feitas que foram substanciais e de fato um desenvolvimento positivo. No entanto, por outro lado, deve-se também condenar objetivamente a escassez de equipamentos e suprimentos modernos devido a preocupações ideológicas e isolamento.
-
-Mesmo assim, ele conclui argumentando:
->A assistência médica deve ser considerada um desenvolvimento positivo na história dos anos de Enver Hoxha no poder na Albânia.
-
-### Conquistas educacionais da Albânia
-A educação era outra das principais prioridades do governo comunista e recebeu atenção substancial assim que assumiram o poder. De acordo com o estudo da LSE acima mencionado:
->Imediatamente após a tomada do poder em 1944, o regime comunista deu alta prioridade à abertura de escolas e à organização de todo o sistema educacional segundo as linhas comunistas. Uma intensa campanha contra o analfabetismo começou imediatamente.
-
-Essa ênfase resultou em melhorias gerais substanciais para o sistema educacional, com um grande aumento na acessibilidade e frequência. O estudo LSE:
->Em termos de matrículas, a Albânia tinha um sistema de ensino de base ampla, com quase 90% dos alunos concluindo a escola básica obrigatória de 8 anos e 74% deles continuando na escola secundária. Destes, mais de 40% foram para a universidade. Segundo dados oficiais, no final de 1972 havia 700.000 alunos em idade escolar e universitários, o que significava que um em cada três cidadãos estava matriculado em algum tipo de instituição de ensino. O número de jardins de infância nas áreas urbanas aumentou 112% de 1970 a 1990, enquanto nas áreas rurais aumentou 150%. O número de escolas primárias nas áreas urbanas, no mesmo período, aumentou 31% e nas áreas rurais 24%. O número total de escolas secundárias aumentou 291% e o das escolas secundárias 60%. Uma tendência semelhante é observada no número de alunos que se formaram. Assim, o número de alunos que concluíram o ensino fundamental no período 1970-1990 aumentou 74,8%, no ensino médio o número aumentou 914,2% e, na universidade, 147%. A mensalidade da educação era gratuita. Os alunos cujas famílias tinham baixa renda tinham direito a bolsas de estudo, que lhes davam hospedagem gratuita, alimentação, etc.
-
-A eliminação do analfabetismo é uma das conquistas mais importantes da era socialista na Albânia. O'Donnell escreve:
->Em termos de educação, onde a grande maioria da população era anteriormente analfabeta, como resultado do sistema educacional de Hoxha, quase todos os albaneses sabem ler e escrever. Esta é, sem dúvida, uma conquista positiva e significativa
-
-O estudo da LSE concorda amplamente com esta avaliação:
->No final da década de oitenta, a Albânia tinha uma taxa de analfabetismo inferior a 5%, situando-se entre os países desenvolvidos. [...] A realização da educação universal deve ser considerada uma das principais conquistas do regime comunista.
-
-Em suma, a educação se destaca como um dos principais desenvolvimentos positivos da era socialista, algo que mesmo os oponentes do regime geralmente consideram uma grande conquista.
-
-### Segurança social na Albânia
-O sistema de seguridade social era uma das principais prioridades do governo comunista. Com base no modelo soviético, os comunistas desenvolveram um sistema de bem-estar social do berço ao túmulo em todo o país. O estudo LSE acima mencionado:
->O seguro social foi introduzido pela primeira vez pelo governo comunista albanês em 1947. O esquema inicial de previdência social cobria aproximadamente 75.000 pessoas. O programa de seguro social era administrado por organizações estaduais e cobria assistência médica, indenização por invalidez, aposentadoria por idade, abono de família e descanso e recreação. Várias modificações foram feitas posteriormente no programa básico. A lei de 1953 forneceu um programa muito semelhante ao da União Soviética, ou seja, um sistema clássico de segurança social do berço ao túmulo. Durante vários anos, os sindicatos administraram um grande número de atividades de seguro social. Em 1965, o estado assumiu a administração de todas as fases, exceto as de descanso e recreação.
-
-A licença maternidade e o seguro de invalidez foram fornecidos:
->Se as pessoas perdessem a capacidade de trabalhar total ou parcialmente, recebiam pensões de invalidez. O valor da pensão variava entre 40-85% do salário dependendo da escala de invalidez, causa da invalidez e número de anos de trabalho. As mulheres grávidas tinham licença de oitenta e quatro dias em circunstâncias normais e eram pagas a 95% do seu salário se tivessem trabalhado por mais de cinco anos e 75% se tivessem trabalhado menos de cinco. O período de licença-gravidez foi estendido para seis meses em 1981. As trabalhadoras podiam ficar em casa por períodos limitados para cuidar dos doentes e durante esse período recebiam 60% do seu salário.
-
-Pensões de velhice também foram fornecidas a todos os trabalhadores aposentados:
->As pensões de velhice foram baseadas na idade e anos de trabalho. Os pagamentos foram calculados à taxa de 70% do salário médio mensal do trabalhador. Duas exceções foram os veteranos da Segunda Guerra Mundial e os líderes do Partido que receberam um adicional de 10%. A lei também previa pensões para viúvas e órfãos.
-
-Todos os trabalhadores tiveram licença de trabalho garantida, com remuneração:
->Todos os segurados tinham direito a férias remuneradas. A duração das férias dependia do tipo de trabalho e da duração do vínculo empregatício.
-
-O seguro de cuidados infantis também era um aspecto do sistema de seguridade social:
->Quando crianças menores de sete anos estavam doentes, um dos pais tinha licença de até dez dias durante um período de três meses. Um pagamento único foi feito à família para cada criança nascida. Em caso de morte, uma quantia fixa foi paga à família para despesas de funeral.
-
-Eventualmente, o sistema foi expandido para incluir camponeses em cooperativas agrícolas:
->A partir de 1 de julho de 1972, o sistema de pensões e segurança social foi estendido aos camponeses que trabalhavam em cooperativas agrícolas. O objetivo era diminuir as diferenças entre as áreas urbanas e rurais. Algumas cooperativas agrícolas já haviam introduzido algumas formas de pensões e seguro social que fornecem ajuda para seus membros na velhice e quando eles não podiam trabalhar. O financiamento desse sistema de seguridade social no meio rural veio das contribuições das cooperativas com algum subsídio do Estado.
-
-A provisão de um sistema de bem-estar social do berço ao túmulo é uma enorme conquista e um dos principais avanços feitos pelo governo comunista.
-
-### Direitos das mulheres na Albânia
-A Albânia antes da guerra era uma das sociedades mais reacionárias da Terra no que diz respeito aos direitos das mulheres:
->Para a maioria das mulheres, a vida tradicional albanesa era caracterizada pela discriminação e desigualdade em comparação com os homens, reforçada por uma ampla gama de normas culturais. No período pré-guerra imediato, havia apenas 21 professoras no país, duas mulheres médicas e nenhuma engenheira, agrônoma ou química. Apenas 2,4% dos alunos do ensino médio eram meninas.
-
-Para corrigir esta situação, os comunistas colocaram uma enorme ênfase nos direitos das mulheres:
->Quando os comunistas chegaram ao poder, consideraram a emancipação das mulheres uma medida política importante, vinculando-a ao destino do socialismo e do comunismo. [,,,] A igualdade entre homens e mulheres foi enfatizada continuamente e até mesmo incluída na Constituição. A Introdução à Constituição do PSR da Albânia diz que “No processo incessante da revolução, a mulher albanesa conquistou a igualdade em todos os campos, tornou-se uma grande força social e está avançando em direção à sua emancipação completa.” O artigo 41 da constituição diz : “A mulher goza de direitos iguais aos do homem no trabalho, na remuneração, nas férias, na previdência social, na educação, em todas as atividades sócio-políticas e também na família.”
-
-As mulheres tornaram-se uma parte ativa da força de trabalho, embora antes fossem quase totalmente excluídas:
->Direitos iguais incluem, entre outros, o direito igual a ter um emprego. Creches e jardins de infância subsidiados, lavanderias e cantinas em ambos os locais de trabalho e em áreas residenciais foram fornecidos para facilitar o trabalho das mães. Em 1980, as mulheres representavam 46% da população economicamente ativa, um aumento de mais de um quarto em comparação com 1960.
-
-As mulheres também fizeram grandes avanços no acesso à educação, bem como em cargos de poder governamental:
->As oportunidades educacionais para mulheres também melhoraram consideravelmente. A Tabela 2.5 mostra o aumento do percentual de estudantes mulheres concluintes de acordo com as especialidades. A tabela mostra que o aumento do percentual no período 1960-1990, para as engenheiras foi de 258,6%, enquanto o para as agrônomas foi de 206%, para os economistas de 192%. A mesma política foi adotada para a participação das mulheres nos governos do país.
-
-Edwin E. Jacques discute essa questão em seu [livro](https://books.google.com/books/about/The_Albanians.html?id=IJ2s9sQ9bGkC) The Albanians: An Ethnographic History from Prehistoric Times to the Present. Segundo Jacques, durante a Revolução Cultural e Ideológica, as mulheres foram incentivadas a ocupar todos os cargos, inclusive cargos governamentais, o que resultou em 40,7% dos Conselhos Populares e 30,4% da Assembleia Popular composta por mulheres, incluindo duas mulheres em o Comitê Central em 1985. Em 1978, 15,1 vezes mais mulheres frequentavam escolas de oito anos do que em 1938 e 175,7 vezes mais mulheres frequentavam escolas secundárias. Em 1978, 101,9 vezes mais mulheres frequentavam escolas superiores do que em 1957.
-
-Mesmo os oponentes do regime comunista em geral reconheceram os desenvolvimentos positivos que ele fez em termos dos direitos das mulheres. Por exemplo, veja o seguinte [artigo do Telegraph](https://www.telegraph.co.uk/women/life/growing-up-under-communist-rule-made-me-the-tough-feminist-i-am/), de autoria de um escritor reacionário que cresceu na Albânia comunista:
->Inspirado pelo debate em curso sobre as desigualdades das mulheres, refleti recentemente sobre minha própria política de infância e cheguei à surpreendente conclusão de que o lugar para procurar soluções para a desigualdade de gênero é o modelo comunista.
-
-Ela comenta sobre o incentivo comunista às mulheres na força de trabalho:
->A promessa comunista de que as mulheres deveriam ser iguais na força de trabalho não era vazia. As mulheres foram positivamente encorajadas pelas campanhas governamentais a embarcar em todas as profissões, incluindo empregos “masculinos”, com base no fato de terem lutado em grande número ao lado dos homens como guerrilheiros durante a Segunda Guerra Mundial. Para isso, receberam estágios, qualificações profissionais e bolsas de estudo. [...] Ao crescer, nunca encontrei qualquer sugestão de que as mulheres nessas profissões fossem de alguma forma menos capazes do que os homens em virtude de seu gênero e papel adicional como mães. No geral, eles não enfrentaram barreiras de discriminação de gênero. Lembro-me de meus pais e seus amigos elogiarem frequentemente as excelentes médicas e professoras. [...] Essa forma de parceria igualitária era comum na sociedade albanesa em que cresci e, principalmente, o papel das mulheres na família informava como as mulheres eram vistas no local de trabalho e vice-versa. Se os homens sugeriam que as mulheres deveriam ser relegadas à casa, eles eram ridicularizados por suas idéias anacrônicas.
-
-Quando até mesmo um escritor reacionário cujos pais a enviaram para aulas clandestinas de italiano (a língua dos ocupantes fascistas) elogia as políticas comunistas em relação aos direitos das mulheres, isso é uma forte indicação de seu sucesso.
-
-### Os problemas da Albânia comunista
-Apesar das grandes conquistas do governo comunista, houve enormes falhas que acabaram por derrubar a nação. Estes foram:
-
-1. O rígido anti-revisionismo de Hoxha, que se recusou a permitir qualquer desvio do modelo stalinista, mesmo quando certas políticas não faziam mais sentido para as condições atuais.
-2. O isolamento auto-imposto da nação, enquanto Hoxha queimava pontes com outras nações socialistas que não compartilhavam sua interpretação doutrinária do marxismo.
-3. A paranóia que resultou deste isolamento, incluindo a infame campanha de bunker, realizada para evitar uma temida invasão da URSS ou da Iugoslávia. Em média, cada bunker custa tantos recursos quanto um apartamento de dois quartos, e os recursos totais dedicados a construí-los poderiam ter resolvido facilmente o déficit habitacional do país.
-4. Quase entrou em falência por causa do FMI.
-
-Esses problemas deveriam servir como um alerta para todas as gerações subsequentes de socialistas e comunistas, pois mesmo as grandes conquistas do socialismo na Albânia não foram suficientes para evitar que as falhas acima mencionassem tudo.
-
-### Conclusão sobre a Albânia
-A República Socialista Popular da Albânia é um caso complicado para analisarmos. A seguinte avaliação da revolução é dada pelo estudo LSE:
->No geral, como podemos caracterizar a Albânia comunista? Claramente, apesar do considerável desenvolvimento econômico em relação ao seu nível anterior, permaneceu pobre e principalmente rural. No entanto, a agenda social do desenvolvimento avançou muito mais. A educação e a seguridade social tornaram-se virtualmente universais e os cuidados de saúde estavam disponíveis para todos. Além disso, a discriminação tradicionalmente severa contra as mulheres foi bastante reduzida.
-
-Algumas conquistas dos comunistas são reconhecidas até pelos reacionários:
->A redução das tradições de longa data de discriminação contra as mulheres e o fornecimento de educação universal e atenção primária à saúde foram conquistas que até mesmo os inimigos do regime reconhecem.
-
-Os comunistas também desenvolveram muito a economia do país, desenvolveram sua infraestrutura e a libertaram do domínio estrangeiro. Um dos melhores resumos das conquistas do socialismo na Albânia é dado pela Enciclopédia Britânica, em seu [artigo](https://www.britannica.com/biography/Enver-Hoxha) sobre Enver Hoxha:
->A economia da Albânia foi revolucionada sob o longo governo de Hoxha. As terras agrícolas foram confiscadas de ricos proprietários de terras e reunidas em fazendas coletivas que eventualmente permitiram que a Albânia se tornasse quase totalmente autossuficiente em plantações de alimentos. A indústria, que antes era quase inexistente, recebeu enormes quantias de investimento, de modo que na década de 1980 havia crescido e contribuído com mais da metade do produto interno bruto. A eletricidade foi levada a todos os distritos rurais, as epidemias de doenças foram eliminadas e o analfabetismo tornou-se uma coisa do passado.
-
-Apesar de tudo isso, no entanto, as falhas do isolacionismo e do dogmatismo rígido impediram a nação de avançar após 1975 e, por fim, causaram sua queda. Que isso sirva de aviso: o idealismo e o isolamento são fatais para qualquer revolução.
-
-Fontes:
-- [Columbia University Press | "A Coming of Age: Albania Under Enver Hoxha" by James O'Donnell](https://espressostalinist.files.wordpress.com/2010/12/a-coming-of-age.pdf)
-- [London School of Economics | Mortality Transition in Albania, 1950-1990](http://etheses.lse.ac.uk/2870/1/U615819.pdf)
-- [Google Books | "The Albanians: An Ethnographic History from Prehistoric Times to the Present" by Edwin Jacques](https://books.google.com/books/about/The_Albanians.html?id=IJ2s9sQ9bGkC)
-- [The Telegraph | Growing Up Under Communist Rule Made Me the Tough Feminist I Am Today](https://www.telegraph.co.uk/women/life/growing-up-under-communist-rule-made-me-the-tough-feminist-i-am/)
-- [Encyclopedia Britannica | Enver Hoxha](https://www.britannica.com/biography/Enver-Hoxha)
-
-## A Polônia
-A República Popular da Polônia era uma nação complexa, com uma história política carregada. A nação foi atormentada por contradições e conflitos internos, devido a vários fatores, incluindo a influência predominante da Igreja Católica e muitos afirmam que a Polônia nunca teve uma revolução socialista, que o PPR foi estabelecido por meio de influência externa da URSS. Esta é uma visão anacrônica.
-
-Isso é problemático e, em minha opinião, apenas uma meia verdade. Embora seja improvável que a Polônia tivesse estabelecido e consolidado o socialismo sem a presença e assistência da União Soviética, isso não quer dizer que não houve uma verdadeira revolução da classe trabalhadora que levou os comunistas ao poder. Para provar isso, citarei pesadamente o [Class Struggle in Socialist Poland](https://archive.org/details/ClassStruggleInSocialistPoland), um livro escrito pelo sociólogo marxista polonês-americano Albert Syzmanski, que descreve a história da República Popular da Polônia e suas várias crises. Para evitar quaisquer acusações de parcialidade ou propaganda, Syzmanski deliberadamente apenas cita fontes acadêmicas ocidentais no livro:
->Tal como acontece com meu livro sobre a URSS, é utilizado o princípio de usar fontes quase inteiramente pró-ocidentais e anticomunistas para estabelecer os fatos e, em seguida, interpretar esses fatos dentro da estrutura da análise de classe marxista. O princípio historiográfico de que se aqueles que estão argumentando contra uma hipótese fornecem evidências a favor dela, tais evidências têm uma alta probabilidade de serem verdadeiras, fundamenta este método. Temos sorte não só de ter uma literatura bastante rica sobre a Polônia, como é o caso da URSS, mas também de ter um estabelecimento sociológico bem desenvolvido na Polônia que durante anos, e especialmente durante 1980-81, produziu informações objetivas sobre Opinião pública polonesa. O fato de a Polônia ter sido relativamente aberta aos ocidentais desde meados da década de 1950 também facilitou muito o acúmulo de fatos sobre essa sociedade no Ocidente.
-
-Syzmanski começa o livro expondo suas afirmações, primeiro que a implementação do socialismo na Polônia foi popular, endógena e autêntica:
->Será mostrado que, ao contrário da impressão de muitos no Ocidente, a classe trabalhadora polonesa tem uma longa tradição revolucionária e que o marxismo tem raízes profundas nesta classe. Além disso, será demonstrado que houve uma genuína revolução operária/camponesa na Polônia em 1944-48 que foi protegida, mas de forma alguma causada, pela presença do Exército Soviético.
-
-Em segundo lugar, que os vários incidentes de descontentamento na Polónia, embora muitos em número, não foram causados pelo sentimento anticomunista, sentimento anti-soviético ou a percepção da natureza antidemocrática do "regime", mas sim movimentos pró-socialistas visando para reverter erros de política específicos do governo:
->Deve-se enfatizar que nem os membros em massa do Solidariedade nem a maioria dos participantes da classe trabalhadora em manifestações públicas anteriores se opuseram ao socialismo, nem seus protestos foram dirigidos principalmente contra a liderança geral do Partido Comunista na sociedade polonesa. O impulso da participação da classe trabalhadora em greves, manifestações e sindicatos "independentes" concentrou-se, em vez disso, em duas questões: um aumento dos padrões de vida e a institucionalização de um modelo mais descentralizado de socialismo. No entanto, o descontentamento da classe trabalhadora nessas duas questões foi manipulado por intelectuais fortemente anticomunistas que assumiram a liderança do Solidariedade no outono de 1981 com a intenção de derrubar o regime. A consequência de seu sucesso pode muito bem ter sido a destruição de qualquer forma de socialismo na Polônia.
-
-Ele passa a fornecer uma visão geral do movimento marxista da classe trabalhadora na Polônia antes da Segunda Guerra Mundial, a fim de demonstrar que a República Popular se manifestou naturalmente. Acontece que essa história é rica, que remonta ao século 19, quando o povo polonês foi subjugado pelo Império Russo. Depois disso, ele detalha o processo pelo qual, durante a Segunda Guerra Mundial e a ocupação nazista da Polônia, as forças progressistas restantes no país começaram a organizar um movimento de resistência, independente do governo fascista polonês exilado em Londres antes da guerra, que se recusou a cooperar com a esquerda. Os comunistas formaram o Partido dos Trabalhadores Poloneses em 1942 e, junto com o Partido Camponês, o Partido Social Democrata e o Partido Nacional Democrático, formaram um governo provisório em 1944 conhecido como Conselho Nacional, que atuou como órgão representativo dos vários comitês e conselhos surgindo em todo o país. Devido à política da Frente Popular de formar uma ampla coalizão e defender reformas democráticas ao invés de uma revolução socialista completa, os comunistas foram capazes de reunir um apoio considerável, que solidificou sua legitimidade em oposição ao agora impopular governo exilado:
->O governo de Londres no exílio foi abandonado pelos três partidos de massa não comunistas. Mantendo sua base apenas entre as forças mais direitistas e anti-semitas no exterior e em casa, foi reduzido a um traseiro virtualmente irrelevante. Imediatamente após a reconstituição do governo provisório, os Estados Unidos e o Reino Unido reconheceram oficialmente o novo governo como o governo legítimo da Polônia.
-
-Na verdade, os comunistas estavam tão comprometidos com a democracia durante este período que, quando o Exército Vermelho libertou a Polônia e o Conselho Nacional se tornou o governo legítimo, o Partido dos Trabalhadores Poloneses concordou em reorganizar o gabinete para incluir também os exilados poloneses de Londres. reduzindo sua própria influência para apenas 5 dos 21 ministérios, enquanto antes eles detinham 7 de 16. Na próxima seção do livro, focada na Polônia do pós-guerra, Syzmanski mostra como o país se tornou socialista predominantemente devido à demanda popular ao invés da força estatal ou influência soviética, começando com os trabalhadores industriais assumindo as fábricas:
->Não surpreendentemente, dada a devastação provocada pelos nazistas e a década e meia anterior da ditadura militar, a libertação da Polônia pelo Exército Vermelho em 1944 e 1945 foi recebida com entusiasmo, especialmente pela classe trabalhadora. Na maioria dos casos, as fábricas polonesas foram administradas durante a ocupação por alemães que foram evacuados com o exército alemão em retirada. Com a saída do Exército Alemão, os trabalhadores geralmente continuaram por conta própria, formando conselhos de trabalhadores e elegendo seus próprios supervisores. Como aconteceu em quase toda a Europa ocupada, ocorreu uma transformação socialista espontânea da economia, com os trabalhadores assumindo a produção. A principal diferença entre a Europa Oriental e Ocidental a esse respeito era que o Exército Vermelho não restaurou as fábricas à propriedade privada, em vez disso (pelo menos no início) permitiram que os trabalhadores continuassem.
-
-Embora o campesinato estivesse inicialmente cético em relação a uma possível aquisição comunista, eles também foram conquistados pelo programa de reforma agrária sem precedentes do governo:
->Uma das primeiras ações do regime foi implementar uma reforma agrária radical, entregando todas as terras às famílias de camponeses. O regime distribuiu 10 milhões de acres para cerca de 1,5 milhão de camponeses sem terra e praticamente sem terra. O estado manteve cerca de 5 milhões de acres, principalmente para fazendas estaduais. Essa reforma neutralizou a oposição política ao regime entre os camponeses e conquistou um apoio considerável do governo nas áreas rurais.
-
-O Partido dos Trabalhadores Poloneses inicialmente continuou sua política de tempo de guerra de apaziguar os partidos não-comunistas e se contentou com um sistema de democracia liberal:
->Antes de outubro de 1944, a política do Partido Comunista, no entanto, era a eventual restauração da maioria das fábricas à propriedade privada, a fim de criar uma ampla "frente democrática" de forças antifascistas que realizaria reformas "democráticas" básicas (ainda não socialistas).
-
-No entanto, o plano mudou quando ficou claro que a maioria da classe trabalhadora era favorável tanto à nacionalização quanto à reforma agrária, portanto essas políticas foram implementadas:
->Abandonando sua ampla estratégia de frente popular, projetada para conquistar pequenos e médios capitalistas progressistas, os comunistas adotaram uma estratégia agressiva destinada a conquistar os trabalhadores e camponeses espontaneamente politizados, que tomavam as fábricas e as terras por conta própria.
-
-Além dessas políticas serem implementadas devido principalmente à iniciativa do povo, elas continuaram a ser apoiadas também nas consequências imediatas, enquanto a classe capitalista simultaneamente se tornava cada vez mais ilegítima:
->A nacionalização de grandes e médias empresas industriais foi tão popular quanto a reforma agrária e foi apoiada por todos os principais partidos, incluindo o Partido dos Camponeses Poloneses, bem como pela maior parte do submundo amargamente anti-russo/anti-semita. A velha e rica burguesia e a aristocracia foram desacreditadas por sua liderança no estado entre guerras e depois dizimadas durante a ocupação nazista. Não havia apoio popular para um retorno ao antigo sistema econômico. O socialismo total estava no ar e tinha, de fato, sido espontaneamente posto em prática pelos trabalhadores imediatamente após a libertação. Em um referendo popular realizado em abril de 1946, 77% da população declarou-se a favor das recentes reformas econômicas.
-
-Na verdade, esses altos níveis de apoio ao socialismo foram mantidos por décadas:
->Um resumo das pesquisas de atitude por sociólogos poloneses, relatadas na Scientific American em 1981, concluiu: Nossas pesquisas no final dos anos 1950 e início dos anos 1960 mostraram que "o experimento de aprendizagem social em escala nacional" conduzido pelo novo regime teve sucesso em um certo grau. As grandes mudanças na organização social e econômica da sociedade - a nacionalização da indústria, reforma agrária, planejamento econômico, a abolição da estrutura de classes pré-guerra - foram aceitas pelo povo.
-
-Apesar disso, os comunistas mantiveram sua doutrina da Frente Popular voltada para uma democracia pluralista por vários anos, enquanto muitos dos outros partidos foram gradualmente conquistados pelo marxismo:
->Os comunistas poloneses, seguindo a lógica da Frente Popular do movimento comunista internacional, fortemente enfatizada de 1941 a 1947, fizeram todos os esforços (assim como a URSS) para construir uma coalizão de centro-esquerda tão ampla quanto possível. Governos de coalizão envolvendo comunistas, social-democratas, camponeses e partidos moderados de classe média eram a regra na maior parte da Europa - França, Itália, Finlândia, Tchecoslováquia, Hungria - assim como na Polônia. Até mesmo oficiais do antigo exército foram permitidos no novo exército, a menos que fossem claramente de direita. Boleslaw Bierut, chefe do novo governo de coalizão, declarou: "Estamos prontos para incluir no novo governo os mais amplos círculos de oposição que compartilham plenamente das decisões da Conferência da Crimeia [Ialta]". Ao longo de 1947, todos os partidos de centro e esquerda, bem como a Igreja Católica, funcionaram com um alto grau de liberdade.
-
-Embora uma política mais agressiva em relação à oposição tenha sido adotada posteriormente, isso foi o resultado de uma culminação de fatores relativos à reação dos capitalistas contra as políticas socialistas do governo. Em primeiro lugar, os poloneses de Londres continuaram a agitar contra os comunistas por meio de sua ala militar, o Exército da Pátria Polonês, que lançou uma insurgência que o governo, auxiliado pelo Exército Vermelho, não teve escolha a não ser reprimir violentamente:
->O Exército da Pátria Polonês continuou a funcionar após a libertação, recebendo ordens dos poloneses cada vez mais direitistas e anticomunistas de Londres e lutando contra o novo regime. Em outubro de 1945, o governo declarou anistia para os soldados rasos do Exército da Pátria. A maioria dos oficiais do Exército da Pátria ordenou a seus membros que parassem de resistir ao governo e aceitassem a anistia. Cerca de 200.000 apoiadores do Exército da Pátria o fizeram. Alguns grupos de direita menores continuaram a se envolver em atos de terrorismo, recusaram-se a aceitar a anistia e, apesar do declínio de sua base popular, concentraram-se em assassinar membros do Exército Soviético e judeus.
-
-Em segundo lugar, os remanescentes de direita dentro do governo provisório decidiram se separar da coalizão e formar um novo partido, o que foi uma violação direta da doutrina da Frente Popular. Este novo desenvolvimento tornou-se mais preocupante com o passar do tempo, desde que os elementos anti-semitas restantes dentro da Polônia, dos quais todos os países da Europa haviam assumido o compromisso coletivo de se livrar, começaram a aderir ao novo partido:
->Em setembro de 1945, o Partido dos Camponeses se dividiu, com Mikolajczyk estabelecendo um novo Partido dos Camponeses da Polônia (que obteve a maioria) e um Partido dos Camponeses de orientação pró-comunista (a minoria). O Partido dos Camponeses Poloneses de Mikolajczyk favoreceu não apenas uma reforma agrária radical - terra a ser dada a famílias camponesas individuais - mas também a expropriação sem compensação de todas as empresas que empregam mais de 100 trabalhadores por turno, bem como a nacionalização com compensação de capital médio. Em 1944-47, praticamente todos na Polônia apoiavam o socialismo. Ambos os partidos camponeses participaram do governo provisório até janeiro de 1947. No entanto, as forças anticomunistas na Polônia começaram a se agrupar em torno de Mikolajczyk e seu Partido dos Camponeses poloneses, enquanto as forças revolucionárias se agruparam em torno da aliança Socialista-Comunista.
-
-Na eleição que se seguiu entre o anticomunista Partido do Povo Polonês e a coalizão de esquerda chamada Bloco Democrático, o último grupo, liderado pelos comunistas, venceu de forma esmagadora. Embora muitas vezes se afirme que o resultado foi flagrantemente fraudulento, a realidade é muito mais matizada, é certo que houve algum jogo sujo, mas quase certamente não foi o suficiente para mudar o resultado final:
->Não conseguindo chegar a um acordo com a aliança comunista-socialista, o Partido dos Camponeses Poloneses de Mikolajczyk fez uma lista separada da Frente Democrática, em um claro confronto com a esquerda. A Frente Democrática foi favorecida pela Lei Eleitoral de setembro de 1946, que desqualificou cerca de 1 milhão de pessoas (cerca de 8 por cento do eleitorado) de votar em razão da colaboração com os alemães ou apoio às organizações secretas fascistas, bem como pelo fato das eleições terem sido realizadas (provavelmente propositalmente) em meados de janeiro, quando as estradas rurais estavam cobertas de neve e os camponeses espalhados pelas áreas remotas do campo tiveram mais dificuldade do que os moradores das cidades em chegar às urnas. Além de desqualificar grande parte da direita radical e definir o momento da eleição para minimizar a participação dos camponeses, o governo se envolveu em uma série de outras medidas para garantir a derrota esmagadora do partido de Mikolajczyk, incluindo a desqualificação das listas do Partido dos Camponeses em 10 dos 52 distritos como sendo compostos de direitistas e quase certamente falsificando resultados em algumas áreas onde aos observadores do Partido dos Camponeses foi negado o direito de supervisionar o processo de votação. Os retornos anunciados deram ao partido de Mikolajczyk apenas 10,3% dos votos (e 28 dos 444 assentos no Sejm), em comparação com 80,1% dos votos para a Frente Democrática. A crescente identificação de Mikolajczyk com a direita tradicional que se reunia em torno dele durante a campanha eleitoral fez com que muitos progressistas de seu partido rompessem com ele e apoiassem a lista do governo. Embora os bispos poloneses instruíssem todos os católicos a votarem contra o comunismo "ateísta" (de fato para Mikolajczyk), muitos camponeses votaram na Frente Democrática na chapa pró-governo do Partido dos Camponeses / Nova Libertação. Não está nada claro que, em um concurso totalmente aberto, Mikolajczyk teria replicado o sucesso do Partido dos Camponeses Húngaros e conquistado a maioria dos votos. Um líder comunista admitiu: "Se soubéssemos antes das eleições de janeiro pela grande margem que ganharíamos, não teríamos nos envolvido nessas pressões e desonestidades menores que ocorreram em muitas localidades".
-
-Não muito depois disso, os membros anticomunistas restantes do governo foram removidos por atividades contra-revolucionárias, e os vários partidos da coalizão de esquerda formaram uma entidade monolítica chamada Partido dos Trabalhadores Unidos Polonês, efetivamente confirmando o estabelecimento de um estado socialista na Polônia. Embora pareça um tanto autoritário, é totalmente razoável quando colocado no contexto adequado, sendo a escalada da Guerra Fria, a expulsão forçada de comunistas dos governos da Europa Ocidental sancionada pelos Estados Unidos e a ameaça de mudança para o regime imperialista. A seguinte citação vem de uma [biografia de Stalin](http://www.bard.edu/library/arendt/pdfs/Deutscher_Stalin.pdf) escrita pelo marxista polonês Isaac Deutscher que, apesar de ser claramente um simpatizante do comunismo, também é um trotskista, portanto, há poucos motivos para suspeitar que ele seja tendencioso:
->Atrás de seu escudo militar, Stalin acelerou a revolução na Europa Oriental. Se o poder econômico da América permitisse a Washington exercer um controle político indireto e discreto sobre seus aliados da Europa Ocidental, a Rússia só poderia prevalecer na Europa Oriental por meio de controle político direto e força bruta. A impressão que a oferta do Plano Marshall causou mesmo na Europa oriental mostrou quão favorável havia para a penetração americana. Os remanescentes da burguesia polonesa, húngara e da Alemanha Oriental e grande parte do campesinato individualista oravam pela aniquilação nuclear da Rússia e do comunismo. As classes trabalhadoras estavam morrendo de fome. A contra-revolução ainda poderia reunir uma força considerável. É verdade que na Iugoslávia, Tchecoslováquia e Bulgária o comunismo ainda era esmagadoramente popular; mas no resto da Europa oriental era fraco ou, pelo menos, incapaz de se manter firme por suas próprias forças. Stalin agora resolveu estabelecê-lo irrevogavelmente; e assim, enquanto os comunistas eram expulsos dos governos da Itália e da França, ele providenciou para que os anticomunistas fossem expulsos dos governos da Europa Oriental e suprimidos. Ele instalou o sistema de partido único em toda a esfera de influência soviética.
-
-Além disso, Deutscher acredita que os soviéticos inicialmente não tinham intenção de exportar o socialismo para a Polônia, ou qualquer parte do Leste Europeu, e só voltaram a isso depois desses eventos:
->Tampouco Stalin deu qualquer impressão clara de que patrocinaria a revolução nos países da zona russa. Os propagandistas comunistas falavam uma língua nacionalista e até clerical. O rei Miguel da Romênia foi deixado em seu trono; e ele até recebeu uma das mais altas ordens militares russas por sua parte no golpe em consequência do qual a Romênia se separou da Alemanha. Os generais soviéticos e os líderes comunistas locais prestaram homenagem ao clero ortodoxo grego nos países balcânicos. Na Polônia, eles cortejaram o clero católico romano. Não se falava ainda em socialização da indústria. Apenas as reformas agrárias há muito esperadas foram iniciadas.
-
-Essa posição também é apoiada por muitos outros, incluindo o escritor, jornalista e historiador Alexander Werth, embora seu raciocínio seja um pouco diferente:
->A Finlândia, que não representava mais nenhum perigo para a União Soviética após a Segunda Guerra Mundial, continua a ser uma democracia do tipo ocidental até hoje, assim como a Áustria. Foi até mesmo sugerido por um historiador americano que Stalin teria ficado perfeitamente satisfeito se meia dúzia de "Finlândias" pudesse ter sido criada na Europa Oriental. Mas isso dificilmente foi possível em um país como a Polônia, com sua longa tradição de russo-fobia, nem muito fácil em países como Romênia e Hungria, uma vez que a Guerra Fria, com seu desafio à “esfera de influência” da Rússia, havia começado sério, o que aconteceu desde o momento em que terminou a Segunda Guerra Mundial.
-
-Finalmente, Nikita Kruschev, apesar de ser um dos críticos mais severos de Stalin, refuta a noção de que ele teve qualquer influência sobre os assuntos poloneses durante os anos imediatos do pós-guerra, contando uma anedota sobre os expurgos que ocorreram:
->Então, um dia, quando eu estava na casa de Stalin, ele recebeu um telefonema. Ele ouviu impassível, desligou e voltou para a mesa onde eu estava sentado. Como era seu hábito, ele não se sentou, mas caminhou pela sala. “Era Beirute ligando,” ele disse. “Eles prenderam Gomulka. Não tenho certeza se foi a coisa certa a fazer. Eu me pergunto se eles têm motivos suficientes para prendê-lo.”
->
->Em relação a prisão de Gomulka, não posso concordar que Stalin foi o responsável. Eu sabia com certeza, ouvi de Stalin, que ele não ordenou a prisão de Gomulka; pelo contrário, ele até expressou dúvidas sobre a prisão. Ele confiava em Gomulka.
-
-Terminarei fornecendo duas fontes adicionais, que são relatos de testemunhas oculares de pessoas que visitaram a Polônia no pós-guerra, testemunharam a transforma��ão socialista e confirmaram que foi um processo democrático popular independente da URSS.
-
-Fontes:
-- [Transnational Economic Systems](https://drive.google.com/file/d/0B7iUwYR74MlbcFBxbWxsdHNLMHM/view), escrito pela antropóloga econômica Dorothy Douglas
-- [I Saw the New Poland](https://www.revolutionarydemocracy.org/archive/polblurb.htm), escrito pela jornalista americana Anna Louise Strong
-
-### Desenvolvimento econômico e industrial da Polônia
-Antes da Segunda Guerra Mundial, a Polônia estava atrás do resto da Europa em termos de desenvolvimento industrial. Para piorar a situação, a Segunda Guerra Mundial devastou totalmente as cidades e centros econômicos do país, deixando a economia em ruínas. De acordo com o Anuário Estatístico das Nações Unidas de 1948, a produção industrial da Polônia em 1945 era de apenas 48% do que era em 1938 (pág. 126). Isso reflete os danos causados ​​à economia polonesa pela Segunda Guerra Mundial.
-
-Depois que o sistema socialista entrou em vigor, a economia começou a crescer rapidamente. O Anuário Estatístico da ONU de 1948 mostra que a produção industrial da Polônia em 1948 já era 153% do que era em 1938 (pág. 126). Isso significa que a produção industrial cresceu mais de 300% de 1945 a 1948 (combinando a recuperação do pós-guerra com a introdução do sistema socialista).
-
-Esse crescimento continuou por várias décadas. O Anuário Estatístico da ONU de 1978 mostra que a produção industrial em 1977 era 193% do que era em 1971, em comparação com apenas 44% em 1960 (pág. 168). Isso resulta em um aumento de quase 500% na produção industrial entre 1960 e 1977 (mais do que dobrando entre 1960 e 1970, do que aumentando 93% a partir daí). Isso demonstra a imensa produtividade do sistema socialista.
-
-### Conquistas na saúde da Polônia
-Antes dos comunistas assumirem, a Polônia era uma nação terrivelmente insalubre. De acordo com a University of Bath (uma das melhores universidades de pesquisa na Grã-Bretanha):
->Antes da Segunda Guerra Mundial, a Polônia era um dos países com pior saúde na Europa. Na década de 1930, a expectativa de vida na Polônia era de cerca de 46 anos para ambos os sexos; no mesmo período, na Alemanha, foram mais de 61 anos. A mortalidade infantil foi estimada em 150 mortes por 1.000 nascidos vivos. A situação foi agravada pela Segunda Guerra Mundial; entre 1939 e 1945, a esperança de vida na Polónia caiu 20-25 anos.
-
-Essas estatísticas são verificadas no Anuário Estatístico da ONU de 1948 (pág. 58), que incluiu dados de 1931 em diante, refletindo as condições precárias de saúde na Polônia pré-comunista. Assim que o sistema socialista entrou em vigor, as coisas começaram a melhorar rapidamente. De acordo com a University of Bath:
->A transformação da saúde que ocorreu na Polônia após a Segunda Guerra Mundial ocorreu muito rapidamente. O controle de doenças infecciosas e mortalidade infantil tornou-se uma prioridade de Estado na República Popular da Polônia do pós-guerra. A expectativa de vida na Polônia aumentou para 70 anos e a mortalidade infantil diminuiu para 30 mortes por 1000 nascidos vivos.
-
-Assim, podemos ver que a expectativa de vida aumentou em décadas e a mortalidade infantil caiu oitenta por cento. Essas mudanças (e outras semelhantes em outras nações socialistas) levaram a Europa Central e Oriental a quase fechar a lacuna da saúde com a Europa Ocidental, que havia sido tão pronunciada antes do socialismo:
->A transição epidemiológica que no Reino Unido ou na Alemanha levou quase um século, na Polônia e em muitos outros países da Europa Central e Oriental (CEE), ocorreu nas duas décadas seguintes à Segunda Guerra Mundial. Este processo levou a região CEE a quase fechar a lacuna de saúde que a separava da Europa Ocidental na década de 1960.
-
-No lado negativo, a República Popular da Polônia viu um consumo cada vez maior de álcool e cigarros, o que levou a um aumento nas taxas de mortes evitáveis. Este problema também ocorreu em outras nações do bloco soviético:
->Na Polónia, o consumo de vodka e a prevalência do tabagismo atingiram alguns dos níveis mais elevados da Europa. Este aumento dramático na exposição a fatores de risco de estilo de vida (um aumento na venda de cigarros de 20 bilhões de cigarros por ano após a Segunda Guerra Mundial para cerca de 100 bilhões na década de 1980, e um aumento no consumo de álcool de 3 litros por ano para quase 9 litros no mesmo período), levou a Polônia e a região CEE a uma catástrofe de saúde causada pelo aumento de doenças crônicas.
-
-Apesar desses problemas (que não foram resultado do socialismo, mas sim do consumo excessivo de álcool e fumo), as conquistas da saúde da República Popular da Polônia continuam impressionantes.
-
-### Conquistas educacionais da Polônia
-A Polónia pré-comunista viu o analfabetismo generalizado e a falta de educação. De acordo com um artigo de 1935 da revista polonesa New Courier (não deve ser confundido com a New Courier de Varsóvia, um veículo de propaganda nazista fundado em 1939):
->Na Polónia, no povoado de Kobrin, menos de 75% escrevem e lêem nas cidades e apenas 52% no campo. Em Kosowski poviat, 82% em cidades pequenas e 43% em áreas rurais. No povoado de Koszalin, onde não há cidades, há apenas 30% que sabem ler e escrever.
->
->Polesie é de fato uma das áreas da Commonwealth que é econômica e culturalmente negligenciada, mas, deve-se lembrar, não é a mais negligenciada. Infelizmente, os dados dos poviats da Província de Varsóvia, ou seja, de uma posição economicamente bastante elevada e em órbita da influência da capital, mostram que a condição não é muito melhor lá também. No poviat de Płońsk, 73% escrevem e lêem nas cidades. População, 68% no campo 77 por cento em Sierpc e 68 por cento em Ciechanów 80% (cidades) e 70% (aldeia).
->
->As estatísticas do censo são atuais tanto quanto há três anos. E os números dessa estatística não são apenas perigosos, eles são assustadores.
-
-Após a conquista comunista, o sistema educacional foi drasticamente melhorado. O nível de analfabetismo foi reduzido drasticamente. De acordo com a Enciclopédia Polonesa publicada pela PWN (a principal editora de obras de referência científica e acadêmica na Polônia):
->Já em 1960, o censo mostrava 645.000 analfabetos totais e 270.000 semianalfabetos entre aqueles com mais de 50 anos. Em 1988, a taxa de analfabetismo na Polônia era de 2%.
-
-Embora o PWN coloque as taxas de alfabetização pré-comunista um pouco mais altas do que o New Courier, ainda podemos ver a melhoria drástica na situação educacional feita sob os comunistas, particularmente nas áreas rurais.
-
-### Direitos das mulheres da Polônia
-As mulheres obtiveram grandes ganhos na República Popular da Polônia. Os direitos reprodutivos e o aborto são um grande exemplo disso. Antes da era comunista, o aborto só era legal em casos de atividade sexual criminosa. De acordo com a Brown Political Review:
->No início do século 20, o aborto era ilegal em qualquer circunstância na Polônia. Mas em 1932, a Polônia promulgou um código que legalizou o aborto nos casos de um ato criminoso, ou seja, estupro, incesto e sexo com menores. Esta foi a primeira lei de aborto que perdoou o aborto em caso de crime. A lei permaneceu nos livros de 1932 a 1956.
-
-No entanto, foi apenas na era comunista que o aborto se tornou totalmente legal, bem como disponível gratuitamente:
->Em 1956, o Sejm polonês (a câmara dos deputados do parlamento), de acordo com a ortodoxia do Partido Comunista, legalizou o aborto quando as mulheres expressarem “difíceis condições de vida”. Durante as décadas de 60 e 70, o aborto tornou-se disponível gratuitamente em hospitais públicos e clínicas privadas. Embora o sistema soviético encorajasse as mães a engravidar, a lei deixava que os médicos decidissem se o aborto deveria ser realizado e, em grande parte, garantia fácil acesso à operação.
-
-Até mesmo comentaristas reacionários reconheceram a igualdade de gênero na era comunista. De acordo com o The Guardian:
->Estampado no DNA dessa sociedade, desde os anos do pós-guerra até 1991, estava que todos tinham que trabalhar; para isso, deveria haver igualdade de acesso à educação, cuidados infantis (principalmente ligados aos locais de trabalho) e cuidados aos idosos.
-
-O emprego para mulheres era extremamente alto na era comunista, e caiu drasticamente depois:
->Ao longo dos anos comunistas, a participação feminina na força de trabalho era incrivelmente alta, frequentemente citada em 90%. Com o colapso do comunismo, a participação caiu para 68% e agora está em 45%.
-
-Uma mulher polonesa é citada como tendo dito:
->O regime não fazia absolutamente nenhuma distinção entre homens e mulheres. Eu nunca pensei sobre a divisão - todo avanço na sociedade estava aberto a homens e mulheres igualmente.
->
->No que diz respeito à educação era absolutamente igual, na medida em que nas universidades técnicas - as de alto padrão de engenharia - acho que 30% dos alunos eram mulheres (isso foi na década de 1960 - cursos de engenharia no Imperial College Londres ainda tem uma proporção de homens para mulheres de 5:1 hoje).
-
-Tenha em mente que este artigo do The Guardian foi escrito de uma perspectiva firmemente anticomunista, e mesmo assim reconhece que "o fim do comunismo na Polônia não ajudou as mulheres polonesas". Isso demonstra as melhorias nos direitos das mulheres feitas durante os comunistas.
-
-### Conclusão sobre a Polônia
-
-A República Popular da Polônia dificilmente era uma nação perfeita. Teve numerosos conflitos internos, devido à influência social reacionária da igreja, bem como ao fato de que o socialismo polonês não se originou com uma revolução interna, mas sim com a influência soviética externa. Ainda assim, o socialismo na Polônia conseguiu melhorar muito a saúde da população, desenvolver a economia em um ritmo rápido e melhorar muito o sistema educacional.
-
-Em suma, camaradas, devemos aprender algumas lições importantes da República Popular da Polônia:
-1. Mesmo nessas condições não ideais, o socialismo é capaz de proporcionar um desenvolvimento econômico superior e qualidade de vida quando comparado ao capitalismo.
-2. É essencial que uma revolução se concentre em eliminar os elementos reacionários da cultura nacional, para evitar uma situação semelhante à da Polônia, onde a Igreja Católica controlava amplamente a esfera social. No entanto, devemos também evitar ir longe demais nisso e perseguir a religião e as pessoas religiosas. A revolução não se opõe às crenças pessoais das pessoas; são as instituições religiosas reacionárias (como a Igreja Católica) que devem ser combatidas.
-3. Não devemos ser conservadores na Revolução, não adianta tentar manter relações sociais já fragilizadas e arruinadas pela Revolução.
-
-Essas são lições que devem ser aprendidas.
-
-## A Romênia
-A Romênia foi inicialmente um país socialista realmente promissor. Quando as primeiras eleições livres ocorreram após a Segunda Guerra Mundial, a frente única de esquerda assumiu o poder e aboliu a monarquia opressora de Antoniescu, e proclamou uma das primeiras Repúblicas Populares da Europa. O primeiro chefe de estado do novo regime foi Gheorghe Gheorghiu-Dej, um quadro histórico da ala comunista na Frente de Esquerda, e ele perseguiu uma política externa e econômica bastante independente. Mesmo sendo marxista-leninista, Gheorghiu-Dej achava que era tolice pensar que a única ajuda necessária para os romenos eram os soviéticos, e que uma relação comercial respeitosa, mas não submissa, deveria ser mantida com os países capitalistas; afinal, a União Soviética teve sua industrialização nos anos 20 com a [ajuda de algumas corporações ocidentais](https://cyberleninka.ru/article/v/rol-kontsessiy-v-ekonomike-sovetskoy-rossii-v-1920-1930-e-gody). Durante seu período, ele se opôs ao traidor Kruschev e sua política de "desestalinização", elevou muito o padrão de vida de seu país e realizou uma das reformas agrárias [mais bem-sucedidas do Bloco Oriental](http://documents.worldbank.org/curated/en/308951468762951181/pdf/multi-page.pdf). A era Gheorghiu-Dej é muito apreciada pelos romenos hoje em dia, que o consideram um dos maiores líderes que a Romênia já teve. Por câncer de pulmão, ele morreu em 1965 e o partido escolheu seu jovem aluno Nicolae Ceausescu como seu sucessor.
-
-Embora Ceausescu fosse um dos oradores mais proeminentes do Partido Comunista Romeno, ele não tinha experiência e era mais um cuadre político do que um teórico; é por isso que ele, durante seus primeiros anos no poder, seguiu uma política bastante neutra: ele proclamou a Romênia um país socialista, mas estabeleceu relações mais amigáveis ​​com o Ocidente; ele foi contra as ordens traiçoeiras de Kruschev e continuou uma política econômica independente, mas foi um dos primeiros países a aderir ao Fundo Monetário Internacional (FMI).
-
-Em 1968, Ceausescu, percebendo sua falta de uma teoria política real, decidiu viajar para praticamente todos os países socialistas do planeta e tentar montar uma teoria socialista real por conta própria. Ele visitou a Coreia do Norte de Kim Il Sung, o Peru do general Velasco, a China de Mao e o Vietnã do Norte. No que é conhecido hoje como suas [teses de julho]( http://thetarpit.org/posts/y03/05a-july-theses.html), ele desenvolveu uma linha teórica quase maoísta e neo-estalinista, onde o postulado central era que a filosofia marxista deveria ser estendida em todos os campos educacionais e culturais para assegurar as conquistas da revolução. Mas, para sua desgraça, havia um campo onde deveria ter sido mais cuidadoso: o econômico.
-
-Dado que, durante seu período de fundação, o Fundo Monetário Internacional era visto como uma entidade econômica neutra, a Romênia Socialista, pensando que não havia como a Comunidade Ocidental Internacional tomar medidas arriscadas em um estado neutro que não se envolvesse nas questões da Guerra Fria, pediu um empréstimo à entidade apoiada pela ONU para a aceleração de seu programa industrial. Depois de um tempo, as cláusulas leoninas do empréstimo começaram a se tornar cada vez mais evidentes. Ceausescu, diante do [aumento interminável da dívida](https://en.wikipedia.org/wiki/Foreign_debt_of_the_Socialist_Republic_of_Romania), teve que colocar o país em um período de austeridade quase perpétua ou declarar falência, coisa que praticamente destruiria a economia da Romênia. Ainda mais com o problema social dos orfanatos e por políticas conservadoras de Ceausescu.
-
-Durante a década negra da contra-revolução na Europa Oriental, a Romênia finalmente pagou toda a dívida. Na verdade, durante o ano da queda de Ceausescu, a maior parte da receita do país não era o famoso mas instável petróleo, mas os sempre confiáveis ​​manufaturados que eram exportados para o exterior. Mas espere, há mais; exatamente durante a semana do início da contra-revolução na Romênia, Ceausescu e o Partido Comunista finalmente anunciaram o fim do período de austeridade (https://ioncoja.ro/jalea-din-economie/) e o empreendimento de mais reformas de estado de bem-estar.
-
-Um general desonesto depôs o Ceausescu, que a princípio tentou correr para o campo e lutar contra a burguesia em poder; mas ele foi capturado pouco depois e julgado por um tribunal de juízes sem rosto que condenou ele e sua esposa à morte por crimes que mais tarde foram provados ter sido inventados apenas por causa disso.
-
-### A farsa do julgamento de Ceausescu
-Nicolae Ceausescu viu sua Romênia viver suas décadas de ouro, junto da Iugoslávia. Mas com a queda do socialismo mundo afora, fomentou toda uma ofensiva de difamação contra ele, e logo foi capturado por minorias apoiadas pela OTAN e fuzilado AO VIVO junto de sua esposa. Hoje a Romênia é um dos países mais pobres da Europa. No entanto, a execução e o julgamento de Nicolae foi ilegítima:
-- O julgamento foi realizado sem uma investigação criminal prévia.
-- Os suspeitos não foram examinados psiquiatricamente, o que era obrigatório por lei.
-- Os suspeitos não puderam escolher seus advogados.
-- A acusação de genocídio nunca foi provada. Quatro assessores de Nicolae mais tarde [admitiram cumplicidade em genocídio em 1990](https://www.latimes.com/archives/la-xpm-1990-01-28-mn-1255-story.html). A Pro TV declarou que 860 pessoas haviam morrido após 22 de dezembro de 1989 (ou seja, quando o casal "ditatorial" não estava mais no comando). Outra fonte indica o número de 306 pessoas mortas entre 17 e 22 de dezembro de 1989.
-- O tribunal não se deu ao trabalho de encontrar e provar a verdade. [Nenhuma evidência foi apresentada ao tribunal](https://www.mediafax.ro/marius-tuca-show/interviu-integral-marius-tuca-show-gen-c-tin-lucescu-despre-procesul-ceausestilor-nu-a-existat-niciun-fel-de-dosar-nu-am-stiut-nici-eu-nici-procurorul-18621319).
-- Os Ceaușescus [foram acusados de ter US$ 1 bilhão](https://en.wikisource.org/wiki/Transcript_of_the_closed_trial_of_Nicolae_and_Elena_Ceaușescu) em contas bancárias estrangeiras. [Nenhuma dessas contas foi encontrada](https://adevarul.ro/news/societate/nicolae-elena-ceausescu-Impreuna-luptat-murim-impreuna-1_50ad82ad7c42d5a663967ee4/index.html).
-- Nicolae negou abertamente o tribunal. Um dos advogados dos Ceaușescus afirmou, antes da execução, que como o casal não reconheceu o tribunal, não havia como recorrer do veredicto.
-- O veredicto dos juízes permitiu apelar para um tribunal superior. Os Ceaușescus foram executados alguns minutos após o veredicto, tornando essa provisão [nula](https://web.archive.org/web/20121020020554/http://www.avoconsult.ro/procese-cazuri-celebre-procesul-sotilor-ceausescu-aspecte-de-teorie-si-practica-judiciara-cel-mai-controversat-proces-romanesc.html).
-- A pessoa que assinou o decreto de organização do tribunal, o líder do golpe Ion Iliescu, não tinha poder legal para fazê-lo. A ordem foi escrita à mão em um banheiro no Ministério da Defesa romeno.
-- A lei romena proibia a execução da sentença de morte menos de dez dias após um veredicto, para dar tempo aos advogados do réu para recorrer. Após a execução de Ceaușescus, a pena de morte foi abolida na Romênia.
-- Os líderes do golpe disseram que a execução dos Ceaușescus era necessária para impedir que terroristas atacassem a nova ordem política. [Não foi encontrado nenhum terrorista ou célula terrorista ativa](https://web.archive.org/web/20121020020554/http://www.avoconsult.ro/procese-cazuri-celebre-procesul-sotilor-ceausescu-aspecte-de-teorie-si-practica-judiciara-cel-mai-controversat-proces-romanesc.html) na Romênia. Uma visão mais recente da acusação de crimes contra a humanidade afirma que o novo regime orquestrou ["uma psicose do terrorismo"](https://www.capital.ro/breaking-news-lovitura-cumplita-pentru-ion-iliescu-ce-au-decis-judecatorii.html) por meio de ações diversificadas.
-- Inicialmente, [Iliescu não desejava realizar as execuções imediatamente](https://books.google.com/books?id=vBssmkvaSoQC&pg=PA136), e preferiu um julgamento formal a ser realizado várias semanas depois. O general Victor Stănculescu insistiu na execução apressada do casal como algo imperativo para que o exército romeno apoiasse a recém-criada Frente Nacional de Salvação. Após algumas horas debatendo essa opção, Iliescu concordou com Stănculescu e assinou o decreto de organização do tribunal.
-
-Antes da execução, Nicolae Ceaușescu declarou: "Poderíamos ter sido fuzilados sem essa farsa!"
-
-### Conclusão sobre a Romênia
-A Romênia, pelo menos na época anterior aos empréstimos excessivos do Fundo Monetário Internacional e às medidas de austeridade, era um país com um governo que fazia o possível para tornar o país autossuficiente e, economicamente falando, competente. O período em que todos os romenos concordam em ser os piores foi aquele com as medidas de austeridade, que viriam por causa das cláusulas leoninas e armadilhas que os países ocidentais colocaram no caminho do país para desestabilizá-lo e torná-lo o mais contra-revolucionário possível.
-
-Ceausescu, embora fosse extremamente ingênuo em matéria de política externa, não era um político mal intencionado, mas um verdadeiro crente do socialismo e um aliado da causa marxista.
-
-Com isso, temos duras lições a aprender com a Romênia:
-1. Não podemos jamais confiar em instituições que se dizem "neutras", Bakhtin mesmo destrói o argumento de neutralidade ideológica em suas teses, mais tarde confirmados por uma derivação da hipótese Sapir-Whorf / línguistica relativista; como dizia Sankara: "Quem te alimenta, te controla"
-
-## A Hungria
-Desta vez veremos a República Popular da Hungria, uma das nações mais interessantes do Pacto de Varsóvia. É também a nação com talvez a melhor recordação entre o povo; pesquisas nos últimos anos revelaram que mais de 70% dos húngaros acham que a vida era melhor sob o comunismo. Como tal, é apropriado que estudemos e aprendamos mais sobre esta nação. 
-
-### Desenvolvimento econômico e padrão de vida da Hungria
-Antes do estabelecimento da República Popular da Hungria, a Hungria era uma nação semifeudal, com muito pouco desenvolvimento industrial e notavelmente baixa qualidade de vida. No entanto, apesar das condições turbulentas, o sistema socialista ainda conseguiu desenvolver rapidamente a economia da Hungria. De acordo com a Divisão de Pesquisa Federal dos EUA:
->Apesar da guerra, depressão, revolução, ocupação estrangeira e períodos de quase caos, a economia da Hungria avançou no século XX de um estado quase feudal para um estágio de desenvolvimento industrial de nível médio.
-
-As notas da Enciclopédia Britânica:
->Historicamente, antes da Segunda Guerra Mundial, a Hungria era principalmente agrária. A partir de 1948, uma política de industrialização forçada baseada no padrão soviético mudou o caráter econômico do país. Foi introduzida uma economia de planejamento centralizado e milhões de novos empregos foram criados na indústria (principalmente para mulheres) e, posteriormente, nos serviços.
-
-Isso é especialmente impressionante quando se considera a grave falta de recursos naturais que a economia húngara enfrenta, o que a forçou a depender quase inteiramente das importações soviéticas. A Divisão de Pesquisa Federal dos EUA declara:
->A falta geral de matérias-primas no país tornou necessário o comércio exterior, uma preocupação que dominou as políticas econômicas dos governos húngaros desde 1918, quando o país perdeu grande parte do território que detinha antes da Primeira Guerra Mundial [...] A União Soviética era o principal fornecedor de matérias-primas da Hungria.
-
-Imediatamente após o estabelecimento da República Popular da Hungria, a nação instituiu uma economia planejada de estilo soviético tradicional. No entanto, no final da década de 1960, um plano de reforma econômica (conhecido como Novo Mecanismo Econômico, ou NEM) foi instituído, o que restaurou de alguma forma o papel das forças de mercado, ao mesmo tempo que retinha a propriedade estatal sobre os meios de produção, distribuição e troca.
-
-A década de 1960 viu o estado se concentrando na expansão da indústria. De acordo com a Divisão de Pesquisa Federal dos EUA:
->Durante a década de 1960, o governo deu alta prioridade à expansão dos ramos de engenharia e química do setor industrial. A produção de ônibus, máquinas-ferramenta, instrumentos de precisão e equipamentos de telecomunicações recebeu a maior atenção no setor de engenharia. O setor químico concentrava-se na produção de fertilizantes artificiais, plásticos e fibras sintéticas. Os mercados húngaro e Comecon eram os principais alvos do governo, e as políticas resultaram no aumento das importações de energia, matérias-primas e produtos semiacabados.
-
-Após este período, a economia mudou o foco para a produção de consumo com a introdução do NEM:
->Em meados da década de 1960, o governo percebeu que a política de expansão industrial que vinha seguindo desde 1949 não era mais viável. Embora a economia estivesse crescendo de forma constante e o padrão de vida da população estivesse melhorando, fatores-chave limitaram o crescimento... O governo introduziu o NEM em 1968 para melhorar a eficiência da indústria e tornar seus produtos mais competitivos nos mercados mundiais.
-
-Esta época foi marcada por altas taxas de crescimento econômico. A Hungria atingiu o nível de uma nação de desenvolvimento médio:
->De 1968 a 1972, o NEM e um ambiente econômico favorável contribuíram para o bom desempenho econômico. A economia cresceu de forma constante, nem o desemprego nem a inflação eram aparentes, e a balança de pagamentos em moeda conversível do país estava em equilíbrio, pois as exportações para os mercados ocidentais cresceram mais rapidamente do que as importações. As fazendas e fábricas cooperativas aumentaram rapidamente a produção de bens e serviços que faltavam antes da reforma. Por volta de 1970, a Hungria alcançou o status de país de desenvolvimento médio. Sua indústria estava produzindo de 40% a 50% do produto interno bruto, enquanto a agricultura contribuía com menos de 20%.
-
-Em meados da década de 1980, a Hungria alcançou um padrão de vida muito alto em comparação com a era pré-comunista. A disponibilidade de alimentos era alta e a seleção era relativamente diversa. Relatórios da Divisão de Pesquisa Federal dos EUA:
->Em 1986, o consumo per capita de carne da Hungria era o mais alto da Europa Oriental, enquanto o consumo de ovos estava entre os mais altos. O consumo per capita de carne, peixe, leite e produtos lácteos, ovos, vegetais, batatas, café, vinho, cerveja e bebidas destiladas aumentaram significativamente entre 1950 e 1984.
-
-Os húngaros também tinham altas taxas de propriedade de vários bens de consumo, e a qualidade dos bens também estava aumentando:
->Em 1984, 96 em cada 100 residências possuíam uma máquina de lavar, todas as residências possuíam uma geladeira e a proporção de aparelhos de televisão para residências era de 108 para 100. A qualidade e a variedade dos bens de consumo duráveis ​​à venda também haviam melhorado.
-
-Apesar dessas boas estatísticas, a economia húngara não estava livre de problemas; um excesso de confiança na ortodoxia stalinista (particularmente nos primeiros anos) fez com que a Hungria se apoiasse fortemente no desenvolvimento da indústria pesada, ignorando outras formas de produção que teriam se adaptado melhor às condições materiais da nação. Além disso, as empresas e fazendas do país sofreram com os baixos níveis de produtividade relativa, o que contribuiu para uma desaceleração do crescimento na década de 1980. A Enciclopédia Britânica resume essas questões:
->Embora a modernização econômica do tipo soviético gerasse rápido crescimento, ela se baseava em um padrão estrutural do início do século 20 e em tecnologia ultrapassada. As indústrias pesadas de ferro, aço e engenharia receberam a mais alta prioridade, enquanto os serviços de infraestrutura e comunicação modernos foram negligenciados. Novas tecnologias e indústrias de alta tecnologia foram subdesenvolvidas e ainda mais prejudicadas pelas restrições ocidentais (o Comitê Coordenador para Controles Multilaterais de Exportação) à exportação de tecnologia moderna para o bloco soviético.
-
-Finalmente, em 1982, a Hungria se tornou a segunda nação do Bloco de Leste a ingressar no FMI. Este foi um erro tremendo, pois várias condições de empréstimo durante a década de 1980 acabaram contribuindo para o colapso do sistema socialista e sua substituição por uma tensão brutal do capitalismo.
-
-No geral, a economia húngara oferece várias lições para socialistas e comunistas modernos:
-1. O desenvolvimento econômico deve se concentrar na vantagem comparativa de uma dada nação, ao invés da dependência dogmática da indústria pesada.
-2. A produção de bens de consumo e um padrão de vida crescente são essenciais para ganhar (e manter) o apoio do povo.
-3. O sistema econômico socialista, quando adequadamente dirigido, é de fato capaz de transformar estados semifeudais em países desenvolvidos. As outras nações do Bloco de Leste (junto com a China) também provam isso.
-
-### Saúde e bem-estar social da Hungria
-Os cuidados de saúde na Hungria pré-comunista eram de baixa qualidade e a população sofria de problemas de saúde e baixa expectativa de vida. No entanto, após o estabelecimento da República Popular da Hungria, as condições de saúde começaram a melhorar significativamente. Relatórios da Divisão de Pesquisa Federal dos EUA:
->Depois que o governo comunista assumiu o poder na Hungria, dedicou muita atenção ao atendimento das necessidades específicas de saúde e segurança social da população. Em comparação com os padrões anteriores à guerra, o cidadão médio recebeu cuidados de saúde e assistência social muito melhores como resultado da política do governo.
-
-As notas da Enciclopédia Britânica:
->Após a Segunda Guerra Mundial, os cuidados de saúde melhoraram dramaticamente sob o socialismo estatal, com aumentos significativos no número de médicos e leitos hospitalares na Hungria. Na década de 1970, o atendimento médico gratuito era garantido a todos os cidadãos.
-
-O sistema de previdência social também melhorou significativamente, oferecendo cobertura à grande maioria dos trabalhadores da Hungria. A Divisão de Pesquisa Federal dos EUA observa:
->No final da década de 1980, o sistema previdenciário do país cobria cerca de 85% da população em idade de aposentadoria. Trabalhadores do sexo masculino podiam se qualificar para pensões aos 60 anos, e as trabalhadoras aos 55.
-
-Esses avanços são confirmados pela Enciclopédia Britânica:
->Uma ampla gama de serviços sociais foi fornecida pelo governo comunista, incluindo pensão alimentícia, extensa licença-maternidade e um sistema de aposentadoria para o qual os homens se tornaram elegíveis aos 60 anos e as mulheres aos 55.
-
-No entanto, essas melhorias no bem-estar social tiveram uma desvantagem estranha. À medida que as pessoas começaram a viver mais e o acesso ao bem-estar social foi expandido, o sistema foi colocado sob mais pressão. A Divisão de Pesquisa Federal dos EUA declara:
->O número de aposentados havia aumentado rapidamente desde o final da Segunda Guerra Mundial, à medida que as pessoas viviam mais e a cobertura previdenciária se expandia para incluir segmentos adicionais da população.
-
-Além disso, vários males sociais, como o alcoolismo, começaram a representar um problema para a saúde pública:
->Em meados da década de 1980, as autoridades também discutiam a crescente incidência de abuso de substâncias. A incidência de alcoolismo havia aumentado durante a geração anterior, e uma alta porcentagem de vítimas de suicídio eram alcoólatras. Em 1986, o consumo de álcool por pessoa por ano era de 11,7 litros; o consumo de bebidas fortes (4,8 litros por pessoa) era o segundo maior do mundo.
-
-Para agravar essas questões, o governo húngaro gastou uma porcentagem preocupantemente baixa do PIB em saúde:
->Analistas ocidentais estimam que a Hungria gasta apenas 3,3% de seu produto interno bruto especificamente em serviços de saúde (os 6% listados na maioria dos dados estatísticos na verdade incluem alguns serviços sociais). Essa porcentagem foi a mais baixa de qualquer país do Leste Europeu, exceto a Romênia (em comparação, os Estados Unidos gastaram 11% do PIB em saúde).
-
-Apesar destes problemas, o sistema socialista na Hungria proporcionou objetivamente benefícios claros às pessoas em termos de saúde e bem-estar social. Existem várias lições importantes que podemos aprender com a experiência húngara:
-
-1. É essencial que os recursos adequados sejam dedicados à saúde e ao bem-estar social. A austeridade não beneficia ninguém nessas questões, porque o declínio resultante na qualidade e disponibilidade levará à instabilidade e inquietação, para não mencionar uma redução nos padrões de vida. A ditadura do proletariado deve colocar as necessidades e interesses do proletariado como prioridade máxima; caso contrário, qual é o ponto?
-2. Também é essencial que um governo socialista tome medidas para resolver problemas sociais como o alcoolismo e o vício em drogas, que contribuíram maciçamente para o declínio da saúde em todo o Bloco de Leste nas décadas de 1970 e 1980. A importância dessas questões pode ser vista comparando o Bloco de Leste com outras nações socialistas, como Cuba, que não tem problemas tão generalizados de abuso de substâncias e que tem visto melhorias constantes e estáveis ​​nos resultados de saúde por décadas (mesmo durante o período especial "após a queda da URSS).
-3. Apesar desses fatores, o sistema socialista na Hungria conseguiu melhorar muito a saúde da população, bem como o acesso dos trabalhadores ao bem-estar social. Essas melhorias não devem ser ignoradas.
-
-### Realizações educacionais da Hungria
-A Hungria pré-comunista tinha um sistema educacional altamente elitista, amplamente dominado por instituições religiosas. Relatórios da Divisão de Pesquisa Federal dos EUA:
->Antes da tomada do poder pelos comunistas em 1947, a religião era a principal influência na educação. O status social e material dos alunos influenciava fortemente o tipo e a extensão da escolaridade que recebiam. A educação acima do nível elementar geralmente estava disponível apenas para a elite social do país. Nas escolas secundárias e superiores, apenas 5% dos alunos vinham de famílias de trabalhadores ou camponeses. Apenas cerca de 1% ou 2% de todos os alunos ingressaram no ensino superior.
-
-No entanto, depois que os comunistas chegaram ao poder, o sistema educacional foi drasticamente reformado. As notas da Enciclopédia Britânica:
->Tudo isso mudou após a conquista comunista da Hungria após a Segunda Guerra Mundial. Em 1948, as escolas foram nacionalizadas e o estilo elitista alemão de educação foi substituído por uma educação de massa ao estilo soviético, consistindo em oito anos de escola geral e quatro anos de educação secundária. Este último consistia em escolas de segundo grau preparatórias para a faculdade que se aproximavam dos quatro anos superiores do gimnázium, bem como das escolas profissionais mais numerosas e diversificadas (technikumok) que preparavam os alunos para faculdades técnicas ou universidades, mas na maioria dos casos simplesmente levavam diretamente para o meio empregos de nível.
-
-O sistema educacional foi amplamente expandido. A Divisão de Pesquisa Federal dos EUA declara:
->A frequência à escola era obrigatória dos seis aos dezesseis anos. Todos os alunos frequentaram escolas gerais por pelo menos oito anos. A mensalidade era gratuita para todos os alunos de seis anos de idade até o nível universitário. A maioria dos alunos realmente começou a estudar aos cinco anos de idade; em 1986, aproximadamente 92% de todas as crianças em idade de jardim de infância frequentavam 1 dos 4.804 jardins de infância do país. Em 1980, todas as cidades e dois terços das aldeias tinham jardins de infância. Os pais pagavam uma taxa pelos serviços pré-escolares com base na renda, mas essas instituições eram fortemente subsidiadas pelos conselhos locais ou empresas que as patrocinavam.
-
-Essas reformas tiveram sucesso em expandir drasticamente os padrões educacionais em toda a Hungria:
->Em 1980, apenas 29% dos homens com 15 anos ou mais e 38% das mulheres com 15 anos ou mais não tinham concluído oito anos de escola geral, em comparação com 78% desses homens e 80% dessas mulheres em 1949. Cerca de metade dos alunos que concluíram as escolas gerais concluíram posteriormente a sua formação em dois anos, através da formação profissional e técnica. Os alunos restantes continuaram seus estudos em um ginásio de quatro anos ou escola comercial.
-
-No entanto, o sistema sofria de problemas semelhantes aos sistemas de saúde e previdência social. Especificamente, foi subfinanciado; a Hungria gastou uma porcentagem muito baixa do PIB em educação em comparação com outras nações, o que resultou em escassez:
->Os críticos observaram, entre outras coisas, que embora a Suíça gastasse 18,8% de seu orçamento nacional em educação, o Brasil 18,4% e o Japão 19,2%, a Hungria destinava apenas 6,6% de seu orçamento estadual à educação. Na década de 1980, o país enfrentou escassez de salas de aula e professores, de modo que as classes do ensino fundamental às vezes continham até quarenta crianças. Em muitas áreas, as escolas tinham turnos matinais e vespertinos alternados para aumentar as instalações e o pessoal. Além disso, nem todos os professores receberam treinamento adequado.
-
-Assim, a principal lição que podemos aprender com a República Popular da Hungria nesta área é que a educação deve ser devidamente financiada, a fim de garantir que todas as pessoas tenham acesso a uma educação de qualidade suficiente. É essencial que sejam disponibilizados suprimentos suficientes, bem como recursos para contratar e treinar pessoal suficiente.
-
-### Nostalgia pós-comunista na Hungria
-Apesar das questões da República Popular da Hungria, muitas pessoas na Hungria desde então anseiam pelo retorno do sistema socialista. Uma pesquisa conduzida pelo Pew Research Center encontrou o seguinte:
->Notáveis ​​72% dos húngaros dizem que a maioria das pessoas em seu país está realmente pior economicamente hoje do que sob o comunismo. Apenas 8% dizem que a maioria das pessoas na Hungria está em melhor situação e 16% dizem que as coisas estão quase iguais.
-
-Mesmo as fontes de notícias reacionárias foram incapazes de ignorar a opinião favorável que muitos húngaros têm do antigo sistema socialista. O Daily Mail (um dos jornais de direita mais linha-dura da Grã-Bretanha) publicou um artigo de uma mulher da Hungria, que fez algumas declarações interessantes:
->Quando as pessoas me perguntam como foi crescer atrás da Cortina de Ferro na Hungria nas décadas de 1970 e 1980, a maioria espera ouvir histórias de polícia secreta, filas de pão e outras manifestações desagradáveis ​​da vida em um Estado de partido único.
->
->Eles ficam invariavelmente desapontados quando eu explico que a realidade era bem diferente, e a Hungria comunista, longe de ser o inferno na terra, era na verdade um lugar divertido para se viver.
->
->Os comunistas proporcionaram a todos emprego garantido, boa educação e saúde gratuita. O crime violento era praticamente inexistente.
-
-O autor observa que a vida cultural foi expandida para incluir todos os húngaros, não apenas as classes altas:
->A cultura era considerada extremamente importante pelo governo. Os comunistas não queriam restringir as coisas boas da vida às classes alta e média - o melhor da música, literatura e dança eram para todos desfrutarem.
->
->Isso significava que subsídios generosos eram dados a instituições, incluindo orquestras, óperas, teatros e cinemas. Os preços dos ingressos eram subsidiados pelo Estado, tornando acessíveis as visitas à ópera e ao teatro.
->
->'Casas culturais' foram abertas em cada cidade e vila, para que as pessoas da classe trabalhadora provinciana, como meus pais, pudessem ter fácil acesso às artes cênicas e aos melhores artistas.
-
-Ela observa que a publicidade e a cultura consumista eram praticamente inexistentes na Hungria:
->Embora vivêssemos bem sob o "comunismo goulash" e sempre houvesse comida suficiente para comermos, não fomos bombardeados com propaganda de produtos de que não precisávamos.
-
-Ela lamenta que as perspectivas da classe trabalhadora comum do Bloco Oriental sejam normalmente ignoradas pelo Ocidente:
->Quando o comunismo na Hungria acabou em 1989, não fiquei apenas surpresa, mas triste, como muitos outros. Sim, havia gente marchando contra o governo, mas a maioria das pessoas comuns - eu e minha família incluída - não participou dos protestos.
->
->Nossa voz - a voz daqueles cujas vidas foram melhoradas pelo comunismo - raramente é ouvida quando se trata de discussões sobre como era a vida atrás da Cortina de Ferro.
->
->Em vez disso, os relatos que ouvimos no Ocidente são quase sempre da perspectiva de emigrados ricos ou dissidentes anticomunistas com um machado para moer.
-
-Finalmente, ela observa que as perdas da era pós-comunista excederam em muito qualquer ganho potencial:
->As pessoas não têm mais segurança no emprego. A pobreza e o crime estão aumentando. A classe trabalhadora não pode mais se dar ao luxo de ir à ópera ou ao teatro. Como na Grã-Bretanha, a TV se emburreceu a um grau preocupante - ironicamente, nunca tivemos o Big Brother sob o comunismo, mas o temos hoje.
->
->O mais triste de tudo é que o espírito de camaradagem de que gostávamos quase desapareceu. Nas últimas duas décadas, podemos ter ganhado shoppings, 'democracia' multipartidária, telefones celulares e internet. Mas perdemos muito mais.
-
-Ao realmente ouvir os relatos de pessoas que viveram sob o socialismo, bem como examinar as pesquisas, podemos ver o que a classe trabalhadora realmente sente sobre o socialismo, bem como sobre o capitalismo implacável que o sucedeu.
-
-### Conclusão sobre a Hungria
-
-A República Popular da Hungria era uma nação interessante, que tinha uma série de falhas, mas mesmo assim proporcionava um alto padrão de vida ao seu povo. É lembrado com carinho por aqueles que viveram sob ele, e suas conquistas, embora geralmente ignoradas no Ocidente, não devem passar despercebidas por quem se diz socialista ou comunista. Devemos estudar a Hungria (junto com todas as outras nações socialistas) para aprender as lições importantes que ela tem a oferecer.
-
-Fontes:
-- [US Federal Research Division | Hungary: A Country Study](https://www.loc.gov/item/90006426/)
-- [Encyclopedia Britannica | Hungary](https://www.britannica.com/place/Hungary/Health-and-welfare#ref34853)
-- [Pew Research Center | Hungary: Better Off Under Communism?](https://www.pewresearch.org/fact-tank/2010/04/28/hungary-better-off-under-communism/)
-- [Daily Mail | Life in Communism Hungary](https://www.dailymail.co.uk/news/article-1221064/Oppressive-grey-No-growing-communism-happiest-time-life.html)
-
-## A Alemanha Oriental
-Ao longo de seus 41 anos de existência, a República Democrática Alemã (RDA/GDR/DDR) se viu constantemente no centro da Guerra Fria. O Muro de Berlim, criado para separar Berlim Oriental da Berlim Ocidental controlada pela FRG, rapidamente se tornou o símbolo mais famoso do conflito. Apesar disso, a maioria das pessoas (incluindo a maioria dos socialistas) sabe relativamente pouco sobre esta nação; como sua economia funcionava, que tipo de vida deu ao seu povo, etc. No entanto, à luz dos eventos recentes, como estudos que descobriram que [57% dos alemães orientais têm uma visão positiva da RDA](https://www.spiegel.de/international/germany/homesick-for-a-dictatorship-majority-of-eastern-germans-feel-life-better-under-communism-a-634122.html), muitas pessoas ficaram mais curiosas sobre neste país específico.
-
-### Antecedentes históricos e condições iniciais (Segunda Guerra Mundial e era pré-guerra) da Alemanha Oriental
-A Segunda Guerra Mundial deixou a Alemanha uma sombra de seu antigo eu. Cidades foram arrasadas e a economia totalmente devastada. A Alemanha Oriental, em particular, estava em séria desvantagem; na verdade, a disparidade de riqueza entre a Alemanha Oriental e Ocidental já existia muito antes do estabelecimento da RDA. De acordo com um [estudo](https://www.deepdyve.com/lp/ou-press/the-roots-of-economic-failure-what-explains-east-germany-s-falling-A6wSaF2DRj?key=OUP) no European Journal of Economic History:
->A "Grande Divergência" entre Oriente e Ocidente em eficiência industrial não começou em 1948, quando o desenvolvimento institucional das duas partes do país tomou rumos fundamentalmente diferentes. Os principais fatores que contribuem para essa divergência já estavam presentes anteriormente.
-
-A Alemanha Oriental sempre foi muito menos industrializada do que a Alemanha Ocidental e, como tal, dependeu muito do Ocidente para suas necessidades econômicas. De acordo com o [estudo](https://archive.org/details/eastgermanycount00bura_0) da Divisão de Pesquisa Federal dos EUA sobre a Alemanha Oriental:
->Antes da Segunda Guerra Mundial, a área que mais tarde se tornou a Alemanha Oriental não era bem desenvolvida industrialmente. Como essa área carecia de matéria-prima, a indústria pesada geralmente estava localizada em outras partes do estado alemão. Para agravar os problemas para o recém-criado estado da Alemanha Oriental em 1949 estava a destruição maciça durante a Segunda Guerra Mundial da planta industrial que existia lá e o subsequente desmantelamento soviético e remoção das fábricas e equipamentos que haviam sobrevivido à guerra. [...] Durante os anos entre guerras, o território que agora é a Alemanha Oriental era profundamente dependente de laços econômicos externos. Em meados da década de 1930, foi despachado quase metade de sua produção total para outras partes da Alemanha. Esse comércio interno envolvia vendas de produtos agrícolas; têxteis; produtos da indústria leve, como câmeras, máquinas de escrever e equipamentos ópticos; e compras de bens e equipamentos industriais.
-
-Em outras palavras, a Alemanha Oriental dependia totalmente do Ocidente para suas necessidades industriais pesadas e pagava por essas necessidades vendendo seus produtos agrícolas e industriais leves. No entanto, após a guerra, esse equilíbrio entre o Oriente e o Ocidente foi prejudicado. De acordo com a Divisão de Pesquisa Federal dos EUA:
->Grandes deslocamentos ocorreram após a Segunda Guerra Mundial, quando a Alemanha foi dividida em duas seções, uma parte dominada pela União Soviética e a outra pelos Aliados Ocidentais. Por não poder mais contar com seu antigo sistema de comércio interno e externo, a Zona de Ocupação Soviética teve de ser reestruturada e tornada mais autossuficiente por meio da construção de uma indústria básica.
-
-Este não foi um feito pequeno para a RDA incipiente, especialmente visto que ela não recebeu praticamente nenhuma ajuda econômica em grande escala da URSS (que estava ocupada demais se reconstruindo após a Segunda Guerra Mundial para se preocupar em injetar dinheiro na Alemanha Oriental - e a COMECON se parece mais com um Mercosul do que com um Plano Marshall). Além disso, a RDA teve de pagar pesadas indenizações à URSS pelos danos causados ​​durante a Segunda Guerra Mundial. Isso atuou como um grande obstáculo ao desenvolvimento. De acordo com o The East German Economy, 1945-2010, publicado pelo German Historical Institute, as reparações diretas e indiretas pagas pela Alemanha Oriental entre 1946 e 1953 totalizaram $14 bilhões a preços de 1938. Outra declaração sobre isso é encontrada no estudo da Divisão de Pesquisa Federal dos EUA:
->A reorientação e reestruturação da economia da Alemanha Oriental teria sido difícil em qualquer caso. Os substanciais custos de reparação que a União Soviética impôs à sua zona ocupada e, mais tarde, à Alemanha Oriental, tornaram o processo ainda mais difícil. Os pagamentos continuaram no início dos anos 1950, terminando apenas com a morte de Stalin. De acordo com estimativas ocidentais, esses pagamentos totalizaram cerca de 25% da produção total da Alemanha Oriental até 1953.
-
-Isso está em contraste direto com o Ocidente, que recebeu grandes investimentos de ajuda dos Estados Unidos - nada afetado pela Guerra - como parte do Plano Marshall, bem como relações comerciais lucrativas com as nações desenvolvidas.
-
-### Crescimento econômico e desenvolvimento industrial da Alemanha Oriental
-Apesar de todas as desvantagens significativas acima mencionadas, a economia da Alemanha Oriental conseguiu superar suas dificuldades e se desenvolver a um ritmo impressionantemente rápido. Embora a RFA tenha uma economia geral maior do que a RDA, há um argumento real de que a RDA alcançou uma taxa de crescimento mais rápida. Talvez o [estudo](https://www.ssoar.info/ssoar/bitstream/handle/document/28587/ssoar-hsrsupp-2009-no_21-heske-volkswirtschaftliche_gesamtrechnung_ddr_1950-1989.pdf) mais extenso sobre esse tópico tenha sido feito por Gerhard Heske, publicado na revista Historical Social Research in Germany; no entanto, visto que este estudo tem cerca de trezentas páginas, citarei um [artigo](http://www.memo.uni-bremen.de/docs/m3309.pdf) de resumo da Universidade de Bremen:
->De 1951 a 1989, a RDA atingiu uma taxa média de crescimento do PIB de 4,5%, a FRG de 4,3%. De 1961 a 1985, essas taxas de crescimento foram maiores na RDA do que na RFA.
-
-A indústria pesada cresceu especialmente rapidamente. De acordo com a Divisão de Pesquisa Federal dos EUA:
->Durante a década de 1950, a Alemanha Oriental fez um progresso econômico significativo, pelo menos conforme indicado pelos números brutos. Em 1960, o investimento havia crescido por um fator de cerca de 4,5, enquanto a produção industrial bruta havia aumentado por um fator de cerca de 2,9. Dentro dessa ampla categoria de produção industrial, os setores básicos, como máquinas e equipamentos de transporte, cresceram de forma especialmente rápida, enquanto os setores de consumo, como os têxteis, ficaram para trás.
-
-Apesar da prioridade dada à indústria pesada, o consumo também aumentou de forma constante neste período:
->O consumo cresceu significativamente nos primeiros anos, embora a partir de uma base muito baixa, e apresentou taxas de crescimento respeitáveis ​​ao longo de toda a década.
-
-No final da década de 1950, alguns analistas temiam uma crise econômica no Oriente, impulsionada pela "fuga de cérebros" do Oriente para o Ocidente; no entanto, isso não ocorreu, e a economia da Alemanha Oriental continuou a crescer de forma impressionante na década de 1960. Relatórios da Divisão de Pesquisa Federal dos EUA:
->No final da década de 1950, o pessimismo sobre o futuro parecia bastante apropriado. Surpreendentemente, no entanto, após a construção do Muro de Berlim e vários anos de consolidação e realinhamento, a Alemanha Oriental entrou em um período de crescimento econômico impressionante que produziu claros benefícios para o povo. Para os anos 1966-1970, o PIB e a renda nacional cresceram a taxas médias anuais de 6,3% e 5,2%, respectivamente. Simultaneamente, o investimento cresceu a uma taxa média anual de 10,7%, o comércio varejista em 4,6% e a renda per capita real de 4,2%.
-
-Esse crescimento continuou ao longo da próxima década:
->A partir de 1970, as taxas de crescimento nos vários setores da economia não diferiam muito daquelas da década anterior. A produção atingiu cerca de 140% a 150% dos níveis da década anterior. As taxas de crescimento da produção resultaram em aumentos substanciais no consumo pessoal. Durante a década de 1970, a economia da Alemanha Oriental como um todo teve um crescimento relativamente forte e estável. Em 1971, o primeiro secretário Honecker declarou que a "elevação do padrão de vida material e cultural" da população era uma "tarefa principal" da economia; o consumo pessoal cresceu a uma taxa média anual de 4,8% de 1971 a 1975 e 4,0% de 1976 a 1980. O Plano Quinquenal de 1976-1980 alcançou uma taxa média de crescimento anual de 4,1 por cento.
-
-A década de 1980 viu algumas dificuldades econômicas para a RDA, à medida que os bancos ocidentais restringiam o crédito para o Leste e a URSS reduzia as entregas de petróleo em dez por cento. Isso levou a um período de crescimento lento, à medida que a RDA se apressava em aumentar as exportações; apesar disso, a economia conseguiu se recuperar e entregar resultados de crescimento impressionantes durante este período (embora tenha ficado aquém do planejado). Relatórios da Divisão de Pesquisa Federal dos EUA:
->O período do plano de 1981-1985 provou ser um momento difícil para a economia da Alemanha Oriental... No entanto, no final do período, a economia registrou um desempenho geral respeitável, com uma taxa média de crescimento anual de 4,5% (o plano meta tinha sido de 5,1% por cento).
-
-Os impactos gerais da estratégia de industrialização da RDA foram extremamente positivos. Conforme relatado pela Divisão de Pesquisa Federal dos EUA em 1988:
->A indústria é o setor dominante da economia da Alemanha Oriental e é a principal base para um padrão de vida relativamente alto. A Alemanha Oriental está entre as principais nações industrializadas do mundo e, no Comecon, fica atrás apenas da União Soviética.
-
-Um resumo geral do desempenho econômico da Alemanha Oriental também pode ser encontrado no relatório mencionado:
->A economia da República Democrática Alemã (Alemanha Oriental) desenvolveu-se de forma impressionante desde sua fundação em 1949. Por quase todos os indicadores, ela está no topo do mundo socialista em desenvolvimento e desempenho econômico [...] A condição da economia é ainda mais notável quando se considera as circunstâncias em que se desenvolveu. O país foi devastado durante a Segunda Guerra Mundial. Posteriormente, a ocupação soviética do território da Alemanha Oriental sobrecarregou pesadamente a população e os recursos. Além disso, a divisão das terras alemãs após a guerra afetou seriamente a economia. A capacidade da indústria pesada da Alemanha Oriental era muito baixa e seus suprimentos de matéria-prima, com exceção de carvão de linhita (baixo teor) e potássio, eram quase inexistentes. O fato de que o país por muitos anos não teve reconhecimento internacional como um Estado soberano certamente não contribuiu para o crescimento econômico, e sua perda de população antes da construção do Muro de Berlim foi um dreno significativo de recursos de trabalho.
-
-No geral, o sistema socialista na RDA conseguiu industrializar a nação em um ritmo rápido, permitindo que o país se sustentasse sem constantes infusões do Ocidente. Ela fez isso apesar das inúmeras desvantagens acima mencionadas, um feito que deve ser comemorado.
-
-### Aumentos no padrão de vida da Alemanha Oriental
-O sistema socialista na RDA não só teve sucesso no desenvolvimento rápido da nação; também proporcionou uma qualidade de vida cada vez maior para as pessoas. Relatórios da Divisão de Pesquisa Federal dos EUA:
->O padrão de vida da Alemanha Oriental melhorou muito desde 1949 [quando a RDA foi criada]. A maioria dos observadores, tanto do Oriente como do Ocidente, concorda que na década de 1980 os alemães orientais desfrutavam do mais alto padrão de vida na Europa Oriental. Grandes melhorias ocorreram, especialmente após 1971, quando o regime de Honecker anunciou seu compromisso de cumprir a "tarefa principal" da economia, que era definida como a melhoria do bem-estar material e cultural de todos os cidadãos.
-
-Este enfoque no aumento da qualidade de vida para todos os cidadãos, ao invés de fornecer lucro para a classe capitalista, é uma característica única do sistema socialista, que proporcionou melhoria contínua dos padrões de vida. A Divisão de Pesquisa Federal dos EUA declara:
->Desde o início do regime, o rendimento mensal do rendimento médio da Alemanha Oriental aumentou de forma constante em termos de poder de compra efetivo. De acordo com o anuário estatístico da Alemanha Oriental de 1986, a renda média mensal dos trabalhadores no setor socializado da economia aumentou de 311 marcos da RDA em 1950 para 555 marcos da RDA em 1960, 755 marcos da RDA em 1970 e 1.130 marcos da RDA em 1985. Porque a maioria dos preços ao consumidor permaneceram estáveis ​​durante esse tempo; os números de 1985 representaram um aumento melhor do que três vezes maior nos últimos 35 anos.
-
-Os subsídios estatais significaram que as necessidades básicas (alimentação, habitação, etc.), serviços públicos (saúde, educação, etc) e até pequenos luxos (refeições em restaurantes, concertos, etc) eram todos notavelmente baratos, especialmente quando comparados com a capitalista Ocidental. Relatórios da Divisão de Pesquisa Federal dos EUA:
->Na Alemanha Oriental, o marco da RDA pode comprar um grande número de bens de primeira necessidade porque o estado subsidia sua produção e distribuição ao povo. Assim, a habitação, que consome uma porção considerável dos rendimentos de uma família média no Ocidente, constituía menos de 3% das despesas de uma família típica de trabalhadores em 1984. Leite, batatas, pão e transporte público também eram relativamente baratos. Muitos serviços, como assistência médica e educação, continuaram disponíveis sem custo para todos, exceto para poucos. Até refeições em restaurantes, shows e selos postais eram baratos para os padrões ocidentais. Em meados da década de 1980, os alemães orientais não tinham dificuldade em obter carne, manteiga, batatas, pão, roupas e muitos outros itens essenciais.
-
-A situação da habitação também melhorou muito:
->Começando na década de 1960, o governo iniciou uma grande campanha para fornecer instalações habitacionais modernas; buscou eliminar a longa escassez de moradias e modernizar totalmente o estoque existente até 1990. No início da década de 1980, o programa havia fornecido quase 2 milhões de unidades novas ou reformadas, e mais 2 milhões deveriam ser acrescentados em 1990. Em 1985, o progresso nesta área parecia ser satisfatório e as metas do plano estavam sendo cumpridas ou excedidas.
-
-A situação em termos de bens de consumo também estava melhorando; a Divisão de Pesquisa Federal dos Estados Unidos relata que, em 1985, na RDA, 99% das famílias tinham geladeira, 92%, máquina de lavar e 93%, televisão. Esses números são comparáveis ​​aos dos Estados Unidos em 2016 (embora a propriedade de máquinas de lavar fosse maior e a de TV ligeiramente menor na RDA).
-
-Os economistas sempre pensaram que o marco da RDA era mais fraco em termos de poder de compra do que o marco da Alemanha Ocidental; no entanto, um estudo do Instituto de Pesquisa Econômica de Berlim Ocidental (conforme relatado pela Divisão de Pesquisa Federal dos EUA) refutou essa ideia:
->Em 1983, o Instituto de Pesquisa Econômica de Berlim Ocidental empreendeu um de seus estudos periódicos em que o poder de compra do marco da RDA era medido em comparação com o marco da Alemanha Ocidental. O Instituto concluiu que, como um todo, o marco da GDR deve ser considerada como tendo 106% do valor do marco da Alemanha Ocidental em poder de compra, um ganho impressionante sobre os 76% estimados para 1960, 86% para 1969 e 100% para 1977. A análise claramente invalidou o opinião comum no Ocidente de que o marco da RDA tinha muito pouco poder de compra.
-
-No geral, o sistema socialista na RDA conseguiu aumentar de forma constante e rápida a qualidade de vida das pessoas, apesar das inúmeras desvantagens que o país enfrentou.
-
-### Saúde na Alemanha Oriental
-A RDA ofereceu tratamento médico gratuito ao seu povo. Este sistema permitiu que a Alemanha Oriental acompanhasse a Alemanha Ocidental em termos de condições de saúde, apesar de esta última ser mais rica (em virtude de suas extensas relações comerciais com as nações desenvolvidas). Um [estudo](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4193657/) publicado na Health Care Financing Review (uma publicação afiliada ao governo dos EUA) relata:
->Em termos de recursos reais destinados aos serviços de saúde e em termos de atividades de serviços de saúde, os dois países parecem ter sido bastante semelhantes. A RDA foi relatada como tendo 2,3 médicos por mil em 1985 (Organização Mundial da Saúde, 1987), em comparação com 2,6 no RFA. Em 1977, a RDA tinha 10,6 leitos hospitalares por mil, em comparação com 11,8 na RFA, e ambos os países tinham níveis semelhantes de dentistas e farmacêuticos por mil. O tempo de internação hospitalar foi relatado como semelhante nos dois países. Dado que os leitos hospitalares por mil eram semelhantes, isso sugere que as taxas de admissão não eram muito diferentes. Finalmente, as taxas de consulta com médicos parecem ter sido semelhantes nos dois países: 9,0 por pessoa na RDA em 1976 e 10,9 por pessoa na RFA em 1975 (Health OECD: Facts and Trends, a ser publicado).
-
-O estudo confirma o custo muito mais baixo dos cuidados de saúde na Alemanha Oriental:
->Se a RDA desfrutava de um volume de serviços de saúde semelhante ao da RFA, mas tinha despesas de saúde per capita muito mais baixas, então os preços dos serviços de saúde deveriam ser muito mais baixos na RDA.
-
-A RDA manteve altos padrões de saúde, que melhoraram continuamente e, em alguns casos, mais rápido do que os do Ocidente (embora começando em um nível inferior; a Alemanha Oriental sempre foi pior em termos de saúde do que o Ocidente). O estudo acima mencionado afirma:
->Quanto ao estado de saúde, em 1987, a expectativa de vida relatada ao nascer no leste da Alemanha, 69,9 anos para homens e 76,0 para mulheres, não ficava muito atrás daquela da Alemanha Ocidental de 72,2 para homens e 78,9 para mulheres. A taxa de mortalidade infantil, que era de 7,2 por 100 em 1950, caiu para 0,92 em 1986. Embora a taxa de mortalidade infantil fosse superior à da Alemanha Ocidental em 1986 (0,85), a queda desde 1950 foi maior.
-
-De modo geral, os padrões de saúde na Alemanha Oriental eram altamente respeitáveis, especialmente quando se lembram das desvantagens que a RDA enfrentava, bem como o fato de que os cuidados de saúde eram gratuitos para todas as pessoas, o que não se pode dizer o mesmo do Ocidente.
-
-### Educação e cuidados infantis na Alemanha Oriental
-O sistema educacional na RDA era muito sólido. Por um lado, havia amplo acesso aos serviços de pré-escola e jardim de infância. De acordo com a Divisão de Pesquisa Federal dos EUA:
->A frequência ao jardim de infância não era obrigatória, mas a maioria das crianças de três a seis anos frequentava. O estado considerava os jardins de infância um elemento importante do programa educacional geral. As escolas enfocavam a saúde e a boa forma física, o desenvolvimento de valores socialistas e o ensino de habilidades rudimentares. O regime fez experiências com escolas combinadas de creches e jardins de infância, que introduzem a criança gradualmente em um programa de atividades mais organizado e aliviam as dores do ajuste. Em 1985, havia 13.148 pré-escolas que cuidavam de 788.095 crianças (cerca de 91% das crianças elegíveis para frequentar).
-
-Após o jardim de infância, as crianças entravam na fase obrigatória de educação:
->A educação obrigatória começou aos seis anos, quando todas as crianças ingressaram na escola politécnica geral mista de dez anos. O programa foi dividido em três seções. O estágio primário incluiu da primeira à terceira série, onde as crianças aprenderam as habilidades básicas de leitura, escrita e matemática. O estágio primário também apresentou às crianças os fundamentos da boa cidadania e, de acordo com a lei de educação de 1965, proporcionou-lhes "o primeiro conhecimento e compreensão da natureza, do trabalho e da sociedade socialista". O ensino enfatizou a língua, a literatura e a arte alemãs como meio de desenvolver as habilidades expressivas e linguísticas da criança; cerca de 60% do tempo da sala de aula foi dedicado a este componente. O ensino da matemática representava cerca de 24% do currículo e incluía uma introdução às leis e relações matemáticas fundamentais. Outros 8 por cento eram dedicados à educação física, que compreendia exercícios, jogos e atividades destinadas a desenvolver a coordenação e habilidade física. A instrução politécnica também foi iniciada no nível primário e consistia em jardinagem e artesanato que davam à criança uma apreciação básica da tecnologia, da economia e do trabalhador; cerca de 8% do tempo da sala de aula era destinado a esse tipo de instrução.
-
-Depois de concluir o ensino obrigatório, os alunos tinham várias opções:
->Após a conclusão da escolaridade obrigatória de dez anos, o aluno tinha essencialmente três opções. A opção escolhida com mais frequência foi iniciar um período de formação profissional de dois anos. Em 1985, cerca de 86% dos que haviam concluído o curso de dez anos começaram algum tipo de treinamento vocacional. Durante a formação profissional, o aluno tornou-se aprendiz, geralmente em uma empresa local ou estadual. Os alunos receberam dezoito meses de treinamento em vocações selecionadas e especialização nos últimos seis meses. Em 1985, aproximadamente 6% dos que haviam concluído sua educação politécnica ingressaram em um programa de treinamento vocacional de três anos. Este programa levou ao Abitur, ou exame de fim de ano escolar. A aprovação no Abitur permitia que o aluno se inscrevesse em um instituto técnico ou universitário, embora esse caminho para o ensino superior fosse considerado muito difícil. Em 1985, a Alemanha Oriental tinha um total de 963 escolas profissionais; 719 eram vinculados a indústrias e outros 244 eram escolas profissionais municipais. As escolas profissionais atenderam 377.567 alunos.
-
-Os alunos tiveram um emprego garantido ao completar a escolaridade obrigatória de dez anos:
->O principal objetivo do sistema educacional era produzir pessoal tecnicamente qualificado para atender às necessidades de mão de obra da economia. O governo garantiu emprego para aqueles que concluíram o programa obrigatório de dez anos.
-
-O sistema universitário também era de alta qualidade e a frequência era extremamente barata (embora os requisitos de admissão fossem muito competitivos):
->Em 1985, a Alemanha Oriental tinha 54 universidades e faculdades, com um total de matrículas de 129.628 alunos. As mulheres representavam cerca de 50% da população estudantil. Os cursos de engenharia e tecnologia encabeçam a lista das disciplinas populares. Medicina, economia e educação também foram escolhas populares. Existiam 239 instituições técnicas, com uma população estudantil total de 162.221. Cerca de 61% dos alunos estudavam em tempo integral, enquanto o restante se matriculava em estudos por correspondência ou tinha aulas noturnas. Os três campos de estudo mais populares nos institutos eram medicina e saúde, engenharia e tecnologia e economia. Os cursos na universidade e institutos técnicos consistiam principalmente de palestras e exames. A conclusão do programa confere um diploma ou licença, dependendo da área de estudo.
->
->Em meados da década de 1980, o ensino superior era muito barato e muitos dos livros didáticos eram fornecidos gratuitamente. Assistência financeira total ou parcial na forma de bolsas de estudo estava disponível para a maioria dos alunos, e as despesas de subsistência eram geralmente mínimas porque a maioria dos alunos continuava morando em casa durante os cursos. Os alemães têm grande consideração pela educação, e o regime geralmente tem apoiado os jovens que desejam melhorar seu nível de habilidades por meio de treinamento ou educação.
-
-No geral, o sistema educacional na República Democrática Alemã era de alta qualidade e amplamente acessível a todos.
-
-### Direitos das mulheres na Alemanha Oriental
-A RDA teve um histórico notavelmente forte na proteção dos direitos das mulheres, muito mais forte do que o Ocidente capitalista. De acordo com a Divisão de Pesquisa Federal dos EUA:
->O histórico da Alemanha Oriental na área dos direitos das mulheres tem sido bom. As mulheres estão bem representadas no mercado de trabalho, compreendendo cerca de metade da população economicamente ativa. Em 1984, aprox. 80% das mulheres em idade produtiva (entre dezoito e sessenta) estavam empregadas. O estado encorajou as mulheres a procurar trabalho e carreiras e forneceu ajuda às mães que trabalham na forma de centros generosos de benefícios de maternidade.
-
-O acesso das mulheres à educação era muito forte na RDA, novamente muito mais forte do que no Ocidente capitalista:
->O estado também tem feito um esforço concentrado para oferecer oportunidades educacionais para mulheres. O número de mulheres com formação universitária ou técnica tem aumentado ao longo dos anos. Dos alunos matriculados em universidades e faculdades em 1985, cerca de 50% eram mulheres.
-
-O controle da natalidade estava amplamente disponível e gratuito, e o aborto estava disponível mediante solicitação da mulher. Relatórios da Divisão de Pesquisa Federal dos EUA:
->Uma lei liberal de aborto, promulgada em 1972 em meio a protestos de círculos religiosos, permite o aborto a pedido da mãe. Em meados da década de 1980, informações sobre métodos anticoncepcionais estavam disponíveis ao público e as mulheres podiam obter pílulas anticoncepcionais gratuitamente .
-
-Além disso, o estado buscou prestar assistência às mães que trabalham por meio de um sistema de creche altamente desenvolvido:
->Uma elaborada rede de creches cuida da criança enquanto a mãe está trabalhando. Em 1984, havia 6.605 creches durante todo o ano, com capacidade para 296.653 crianças. Essas creches cuidavam de 63% das crianças elegíveis.
-
-No geral, a situação das mulheres na Alemanha Oriental era muito melhor do que na Alemanha Ocidental, e o histórico de direitos das mulheres da RDA era bastante impressionante.
-
-### O desastre de 1989
-A maioria das pessoas no Ocidente imagina a queda da RDA como uma época de euforia e liberdade generalizadas; no entanto, para milhões de pessoas na Alemanha Oriental, isso estava longe de ser o caso. Um excelente relato dessa época foi escrito por Bruni de la Motte, uma mulher da Alemanha Oriental que desde então se tornou negociadora sindical britânica. Em seu [artigo](https://www.theguardian.com/commentisfree/2009/nov/08/1989-berlin-wall) (publicado no The Guardian), ela relata que o desemprego generalizado e a miséria ocorreram após a queda do comunismo:
->Pouco se sabe aqui [no Ocidente] sobre o que aconteceu à economia da RDA quando o muro caiu. Assim que a fronteira foi aberta, o governo decidiu estabelecer uma tutela para garantir que as "empresas públicas" (a maioria dos negócios) fossem transferidas para os cidadãos que criaram a riqueza. No entanto, alguns meses antes da unificação, o governo conservador recém-eleito entregou a tutela a nomeados da Alemanha Ocidental, muitos representando interesses de grandes empresas. A ideia de ativos "de propriedade pública" serem transferidos para os cidadãos foi silenciosamente abandonada. Em vez disso, todos os ativos foram privatizados em uma velocidade vertiginosa. Mais de 85% foram comprados por alemães ocidentais e muitos foram fechados logo depois. No campo, 1,7 milhão de hectares de terras agrícolas e florestais foram vendidos e 80% dos trabalhadores agrícolas perderam o emprego.
-
-Outro [artigo](https://www.theguardian.com/world/2015/oct/02/german-reunification-25-years-on-how-different-are-east-and-west-really) do The Guardian relata o impacto de longo prazo que isso teve na economia da Alemanha Oriental, observando que praticamente não houve avanço na taxa de produtividade Ocidente-Oriente desde 1991:
->A produtividade no antigo oriente era 70% da do ocidente em 1991 e subiu para apenas 73% em 2012, em parte um legado do número de fábricas que foram compradas por industriais da Alemanha Ocidental e deliberadamente faliram para a concorrência escassa. Especialistas dizem que o fato de que a maior parte da grande indústria e bases de produção estão no ocidente e que as do oriente são muito menores - com a maioria dos empregadores na agricultura ou nas indústrias de serviços, como processamento de carne e call centers - terá um longo efeito de longo prazo de cada vez mais reter a economia no oriente e garantir que a discrepância salarial permaneça e provavelmente piore.
-
-Bruni de la Motte observa que uma purificação em massa da vida acadêmica e profissional ocorreu após a queda do comunismo:
->Um grande número de trabalhadores comuns perdeu seus empregos, mas também milhares de pesquisadores e acadêmicos. Como resultado do expurgo da academia, dos estabelecimentos de pesquisa e científicos em um processo de veto político, mais de um milhão de indivíduos com diplomas perderam seus empregos. Isso constituía cerca de 50% desse grupo, criando na Alemanha Oriental a maior porcentagem de desemprego profissional do mundo; todos os reitores universitários e diretores de empresas estatais, bem como 75.000 professores, perderam seus empregos e muitos foram colocados na lista negra. Esse processo estava em total contraste com o que aconteceu na Alemanha Ocidental após a guerra, quando poucos ex-nazistas foram tratados dessa maneira.
-
-Uma crise de habitação, bem como a apreensão em massa das casas dos trabalhadores, também ocorreu:
->Na RDA, todos tinham garantia legal de posse e propriedade das propriedades onde moravam. Após a unificação, 2,2 milhões de reclamações de cidadãos não-pertencentes à RDA [e pertencentes à RFA em sua maioria], foram feitas em suas casas. Muitos perderam suas casas em que viveram por décadas; muitos cometeram suicídio em vez de desistir delas. Ironicamente, os pedidos de restituição ao contrário, pelos alemães orientais sobre propriedades no Ocidente, foram rejeitados como "fora do tempo".
-
-Ela observa que, desde a queda do comunismo, muitas pessoas passaram a apreciar os benefícios que o socialismo oferecia:
->Desde o fim da RDA, muitos passaram a reconhecer e lamentar que as "conquistas sociais" genuínas de que desfrutaram foram desmanteladas: igualdade social e de gênero, pleno emprego e falta de medos existenciais, bem como aluguéis subsidiados, transporte público, cultura e instalações desportivas. Infelizmente, o colapso da RDA e do "socialismo de estado" ocorreu pouco antes do colapso do sistema de "livre mercado" no Ocidente.
-
-Isso é apoiado pelo fato de que (como mencionado acima) 57% dos ex-alemães orientais dizem que a vida era melhor sob o comunismo. Para leituras mais profundas de Bruni de la Motte, recomendo seu livro Stasi Hell or Workers' Paradise? Socialism in the GDR - What Can We Learn From It? Este livro apresenta uma avaliação honesta dos sucessos e fracassos da República Democrática Alemã da perspectiva de alguém que realmente cresceu, foi para a escola, trabalhou e criou uma família lá.
-
-### Conclusão sobre a Alemanha Oriental
-A República Democrática Alemã não era uma sociedade perfeita e não é sensato fingir que sim; no entanto, proporcionou um alto padrão de vida para seu povo, juntamente com uma forte segurança econômica e social. Garantia de emprego, moradia, saúde e educação, além de subsídios para as necessidades básicas; fortes proteções para os direitos das mulheres e crianças; atividades culturais de baixo custo e amplamente disponíveis, como teatros e concertos; esses são benefícios dos quais muitos milhões de pessoas passaram a sentir muita falta nos anos desde a queda da RDA.
-
-Talvez o melhor resumo desse tópico complexo seja dado por Bruni de la Motte, na conclusão de seu livro Stasi Hell or Workers' Paradise:
->A experiência de socialismo da RDA está em marcante contraste com o desmantelamento do Estado de bem-estar e a concomitante privatização desenfreada de todos os aspectos da vida que agora ocorrem na Europa Ocidental, da cultura à saúde e outros serviços essenciais, bem como à negação do valores e a individualização extrema da vida. Vivemos em uma sociedade atomizada, rapidamente se desintegrando, com pouco etos social e sem objetivos de longo prazo. Muitos hoje, especialmente os jovens, vivem sem esperança ou senso de um futuro seguro. O socialismo ainda pode oferecer um antídoto e uma alternativa. E a experiência de países socialistas como a RDA pode fornecer indicações para um caminho a seguir e ajudar a renovar a esperança.
-
-Em nossa era de capitalismo tardio, mudança climática e fascismo ressurgente, essa mensagem é mais relevante do que nunca.
-
-Fontes:
-- [Der Spiegel | Majority of East Germans Defend the GDR](https://www.spiegel.de/international/germany/homesick-for-a-dictatorship-majority-of-eastern-germans-feel-life-better-under-communism-a-634122.html)
-- [European Review of Economic History | The Roots of Economic Failure: What Explains East Germany's Falling Behind Between 1945 and 1950?](https://www.deepdyve.com/lp/ou-press/the-roots-of-economic-failure-what-explains-east-germany-s-falling-A6wSaF2DRj?key=OUP)
-- [US Federal Research Division | East Germany: A Country Study](https://archive.org/details/eastgermanycount00bura_0)
-- [German Historical Institute | The East German Economy: 1945-2010](https://www.cambridge.org/core/books/the-east-german-economy-19452010/C2414E858CB605F6EE9D5AB0A839B24C)
-- [Historical Social Research | National Accounts, GDR, 1950-1989](https://www.ssoar.info/ssoar/bitstream/handle/document/28587/ssoar-hsrsupp-2009-no_21-heske-volkswirtschaftliche_gesamtrechnung_ddr_1950-1989.pdf)
-- [University of Bremen | Economic Growth in East and West Germany](http://www.memo.uni-bremen.de/docs/m3309.pdf)
-- [Health Care Financing Review | Reform of Health Care in Germany](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4193657/)
-- [The Guardian | East Germans Lost Much in 1989](https://www.theguardian.com/commentisfree/2009/nov/08/1989-berlin-wall)
-- [The Guardian | German Reunification 25 Years On](https://www.theguardian.com/world/2015/oct/02/german-reunification-25-years-on-how-different-are-east-and-west-really)
-- [Artery Publications | Stasi Hell or Workers' Paradise? Socialism in the GDR - What Can We Learn From It?](https://archive.org/details/StasiHellOrWorkersParadise)
-
-## Os naxalitas na Índia
-De todos os vários grupos socialistas e comunistas que atualmente travam a luta armada contra o capitalismo e o imperialismo, poucos são mais significativos e conhecidos do que o movimento maoísta da Índia, comumente conhecido como Naxalitas. Frequentemente demonizados e retratados como terroristas, eles continuam a lutar (com notável sucesso, como será mostrado em breve) contra a exploração implacável e o assassinato das pessoas mais pobres da Terra.
-
-Antes de mergulhar na análise difícil, eu recomendo que todos vocês leiam Walking With the Comrades, de Arundhati Roy, uma análise brilhante da situação na Índia, bem como um relato de primeira mão da época em que Roy visitou os maoístas. Ela é uma das autoras mais conhecidas do mundo hoje, e seu trabalho é geralmente aceito e aclamado até mesmo por criadores de tendências liberais; ela até conseguiu ganhar alguma atenção positiva para os naxalitas em publicações convencionais, como a Paris Review:
-
-- [The Paris Review | Arundhati Roy em "Walking With the Comrades"](https://www.theparisreview.org/blog/2011/11/01/arundhati-roy-on-walking-with-the-comrades/)
-
-Se você quiser entender a horrível exploração e o terrorismo de estado que tornaram o movimento Naxalita necessário em primeiro lugar, leia esse livro. Com isso esclarecido, vamos mergulhar nas conquistas do movimento Naxalita.
-
-### Questões econômicas e qualidade de vida (terra, salários, saúde, etc) dos naxalitas
-Uma de nossas fontes mais importantes sobre este tópico vem, ironicamente, do próprio governo indiano. Seu relatório, intitulado "Desafios de Desenvolvimento em Áreas Afetadas Pelo Extremismo", nos dá uma grande quantidade de informações sobre o sucesso dos Naxalitas:
-
-- [Indian Planning Commission | Development Challenges in Extremist Affected Areas](https://tribal.nic.in/writereaddata/AnnualReport/DevelopmentChallengesinExtremistAffectedAreas.pdf)
-
-O governo reconhece o imenso problema da distribuição desigual de terras, ao mesmo tempo que admite que os naxalitas fizeram muito para redistribuir terras aos sem-terra:
->Embora não haja estimativas precisas disponíveis, é um fato que em alguns casos o movimento naxalita conseguiu ajudar os sem-terra a ocupar uma extensão substancial das terras do governo, seja para propriedades rurais ou para cultivo. Em Bihar, todos os partidos naxalitas tentaram ajudar, em suas respectivas áreas de influência, os Musahars sem-terra, os mais baixos entre os dalits, a tomar posse de uma extensão considerável dessas terras.
-
-Eles lutaram para acabar com a exploração implacável do trabalho adivasi (indígena):
->Os naxalitas garantiram aumentos na taxa de pagamento pela colheita da folha de tendu, que é usada para rolinhos de plantas, nas áreas florestais de Andhra Pradesh, Chhattisgarh, Orissa, Maharashtra e Jharkhand. Essa era uma fonte muito importante de exploração da mão de obra adivasi e, embora o governo a ignorasse conscientemente, os naxalitas acabaram com ela. A exploração foi tão severa que as taxas aumentaram ao longo dos anos até cinquenta vezes o que os empreiteiros tendu patta costumavam pagar antes dos naxalitas intervirem.
-
-Os naxalitas também têm lutado para aumentar os salários em geral, com sucesso significativo:
->A Lei do Salário Mínimo continua sendo uma lei no papel em grande parte da Índia rural. Nas áreas de sua atividade, é relatado que os naxalitas garantiram o pagamento de salários decentes, embora eles geralmente não tenham seguido os salários mínimos legais. As taxas que eles garantiram são às vezes mais altas e às vezes mais baixas do que a taxa legal. Sua orientação para os direitos em geral não é regida por direitos legais, mas pelo que eles consideram justo e justo, levando em consideração todos os fatores que consideram relevantes.
->
->Existem também grandes áreas de trabalho não regidas pela Lei do Salário Mínimo. Uma vez que os Naxalitas, em qualquer caso, não se importam se existe ou não uma lei que rege o direito que defendem, eles intervieram e determinaram salários justos em suas percepções em todos os processos de trabalho em suas áreas de influência. Isso inclui salários para lavar roupas, fazer potes, cuidar do gado, consertar implementos, etc.
-
-Os naxalitas também lutaram para garantir a proteção da propriedade comum e para evitar sua exploração por proprietários privados:
->O usufruto dos recursos de propriedade comum como um direito tradicional por pastores, comunidades pesqueiras, chapéus de coco, pedreiros, tornou-se vulnerável devido à apropriação desses recursos pelos setores dominantes da sociedade ou pelos demais com seu apoio. Os naxalitas tentaram garantir a proteção desse direito onde quer que estejam ativos.
-
-A pressão dos naxalitas forçou os funcionários do governo nas áreas de saúde e educação a cumprirem adequadamente seus deveres para com o povo:
->Em algumas ocasiões, os naxalitas conseguiram pressionar os administradores de nível inferior para que realizassem seu trabalho com eficácia. A pressão exercida pelo movimento Naxalita teve algum efeito em garantir o atendimento adequado de professores, médicos etc.
-
-Na verdade, os próprios naxalitas conseguiram melhorar os cuidados de saúde nas áreas onde atuam. Em seu livro Hello, Bastar: The Untold Story of India's Maoist Movement, Rahul Pandita (vencedor do Prêmio Internacional da Cruz Vermelha) escreve:
->Também no campo da saúde, os maoístas costumam preencher grandes lacunas deixadas pelo estado. Suas unidades médicas móveis cobrem grandes distâncias para oferecer cuidados básicos de saúde aos tribais ... Vários campos de treinamento são realizados regularmente em medidas preventivas contra doenças como diarreia ou malária. Os médicos de base nas equipes médicas podem administrar vacinas, identificar várias doenças por meio de sintomas e tratar ferimentos que não são graves. Alguns podem até realizar exames de sangue simples para chegar a um diagnóstico. Esta é uma vantagem significativa nessas áreas.
-
-É evidente que os naxalitas fizeram grandes avanços na melhoria da qualidade de vida das pessoas nas áreas em que operam.
-
-### Questões sociais (raça, gênero, trabalho forçado, etc) dos naxalitas
-Os naxalitas fizeram conquistas extremamente positivas e importantes em termos de erradicação da discriminação e combate à opressão social. Vamos consultar o relatório do governo indiano para obter mais informações.
-
-Como mencionado acima, os naxalitas lutaram contra a discriminação contra os adivasis (povos indígenas):
->Sempre que houver uma base para discrição por parte dos funcionários do governo, o pessoal florestal teve que ser apaziguado de diferentes maneiras para evitar o assédio. Foi só depois que os naxalitas entraram em cena que os adivasis conseguiram proteção contra esse assédio, que era bem conhecido da administração, mas normalmente ignorado.
-
-Os naxalitas também fizeram muito para combater a opressão de casta e gênero, que continua sendo um grande problema na Índia. Isso inclui acabar com a exploração sexual de mulheres da classe trabalhadora por homens da casta superior:
->Formas de tratamento indelicado a que os dalits foram submetidos, e a proibição de usar roupas e calçados limpos na presença de castas superiores, ou ao passar por suas localidades, e a compulsão de se dirigir a eles como dora ou malik e outros semelhantes práticas opressivas, em geral, foram encerradas em suas áreas de trabalho. A humilhação diária e a exploração sexual de mulheres trabalhadoras de comunidades dalit por homens de casta superior é outra forma de opressão que tem sido combatida com sucesso.
->
->Em Bihar, houve muitos casos em que dalits sofreram opressão social e, recentemente, vítimas dos massacres perpetrados por castas senas como Ranbir Sena. As vítimas receberam essa ajuda dos naxalitas.
-
-Uma de suas conquistas mais importantes é acabar com o trabalho forçado nas comunidades rurais, que floresceu por décadas:
->Não existe nenhuma lei que penalize o trabalho forçado em outras formas. Portanto, floresceu nas formas mais medievais no distrito de Telangana em Karimnagar, e foi necessário um grande aumento liderado pelos naxalitas no final dos anos setenta e início dos anos oitenta do século passado para pôr fim a ele.
-
-Crucialmente, os naxalitas também conseguiram impedir o despejo forçado e a apreensão de recursos naturais pelo governo indiano, bem como por empresas privadas:
->Os habitantes da floresta (estavam) perpetuamente à beira da expulsão de seu próprio habitat. O medo da resistência armada naxalita dissuadiu os movimentos repressivos e depredadores das autoridades.
-
-Talvez a mais inspiradora de todas essas conquistas seja o senso de orgulho, humanidade e poder que os naxalitas incutiram nas pessoas. Isso é reconhecido até pelo governo indiano:
->Além das questões concretas empreendidas pelos naxalitas contra a opressão social, o fato de que o quadro e também a maioria dos líderes locais das organizações naxalitas consistem em aldeões pobres de castas consideradas humildes, dotou os oprimidos de muita força. Uma sensação de impotência é uma característica da constituição psicológica das classes oprimidas. O quadro Naxalita típico, entretanto, é um adolescente confiante (provavelmente empunhando uma arma) dessas mesmas classes. Ver meninos e meninas de suas próprias aldeias e sua própria classe/casta ativa no movimento Naxalita, e exercendo poder sobre os 'grandes' homens da aldeia e o alto e poderoso tahsildar deu um sentimento de empoderamento aos oprimidos que tem valor inestimável.
-
-### Conclusão sobre os naxalitas
-Apesar da enorme campanha de propaganda dirigida contra eles, bem como da resposta totalmente perversa e violenta do governo indiano (documentada na obra de Arundhati Roy, já mencionada, Walking With The Comrades), o movimento naxalita conseguiu fazer grandes avanços pelo povo. Talvez isso seja melhor resumido pelo próprio governo indiano, em um comentário do relatório:
->O movimento oferece proteção aos fracos contra os poderosos e leva a sério a segurança e a justiça para os fracos e os socialmente marginais.
-
-Em uma das nações mais pobres e exploradas da Terra, isso em si é uma grande conquista e algo a ser valorizado.
-
-## Os sandinistas na Nicarágua
->O que vemos é um governo diante de enormes problemas, alguns aparentemente insuperáveis, empenhado em uma grande experiência que, embora precária e incompleta em muitos pontos, dá esperança aos setores pobres da sociedade, melhora as condições de educação, alfabetização e saúde, e pela primeira vez oferece ao povo da Nicarágua um mínimo de justiça para todos, em vez de uma sociedade que oferece privilégios exclusivamente aos ricos... e aos poderosos.
->
->-- <cite>Conselho Mundial de Igrejas, Relatório sobre a Nicarágua, 1983.</cite>
-
-### Indicadores econômicos e nutricionais da Nicarágua
-A ditadura de Somoza deixou os nicaraguenses atolados em uma pobreza e miséria terríveis. De acordo com o livro [Nicarágua: A Ameaça de um Bom Exemplo](https://oxfamilibrary.openrepository.com/handle/10546/121188?show=full), publicado pela Oxfam America:
->Estudos mostraram que em algumas áreas até 83% das crianças nicaraguenses estavam desnutridas, e a proporção de crianças gravemente desnutridas pode chegar a 45%.
-
-Isso começou a mudar quando os sandinistas assumiram o poder em 1979. Para começar, a produção agrícola aumentou 8% entre 1979 e 1983. Além disso, aumentou o consumo per capita da maioria dos alimentos básicos. A Oxfam America creditou isso diretamente às políticas dos sandinistas:
->Isso foi possibilitado por subsídios do governo e controles rígidos sobre os preços e a distribuição de alimentos básicos. Estabeleceram-se pontos de distribuição especiais para oito produtos básicos: arroz, feijão, milho, farinha, açúcar, sal, óleo de cozinha e sabão. Mais recentemente, a distribuição desses itens básicos pelos grupos de bairro foi reforçada para proteger os interesses dos mais pobres em um momento de escassez crescente e preços crescentes.
-
-Os sandinistas também realizaram uma reforma agrária significativa. De acordo com um [estudo](https://minds.wisconsin.edu/bitstream/handle/1793/56510/ltc122.pdf?sequence=1) da Universidade de Wisconsin-Madison, o programa de reforma agrária fez um grande progresso na melhoria de vida dos trabalhadores agrícolas:
->A reforma agrária da Nicarágua realizou mais durante seu primeiro ano de operação do que a maioria das reformas agrárias alcançou em períodos muito mais longos. [...] Os trabalhadores rurais foram organizados em um sindicato nacional forte e passaram a receber melhores salários e a participar da formulação e implementação de políticas governamentais. [...] Essas conquistas foram ainda mais impressionantes devido à destruição generalizada e à quebra de safra que a Nicarágua enfrentou no final da guerra.
-
-O referido relatório da Oxfam America também discute a questão, observando que a reforma agrária forneceu terras para dezenas de milhares de famílias:
->Os principais beneficiários da reforma agrária e do aumento de cinco vezes no crédito do Estado entre 1979 e 1982 foram os camponeses. Entre outubro de 1981 e agosto de 1984, 49.661 famílias receberam títulos de propriedade.
-
-Desde a reconquista do poder em 2005, os sandinistas conseguiram melhorias significativas na economia e na qualidade de vida da Nicarágua. Segundo [dados da FAO](http://www.fao.org/faostat/en/#country/157), as políticas sandinistas levaram a uma redução drástica da desnutrição. Além disso, dados do Banco Mundial mostram que os sandinistas [reduziram a pobreza pela metade](https://data.worldbank.org/country/nicaragua) na Nicarágua. Essas realizações devem ser apreciadas.
-
-### Conquistas na saúde da Nicarágua
-Quando os sandinistas chegaram ao poder, eles herdaram uma nação terrivelmente doente, que havia sido devastada pela ditadura de direita. De acordo com um [artigo](https://journals.sagepub.com/doi/abs/10.1177/089692058901600105) na revista Critical Sociology:
->Quando os sandinistas chegaram ao poder em 1979, enfrentaram uma série de graves problemas de saúde legados pelo antigo regime de Somoza.
-
-Apesar disso, os sandinistas conseguiram obter muitos "ganhos impressionantes na área da saúde", como é demonstrado por um exame das evidências estatísticas. De acordo com um [estudo](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1651882/pdf/amjph00633-0082.pdf) do American Journal of Public Health:
->Antes da revolução nicaraguense de 1979, o acesso aos serviços de saúde era amplamente limitado aos setores abastados da população urbana e à minoria de trabalhadores com cobertura de seguridade social. Tentativas repetidas de reforma pela medicina organizada foram ineficazes. Desde a revolução, ocorreu uma grande expansão nos serviços de saúde.
-
-O acesso aos cuidados de saúde expandiu-se maciçamente e foi desenvolvido um enfoque nos cuidados preventivos. De acordo com o relatório da Oxfam acima mencionado:
->Enquanto se estima que em 1979 pouco mais de um quarto da população poderia obter serviços médicos, em 1982 cerca de 70% dos nicaraguenses tinham acesso regular aos cuidados de saúde. No processo, houve uma mudança radical de cuidados primordialmente curativos e urbanos para uma minoria privilegiada para uma ênfase na prevenção, o que é particularmente notável na área de cuidados materno-infantis.
-
-Essas políticas levaram a melhorias acentuadas nas condições de saúde da população. De acordo com o [estudo](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1651882/pdf/amjph00633-0082.pdf) citado:
->A evolução dos serviços de saúde, atividades de prevenção e educação pode estar relacionada a melhorias rápidas no estado de saúde da população desde 1979. Estima-se que, entre 1978 e 1983, a mortalidade infantil diminuiu de 121 para 80,2 por 1.000 nascidos vivos, expectativa de vida ao nascer passou de 52 para 59 anos. O número de casos notificados de malária diminuiu em 50$, os casos de poliomielite não foram notificados durante dois anos, não foram notificados casos de sarampo no primeiro semestre de 1984 e a maioria das outras doenças evitáveis ​​por imunização foram consideravelmente reduzidas.
-
-O sistema de seguridade social também foi amplamente expandido:
->O sistema de seguridade social está se expandindo rapidamente. Desde 1979, a percentagem da população ativa coberta pela segurança social duplicou, de 16% para 32%. Talvez mais importante, a maioria dos grupos recentemente cobertos trabalha nos setores agrícolas anteriormente negligenciados em partes remotas do país. A cobertura do INSS oferece seguro de aposentadoria e indenização trabalhista, entre outros benefícios não médicos.
-
-Essas são conquistas importantes, que representam uma melhoria substancial na qualidade de vida de centenas de milhares (senão milhões) de pessoas.
-
-### Educação e alfabetização na Nicarágua
-De acordo com um relatório da UNESCO, a campanha de alfabetização sandinista foi um grande sucesso:
->Os resultados da campanha foram algo para se orgulhar. A Nicarágua deu uma contribuição substancial para a experiência mundial na busca de soluções para erradicar o analfabetismo.
-
-A taxa de alfabetização melhorou dramaticamente, de aprox. 50% a menos de 13%:
->Em cinco meses, 95.582 brigadistas conseguiram ensinar 406.056 nicaraguenses a ler e escrever em espanhol de forma que a taxa de analfabetismo de 50,35% pudesse ser reduzida em 37,39 pontos percentuais para 12,96%. Na região mais industrializada do Pacífico a taxa de analfabetismo foi reduzida de 28,06 para 7,8%, na região montanhosa central de 66,74% para 20,21% e na região menos desenvolvida do Atlântico o salto foi maior com 78,07% para 25,59%.
-
-A campanha foi um grande benefício para o povo marginalizado da Nicarágua:
->Trouxe evidências tangíveis para os grupos mais marginalizados de nicaraguenses de que a sociedade iria incluí-los e o movimento revolucionário mudaria suas vidas para melhor. A campanha foi concebida como parte de um processo de transformação social que visa a redistribuição de poder e riqueza. A campanha ajudou as pessoas a desenvolver habilidades básicas, conhecimentos e atitudes que conduzam a essa transformação.
-
-Esta é uma das expansões mais substanciais da alfabetização que a América Latina já viu e deve ser reconhecida como um modelo de educação revolucionária.
-
-### Política social e igualdade de gênero na Nicarágua
-De acordo com o Fórum Econômico Mundial, a igualdade de gênero na Nicarágua melhorou muito sob os sandinistas. Isso é observado em um [estudo](https://ideas.repec.org/p/pra/mprapa/86769.html) da Universidade de Munique:
->Nos últimos cinco anos, o Índice Global de Diferenças de Gênero do Fórum Econômico Mundial tem relatado que a Nicarágua é um dos países com maior igualdade de gênero no mundo. Este é o ápice de um notável aumento na igualdade de gênero na Nicarágua durante a última década, mapeado pelo mesmo índice.
-
-As mulheres também se beneficiaram muito de vários programas sandinistas, como a já mencionada campanha de alfabetização. De acordo com o [relatório da UNESCO](https://unesdoc.unesco.org/ark:/48223/pf0000146007):
->Para muitas mulheres, a campanha de alfabetização representou uma oportunidade de emancipação: 60% dos brigadistas eram mulheres, assim como cerca de 50% dos alfabetizadores. A separação do corpo docente (Exército Popular de Alfabetização) segundo homens e mulheres aumentou as oportunidades de liderança para as brigadistas.
-
-São avanços impressionantes, que deixam clara a dedicação que as revolucionárias sandinistas tiveram para melhorar a condição feminina, assim como seu envolvimento na atividade política e de luta.
-
-### Conclusão sobre a Nicarágua
-Embora os sandinistas tenham inegavelmente cometido grandes erros nos últimos anos (como sua crescente afinidade com as políticas neoliberais, austeridade etc.), suas conquistas não podem ser negadas. Isso é especialmente verdadeiro quando consideramos as terríveis condições por que passaram durante a guerra e a hostilidade do governo dos Estados Unidos desde então.
-
-Fontes:
-- [Oxfam America | Nicaragua: The Threat of a Good Example?](https://oxfamilibrary.openrepository.com/handle/10546/121188?show=full)
-- [University of Wisconsin-Madison | Agrarian Reform in Nicaragua](https://minds.wisconsin.edu/bitstream/handle/1793/56510/ltc122.pdf?sequence=1)
-- [Food and Agricultural Organization (UN) | Nicaragua Profile](http://www.fao.org/faostat/en/#country/157)
-- [World Bank | Nicaragua](https://data.worldbank.org/country/nicaragua)
-- [Critical Sociology | A Report on the Health of the Nicaraguan Revolution](https://journals.sagepub.com/doi/abs/10.1177/089692058901600105)
-- [American Journal of Public Health | Health Services Reforms in Revolutionary Nicaragua](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1651882/pdf/amjph00633-0082.pdf)
-- [UNESCO | Nicaragua's Literacy Campaign](https://unesdoc.unesco.org/ark:/48223/pf0000146007)
-- [University of Munich | An Investigation Into the Reported Closing of the Nicaraguan Gender Gap](https://ideas.repec.org/p/pra/mprapa/86769.html)
-
-## Os zapatistas no México
-Junto com o movimento naxalita da Índia, o Exército Zapatista de Libertação Nacional (mais comumente conhecido como EZLN, ou simplesmente Zapatistas) é sem dúvida a formação socialista revolucionária mais significativa do mundo hoje. Desde o lançamento de sua insurreição em 1º de janeiro de 1994, o EZLN tem servido de inspiração para esquerdistas e indígenas em todo o mundo. Em homenagem ao recente anúncio de que o EZLN está expandindo formalmente seu território, devemos aproveitar esta oportunidade para discutir os zapatistas, suas conquistas e as lições que eles podem nos ensinar. Também podemos estudar os prós e os contras de sua abordagem particular do socialismo revolucionário, que se concentra muito mais na autonomia da comunidade e na democracia direta, em vez de estabelecer uma ditadura do proletariado.
-
-Deve-se notar que, apesar das reivindicações excitadas de numerosos anarquistas, os zapatistas não são um grupo anarquista. Na verdade, eles rejeitam explicitamente o rótulo. Além disso, eles usam imagens da Revolução Cubana (particularmente Che Guevara), e conceitos marxistas aparecem com frequência nos escritos de grandes figuras do movimento zapatista, incluindo o porta-voz de facto do grupo, o Subcomandante Marcos (agora conhecido como Subcomandante Galeano).
-
-### Sistema econômico e padrões de vida zapatistas
-Antes da formação do EZLN, o povo de Chiapas era cruelmente explorado pelo sistema capitalista que existia em sua região. Em 2015, o Subcomandante Insurgente Moisés observou:
->Antes da criação do Exército Zapatista de Libertação Nacional, nós indígenas de Chiapas não existíamos para o sistema capitalista; não éramos pessoas para isso; não éramos humanos. Nós nem existíamos como lixo por causa disso. E imaginamos que foi assim para os outros irmãos e irmãs indígenas no resto do nosso país. E é assim que imaginamos que seja em qualquer país onde existam indígenas... Ninguém sabia sobre rodovias, ninguém sabia que havia coisas chamadas clínicas e hospitais, muito menos escolas, ou salas de aula para educação. Nunca houve nenhuma campanha de saúde, programas, bolsas, nada. Fomos esquecidos.
-
-Desde o estabelecimento de suas comunidades autônomas, o EZLN transformou radicalmente o sistema econômico da região. Eles estabeleceram um sistema baseado em cooperativas e propriedades coletivas. A escritora anarquista Hilary Klein escreve:
->Além de saúde e educação, os zapatistas também construíram uma infraestrutura econômica projetada para lidar com o alto nível de pobreza em suas comunidades. Frequentemente chamada de 'economia solidária', a economia autônoma dos zapatistas oferece uma alternativa popular ao capitalismo global [...] As cooperativas econômicas geram recursos que são investidos de volta na comunidade. Devido à divisão do trabalho por gênero, muitas vezes existem cooperativas de homens e mulheres. Os homens, por exemplo, possuem cooperativas de café ou gado, enquanto as mulheres possuem cooperativas de artesanato, cooperativas de criação de galinhas e hortas coletivas. As lojas cooperativas fornecem mercadorias para os membros da comunidade a preços razoáveis, ao mesmo tempo que geram renda. O dinheiro arrecadado pelas cooperativas é usado para cobrir despesas compartilhadas, por exemplo, quando os representantes da comunidade viajam para uma reunião regional.
-
-Este sistema teve algum sucesso no aumento de receitas para a região; no entanto, a recusa do EZLN em assumir o poder estatal limitou a extensão do que eles podem alcançar. Apesar dos ricos recursos naturais da região, o EZLN optou por permanecer primordialmente agrário, abstendo-se de tentativas de extrair e utilizar esses recursos (pelas quais recebeu críticas de muitos marxistas, como Louis Proyect). Isso está ligado tanto à recusa em assumir o poder do Estado quanto ao desejo de preservar os estilos de vida indígenas tradicionais (um aspecto importante da rebelião zapatista).
-
-Em suma, embora o EZLN tenha conseguido se libertar das cadeias do capital internacional e estabelecer um sistema baseado na ajuda mútua e na propriedade comum, eles não estabeleceram uma economia socialista plenamente desenvolvida. Se eles farão isso no futuro, ainda está para ser visto. As verdadeiras conquistas do EZLN estão nas áreas de saúde, educação e política social, como veremos em breve.
-
-### Cuidados de saúde em territórios zapatistas
-Antes do levante inicial, as pessoas no atual território do EZLN tinham muito pouco acesso a cuidados de saúde e viviam em condições de saúde realmente péssimas. De acordo com a National University of Ireland, Cork:
->Este descaso com a provisão de serviços de saúde adequados em Chiapas tornou-se um dos principais problemas que levaram o movimento zapatista a vocalizar suas preocupações. Essa visão rapidamente reuniu a comunidade zapatista para iniciar a construção de um sistema de saúde centrado em suas necessidades individuais, costumes e cultura. O sistema de saúde autônomo nasceu e o conceito rapidamente se tornou popular entre todas as comunidades zapatistas.
-
-Desde a revolta do EZLN de 1994, os zapatistas fizeram grandes avanços na área da saúde nos territórios sob seu controle:
->É claro que os esforços investidos pelos zapatistas no estabelecimento de um sistema de saúde totalmente independente usando recursos limitados foram recompensados ​​pelos benefícios de saúde significativos alcançados em centenas de comunidades zapatistas. Os zapatistas testemunharam melhorias na saúde das mulheres e das crianças. Eles também viram os benefícios para a saúde decorrentes da melhoria da higiene como resultado do papel do promotor de saúde e de seu papel na educação da comunidade. A assistência médica autônoma despertou um senso de propósito nos corações e mentes dos habitantes da comunidade, enquanto eles lidam com confiança com os problemas de saúde de suas aldeias. Em essência, a saúde autônoma sem dúvida trouxe benefícios de saúde duradouros para o mundo dos zapatistas.
-
-A Organização Mundial da Saúde declara:
->Existem atualmente cerca de 200 casas de saúde comunitárias e 25 clínicas regionais autônomas, algumas das quais já em funcionamento há 10 anos, e uma clínica odontológica... Se tivermos em mente que quase todas as instalações médicas foram construídas nos locais onde não existia antes, é fácil avaliar a importância de alcançar este objetivo graças ao esforço da comunidade.
-
-A saúde das mulheres melhorou dramaticamente nos territórios zapatistas:
->A saúde autônoma está tendo um efeito positivo na saúde das mulheres e das crianças. Em regiões onde antes havia taxas significativamente altas de mortalidade durante o parto, agora houve um período de oito anos ou mais em que nenhuma morte materna foi registrada. Com a maior disponibilidade de parteiras locais e o conhecimento médico básico fornecido pelo promotor de saúde, as mulheres zapatistas agora estão dando à luz com segurança em suas próprias comunidades, com um risco de morte drasticamente reduzido. Além disso, os exames de câncer e de saúde sexual são realizados com maior frequência, melhorando ainda mais a qualidade de vida das mulheres.
-
-A saúde das crianças também melhorou muito. A National University of Ireland, Cork declara:
->Assim como acontece com as mulheres, a melhora na saúde das crianças também merece destaque. Os zapatistas agora priorizam ativamente a vacinação das crianças, garantindo que o maior número possível de crianças receba a imunização necessária. Os promotores de saúde também são treinados para detectar os sintomas associados à sepse e icterícia em bebês recém-nascidos e, por meio da mídia visual, organizações estrangeiras estão ensinando os promotores de saúde a identificar e tratar essas doenças.
-
-As comunidades zapatistas têm taxas de vacinação mais altas do que as comunidades pró-governo em Chiapas:
->Com a maior disponibilidade de assistência médica autônoma, 84% das comunidades zapatistas recebem vacinas importantes contra doenças como a malária. Nas comunidades pró-governo esse número é de apenas 75%, o que significa que menos desses habitantes da comunidade têm acesso às vacinas necessárias, apesar das promessas de saúde do Estado.
-
-Além disso, os zapatistas reduziram significativamente os níveis de doenças infecciosas em suas comunidades:
->Uma disparidade maior é aparente entre as comunidades pró-governo e as aldeias zapatistas no que diz respeito ao tratamento da tuberculose. Atualmente, 32% dos habitantes zapatistas sofrem de tuberculose, enquanto em grandes porções das comunidades pró-governo, notáveis ​​84% ​​continuam a ter essa infecção respiratória.
-
-Os zapatistas também melhoraram muito a infraestrutura de higiene e saneamento no território sob seu controle:
->Atualmente, 74% das comunidades zapatistas agora têm acesso a banheiros e isso levou a uma grande melhoria na higiene pessoal. Apenas 54% das comunidades pró-governo podem reivindicar acesso a banheiros em suas casas. Isso fornece evidências claras do impacto positivo que o promotor de saúde tem na educação das comunidades sobre saúde e higiene. Também sugere que as comunidades zapatistas têm apetite por conhecimento e estão dispostas a aprender tudo o que é necessário para proteger sua saúde.
-
-Os zapatistas conseguiram até eliminar virtualmente o consumo de álcool em suas comunidades, o que teve um impacto extremamente positivo na saúde pública:
->Proclamada como uma das maiores conquistas de saúde para o movimento zapatista, a erradicação da fabricação e do consumo de álcool melhorou significativamente a saúde de todos os zapatistas. Esta política de não tolerância está diretamente ligada à redução de muitas doenças e infecções, incluindo “úlcera, cirrose, desnutrición y heridas con machete”.
-
-No geral, os zapatistas fizeram uma série de avanços tremendos na área da saúde em suas comunidades. A Universidade Nacional da Irlanda, em Cork, observa:
->É claro, como demonstram esses números, que a saúde zapatista tem um impacto profundo na qualidade de vida de muitos indígenas que frequentam regularmente os serviços de saúde autônoma. A saúde autônoma zapatista tem se mostrado bem-sucedida, em muitos aspectos, na redução de doenças e promoção da independência da comunidade. Esta abordagem à saúde capacita as comunidades a acessar recursos e conhecimentos que abriram oportunidades sem paralelo para a sobrevivência entre comunidades indígenas remotas e isoladas.
-
-A Organização Mundial da Saúde observa:
->Trata-se de um modelo que tem se mostrado capaz de impactar o que se pode denominar de nível primário de atenção à saúde, atuando dentro de uma estrutura de saúde organizada e como parte de um projeto político. Vista sob essa ótica, conseguiu inserir no cenário uma metodologia que o Serviço Nacional de Saúde não pôde ou não quis desenvolver.
-
-Essas conquistas também conseguiram incutir um senso de dignidade e orgulho nessas comunidades, que antes eram tão mal exploradas. A National University of Ireland, Cork declara:
->Como resultado da saúde autônoma, as comunidades agora controlam seus serviços de saúde e, juntas, decidem sobre a política de saúde local e a nomeação de um promotor de saúde adequado. Portanto, é natural que essas comunidades desenvolvam uma autoconfiança e empoderamento não sentidos antes da introdução generalizada da saúde autônoma.
-
-As conquistas da saúde nos territórios zapatistas são algumas das maiores conquistas da revolução.
-
-### Educação em territórios Zapatistas
-Além da saúde, o EZLN também melhorou muito a oferta de educação em suas comunidades. Antes da revolta, a educação estava em muito mau estado. A Universidade Nacional da Irlanda, Cork observa:
->A educação em Chiapas era de baixo padrão e muitas das estatísticas a seguir comprovam essa afirmação. Segundo Rovira (2000), 30% das crianças em Chiapas não frequentavam a escola, enquanto 6,5% da população chiapana era considerada analfabeta. Outros críticos, no entanto, colocaram a taxa de analfabetismo em Chiapas muito mais alta, argumentando que cerca de 18% da população do estado não tinha nenhuma forma de educação básica... Além disso, outras estatísticas divulgadas destacam o baixo desempenho de quem tem acesso à educação básica escolaridade. Apenas 10% das crianças indígenas concluem o ensino fundamental em Chiapas. Em contraste direto, 54% das crianças nacionalmente atingem o mesmo padrão de educação
-
-Como mostram as estatísticas acima, as crianças indígenas estavam em particular desvantagem. Isso é especialmente verdadeiro porque a maioria dos professores não falava uma língua indígena, impedindo assim a capacidade de aprendizagem das crianças indígenas. As escolas estaduais costumam ser acusadas de envergonhar crianças indígenas, com resultados desastrosos:
->As famílias ficam revoltadas e frustradas porque a educação do Estado “os envergonha por serem indígenas” e os professores funcionários do Estado os acusam de falar “una lengua de perros”, uma referência degradante ao uso das línguas indígenas nativas pelas crianças. De acordo com Castellanos (2014), o abuso de álcool é prevalente em muitas comunidades pró-governo e esses altos níveis de consumo estão ligados a taxas significativamente altas de suicídio entre jovens adolescentes indígenas. Afirma-se que muitos jovens indígenas dessas comunidades recorrem a níveis excessivos de consumo de álcool como forma de enfrentar a discriminação que vivenciam na escola. Estima-se que, em média, seis tentativas de suicídio ocorram por mês entre essa coorte de jovens indígenas que vivem em comunidades pró-governo.
-
-Em contraste, as escolas zapatistas protegeram e ajudaram os indígenas:
->Muitos observadores do movimento zapatista notaram que o levante indígena de 1994 trouxe uma transformação importante e “ressignificação do que significa ser indígena” no México moderno. Para as comunidades pró-zapatistas, essas “mudanças culturais repentinas” foram experimentadas dentro da estrutura política e social protetora do movimento zapatista. Hoje, a educação autônoma incentiva as comunidades a celebrar suas identidades indígenas e acolhe a “reavaliação de sua cultura e sua língua”. É amplamente aceito que, por meio da educação autônoma, os rebeldes zapatistas “abrigaram jovens zapatistas com mudanças sociais” que tiveram um impacto tão severo sobre aqueles que vivem fora das estruturas protetoras do movimento zapatista.
-
-Os zapatistas expandiram muito o sistema educacional em seus territórios e até começaram a estabelecer um segundo nível em seu sistema educacional:
->Com o passar dos anos, a educação autônoma expandiu seu alcance em toda a região e, como resultado, os rebeldes começaram a desenvolver uma segunda camada no sistema educacional. Este compromisso lento e constante para avançar seu sistema educacional demonstra a posição importante e respeitada que a educação ocupa no projeto mais amplo de autonomia zapatista.
-
-Embora o sistema zapatista continue focado principalmente na educação primária, ele conseguiu melhorar muito o acesso à educação na região. Relatórios da National University of Ireland, Cork:
->Embora a educação primária esteja disponível em todas as comunidades zapatistas, há apenas cinco escolas secundárias em funcionamento na região, uma construída em cada Caracol. Os números divulgados em 2001 indicam que 37% de todos os alunos zapatistas estão agora progredindo continuamente para o segundo nível de educação. No entanto, de acordo com as observações de Barmeyer (2008), a escola primária continua sendo o único serviço educacional disponível em todas as comunidades indígenas do território autônomo. No entanto, apesar de sua infraestrutura rudimentar e salas de aula com poucos recursos, a educação autônoma é um sistema bem ajustado, projetado precisamente para cumprir os objetivos que os zapatistas esperavam dela.
-
-O sistema educacional zapatista não está focado apenas no aprendizado em sala de aula; também ajuda os jovens locais a aprender as habilidades necessárias para administrar e sustentar uma comunidade:
->Os alunos zapatistas frequentam regularmente aulas de agricultura e sustentabilidade ambiental, aprendendo sobre técnicas agrícolas viáveis ​​que ajudam a proteger o meio ambiente e a maximizar os recursos agrícolas limitados dos agricultores locais. Hoje, os jovens agricultores estão aprendendo a plantar videira em seus campos como forma de sufocar e diminuir a disseminação de ervas daninhas em suas terras. É uma prática que devolve nutrientes ao solo e prepara os campos para safras agrícolas consecutivas. Antes da introdução deste método de cultivo único, muitos agricultores não protegiam seus campos e muitas vezes queimavam ervas daninhas, eliminando assim toda a possibilidade de “enriquecer o solo com nutrientes e nitrogênio”. A educação deste tipo é um meio de salvaguardar e assegurar o crescimento de safras vitais, importantes para apoiar os habitantes da comunidade e suas economias locais.
-
-Todas essas informações demonstram que os zapatistas melhoraram muito o acesso à educação em suas comunidades.
-
-### Direitos das mulheres e anti-racismo nas comunidades zapatistas
-Outro avanço importante dos zapatistas é a melhoria das relações de gênero em suas comunidades. Um fator importante para isso foi a proibição do álcool, que reduziu muito os níveis de violência doméstica. Relatórios da National University of Ireland, Cork:
->As mulheres eram frequentemente trocadas em troca de álcool e as relações sociais entre os sexos muitas vezes não passavam de homens tratando as mulheres como “animais domésticos”. Agora, com sua rejeição completa ao álcool, os zapatistas podem reivindicar uma melhoria significativa nas relações de gênero, com as mulheres agora desafiando “a ordem tradicional” dos papéis de gênero nas comunidades. Remover o álcool da vida zapatista melhorou a saúde e “suavizou as relações humanas” consideravelmente.
-
-A participação democrática da comunidade também desempenhou um papel, já que as pessoas em cada comunidade são livres para discutir abertamente os problemas das relações de gênero e violência sexual:
->Em um debate sobre saúde comunitária testemunhado pelo autor, Villarreal (2007) afirma que a questão da saúde sexual dominou as discussões em uma assembléia comunitária. Isso demonstra a liberdade que as comunidades têm para lidar com os problemas de saúde enfrentados por sua aldeia e a liberdade de fazê-lo em seus termos.
-
-O EZLN adotou uma abordagem ativa no combate ao patriarcado. Em 2018, os zapatistas organizaram um evento inteiramente por e para as mulheres. Relatórios de não violência:
->“O que queríamos era conhecer muitas mulheres”, disse a Comandante Jenny, que coordenou o evento. “Achamos que apenas algumas mulheres iriam vir, por isso estamos muito felizes em ver quantas de vocês se juntaram a nós aqui.” Embora apenas seus olhos estivessem visíveis, um sorriso foi detectado por trás de seu capuz preto. “Tem sido um trabalho árduo, mas estamos muito satisfeitos em ver que há muitas outras mulheres lutando contra o patriarcado”. [...] O evento não foi apenas uma oportunidade de criar redes educacionais ou profissionais, mas também um espaço para considerar a saúde e o bem-estar de uma mulher na luta pela justiça. As atividades vão desde oficinas, painéis de discussão e exibição de filmes até apresentações de teatro, exposições de arte e eventos esportivos, incluindo partidas de basquete e futebol. Os temas incluíram violência de gênero, autodefesa, autocuidado, sexismo na mídia, direitos sexuais, saúde e educação, misoginia e infância, discriminação contra comunidades LGBTQ indígenas, mulheres defensoras dos direitos ambientais e descolonização. Todas as atividades foram conduzidas e realizadas por mulheres e todas visaram gerar consciência sobre a desigualdade de gênero ou restaurar a autoconfiança e autonomia das mulheres.
-
-O EZLN conecta sua luta contra o patriarcado e o racismo à luta contra o capitalismo:
->“O capitalismo não é apenas colonial, é também patriarcal e racista”, disse Fernanda Esquivel, uma estudante de Guadalajara de 20 anos. “Vir aqui e ver que os zapatistas ainda resistem e resistem há tantos anos é uma grande inspiração para mim. Estar com tantas mulheres e sentir-me unida também me dá esperança de realmente criar uma mudança. Na academia não há nada que possa mostrar a você como é vir aqui, sentir e compartilhar essas experiências na prática.”
-
-Os zapatistas implementaram sua Lei Revolucionária para lutar contra a opressão de gênero e outras formas de intolerância:
->Muitos seguidores da revolução zapatista não estavam cientes dos elementos-chave que formaram o movimento antes de ir a público em 1994. Inegavelmente, uma das principais características que moldaram o movimento foi a "Lei Revolucionária das Mulheres", aprovada pelos comitês zapatistas em 1992.
->
->Para Sylvia Marcos, socióloga e especialista em movimentos indígenas nas Américas, a ênfase nos direitos das mulheres é um fator determinante para a organização. Além disso, ela indica que esses direitos foram reivindicados não apenas para as mulheres como indivíduos, mas estavam "totalmente vinculados e entrelaçados com os direitos coletivos".
-
-De modo geral, é claro que o EZLN adotou uma postura firme contra o patriarcado, o racismo e outras formas de discriminação.
-
-### Conclusão sobre o EZLN
-O EZLN conseguiu inúmeras grandes conquistas desde sua revolta em 1994; a recente expansão de seu território dá esperança de que sua revolução cresça e melhore. Embora ainda não tenham conseguido estabelecer o socialismo desenvolvido, suas conquistas já são suficientes para garantir-lhes um lugar na história dos grandes movimentos revolucionários proletários e antiimperialistas.
-
-Fontes:
-- [The Nation | The Zapatista Revolution is Not Over](https://www.thenation.com/article/zapatista-chiapas-caracoles/)
-- [Enlace Zapatista | Political Economy from the Perspective of the Communities: Words of Subcomandante Insurgente Moises](http://enlacezapatista.ezln.org.mx/2015/05/24/political-economy-from-the-perspective-of-the-communities-i-words-of-subcomandante-insurgente-moises-may-4-2015/)
-- [National University of Ireland, Cork | Understanding Zapatista Autonomy: An Analysis of Healthcare and Education](https://www.academia.edu/33163010/Understanding_Zapatista_Autonomy_An_Analysis_of_Healthcare_and_Education)
-- [World Health Organisation (WHO) | Health and Autonomy: The Case of Chiapas](https://www.who.int/social_determinants/resources/csdh_media/autonomy_mexico_2007_en.pdf)
-- [Waging Nonviolence | Zapatista Women Inspire Fight Against Patriarchy](https://wagingnonviolence.org/2018/04/zapatista-women-inspire-fight-against-patriarchy/)
-- [Indigenous Anarchist Federation | Zapatista Response to "The EZLN is NOT Anarchist"](https://iaf-fai.org/2019/05/05/a-zapatista-response-to-the-ezln-is-not-anarchist/)
 
 ## A questão Rojava/Curdistão
 Rojava não é necessariamente anarquista, eles usam um sistema chamado "confederalismo democrático" de acordo com eles, que é uma mistura de ideologias. O patrocínio americano do SDF e a criação de um estado curdo sírio serve às políticas americanas estratégicas por meio do controle de recursos essenciais, um estado sírio enfraquecido e um estágio do qual contém o Irã. A liderança curda síria explorou essa aliança e o caos da guerra para federalizar unilateralmente (sem referendo nacional). Os dois atores precisam um do outro, mas não devemos confundir qual ator detém o poder. A balcanização se alinha com os interesses curdos, mas a ocupação projeta o domínio americano e enriquece sua classe dominante.
