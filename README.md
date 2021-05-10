@@ -26,6 +26,7 @@
         * [A questão Stalin](#A-questão-Stalin)
             * [O grande expurgo](#O-grande-expurgo)
             * [A fome ucraniana (holodomor)](#A-fome-ucraniana-holodomor)
+            * [Antissemitismo](#Antissemitismo)
             * [Pessoas inocentes fuziladas por crimes pequenos](#Pessoas-inocentes-fuziladas-por-crimes-pequenos)
             * [Líder não-democrático](#Líder-não-democrático)
             * [As gulags](#As-gulags)
@@ -73,8 +74,23 @@
         * [Direitos das mulheres da Polônia](#Direitos-das-mulheres-da-Polônia)
         * [Conclusão sobre a Polônia](#Conclusão-sobre-a-Polônia)
     * [A Romênia](#A-Romênia)
+        * [Saúde e bem-estar social da Hungria](#Saúde-e-bem-estar-social-da-Hungria)
         * [A farsa do julgamento de Ceausescu](#A-farsa-do-julgamento-de-Ceausescu)
         * [Conclusão sobre a Romênia](#Conclusão-sobre-a-Romênia)
+    * [A Hungria](#A-Hungria)
+        * [Desenvolvimento econômico e padrão de vida da Hungria](#Desenvolvimento-econômico-e-padrão-de-vida-da-Hungria)
+        * [Realizações educacionais da Hungria](#Realizações-educacionais-da-Hungria)
+        * [Nostalgia pós-comunista na Hungria](#Nostalgia-pós-comunista-na-Hungria)
+        * [Conclusão sobre a Hungria](#Conclusão-sobre-a-Hungria)
+    * [A Alemanha Oriental](#A-Alemanha-Oriental)
+        * [Antecedentes históricos e condições iniciais (Segunda Guerra Mundial e era pré-guerra) da Alemanha Oriental](#Antecedentes-históricos-e-condições-iniciais-Segunda-Guerra-Mundial-e-era-pré-guerra-da-Alemanha-Oriental)
+        * [Crescimento econômico e desenvolvimento industrial da Alemanha Oriental](#Crescimento-econômico-e-desenvolvimento-industrial-da-Alemanha-Oriental)
+        * [Aumentos no padrão de vida da Alemanha Oriental](#Aumentos-no-padrão-de-vida-da-Alemanha-Oriental)
+        * [Saúde na Alemanha Oriental](#Saúde-na-Alemanha-Oriental)
+        * [Educação e cuidados infantis na Alemanha Oriental](#Educação-e-cuidados-infantis-na-Alemanha-Oriental)
+        * [Direitos das mulheres na Alemanha Oriental](#Direitos-das-mulheres-na-Alemanha-Oriental)
+        * [O desastre de 1989](#O-desastre-de-1989)
+        * [Conclusão sobre a Alemanha Oriental](#Conclusão-sobre-a-Alemanha-Oriental)
     * [Os naxalitas na Índia](#Os-naxalitas-na-Índia)
         * [Questões econômicas e qualidade de vida (terra, salários, saúde, etc) dos naxalitas](#Questões-econômicas-e-qualidade-de-vida-terra-salários-saúde-etc-dos-naxalitas)
         * [Questões sociais (raça, gênero, trabalho forçado, etc) dos naxalitas](#Questões-sociais-raça-gênero-trabalho-forçado-etc-dos-naxalitas)
@@ -91,7 +107,7 @@
         * [Educação em territórios Zapatistas](#Educação-em-territórios-Zapatistas)
         * [Direitos das mulheres e anti-racismo nas comunidades zapatistas](#Direitos-das-mulheres-e-anti-racismo-nas-comunidades-zapatistas)
         * [Conclusão sobre o EZLN](#Conclusão-sobre-o-EZLN)
-    * [A questão Rojava/Curdistão](#A-questão-Rojava-Curdistão)
+    * [A questão Rojava/Curdistão](#A-questão-Rojava/Curdistão)
     * [Adam Smith concordava com Marx](#Adam-Smith-concordava-com-Marx)
     * [Mitos sobre Marx](#Mitos-sobre-Marx)
     * [A constituição soviética era respeitada](#A-constituição-soviética-era-respeitada)
@@ -1366,6 +1382,32 @@ Fontes:
 
 Também recomendo a leitura dos livros **Stalin: um novo olhar** de Ludo Martens, **Stalin: a história crítica de uma lenda negra** de Domenico Losurdo e **Um Stalin desconhecido** pela família Medvedev (que é liberal e anti-stalin, mas rejeita a narrativa mitíca que se tem sobre Stalin). Também recomendo o prof. Mark Tauger é um dos pesquisadores mais respeitados do mundo no tema história da agricultura soviética,  prof. Annie Lacroix-Riz, acadêmica da universidade Paris VII - Denis Diderot, que defende ser o "holodomor" um cavalo de batalha anticomunista.
 
+#### Antissemitismo
+Em primeiro lugar, todas as nacionalidades sob Stalin tinham direitos iguais, não importando a raça que pertenciam. Isso pode ser visto no Artigo 123 da Constituição Soviética de 1936. Afirma que:
+>A igualdade de direitos dos cidadãos da URSS, independentemente de sua nacionalidade ou raça, em todas as esferas da vida econômica, estatal, cultural, social e política, é uma lei indestrutível. Qualquer restrição direta ou indireta dos direitos de, ou, inversamente, qualquer estabelecimento de privilégios diretos ou indiretos para os cidadãos em razão de sua raça ou nacionalidade, bem como qualquer defesa de exclusividade racial ou nacional ou ódio e desprezo, é punível por lei.
+
+Esta lei não exclui a população judaica, já que o próprio Stalin disse isso sobre o anti-semitismo respondendo a um pedido da Agência Telegráfica Judaica da América:
+>O anti-semitismo, como uma forma extrema de chauvinismo racial, é a mais perigosa remanescência do canibalismo. Na URSS, o anti-semitismo é estritamente perseguido por lei como um fenômeno profundamente hostil ao sistema soviético. Os anti-semitas ativos são punidos pelas leis da URSS.
+
+Sob Stalin, toda a população soviética era capaz de ler e escrever, ou seja, alfabetizou-se. O império russo tinha uma taxa de alfabetização de 21% (1897), enquanto sob Stalin, 100% da população era totalmente alfabetizada em 1950, independentemente da raça ou sexo.
+
+A política de Korenizatsiya começou em 1913, mas o efeito total disso foi sob o camarada Stalin. Stalin afirma que o chauvinismo russo é um grande perigo para a União Soviética e insiste na criação do Soviete das Nacionalidades, que se tornou uma das 2 câmaras do Soviete Supremo. Conforme declarado no artigo 37 da constituição soviética de 1936:
+>Ambas as Câmaras do Soviete Supremo da União das Repúblicas Socialistas Soviéticas, o Soviete da União e o Soviete das Nacionalidades, têm direitos iguais.
+
+Enquanto:
+>O Soviete das Nacionalidades é eleito pelos cidadãos da URSS de acordo com a União e Repúblicas Autônomas, Regiões Autônomas e áreas nacionais com base em vinte e cinco deputados de cada República da União, onze deputados de cada República Autônoma, cinco deputados de cada Região Autônoma e um deputado de cada área nacional.
+
+Nos termos do artigo 35 da Constituição Soviética. Isso mostra que os russos não étnicos desempenharam um grande papel na URSS e na criação de leis, políticas e na eleição de altos funcionários.
+
+No entanto, para descobrir o quanto Stalin era um “nacionalista russo do mal”, devemos olhar para o número de pessoas enviadas aos gulags. Portanto, ao todo, em 1939, havia 810 mil russos nos gulags. Além disso, a população russa em 1939 era de 108.377.000, portanto, podemos ver que 0,75% da população russa estava em gulags (prisões). Agora, vamos examinar os outros grupos étnicos, como ucranianos e cazaques. A população ucraniana em 1939 era de 33.425.000, enquanto o número deles nas gulags era de 182.536, ou seja, 0,55% da população. A população do Cazaquistão era de 6.081.000, enquanto o número de gulags era de 17.333, ou seja, 0.28% da população. Assim, podemos dizer que mais russos estavam em gulags em comparação com outros grupos étnicos durante a época de Stalin.
+
+Podemos aplicar o mesmo aos judeus (Stalin até ajudou a criar Israel), alguns dos amigos mais próximos de Stalin eram judeus como - Lazar Kaganovich, enquanto muitos judeus soviéticos famosos receberam o "Prêmio Estatal de Stalin". Isso inclui:
+- Sergei Eisenstein
+- Yuli Raizman
+- Mikhail Romm
+
+Portanto, no geral, podemos dizer que Stalin era de fato um verdadeiro comunista soviético e não era um nacionalista russo e não odiava o povo judeu.
+
 #### Pessoas inocentes fuziladas por crimes pequenos
 Para desmascarar esses mitos, usarei artigos do Código Penal da RSFSR 1926 (algumas edições de 1956).
 
@@ -2169,6 +2211,7 @@ Apesar das grandes conquistas do governo comunista, houve enormes falhas que aca
 1. O rígido anti-revisionismo de Hoxha, que se recusou a permitir qualquer desvio do modelo stalinista, mesmo quando certas políticas não faziam mais sentido para as condições atuais.
 2. O isolamento auto-imposto da nação, enquanto Hoxha queimava pontes com outras nações socialistas que não compartilhavam sua interpretação doutrinária do marxismo.
 3. A paranóia que resultou deste isolamento, incluindo a infame campanha de bunker, realizada para evitar uma temida invasão da URSS ou da Iugoslávia. Em média, cada bunker custa tantos recursos quanto um apartamento de dois quartos, e os recursos totais dedicados a construí-los poderiam ter resolvido facilmente o déficit habitacional do país.
+4. Quase entrou em falência por causa do FMI.
 
 Esses problemas deveriam servir como um alerta para todas as gerações subsequentes de socialistas e comunistas, pois mesmo as grandes conquistas do socialismo na Albânia não foram suficientes para evitar que as falhas acima mencionassem tudo.
 
@@ -2359,6 +2402,287 @@ Ceausescu, embora fosse extremamente ingênuo em matéria de política externa, 
 
 Com isso, temos duras lições a aprender com a Romênia:
 1. Não podemos jamais confiar em instituições que se dizem "neutras", Bakhtin mesmo destrói o argumento de neutralidade ideológica em suas teses, mais tarde confirmados por uma derivação da hipótese Sapir-Whorf / línguistica relativista; como dizia Sankara: "Quem te alimenta, te controla"
+
+## A Hungria
+Desta vez veremos a República Popular da Hungria, uma das nações mais interessantes do Pacto de Varsóvia. É também a nação com talvez a melhor recordação entre o povo; pesquisas nos últimos anos revelaram que mais de 70% dos húngaros acham que a vida era melhor sob o comunismo. Como tal, é apropriado que estudemos e aprendamos mais sobre esta nação. 
+
+### Desenvolvimento econômico e padrão de vida da Hungria
+Antes do estabelecimento da República Popular da Hungria, a Hungria era uma nação semifeudal, com muito pouco desenvolvimento industrial e notavelmente baixa qualidade de vida. No entanto, apesar das condições turbulentas, o sistema socialista ainda conseguiu desenvolver rapidamente a economia da Hungria. De acordo com a Divisão de Pesquisa Federal dos EUA:
+>Apesar da guerra, depressão, revolução, ocupação estrangeira e períodos de quase caos, a economia da Hungria avançou no século XX de um estado quase feudal para um estágio de desenvolvimento industrial de nível médio.
+
+As notas da Enciclopédia Britânica:
+>Historicamente, antes da Segunda Guerra Mundial, a Hungria era principalmente agrária. A partir de 1948, uma política de industrialização forçada baseada no padrão soviético mudou o caráter econômico do país. Foi introduzida uma economia de planejamento centralizado e milhões de novos empregos foram criados na indústria (principalmente para mulheres) e, posteriormente, nos serviços.
+
+Isso é especialmente impressionante quando se considera a grave falta de recursos naturais que a economia húngara enfrenta, o que a forçou a depender quase inteiramente das importações soviéticas. A Divisão de Pesquisa Federal dos EUA declara:
+>A falta geral de matérias-primas no país tornou necessário o comércio exterior, uma preocupação que dominou as políticas econômicas dos governos húngaros desde 1918, quando o país perdeu grande parte do território que detinha antes da Primeira Guerra Mundial [...] A União Soviética era o principal fornecedor de matérias-primas da Hungria.
+
+Imediatamente após o estabelecimento da República Popular da Hungria, a nação instituiu uma economia planejada de estilo soviético tradicional. No entanto, no final da década de 1960, um plano de reforma econômica (conhecido como Novo Mecanismo Econômico, ou NEM) foi instituído, o que restaurou de alguma forma o papel das forças de mercado, ao mesmo tempo que retinha a propriedade estatal sobre os meios de produção, distribuição e troca.
+
+A década de 1960 viu o estado se concentrando na expansão da indústria. De acordo com a Divisão de Pesquisa Federal dos EUA:
+>Durante a década de 1960, o governo deu alta prioridade à expansão dos ramos de engenharia e química do setor industrial. A produção de ônibus, máquinas-ferramenta, instrumentos de precisão e equipamentos de telecomunicações recebeu a maior atenção no setor de engenharia. O setor químico concentrava-se na produção de fertilizantes artificiais, plásticos e fibras sintéticas. Os mercados húngaro e Comecon eram os principais alvos do governo, e as políticas resultaram no aumento das importações de energia, matérias-primas e produtos semiacabados.
+
+Após este período, a economia mudou o foco para a produção de consumo com a introdução do NEM:
+>Em meados da década de 1960, o governo percebeu que a política de expansão industrial que vinha seguindo desde 1949 não era mais viável. Embora a economia estivesse crescendo de forma constante e o padrão de vida da população estivesse melhorando, fatores-chave limitaram o crescimento... O governo introduziu o NEM em 1968 para melhorar a eficiência da indústria e tornar seus produtos mais competitivos nos mercados mundiais.
+
+Esta época foi marcada por altas taxas de crescimento econômico. A Hungria atingiu o nível de uma nação de desenvolvimento médio:
+>De 1968 a 1972, o NEM e um ambiente econômico favorável contribuíram para o bom desempenho econômico. A economia cresceu de forma constante, nem o desemprego nem a inflação eram aparentes, e a balança de pagamentos em moeda conversível do país estava em equilíbrio, pois as exportações para os mercados ocidentais cresceram mais rapidamente do que as importações. As fazendas e fábricas cooperativas aumentaram rapidamente a produção de bens e serviços que faltavam antes da reforma. Por volta de 1970, a Hungria alcançou o status de país de desenvolvimento médio. Sua indústria estava produzindo de 40% a 50% do produto interno bruto, enquanto a agricultura contribuía com menos de 20%.
+
+Em meados da década de 1980, a Hungria alcançou um padrão de vida muito alto em comparação com a era pré-comunista. A disponibilidade de alimentos era alta e a seleção era relativamente diversa. Relatórios da Divisão de Pesquisa Federal dos EUA:
+>Em 1986, o consumo per capita de carne da Hungria era o mais alto da Europa Oriental, enquanto o consumo de ovos estava entre os mais altos. O consumo per capita de carne, peixe, leite e produtos lácteos, ovos, vegetais, batatas, café, vinho, cerveja e bebidas destiladas aumentaram significativamente entre 1950 e 1984.
+
+Os húngaros também tinham altas taxas de propriedade de vários bens de consumo, e a qualidade dos bens também estava aumentando:
+>Em 1984, 96 em cada 100 residências possuíam uma máquina de lavar, todas as residências possuíam uma geladeira e a proporção de aparelhos de televisão para residências era de 108 para 100. A qualidade e a variedade dos bens de consumo duráveis ​​à venda também haviam melhorado.
+
+Apesar dessas boas estatísticas, a economia húngara não estava livre de problemas; um excesso de confiança na ortodoxia stalinista (particularmente nos primeiros anos) fez com que a Hungria se apoiasse fortemente no desenvolvimento da indústria pesada, ignorando outras formas de produção que teriam se adaptado melhor às condições materiais da nação. Além disso, as empresas e fazendas do país sofreram com os baixos níveis de produtividade relativa, o que contribuiu para uma desaceleração do crescimento na década de 1980. A Enciclopédia Britânica resume essas questões:
+>Embora a modernização econômica do tipo soviético gerasse rápido crescimento, ela se baseava em um padrão estrutural do início do século 20 e em tecnologia ultrapassada. As indústrias pesadas de ferro, aço e engenharia receberam a mais alta prioridade, enquanto os serviços de infraestrutura e comunicação modernos foram negligenciados. Novas tecnologias e indústrias de alta tecnologia foram subdesenvolvidas e ainda mais prejudicadas pelas restrições ocidentais (o Comitê Coordenador para Controles Multilaterais de Exportação) à exportação de tecnologia moderna para o bloco soviético.
+
+Finalmente, em 1982, a Hungria se tornou a segunda nação do Bloco de Leste a ingressar no FMI. Este foi um erro tremendo, pois várias condições de empréstimo durante a década de 1980 acabaram contribuindo para o colapso do sistema socialista e sua substituição por uma tensão brutal do capitalismo.
+
+No geral, a economia húngara oferece várias lições para socialistas e comunistas modernos:
+1. O desenvolvimento econômico deve se concentrar na vantagem comparativa de uma dada nação, ao invés da dependência dogmática da indústria pesada.
+2. A produção de bens de consumo e um padrão de vida crescente são essenciais para ganhar (e manter) o apoio do povo.
+3. O sistema econômico socialista, quando adequadamente dirigido, é de fato capaz de transformar estados semifeudais em países desenvolvidos. As outras nações do Bloco de Leste (junto com a China) também provam isso.
+
+### Saúde e bem-estar social da Hungria
+Os cuidados de saúde na Hungria pré-comunista eram de baixa qualidade e a população sofria de problemas de saúde e baixa expectativa de vida. No entanto, após o estabelecimento da República Popular da Hungria, as condições de saúde começaram a melhorar significativamente. Relatórios da Divisão de Pesquisa Federal dos EUA:
+>Depois que o governo comunista assumiu o poder na Hungria, dedicou muita atenção ao atendimento das necessidades específicas de saúde e segurança social da população. Em comparação com os padrões anteriores à guerra, o cidadão médio recebeu cuidados de saúde e assistência social muito melhores como resultado da política do governo.
+
+As notas da Enciclopédia Britânica:
+>Após a Segunda Guerra Mundial, os cuidados de saúde melhoraram dramaticamente sob o socialismo estatal, com aumentos significativos no número de médicos e leitos hospitalares na Hungria. Na década de 1970, o atendimento médico gratuito era garantido a todos os cidadãos.
+
+O sistema de previdência social também melhorou significativamente, oferecendo cobertura à grande maioria dos trabalhadores da Hungria. A Divisão de Pesquisa Federal dos EUA observa:
+>No final da década de 1980, o sistema previdenciário do país cobria cerca de 85% da população em idade de aposentadoria. Trabalhadores do sexo masculino podiam se qualificar para pensões aos 60 anos, e as trabalhadoras aos 55.
+
+Esses avanços são confirmados pela Enciclopédia Britânica:
+>Uma ampla gama de serviços sociais foi fornecida pelo governo comunista, incluindo pensão alimentícia, extensa licença-maternidade e um sistema de aposentadoria para o qual os homens se tornaram elegíveis aos 60 anos e as mulheres aos 55.
+
+No entanto, essas melhorias no bem-estar social tiveram uma desvantagem estranha. À medida que as pessoas começaram a viver mais e o acesso ao bem-estar social foi expandido, o sistema foi colocado sob mais pressão. A Divisão de Pesquisa Federal dos EUA declara:
+>O número de aposentados havia aumentado rapidamente desde o final da Segunda Guerra Mundial, à medida que as pessoas viviam mais e a cobertura previdenciária se expandia para incluir segmentos adicionais da população.
+
+Além disso, vários males sociais, como o alcoolismo, começaram a representar um problema para a saúde pública:
+>Em meados da década de 1980, as autoridades também discutiam a crescente incidência de abuso de substâncias. A incidência de alcoolismo havia aumentado durante a geração anterior, e uma alta porcentagem de vítimas de suicídio eram alcoólatras. Em 1986, o consumo de álcool por pessoa por ano era de 11,7 litros; o consumo de bebidas fortes (4,8 litros por pessoa) era o segundo maior do mundo.
+
+Para agravar essas questões, o governo húngaro gastou uma porcentagem preocupantemente baixa do PIB em saúde:
+>Analistas ocidentais estimam que a Hungria gasta apenas 3,3% de seu produto interno bruto especificamente em serviços de saúde (os 6% listados na maioria dos dados estatísticos na verdade incluem alguns serviços sociais). Essa porcentagem foi a mais baixa de qualquer país do Leste Europeu, exceto a Romênia (em comparação, os Estados Unidos gastaram 11% do PIB em saúde).
+
+Apesar destes problemas, o sistema socialista na Hungria proporcionou objetivamente benefícios claros às pessoas em termos de saúde e bem-estar social. Existem várias lições importantes que podemos aprender com a experiência húngara:
+
+1. É essencial que os recursos adequados sejam dedicados à saúde e ao bem-estar social. A austeridade não beneficia ninguém nessas questões, porque o declínio resultante na qualidade e disponibilidade levará à instabilidade e inquietação, para não mencionar uma redução nos padrões de vida. A ditadura do proletariado deve colocar as necessidades e interesses do proletariado como prioridade máxima; caso contrário, qual é o ponto?
+2. Também é essencial que um governo socialista tome medidas para resolver problemas sociais como o alcoolismo e o vício em drogas, que contribuíram maciçamente para o declínio da saúde em todo o Bloco de Leste nas décadas de 1970 e 1980. A importância dessas questões pode ser vista comparando o Bloco de Leste com outras nações socialistas, como Cuba, que não tem problemas tão generalizados de abuso de substâncias e que tem visto melhorias constantes e estáveis ​​nos resultados de saúde por décadas (mesmo durante o período especial "após a queda da URSS).
+3. Apesar desses fatores, o sistema socialista na Hungria conseguiu melhorar muito a saúde da população, bem como o acesso dos trabalhadores ao bem-estar social. Essas melhorias não devem ser ignoradas.
+
+### Realizações educacionais da Hungria
+A Hungria pré-comunista tinha um sistema educacional altamente elitista, amplamente dominado por instituições religiosas. Relatórios da Divisão de Pesquisa Federal dos EUA:
+>Antes da tomada do poder pelos comunistas em 1947, a religião era a principal influência na educação. O status social e material dos alunos influenciava fortemente o tipo e a extensão da escolaridade que recebiam. A educação acima do nível elementar geralmente estava disponível apenas para a elite social do país. Nas escolas secundárias e superiores, apenas 5% dos alunos vinham de famílias de trabalhadores ou camponeses. Apenas cerca de 1% ou 2% de todos os alunos ingressaram no ensino superior.
+
+No entanto, depois que os comunistas chegaram ao poder, o sistema educacional foi drasticamente reformado. As notas da Enciclopédia Britânica:
+>Tudo isso mudou após a conquista comunista da Hungria após a Segunda Guerra Mundial. Em 1948, as escolas foram nacionalizadas e o estilo elitista alemão de educação foi substituído por uma educação de massa ao estilo soviético, consistindo em oito anos de escola geral e quatro anos de educação secundária. Este último consistia em escolas de segundo grau preparatórias para a faculdade que se aproximavam dos quatro anos superiores do gimnázium, bem como das escolas profissionais mais numerosas e diversificadas (technikumok) que preparavam os alunos para faculdades técnicas ou universidades, mas na maioria dos casos simplesmente levavam diretamente para o meio empregos de nível.
+
+O sistema educacional foi amplamente expandido. A Divisão de Pesquisa Federal dos EUA declara:
+>A frequência à escola era obrigatória dos seis aos dezesseis anos. Todos os alunos frequentaram escolas gerais por pelo menos oito anos. A mensalidade era gratuita para todos os alunos de seis anos de idade até o nível universitário. A maioria dos alunos realmente começou a estudar aos cinco anos de idade; em 1986, aproximadamente 92% de todas as crianças em idade de jardim de infância frequentavam 1 dos 4.804 jardins de infância do país. Em 1980, todas as cidades e dois terços das aldeias tinham jardins de infância. Os pais pagavam uma taxa pelos serviços pré-escolares com base na renda, mas essas instituições eram fortemente subsidiadas pelos conselhos locais ou empresas que as patrocinavam.
+
+Essas reformas tiveram sucesso em expandir drasticamente os padrões educacionais em toda a Hungria:
+>Em 1980, apenas 29% dos homens com 15 anos ou mais e 38% das mulheres com 15 anos ou mais não tinham concluído oito anos de escola geral, em comparação com 78% desses homens e 80% dessas mulheres em 1949. Cerca de metade dos alunos que concluíram as escolas gerais concluíram posteriormente a sua formação em dois anos, através da formação profissional e técnica. Os alunos restantes continuaram seus estudos em um ginásio de quatro anos ou escola comercial.
+
+No entanto, o sistema sofria de problemas semelhantes aos sistemas de saúde e previdência social. Especificamente, foi subfinanciado; a Hungria gastou uma porcentagem muito baixa do PIB em educação em comparação com outras nações, o que resultou em escassez:
+>Os críticos observaram, entre outras coisas, que embora a Suíça gastasse 18,8% de seu orçamento nacional em educação, o Brasil 18,4% e o Japão 19,2%, a Hungria destinava apenas 6,6% de seu orçamento estadual à educação. Na década de 1980, o país enfrentou escassez de salas de aula e professores, de modo que as classes do ensino fundamental às vezes continham até quarenta crianças. Em muitas áreas, as escolas tinham turnos matinais e vespertinos alternados para aumentar as instalações e o pessoal. Além disso, nem todos os professores receberam treinamento adequado.
+
+Assim, a principal lição que podemos aprender com a República Popular da Hungria nesta área é que a educação deve ser devidamente financiada, a fim de garantir que todas as pessoas tenham acesso a uma educação de qualidade suficiente. É essencial que sejam disponibilizados suprimentos suficientes, bem como recursos para contratar e treinar pessoal suficiente.
+
+### Nostalgia pós-comunista na Hungria
+Apesar das questões da República Popular da Hungria, muitas pessoas na Hungria desde então anseiam pelo retorno do sistema socialista. Uma pesquisa conduzida pelo Pew Research Center encontrou o seguinte:
+>Notáveis ​​72% dos húngaros dizem que a maioria das pessoas em seu país está realmente pior economicamente hoje do que sob o comunismo. Apenas 8% dizem que a maioria das pessoas na Hungria está em melhor situação e 16% dizem que as coisas estão quase iguais.
+
+Mesmo as fontes de notícias reacionárias foram incapazes de ignorar a opinião favorável que muitos húngaros têm do antigo sistema socialista. O Daily Mail (um dos jornais de direita mais linha-dura da Grã-Bretanha) publicou um artigo de uma mulher da Hungria, que fez algumas declarações interessantes:
+>Quando as pessoas me perguntam como foi crescer atrás da Cortina de Ferro na Hungria nas décadas de 1970 e 1980, a maioria espera ouvir histórias de polícia secreta, filas de pão e outras manifestações desagradáveis ​​da vida em um Estado de partido único.
+>
+>Eles ficam invariavelmente desapontados quando eu explico que a realidade era bem diferente, e a Hungria comunista, longe de ser o inferno na terra, era na verdade um lugar divertido para se viver.
+>
+>Os comunistas proporcionaram a todos emprego garantido, boa educação e saúde gratuita. O crime violento era praticamente inexistente.
+
+O autor observa que a vida cultural foi expandida para incluir todos os húngaros, não apenas as classes altas:
+>A cultura era considerada extremamente importante pelo governo. Os comunistas não queriam restringir as coisas boas da vida às classes alta e média - o melhor da música, literatura e dança eram para todos desfrutarem.
+>
+>Isso significava que subsídios generosos eram dados a instituições, incluindo orquestras, óperas, teatros e cinemas. Os preços dos ingressos eram subsidiados pelo Estado, tornando acessíveis as visitas à ópera e ao teatro.
+>
+>'Casas culturais' foram abertas em cada cidade e vila, para que as pessoas da classe trabalhadora provinciana, como meus pais, pudessem ter fácil acesso às artes cênicas e aos melhores artistas.
+
+Ela observa que a publicidade e a cultura consumista eram praticamente inexistentes na Hungria:
+>Embora vivêssemos bem sob o "comunismo goulash" e sempre houvesse comida suficiente para comermos, não fomos bombardeados com propaganda de produtos de que não precisávamos.
+
+Ela lamenta que as perspectivas da classe trabalhadora comum do Bloco Oriental sejam normalmente ignoradas pelo Ocidente:
+>Quando o comunismo na Hungria acabou em 1989, não fiquei apenas surpresa, mas triste, como muitos outros. Sim, havia gente marchando contra o governo, mas a maioria das pessoas comuns - eu e minha família incluída - não participou dos protestos.
+>
+>Nossa voz - a voz daqueles cujas vidas foram melhoradas pelo comunismo - raramente é ouvida quando se trata de discussões sobre como era a vida atrás da Cortina de Ferro.
+>
+>Em vez disso, os relatos que ouvimos no Ocidente são quase sempre da perspectiva de emigrados ricos ou dissidentes anticomunistas com um machado para moer.
+
+Finalmente, ela observa que as perdas da era pós-comunista excederam em muito qualquer ganho potencial:
+>As pessoas não têm mais segurança no emprego. A pobreza e o crime estão aumentando. A classe trabalhadora não pode mais se dar ao luxo de ir à ópera ou ao teatro. Como na Grã-Bretanha, a TV se emburreceu a um grau preocupante - ironicamente, nunca tivemos o Big Brother sob o comunismo, mas o temos hoje.
+>
+>O mais triste de tudo é que o espírito de camaradagem de que gostávamos quase desapareceu. Nas últimas duas décadas, podemos ter ganhado shoppings, 'democracia' multipartidária, telefones celulares e internet. Mas perdemos muito mais.
+
+Ao realmente ouvir os relatos de pessoas que viveram sob o socialismo, bem como examinar as pesquisas, podemos ver o que a classe trabalhadora realmente sente sobre o socialismo, bem como sobre o capitalismo implacável que o sucedeu.
+
+### Conclusão sobre a Hungria
+
+A República Popular da Hungria era uma nação interessante, que tinha uma série de falhas, mas mesmo assim proporcionava um alto padrão de vida ao seu povo. É lembrado com carinho por aqueles que viveram sob ele, e suas conquistas, embora geralmente ignoradas no Ocidente, não devem passar despercebidas por quem se diz socialista ou comunista. Devemos estudar a Hungria (junto com todas as outras nações socialistas) para aprender as lições importantes que ela tem a oferecer.
+
+Fontes:
+- [US Federal Research Division | Hungary: A Country Study](https://www.loc.gov/item/90006426/)
+- [Encyclopedia Britannica | Hungary](https://www.britannica.com/place/Hungary/Health-and-welfare#ref34853)
+- [Pew Research Center | Hungary: Better Off Under Communism?](https://www.pewresearch.org/fact-tank/2010/04/28/hungary-better-off-under-communism/)
+- [Daily Mail | Life in Communism Hungary](https://www.dailymail.co.uk/news/article-1221064/Oppressive-grey-No-growing-communism-happiest-time-life.html)
+
+## A Alemanha Oriental
+Ao longo de seus 41 anos de existência, a República Democrática Alemã (RDA/GDR/DDR) se viu constantemente no centro da Guerra Fria. O Muro de Berlim, criado para separar Berlim Oriental da Berlim Ocidental controlada pela FRG, rapidamente se tornou o símbolo mais famoso do conflito. Apesar disso, a maioria das pessoas (incluindo a maioria dos socialistas) sabe relativamente pouco sobre esta nação; como sua economia funcionava, que tipo de vida deu ao seu povo, etc. No entanto, à luz dos eventos recentes, como estudos que descobriram que [57% dos alemães orientais têm uma visão positiva da RDA](https://www.spiegel.de/international/germany/homesick-for-a-dictatorship-majority-of-eastern-germans-feel-life-better-under-communism-a-634122.html), muitas pessoas ficaram mais curiosas sobre neste país específico.
+
+### Antecedentes históricos e condições iniciais (Segunda Guerra Mundial e era pré-guerra) da Alemanha Oriental
+A Segunda Guerra Mundial deixou a Alemanha uma sombra de seu antigo eu. Cidades foram arrasadas e a economia totalmente devastada. A Alemanha Oriental, em particular, estava em séria desvantagem; na verdade, a disparidade de riqueza entre a Alemanha Oriental e Ocidental já existia muito antes do estabelecimento da RDA. De acordo com um [estudo](https://www.deepdyve.com/lp/ou-press/the-roots-of-economic-failure-what-explains-east-germany-s-falling-A6wSaF2DRj?key=OUP) no European Journal of Economic History:
+>A "Grande Divergência" entre Oriente e Ocidente em eficiência industrial não começou em 1948, quando o desenvolvimento institucional das duas partes do país tomou rumos fundamentalmente diferentes. Os principais fatores que contribuem para essa divergência já estavam presentes anteriormente.
+
+A Alemanha Oriental sempre foi muito menos industrializada do que a Alemanha Ocidental e, como tal, dependeu muito do Ocidente para suas necessidades econômicas. De acordo com o [estudo](https://archive.org/details/eastgermanycount00bura_0) da Divisão de Pesquisa Federal dos EUA sobre a Alemanha Oriental:
+>Antes da Segunda Guerra Mundial, a área que mais tarde se tornou a Alemanha Oriental não era bem desenvolvida industrialmente. Como essa área carecia de matéria-prima, a indústria pesada geralmente estava localizada em outras partes do estado alemão. Para agravar os problemas para o recém-criado estado da Alemanha Oriental em 1949 estava a destruição maciça durante a Segunda Guerra Mundial da planta industrial que existia lá e o subsequente desmantelamento soviético e remoção das fábricas e equipamentos que haviam sobrevivido à guerra. [...] Durante os anos entre guerras, o território que agora é a Alemanha Oriental era profundamente dependente de laços econômicos externos. Em meados da década de 1930, foi despachado quase metade de sua produção total para outras partes da Alemanha. Esse comércio interno envolvia vendas de produtos agrícolas; têxteis; produtos da indústria leve, como câmeras, máquinas de escrever e equipamentos ópticos; e compras de bens e equipamentos industriais.
+
+Em outras palavras, a Alemanha Oriental dependia totalmente do Ocidente para suas necessidades industriais pesadas e pagava por essas necessidades vendendo seus produtos agrícolas e industriais leves. No entanto, após a guerra, esse equilíbrio entre o Oriente e o Ocidente foi prejudicado. De acordo com a Divisão de Pesquisa Federal dos EUA:
+>Grandes deslocamentos ocorreram após a Segunda Guerra Mundial, quando a Alemanha foi dividida em duas seções, uma parte dominada pela União Soviética e a outra pelos Aliados Ocidentais. Por não poder mais contar com seu antigo sistema de comércio interno e externo, a Zona de Ocupação Soviética teve de ser reestruturada e tornada mais autossuficiente por meio da construção de uma indústria básica.
+
+Este não foi um feito pequeno para a RDA incipiente, especialmente visto que ela não recebeu praticamente nenhuma ajuda econômica em grande escala da URSS (que estava ocupada demais se reconstruindo após a Segunda Guerra Mundial para se preocupar em injetar dinheiro na Alemanha Oriental - e a COMECON se parece mais com um Mercosul do que com um Plano Marshall). Além disso, a RDA teve de pagar pesadas indenizações à URSS pelos danos causados ​​durante a Segunda Guerra Mundial. Isso atuou como um grande obstáculo ao desenvolvimento. De acordo com o The East German Economy, 1945-2010, publicado pelo German Historical Institute, as reparações diretas e indiretas pagas pela Alemanha Oriental entre 1946 e 1953 totalizaram $14 bilhões a preços de 1938. Outra declaração sobre isso é encontrada no estudo da Divisão de Pesquisa Federal dos EUA:
+>A reorientação e reestruturação da economia da Alemanha Oriental teria sido difícil em qualquer caso. Os substanciais custos de reparação que a União Soviética impôs à sua zona ocupada e, mais tarde, à Alemanha Oriental, tornaram o processo ainda mais difícil. Os pagamentos continuaram no início dos anos 1950, terminando apenas com a morte de Stalin. De acordo com estimativas ocidentais, esses pagamentos totalizaram cerca de 25% da produção total da Alemanha Oriental até 1953.
+
+Isso está em contraste direto com o Ocidente, que recebeu grandes investimentos de ajuda dos Estados Unidos - nada afetado pela Guerra - como parte do Plano Marshall, bem como relações comerciais lucrativas com as nações desenvolvidas.
+
+### Crescimento econômico e desenvolvimento industrial da Alemanha Oriental
+Apesar de todas as desvantagens significativas acima mencionadas, a economia da Alemanha Oriental conseguiu superar suas dificuldades e se desenvolver a um ritmo impressionantemente rápido. Embora a RFA tenha uma economia geral maior do que a RDA, há um argumento real de que a RDA alcançou uma taxa de crescimento mais rápida. Talvez o [estudo](https://www.ssoar.info/ssoar/bitstream/handle/document/28587/ssoar-hsrsupp-2009-no_21-heske-volkswirtschaftliche_gesamtrechnung_ddr_1950-1989.pdf) mais extenso sobre esse tópico tenha sido feito por Gerhard Heske, publicado na revista Historical Social Research in Germany; no entanto, visto que este estudo tem cerca de trezentas páginas, citarei um [artigo](http://www.memo.uni-bremen.de/docs/m3309.pdf) de resumo da Universidade de Bremen:
+>De 1951 a 1989, a RDA atingiu uma taxa média de crescimento do PIB de 4,5%, a FRG de 4,3%. De 1961 a 1985, essas taxas de crescimento foram maiores na RDA do que na RFA.
+
+A indústria pesada cresceu especialmente rapidamente. De acordo com a Divisão de Pesquisa Federal dos EUA:
+>Durante a década de 1950, a Alemanha Oriental fez um progresso econômico significativo, pelo menos conforme indicado pelos números brutos. Em 1960, o investimento havia crescido por um fator de cerca de 4,5, enquanto a produção industrial bruta havia aumentado por um fator de cerca de 2,9. Dentro dessa ampla categoria de produção industrial, os setores básicos, como máquinas e equipamentos de transporte, cresceram de forma especialmente rápida, enquanto os setores de consumo, como os têxteis, ficaram para trás.
+
+Apesar da prioridade dada à indústria pesada, o consumo também aumentou de forma constante neste período:
+>O consumo cresceu significativamente nos primeiros anos, embora a partir de uma base muito baixa, e apresentou taxas de crescimento respeitáveis ​​ao longo de toda a década.
+
+No final da década de 1950, alguns analistas temiam uma crise econômica no Oriente, impulsionada pela "fuga de cérebros" do Oriente para o Ocidente; no entanto, isso não ocorreu, e a economia da Alemanha Oriental continuou a crescer de forma impressionante na década de 1960. Relatórios da Divisão de Pesquisa Federal dos EUA:
+>No final da década de 1950, o pessimismo sobre o futuro parecia bastante apropriado. Surpreendentemente, no entanto, após a construção do Muro de Berlim e vários anos de consolidação e realinhamento, a Alemanha Oriental entrou em um período de crescimento econômico impressionante que produziu claros benefícios para o povo. Para os anos 1966-1970, o PIB e a renda nacional cresceram a taxas médias anuais de 6,3% e 5,2%, respectivamente. Simultaneamente, o investimento cresceu a uma taxa média anual de 10,7%, o comércio varejista em 4,6% e a renda per capita real de 4,2%.
+
+Esse crescimento continuou ao longo da próxima década:
+>A partir de 1970, as taxas de crescimento nos vários setores da economia não diferiam muito daquelas da década anterior. A produção atingiu cerca de 140% a 150% dos níveis da década anterior. As taxas de crescimento da produção resultaram em aumentos substanciais no consumo pessoal. Durante a década de 1970, a economia da Alemanha Oriental como um todo teve um crescimento relativamente forte e estável. Em 1971, o primeiro secretário Honecker declarou que a "elevação do padrão de vida material e cultural" da população era uma "tarefa principal" da economia; o consumo pessoal cresceu a uma taxa média anual de 4,8% de 1971 a 1975 e 4,0% de 1976 a 1980. O Plano Quinquenal de 1976-1980 alcançou uma taxa média de crescimento anual de 4,1 por cento.
+
+A década de 1980 viu algumas dificuldades econômicas para a RDA, à medida que os bancos ocidentais restringiam o crédito para o Leste e a URSS reduzia as entregas de petróleo em dez por cento. Isso levou a um período de crescimento lento, à medida que a RDA se apressava em aumentar as exportações; apesar disso, a economia conseguiu se recuperar e entregar resultados de crescimento impressionantes durante este período (embora tenha ficado aquém do planejado). Relatórios da Divisão de Pesquisa Federal dos EUA:
+>O período do plano de 1981-1985 provou ser um momento difícil para a economia da Alemanha Oriental... No entanto, no final do período, a economia registrou um desempenho geral respeitável, com uma taxa média de crescimento anual de 4,5% (o plano meta tinha sido de 5,1% por cento).
+
+Os impactos gerais da estratégia de industrialização da RDA foram extremamente positivos. Conforme relatado pela Divisão de Pesquisa Federal dos EUA em 1988:
+>A indústria é o setor dominante da economia da Alemanha Oriental e é a principal base para um padrão de vida relativamente alto. A Alemanha Oriental está entre as principais nações industrializadas do mundo e, no Comecon, fica atrás apenas da União Soviética.
+
+Um resumo geral do desempenho econômico da Alemanha Oriental também pode ser encontrado no relatório mencionado:
+>A economia da República Democrática Alemã (Alemanha Oriental) desenvolveu-se de forma impressionante desde sua fundação em 1949. Por quase todos os indicadores, ela está no topo do mundo socialista em desenvolvimento e desempenho econômico [...] A condição da economia é ainda mais notável quando se considera as circunstâncias em que se desenvolveu. O país foi devastado durante a Segunda Guerra Mundial. Posteriormente, a ocupação soviética do território da Alemanha Oriental sobrecarregou pesadamente a população e os recursos. Além disso, a divisão das terras alemãs após a guerra afetou seriamente a economia. A capacidade da indústria pesada da Alemanha Oriental era muito baixa e seus suprimentos de matéria-prima, com exceção de carvão de linhita (baixo teor) e potássio, eram quase inexistentes. O fato de que o país por muitos anos não teve reconhecimento internacional como um Estado soberano certamente não contribuiu para o crescimento econômico, e sua perda de população antes da construção do Muro de Berlim foi um dreno significativo de recursos de trabalho.
+
+No geral, o sistema socialista na RDA conseguiu industrializar a nação em um ritmo rápido, permitindo que o país se sustentasse sem constantes infusões do Ocidente. Ela fez isso apesar das inúmeras desvantagens acima mencionadas, um feito que deve ser comemorado.
+
+### Aumentos no padrão de vida da Alemanha Oriental
+O sistema socialista na RDA não só teve sucesso no desenvolvimento rápido da nação; também proporcionou uma qualidade de vida cada vez maior para as pessoas. Relatórios da Divisão de Pesquisa Federal dos EUA:
+>O padrão de vida da Alemanha Oriental melhorou muito desde 1949 [quando a RDA foi criada]. A maioria dos observadores, tanto do Oriente como do Ocidente, concorda que na década de 1980 os alemães orientais desfrutavam do mais alto padrão de vida na Europa Oriental. Grandes melhorias ocorreram, especialmente após 1971, quando o regime de Honecker anunciou seu compromisso de cumprir a "tarefa principal" da economia, que era definida como a melhoria do bem-estar material e cultural de todos os cidadãos.
+
+Este enfoque no aumento da qualidade de vida para todos os cidadãos, ao invés de fornecer lucro para a classe capitalista, é uma característica única do sistema socialista, que proporcionou melhoria contínua dos padrões de vida. A Divisão de Pesquisa Federal dos EUA declara:
+>Desde o início do regime, o rendimento mensal do rendimento médio da Alemanha Oriental aumentou de forma constante em termos de poder de compra efetivo. De acordo com o anuário estatístico da Alemanha Oriental de 1986, a renda média mensal dos trabalhadores no setor socializado da economia aumentou de 311 marcos da RDA em 1950 para 555 marcos da RDA em 1960, 755 marcos da RDA em 1970 e 1.130 marcos da RDA em 1985. Porque a maioria dos preços ao consumidor permaneceram estáveis ​​durante esse tempo; os números de 1985 representaram um aumento melhor do que três vezes maior nos últimos 35 anos.
+
+Os subsídios estatais significaram que as necessidades básicas (alimentação, habitação, etc.), serviços públicos (saúde, educação, etc) e até pequenos luxos (refeições em restaurantes, concertos, etc) eram todos notavelmente baratos, especialmente quando comparados com a capitalista Ocidental. Relatórios da Divisão de Pesquisa Federal dos EUA:
+>Na Alemanha Oriental, o marco da RDA pode comprar um grande número de bens de primeira necessidade porque o estado subsidia sua produção e distribuição ao povo. Assim, a habitação, que consome uma porção considerável dos rendimentos de uma família média no Ocidente, constituía menos de 3% das despesas de uma família típica de trabalhadores em 1984. Leite, batatas, pão e transporte público também eram relativamente baratos. Muitos serviços, como assistência médica e educação, continuaram disponíveis sem custo para todos, exceto para poucos. Até refeições em restaurantes, shows e selos postais eram baratos para os padrões ocidentais. Em meados da década de 1980, os alemães orientais não tinham dificuldade em obter carne, manteiga, batatas, pão, roupas e muitos outros itens essenciais.
+
+A situação da habitação também melhorou muito:
+>Começando na década de 1960, o governo iniciou uma grande campanha para fornecer instalações habitacionais modernas; buscou eliminar a longa escassez de moradias e modernizar totalmente o estoque existente até 1990. No início da década de 1980, o programa havia fornecido quase 2 milhões de unidades novas ou reformadas, e mais 2 milhões deveriam ser acrescentados em 1990. Em 1985, o progresso nesta área parecia ser satisfatório e as metas do plano estavam sendo cumpridas ou excedidas.
+
+A situação em termos de bens de consumo também estava melhorando; a Divisão de Pesquisa Federal dos Estados Unidos relata que, em 1985, na RDA, 99% das famílias tinham geladeira, 92%, máquina de lavar e 93%, televisão. Esses números são comparáveis ​​aos dos Estados Unidos em 2016 (embora a propriedade de máquinas de lavar fosse maior e a de TV ligeiramente menor na RDA).
+
+Os economistas sempre pensaram que o marco da RDA era mais fraco em termos de poder de compra do que o marco da Alemanha Ocidental; no entanto, um estudo do Instituto de Pesquisa Econômica de Berlim Ocidental (conforme relatado pela Divisão de Pesquisa Federal dos EUA) refutou essa ideia:
+>Em 1983, o Instituto de Pesquisa Econômica de Berlim Ocidental empreendeu um de seus estudos periódicos em que o poder de compra do marco da RDA era medido em comparação com o marco da Alemanha Ocidental. O Instituto concluiu que, como um todo, o marco da GDR deve ser considerada como tendo 106% do valor do marco da Alemanha Ocidental em poder de compra, um ganho impressionante sobre os 76% estimados para 1960, 86% para 1969 e 100% para 1977. A análise claramente invalidou o opinião comum no Ocidente de que o marco da RDA tinha muito pouco poder de compra.
+
+No geral, o sistema socialista na RDA conseguiu aumentar de forma constante e rápida a qualidade de vida das pessoas, apesar das inúmeras desvantagens que o país enfrentou.
+
+### Saúde na Alemanha Oriental
+A RDA ofereceu tratamento médico gratuito ao seu povo. Este sistema permitiu que a Alemanha Oriental acompanhasse a Alemanha Ocidental em termos de condições de saúde, apesar de esta última ser mais rica (em virtude de suas extensas relações comerciais com as nações desenvolvidas). Um [estudo](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4193657/) publicado na Health Care Financing Review (uma publicação afiliada ao governo dos EUA) relata:
+>Em termos de recursos reais destinados aos serviços de saúde e em termos de atividades de serviços de saúde, os dois países parecem ter sido bastante semelhantes. A RDA foi relatada como tendo 2,3 médicos por mil em 1985 (Organização Mundial da Saúde, 1987), em comparação com 2,6 no RFA. Em 1977, a RDA tinha 10,6 leitos hospitalares por mil, em comparação com 11,8 na RFA, e ambos os países tinham níveis semelhantes de dentistas e farmacêuticos por mil. O tempo de internação hospitalar foi relatado como semelhante nos dois países. Dado que os leitos hospitalares por mil eram semelhantes, isso sugere que as taxas de admissão não eram muito diferentes. Finalmente, as taxas de consulta com médicos parecem ter sido semelhantes nos dois países: 9,0 por pessoa na RDA em 1976 e 10,9 por pessoa na RFA em 1975 (Health OECD: Facts and Trends, a ser publicado).
+
+O estudo confirma o custo muito mais baixo dos cuidados de saúde na Alemanha Oriental:
+>Se a RDA desfrutava de um volume de serviços de saúde semelhante ao da RFA, mas tinha despesas de saúde per capita muito mais baixas, então os preços dos serviços de saúde deveriam ser muito mais baixos na RDA.
+
+A RDA manteve altos padrões de saúde, que melhoraram continuamente e, em alguns casos, mais rápido do que os do Ocidente (embora começando em um nível inferior; a Alemanha Oriental sempre foi pior em termos de saúde do que o Ocidente). O estudo acima mencionado afirma:
+>Quanto ao estado de saúde, em 1987, a expectativa de vida relatada ao nascer no leste da Alemanha, 69,9 anos para homens e 76,0 para mulheres, não ficava muito atrás daquela da Alemanha Ocidental de 72,2 para homens e 78,9 para mulheres. A taxa de mortalidade infantil, que era de 7,2 por 100 em 1950, caiu para 0,92 em 1986. Embora a taxa de mortalidade infantil fosse superior à da Alemanha Ocidental em 1986 (0,85), a queda desde 1950 foi maior.
+
+De modo geral, os padrões de saúde na Alemanha Oriental eram altamente respeitáveis, especialmente quando se lembram das desvantagens que a RDA enfrentava, bem como o fato de que os cuidados de saúde eram gratuitos para todas as pessoas, o que não se pode dizer o mesmo do Ocidente.
+
+### Educação e cuidados infantis na Alemanha Oriental
+O sistema educacional na RDA era muito sólido. Por um lado, havia amplo acesso aos serviços de pré-escola e jardim de infância. De acordo com a Divisão de Pesquisa Federal dos EUA:
+>A frequência ao jardim de infância não era obrigatória, mas a maioria das crianças de três a seis anos frequentava. O estado considerava os jardins de infância um elemento importante do programa educacional geral. As escolas enfocavam a saúde e a boa forma física, o desenvolvimento de valores socialistas e o ensino de habilidades rudimentares. O regime fez experiências com escolas combinadas de creches e jardins de infância, que introduzem a criança gradualmente em um programa de atividades mais organizado e aliviam as dores do ajuste. Em 1985, havia 13.148 pré-escolas que cuidavam de 788.095 crianças (cerca de 91% das crianças elegíveis para frequentar).
+
+Após o jardim de infância, as crianças entravam na fase obrigatória de educação:
+>A educação obrigatória começou aos seis anos, quando todas as crianças ingressaram na escola politécnica geral mista de dez anos. O programa foi dividido em três seções. O estágio primário incluiu da primeira à terceira série, onde as crianças aprenderam as habilidades básicas de leitura, escrita e matemática. O estágio primário também apresentou às crianças os fundamentos da boa cidadania e, de acordo com a lei de educação de 1965, proporcionou-lhes "o primeiro conhecimento e compreensão da natureza, do trabalho e da sociedade socialista". O ensino enfatizou a língua, a literatura e a arte alemãs como meio de desenvolver as habilidades expressivas e linguísticas da criança; cerca de 60% do tempo da sala de aula foi dedicado a este componente. O ensino da matemática representava cerca de 24% do currículo e incluía uma introdução às leis e relações matemáticas fundamentais. Outros 8 por cento eram dedicados à educação física, que compreendia exercícios, jogos e atividades destinadas a desenvolver a coordenação e habilidade física. A instrução politécnica também foi iniciada no nível primário e consistia em jardinagem e artesanato que davam à criança uma apreciação básica da tecnologia, da economia e do trabalhador; cerca de 8% do tempo da sala de aula era destinado a esse tipo de instrução.
+
+Depois de concluir o ensino obrigatório, os alunos tinham várias opções:
+>Após a conclusão da escolaridade obrigatória de dez anos, o aluno tinha essencialmente três opções. A opção escolhida com mais frequência foi iniciar um período de formação profissional de dois anos. Em 1985, cerca de 86% dos que haviam concluído o curso de dez anos começaram algum tipo de treinamento vocacional. Durante a formação profissional, o aluno tornou-se aprendiz, geralmente em uma empresa local ou estadual. Os alunos receberam dezoito meses de treinamento em vocações selecionadas e especialização nos últimos seis meses. Em 1985, aproximadamente 6% dos que haviam concluído sua educação politécnica ingressaram em um programa de treinamento vocacional de três anos. Este programa levou ao Abitur, ou exame de fim de ano escolar. A aprovação no Abitur permitia que o aluno se inscrevesse em um instituto técnico ou universitário, embora esse caminho para o ensino superior fosse considerado muito difícil. Em 1985, a Alemanha Oriental tinha um total de 963 escolas profissionais; 719 eram vinculados a indústrias e outros 244 eram escolas profissionais municipais. As escolas profissionais atenderam 377.567 alunos.
+
+Os alunos tiveram um emprego garantido ao completar a escolaridade obrigatória de dez anos:
+>O principal objetivo do sistema educacional era produzir pessoal tecnicamente qualificado para atender às necessidades de mão de obra da economia. O governo garantiu emprego para aqueles que concluíram o programa obrigatório de dez anos.
+
+O sistema universitário também era de alta qualidade e a frequência era extremamente barata (embora os requisitos de admissão fossem muito competitivos):
+>Em 1985, a Alemanha Oriental tinha 54 universidades e faculdades, com um total de matrículas de 129.628 alunos. As mulheres representavam cerca de 50% da população estudantil. Os cursos de engenharia e tecnologia encabeçam a lista das disciplinas populares. Medicina, economia e educação também foram escolhas populares. Existiam 239 instituições técnicas, com uma população estudantil total de 162.221. Cerca de 61% dos alunos estudavam em tempo integral, enquanto o restante se matriculava em estudos por correspondência ou tinha aulas noturnas. Os três campos de estudo mais populares nos institutos eram medicina e saúde, engenharia e tecnologia e economia. Os cursos na universidade e institutos técnicos consistiam principalmente de palestras e exames. A conclusão do programa confere um diploma ou licença, dependendo da área de estudo.
+>
+>Em meados da década de 1980, o ensino superior era muito barato e muitos dos livros didáticos eram fornecidos gratuitamente. Assistência financeira total ou parcial na forma de bolsas de estudo estava disponível para a maioria dos alunos, e as despesas de subsistência eram geralmente mínimas porque a maioria dos alunos continuava morando em casa durante os cursos. Os alemães têm grande consideração pela educação, e o regime geralmente tem apoiado os jovens que desejam melhorar seu nível de habilidades por meio de treinamento ou educação.
+
+No geral, o sistema educacional na República Democrática Alemã era de alta qualidade e amplamente acessível a todos.
+
+### Direitos das mulheres na Alemanha Oriental
+A RDA teve um histórico notavelmente forte na proteção dos direitos das mulheres, muito mais forte do que o Ocidente capitalista. De acordo com a Divisão de Pesquisa Federal dos EUA:
+>O histórico da Alemanha Oriental na área dos direitos das mulheres tem sido bom. As mulheres estão bem representadas no mercado de trabalho, compreendendo cerca de metade da população economicamente ativa. Em 1984, aprox. 80% das mulheres em idade produtiva (entre dezoito e sessenta) estavam empregadas. O estado encorajou as mulheres a procurar trabalho e carreiras e forneceu ajuda às mães que trabalham na forma de centros generosos de benefícios de maternidade.
+
+O acesso das mulheres à educação era muito forte na RDA, novamente muito mais forte do que no Ocidente capitalista:
+>O estado também tem feito um esforço concentrado para oferecer oportunidades educacionais para mulheres. O número de mulheres com formação universitária ou técnica tem aumentado ao longo dos anos. Dos alunos matriculados em universidades e faculdades em 1985, cerca de 50% eram mulheres.
+
+O controle da natalidade estava amplamente disponível e gratuito, e o aborto estava disponível mediante solicitação da mulher. Relatórios da Divisão de Pesquisa Federal dos EUA:
+>Uma lei liberal de aborto, promulgada em 1972 em meio a protestos de círculos religiosos, permite o aborto a pedido da mãe. Em meados da década de 1980, informações sobre métodos anticoncepcionais estavam disponíveis ao público e as mulheres podiam obter pílulas anticoncepcionais gratuitamente .
+
+Além disso, o estado buscou prestar assistência às mães que trabalham por meio de um sistema de creche altamente desenvolvido:
+>Uma elaborada rede de creches cuida da criança enquanto a mãe está trabalhando. Em 1984, havia 6.605 creches durante todo o ano, com capacidade para 296.653 crianças. Essas creches cuidavam de 63% das crianças elegíveis.
+
+No geral, a situação das mulheres na Alemanha Oriental era muito melhor do que na Alemanha Ocidental, e o histórico de direitos das mulheres da RDA era bastante impressionante.
+
+### O desastre de 1989
+A maioria das pessoas no Ocidente imagina a queda da RDA como uma época de euforia e liberdade generalizadas; no entanto, para milhões de pessoas na Alemanha Oriental, isso estava longe de ser o caso. Um excelente relato dessa época foi escrito por Bruni de la Motte, uma mulher da Alemanha Oriental que desde então se tornou negociadora sindical britânica. Em seu [artigo](https://www.theguardian.com/commentisfree/2009/nov/08/1989-berlin-wall) (publicado no The Guardian), ela relata que o desemprego generalizado e a miséria ocorreram após a queda do comunismo:
+>Pouco se sabe aqui [no Ocidente] sobre o que aconteceu à economia da RDA quando o muro caiu. Assim que a fronteira foi aberta, o governo decidiu estabelecer uma tutela para garantir que as "empresas públicas" (a maioria dos negócios) fossem transferidas para os cidadãos que criaram a riqueza. No entanto, alguns meses antes da unificação, o governo conservador recém-eleito entregou a tutela a nomeados da Alemanha Ocidental, muitos representando interesses de grandes empresas. A ideia de ativos "de propriedade pública" serem transferidos para os cidadãos foi silenciosamente abandonada. Em vez disso, todos os ativos foram privatizados em uma velocidade vertiginosa. Mais de 85% foram comprados por alemães ocidentais e muitos foram fechados logo depois. No campo, 1,7 milhão de hectares de terras agrícolas e florestais foram vendidos e 80% dos trabalhadores agrícolas perderam o emprego.
+
+Outro [artigo](https://www.theguardian.com/world/2015/oct/02/german-reunification-25-years-on-how-different-are-east-and-west-really) do The Guardian relata o impacto de longo prazo que isso teve na economia da Alemanha Oriental, observando que praticamente não houve avanço na taxa de produtividade Ocidente-Oriente desde 1991:
+>A produtividade no antigo oriente era 70% da do ocidente em 1991 e subiu para apenas 73% em 2012, em parte um legado do número de fábricas que foram compradas por industriais da Alemanha Ocidental e deliberadamente faliram para a concorrência escassa. Especialistas dizem que o fato de que a maior parte da grande indústria e bases de produção estão no ocidente e que as do oriente são muito menores - com a maioria dos empregadores na agricultura ou nas indústrias de serviços, como processamento de carne e call centers - terá um longo efeito de longo prazo de cada vez mais reter a economia no oriente e garantir que a discrepância salarial permaneça e provavelmente piore.
+
+Bruni de la Motte observa que uma purificação em massa da vida acadêmica e profissional ocorreu após a queda do comunismo:
+>Um grande número de trabalhadores comuns perdeu seus empregos, mas também milhares de pesquisadores e acadêmicos. Como resultado do expurgo da academia, dos estabelecimentos de pesquisa e científicos em um processo de veto político, mais de um milhão de indivíduos com diplomas perderam seus empregos. Isso constituía cerca de 50% desse grupo, criando na Alemanha Oriental a maior porcentagem de desemprego profissional do mundo; todos os reitores universitários e diretores de empresas estatais, bem como 75.000 professores, perderam seus empregos e muitos foram colocados na lista negra. Esse processo estava em total contraste com o que aconteceu na Alemanha Ocidental após a guerra, quando poucos ex-nazistas foram tratados dessa maneira.
+
+Uma crise de habitação, bem como a apreensão em massa das casas dos trabalhadores, também ocorreu:
+>Na RDA, todos tinham garantia legal de posse e propriedade das propriedades onde moravam. Após a unificação, 2,2 milhões de reclamações de cidadãos não-pertencentes à RDA [e pertencentes à RFA em sua maioria], foram feitas em suas casas. Muitos perderam suas casas em que viveram por décadas; muitos cometeram suicídio em vez de desistir delas. Ironicamente, os pedidos de restituição ao contrário, pelos alemães orientais sobre propriedades no Ocidente, foram rejeitados como "fora do tempo".
+
+Ela observa que, desde a queda do comunismo, muitas pessoas passaram a apreciar os benefícios que o socialismo oferecia:
+>Desde o fim da RDA, muitos passaram a reconhecer e lamentar que as "conquistas sociais" genuínas de que desfrutaram foram desmanteladas: igualdade social e de gênero, pleno emprego e falta de medos existenciais, bem como aluguéis subsidiados, transporte público, cultura e instalações desportivas. Infelizmente, o colapso da RDA e do "socialismo de estado" ocorreu pouco antes do colapso do sistema de "livre mercado" no Ocidente.
+
+Isso é apoiado pelo fato de que (como mencionado acima) 57% dos ex-alemães orientais dizem que a vida era melhor sob o comunismo. Para leituras mais profundas de Bruni de la Motte, recomendo seu livro Stasi Hell or Workers' Paradise? Socialism in the GDR - What Can We Learn From It? Este livro apresenta uma avaliação honesta dos sucessos e fracassos da República Democrática Alemã da perspectiva de alguém que realmente cresceu, foi para a escola, trabalhou e criou uma família lá.
+
+### Conclusão sobre a Alemanha Oriental
+A República Democrática Alemã não era uma sociedade perfeita e não é sensato fingir que sim; no entanto, proporcionou um alto padrão de vida para seu povo, juntamente com uma forte segurança econômica e social. Garantia de emprego, moradia, saúde e educação, além de subsídios para as necessidades básicas; fortes proteções para os direitos das mulheres e crianças; atividades culturais de baixo custo e amplamente disponíveis, como teatros e concertos; esses são benefícios dos quais muitos milhões de pessoas passaram a sentir muita falta nos anos desde a queda da RDA.
+
+Talvez o melhor resumo desse tópico complexo seja dado por Bruni de la Motte, na conclusão de seu livro Stasi Hell or Workers' Paradise:
+>A experiência de socialismo da RDA está em marcante contraste com o desmantelamento do Estado de bem-estar e a concomitante privatização desenfreada de todos os aspectos da vida que agora ocorrem na Europa Ocidental, da cultura à saúde e outros serviços essenciais, bem como à negação do valores e a individualização extrema da vida. Vivemos em uma sociedade atomizada, rapidamente se desintegrando, com pouco etos social e sem objetivos de longo prazo. Muitos hoje, especialmente os jovens, vivem sem esperança ou senso de um futuro seguro. O socialismo ainda pode oferecer um antídoto e uma alternativa. E a experiência de países socialistas como a RDA pode fornecer indicações para um caminho a seguir e ajudar a renovar a esperança.
+
+Em nossa era de capitalismo tardio, mudança climática e fascismo ressurgente, essa mensagem é mais relevante do que nunca.
+
+Fontes:
+- [Der Spiegel | Majority of East Germans Defend the GDR](https://www.spiegel.de/international/germany/homesick-for-a-dictatorship-majority-of-eastern-germans-feel-life-better-under-communism-a-634122.html)
+- [European Review of Economic History | The Roots of Economic Failure: What Explains East Germany's Falling Behind Between 1945 and 1950?](https://www.deepdyve.com/lp/ou-press/the-roots-of-economic-failure-what-explains-east-germany-s-falling-A6wSaF2DRj?key=OUP)
+- [US Federal Research Division | East Germany: A Country Study](https://archive.org/details/eastgermanycount00bura_0)
+- [German Historical Institute | The East German Economy: 1945-2010](https://www.cambridge.org/core/books/the-east-german-economy-19452010/C2414E858CB605F6EE9D5AB0A839B24C)
+- [Historical Social Research | National Accounts, GDR, 1950-1989](https://www.ssoar.info/ssoar/bitstream/handle/document/28587/ssoar-hsrsupp-2009-no_21-heske-volkswirtschaftliche_gesamtrechnung_ddr_1950-1989.pdf)
+- [University of Bremen | Economic Growth in East and West Germany](http://www.memo.uni-bremen.de/docs/m3309.pdf)
+- [Health Care Financing Review | Reform of Health Care in Germany](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4193657/)
+- [The Guardian | East Germans Lost Much in 1989](https://www.theguardian.com/commentisfree/2009/nov/08/1989-berlin-wall)
+- [The Guardian | German Reunification 25 Years On](https://www.theguardian.com/world/2015/oct/02/german-reunification-25-years-on-how-different-are-east-and-west-really)
+- [Artery Publications | Stasi Hell or Workers' Paradise? Socialism in the GDR - What Can We Learn From It?](https://archive.org/details/StasiHellOrWorkersParadise)
 
 ## Os naxalitas na Índia
 De todos os vários grupos socialistas e comunistas que atualmente travam a luta armada contra o capitalismo e o imperialismo, poucos são mais significativos e conhecidos do que o movimento maoísta da Índia, comumente conhecido como Naxalitas. Frequentemente demonizados e retratados como terroristas, eles continuam a lutar (com notável sucesso, como será mostrado em breve) contra a exploração implacável e o assassinato das pessoas mais pobres da Terra.
