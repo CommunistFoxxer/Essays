@@ -51,6 +51,16 @@
         * [Conclusão sobre a Hungria](#Conclusão-sobre-a-Hungria)
     * [A China](#A-China)
         * [Período Mao Zedong](#Período-Mao-Zedong)
+            * [Visão geral dos padrões de vida da China maoísta](#Visão-geral-dos-padrões-de-vida-da-China-maoísta)
+            * [Mais pesquisas sobre saúde pública e expectativa de vida do período maoista](#Mais-pesquisas-sobre-saúde-pública-e-expectativa-de-vida-do-período-maoista)
+            * [Análise da Grande Fome Chinesa e comparação com a Índia capitalista](#Análise-da-Grande-Fome-Chinesa-e-comparação-com-a-Índia-capitalista)
+            * [Conclusão sobre a China maoísta](#Conclusão-sobre-a-China-maoísta)
+        * [A questão uigur](#A-questão-uigur)
+            * [As acusações sobre os uigures](#As-acusações-sobre-os-uigures)
+            * [As investigações sobre os uigures](#As-investigações-sobre-os-uigures)
+            * [Fatos sobre os uigures e a China](#Fatos-sobre-os-uigures-e-a-China)
+            * [Quem é a Radio Free Asia e Adrian Zenz?](#Quem-é-a-Radio-Free-Asia-e-Adrian-Zenz)
+            * [Desbancando histórias](#Desbancando-histórias)
     * [A Alemanha Oriental](#A-Alemanha-Oriental)
         * [Antecedentes históricos e condições iniciais (Segunda Guerra Mundial e era pré-guerra) da Alemanha Oriental](#Antecedentes-históricos-e-condições-iniciais-Segunda-Guerra-Mundial-e-era-pré-guerra-da-Alemanha-Oriental)
         * [Crescimento econômico e desenvolvimento industrial da Alemanha Oriental](#Crescimento-econômico-e-desenvolvimento-industrial-da-Alemanha-Oriental)
@@ -1718,12 +1728,12 @@ Podemos ver esta questão com mais detalhes no [artigo](https://monthlyreview.or
 #### Conclusão sobre a China maoísta
 A República Popular da China sob Mao Zedong fez enormes avanços nos padrões de vida, melhorando dramaticamente a vida de centenas de milhões de pessoas. Enquanto o establishment burguês continua a deturpar e distorcer o legado de Mao Zedong, ele continua sendo uma figura inspiradora para bilhões de pessoas ao redor do mundo que se beneficiaram, seja diretamente (por meio das melhorias mencionadas acima) ou indiretamente (por meio de sua influência nos movimentos revolucionários globais), de seu trabalho.
 
-## A questão uigur
+### A questão uigur
 Os uigures são uma etnia de origem turcomena (embora haja controvérsias) de maioria islâmica que habita o sul da China, principalmente a área de Xinjiang. **Mas desde o início do século XXI existem alegações de mídias ocidentais - como a Reuters, Radio Free Asia, BBC, Washington Post, CFR, LA times, The Guardian e similares - e dos próprios uigures de que eles estejam sendo vítimas de perseguição na China, através da existência de supostos campos de concentração próprios para o grupo, onde, supostamente, os chineses estariam forçando o aborto em uigures**. Há até mesmo influenciadores digitais especialistas nestas áreas.
 
 Mas essa história é mesmo verdade? Isso é o que vamos analisar hoje.
 
-### As acusações sobre os uigures
+#### As acusações sobre os uigures
 Algumas das supostas proibições ao grupo seriam a proibição de:
 - uso de véus
 - idiomas e dialetos populares próprios
@@ -1736,7 +1746,7 @@ Algumas das supostas proibições ao grupo seriam a proibição de:
 
 Contudo, apenas vemos as mídias ocidentais - como a Reuters - espalharem esse tipo de acusação, nunca uma fonte primária sequer - como um documento, vídeos ou projetos legislativos - mas, apenas uma “confiança na palavra”. Portanto, é impossível chegar a uma conclusão sem ser da China, ou mais especificamente um uigur.
 
-### As investigações sobre os uigures
+#### As investigações sobre os uigures
 Uma [investigação coordenada pelo usuário @rsahtion](https://medium.com/@bobbyarlan/a-reddit-ama-claiming-to-be-a-uiyghur-quickly-exposes-a-cia-asset-slandering-china-1d667c098b77) na plataforma Medium demonstrou que uma das ativistas pelos ‘direitos’ uigures está intimamente ligada à CIA, serviços nacionais de segurança e à Baia de Guantánamo (local onde habita a prisão mais secreta dos Estados Unidos) onde lá trabalhava justamente quando havia prisoneiros sendo utilizados em experimentos de tortura. 
 
 Já os próprios americanos em 2005 [investigaram](https://web.archive.org/web/20090620050738/http://www.america.gov/st/washfile-english/2006/None/20060416141157uhyggep0.5443231.html) os Falun Gong (grupo que assim como os uigures, tem denunciantes sobre “abusos de direitos humanos” na China) e os uigures e não encontraram nenhuma irregularidade. A China também [já recebeu mais de mil fiscalizadores e diplomatas em Xinjiang](https://www.globaltimes.cn/content/1180917.shtml), e diz estar completamente aberta para receber a ONU na região para analisar o ocorrido e as acusações. [2](https://www.chinadaily.com.cn/a/201909/04/WS5d6f2e32a310cf3e35569a8d.html).
@@ -1745,7 +1755,7 @@ A **Qiao Collective**, grupo criado por nacionalistas chineses para se defender 
 
 Também é importante ressaltar que os jornais anti-China procuram qualquer brecha para acusar a China, como [neste caso](https://www.globaltimes.cn/content/1174468.shtml) onde um uigur supostamente desapareceu, mas foi encontrado posteriormente vivendo normalmente em sua casa.
 
-### Fatos sobre os uigures e a China
+#### Fatos sobre os uigures e a China
 Uma pequena fração de uigures exigem seu próprio país, chamado de "Turquistão" (já que eles se dizem provenientes dos turcos, apesar de haver controvérsias históricas) cobrindo toda a província chinesa de Xinjiang. Nenhum país na história mundial tolerou o separatismo e a secessão. Os uigures representam **0,7% da população chinesa**, e os separatistas querem Xinjiang, região que possui **4 vezes o tamanho da Alemanha** e **16% da área terrestre chinesa**.
 
 Os uigures que vivem em áreas urbanas como **Urumqi** são seculares e definitivamente não querem viver em um estado islâmico administrado por "extremistas" religiosos.
@@ -1764,7 +1774,7 @@ Os uigures tradicionalmente seguem o sufismo, uma versão bastante moderada do i
 
 A população uigur **dobrou nos últimos 40 anos**. Eles praticamente foram isentos da política de filho único até 2013, **além do PIB de Xinjiang ter crescido 10 vezes nos últimos 20 anos**. Existem muitos atletas, cantores, dançarinos, políticos que são uigures. Os uigures recebem [tratamento preferencial](https://www.tandfonline.com/doi/full/10.1080/24761028.2019.1625178) para admissão na faculdade e em outras áreas, além de que escolas de Xinjiang obrigatoriamente oferecem cardapio da culinária Halal. Ao contrário da França, que baniu véus em escolas e ao sair de casa, e tem uma ampla campanha islamofóbica de extrema-direita (a hipocrisia é tão grande que tenho um amigo liberal que mora na França e ele cai em propagandas ocidentais sobre os uigures e acha que a França e todos os outros países europeus são "exemplos de democracia" - talvez não seja de se espantar, já que o mesmo trabalha na ANSSI).
 
-### Quem é a Radio Free Asia e Adrian Zenz?
+#### Quem é a Radio Free Asia e Adrian Zenz?
 A **Radio Free Asia** foi criada nos anos 50 como mídia anti-comunista pela **Fundação Ásia** como projeto da CIA para fortalecer o anti-comunismo no continente asiático. Hoje, a Radio Free Asia é bancada diretamente pelo congresso americano e sediada em Washington. Eles foram os primeiros a afirmarem a existência de campos de concentração, na qual tinha associação com **Gay McDougall**, a primeira pessoa a denunciar na ONU as barbaridades do estado chinês, sem nenhuma prova ou fonte primária.
 
 **Adrian Zenz**, antropólogo alemão, é o maior líder desses estudos sobre barbaridades contra os uigures, no qual levantou relatórios incompletos em 2019 sobre a quantidade de uigures nesses campos de concentração. A **Newsweek** japonesa disse que os números vieram de uma organização uigur sediada na Turquia, que afirma ter recebido esses números de uma fonte pública chinesa. Entretanto, Adrian não possuía os dados de toda a província de Xinjiang, ele se baseou nos dados de alimentação de 27 condados dos 64 que existem na província e, nesses dados, chegou à conclusão de que 600.000 pessoas estariam presas, dentre essas pessoas, seriam cazaques, uigures, ou uma das outras 53 etnias que existem na China - de uma população total de 4 milhões e meio de pessoas. Após a ‘descoberta’ desses números, ele os arredondou para 10% da população total e aplicou pro resto de Xinjiang. 
@@ -1777,7 +1787,7 @@ Este artigo de Adrian foi somente publicado em uma revista ligada à **OTAN** e 
 
 Adrian também é teólogo, cristão e diz ter sido enviado por Deus para investigar as minorias chinesas, entretanto, ele não fala chinês, nem o dialeto uigur, nunca pisou em Xinjiang e, além disso, é ligado à **Fundação Memória Ás Vítimas Do Comunismo**.
 
-### Desbancando histórias
+#### Desbancando histórias
 **Merdan Ghappar**, um modelo uigur, teria supostamente roubado um celular e mantido esse celular dentro de um campo de concentração de uigures. Ele manteve esse celular escondido por mais de duas semanas sem carregar, entrando em contato com terceiros. Tudo isso enquanto estava supostamente preso em um campo de concentração e algemado na cama.
 
 [A BBC analisou as mensagens enviadas](https://www.bbc.com/news/world-asia-china-53650246) por Ghappar no aplicativo WeChat para publicar sua história, mas os chineses notaram que as capturas de tela diferiam dos originais quando a história apareceu em março, já que partes do texto haviam sido removidas, como ofensas.
