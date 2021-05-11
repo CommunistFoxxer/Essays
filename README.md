@@ -49,6 +49,8 @@
         * [Realizações educacionais da Hungria](#Realizações-educacionais-da-Hungria)
         * [Nostalgia pós-comunista na Hungria](#Nostalgia-pós-comunista-na-Hungria)
         * [Conclusão sobre a Hungria](#Conclusão-sobre-a-Hungria)
+    * [A China](#A-China)
+        * [Período Mao Zedong](#Período-Mao-Zedong)
     * [A Alemanha Oriental](#A-Alemanha-Oriental)
         * [Antecedentes históricos e condições iniciais (Segunda Guerra Mundial e era pré-guerra) da Alemanha Oriental](#Antecedentes-históricos-e-condições-iniciais-Segunda-Guerra-Mundial-e-era-pré-guerra-da-Alemanha-Oriental)
         * [Crescimento econômico e desenvolvimento industrial da Alemanha Oriental](#Crescimento-econômico-e-desenvolvimento-industrial-da-Alemanha-Oriental)
@@ -1638,6 +1640,158 @@ Fontes:
 - [Encyclopedia Britannica | Hungary](https://www.britannica.com/place/Hungary/Health-and-welfare#ref34853)
 - [Pew Research Center | Hungary: Better Off Under Communism?](https://www.pewresearch.org/fact-tank/2010/04/28/hungary-better-off-under-communism/)
 - [Daily Mail | Life in Communism Hungary](https://www.dailymail.co.uk/news/article-1221064/Oppressive-grey-No-growing-communism-happiest-time-life.html)
+
+## A China
+A China está caminhando para ser a nova superpotência mundial, o país com maior crescimento das últimas décadas (comparável ao crescimento da URSS mas não tão grande quanto), com taxas de inflação e câmbio controladas, e caminhando para construir a maior rota comercial do mundo, apelidade de [Belt & Road](https://en.wikipedia.org/wiki/Belt_and_Road_Initiative) e caminhando para se tornar o maior Estado de bem-estar social desde Hu Jintao e um avanço enorme colocando Xi Jinping ao lado de Marx, Engels, Lenin e Stalin. Este país também é o mais atacado atualmente, e o mais controverso, então neste ensaio, iremos desmistificar e falar um pouco mais sobre este enorme e complexo país.
+
+### China antes da Revolução
+A China antes da revolução era um país pobre, que não tinha experienciado ainda sua revolução industrial, grande parte da população era rural, era um dos países mais pobres do mundo e com alta taxa de mortalidade e mortalidade infantil, população analfabeta, 800 mil chineses morriam todos os anos e o Haiti de hoje era uma utopia para a China, tendo em vista que ela tinha 7% do PIB per capita haitiano atualmente. A China era escrava das potências imperialistas, submetida a seus interesses comerciais, uma população corrompida pelo ópio, onde trabalhadores comiam cascos de árvores e vendiam seus filhos para pagar os donos de terra, além de enfrentar crises de fome frequentemente.
+
+### Período Mao Zedong
+A maioria das pessoas (incluindo muitos que se dizem socialistas) têm uma impressão muito enganosa de Mao Zedong. Eles tendem a confiar nos mitos e ficções burgueses como suas únicas fontes de informação sobre ele e, portanto, carecem de uma compreensão adequada de suas imensas realizações (que são ignoradas), bem como de suas falhas (que são exageradas e descaracterizadas).
+
+Como a ideologia de Mao continua a ser a força motriz por trás do setor mais ativo e revolucionário do movimento comunista internacional (como demonstrado pelos naxalitas na Índia, o NPA nas Filipinas e muitos outros), é importante que tenhamos um entendimento correto das políticas maoístas e dos imensos ganhos que elas trouxeram para o povo chinês.
+
+#### Visão geral dos padrões de vida da China maoísta
+NÃO, a China não começou a crescer após a abertura econômica de Deng em 1978. De 1949 à 1976, a expectativa de vida chinesa aumentou em 31 anos, mais que um ano por ano cronológico. Só para fins de comparação, a Índia após a independência de 47, aumentou sua expectativa de vida em 19 anos. Os índices da Índia não são negativos, o da China que é extraordinário. De 1949 à 1978, teve expectativa de vida maior que os EUA (0,9%), Reino Unido (1%) e Japão (1,3%). A China teve um aumento de 2,3% ao ano. Os números de pobreza calculado pela ONU, que mostra os critérios de pobreza de menos que $1,90 por dia, reajustado aos diferentes padrões de preços de cada país, em 1981, 2 bilhões de pessoas viviam na pobreza, em 2010, esse número caiu para 1.000.120.000. O número de pobreza foi reduzido em 880 milhões, e 728 milhões eram da China. 30 milhões dessas pessoas também eram do Vietnã, país também socialista. Os países socialistas juntos contribuíram 85% para a redução da pobreza, enquanto os capitalistas apenas 15%.
+
+Nossa fonte principal nesta seção será um estudo aprofundado conduzido por Amartya Sen, Professor de Economia na Universidade de Harvard e membro do Trinity College na Universidade de Cambridge. Sen recebeu o Prêmio Nobel de Ciências Econômicas por seu trabalho comparando os padrões de vida na República Popular da China (especialmente durante o período maoísta) com os da Índia:
+- [Harvard University | Perspectives on the Economic and Human Development of India and China](https://books.google.com/books?id=IZUPXjnGnhEC&printsec=frontcover&dq=inauthor:%22Amartya+Kumar+Sen%22+china+india+famine&hl=en&sa=X&ved=0ahUKEwjGsY2Lx5fjAhVjdt8KHTRIDSoQ6AEIKjAA#v=onepage&q&f=false)
+
+Os resultados do estudo podem ser resumidos pela seguinte observação, na qual Sen discute as conquistas decididamente superiores da China e as atribui diretamente à ideologia socialista do período maoísta:
+>Por causa de seu compromisso radical com a eliminação da pobreza e com a melhoria das condições de vida - um compromisso no qual as idéias e ideais maoístas e marxistas desempenharam um papel importante - a China alcançou muitas coisas que a liderança indiana falhou em pressionar e buscar com qualquer vigor. A eliminação da fome generalizada, analfabetismo e problemas de saúde se enquadra solidamente nesta categoria. Quando a ação do Estado opera na direção certa, os resultados podem ser bastante notáveis, como é ilustrado pelas conquistas sociais do período pré-reforma [maoísta].
+
+Outro comentário importante que resume os resultados do estudo é o seguinte:
+>Argumentamos, em particular, que as conquistas relacionadas à educação, saúde, reformas agrárias e mudança social no período pré-reforma [maoísta] deram contribuições significativamente positivas para as conquistas do período pós-reforma. Isso não ocorre apenas em termos de seu papel na alta expectativa de vida sustentada e nas conquistas relacionadas, mas também no fornecimento de apoio firme para a expansão econômica com base em reformas de mercado.
+
+Sen afirma aqui que o período maoísta testemunhou enormes aumentos na qualidade de vida do povo chinês, bem como desenvolvimentos econômicos importantes, sem os quais a expansão econômica após as reformas de mercado de 1979 muito provavelmente não teria ocorrido.
+
+Sen observa que durante o período maoísta, uma "redução notável na desnutrição crônica ocorreu", atribuindo isso às políticas socialistas implementadas pelo governo de Mao:
+>Os processos casuais pelos quais a redução da desnutrição foi alcançada envolveram ampla ação do Estado, incluindo políticas redistributivas, suporte nutricional e, claro, cuidados de saúde (uma vez que a desnutrição é frequentemente causada por parasitas e outras doenças).
+
+Sen concentra mais atenção nos avanços notáveis ​​na área da saúde durante o período maoísta:
+>As conquistas da China no campo da saúde durante o período pré-reforma incluem uma redução dramática da mortalidade infantil e infantil e uma notável expansão da longevidade.
+
+Observa-se também que a expectativa de vida na China aproximadamente dobrou durante o período maoísta, de aprox. 35 anos em 1949, a 68 anos em 1981 (quando as reformas Denguista começaram a surtir efeito). Isso é mais elaborado na próxima fonte.
+
+Sobre a questão da educação, Sen observa que as enormes melhorias (incluindo aumentos dramáticos na alfabetização) podem ser atribuídas principalmente ao período maoísta pré-reforma:
+>O avanço da China no campo da educação elementar já havia ocorrido antes do início do processo de reforma econômica no final dos anos setenta. Os dados do censo indicam, por exemplo, que as taxas de alfabetização em 1982 para o grupo de 15-19 anos já eram tão altas quanto 96% para homens e 85% para mulheres.
+
+Vamos examinar a questão da saúde pública com mais detalhes.
+
+#### Mais pesquisas sobre saúde pública e expectativa de vida do período maoista
+Outra excelente fonte sobre saúde pública na China maoísta vem do jornal Population Studies, em um estudo conduzido por pesquisadores da Universidade de Stanford e do National Bureau for Economic Research:
+- [Population Studies | An Exploration of China's Mortality Decline Under Mao: A Provincial Analysis, 1950-1980](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4331212/)
+
+Um comentário importante é o seguinte:
+>O crescimento da expectativa de vida ao nascer da China de 35 a 40 anos em 1949 para 65,5 anos em 1980 está entre os aumentos sustentados mais rápidos na história global documentada.
+
+Isso por si só já mostra os enormes benefícios alcançados pelas políticas socialistas de Mao Zedong. Informações mais importantes são fornecidas no estudo, tratando de recursos hospitalares e médicos:
+>O suprimento de médicos e hospitais cresceu dramaticamente sob Mao devido a uma variedade de fatores (incluindo aumentos no financiamento do governo, a introdução de seguro social para funcionários públicos urbanos e o lançamento do Sistema Médico Cooperativo Rural da China em meados da década de 1950). Os Esquemas Médicos Cooperativos Rurais (CMS) foram vigorosamente promovidos e se espalharam no final dos anos 1960 como parte da Revolução Cultural.
+
+O estudo confirma a análise de Sen da educação:
+>A China fez grandes avanços na educação primária e secundária com Mao.
+
+Ele também cita outra pesquisa que descobriu que os ganhos rápidos na saúde chinesa podem ser atribuídos às políticas socialistas específicas implementadas:
+>O declínio da mortalidade na China entre 1953 e 1957, que se assemelha ao dos EUA entre 1900 e 1930, foi "principalmente devido à organização social única das práticas de saúde pública chinesas".
+
+Observe que a China alcançou em quatro anos o que os Estados Unidos levaram trinta anos para realizar, devido aos seus sistemas diferentes (ou seja, socialismo versus capitalismo). O estudo também confirma o imenso sucesso dos programas de vacinação maoísta:
+>Esforços sistemáticos para vacinar a população contra poliomielite, sarampo, difteria, tosse convulsa, escarlatina e cólera foram rápidos e supostamente bem-sucedidos (a China quase erradicou a varíola em apenas três anos, com os últimos casos documentados ocorrendo no Tibete e em Yunnan, em 1960).
+
+Citações adicionais para as reivindicações nas citações acima são fornecidas no estudo original.
+
+#### Análise da Grande Fome Chinesa e comparação com a Índia capitalista
+Ao analisar este tópico, podemos olhar para outro trabalho de Amartya Sen, seu livro Hunger and Public Action, escrito com John Dreze:
+- [Harvard University | Hunger and Public Action](https://scholar.harvard.edu/sen/publications/hunger-and-public-action)
+
+Sen e Dreze apontam que, embora a fome chinesa tenha sido devastadora, ela empalidece em comparação com as taxas de mortalidade comuns que ocorrem sob o capitalismo em uma nação comparável como a Índia:
+>... É importante notar que, apesar do tamanho gigantesco do excesso de mortalidade na fome chinesa, a mortalidade extra na Índia devido à privação regular em tempos normais ofusca amplamente a primeira. Comparando a taxa de mortalidade da Índia de 12 por mil com a da China de 7 por mil, e aplicando essa diferença à população indiana de 781 milhões em 1986, obtemos uma estimativa do excesso de mortalidade normal na Índia de 3,9 milhões por ano. Isso implica que a cada oito anos ou mais pessoas morrem na Índia por causa de sua taxa de mortalidade regular mais alta do que na China na gigantesca fome de 1958-61. A Índia parece conseguir encher seu armário com mais esqueletos a cada oito anos do que a China colocou lá em seus anos de vergonha.
+
+Isso representa mais de 100 milhões de mortes em excesso somente na Índia, de 1947 (quando a Índia se tornou independente) até 1980. Como disse Paul Heideman, em um [artigo](https://www.jacobinmag.com/2018/08/capitalism-socialism-khmer-rouge-cambodia-china-famine-friedersdorf) na Jacobin:
+>Em outras palavras, embora a Índia não tenha experimentado um período concentrado de fome que possa ser facilmente identificado e pendurado no pescoço de uma ideologia particular, suas condições normais para a segunda metade do século XX, na qual uma distribuição extraordinariamente desigual de terras obtida, criaram uma mortalidade excessiva que, a longo prazo, superou a da pior fome do século.
+
+Isso demonstra os efeitos que o capitalismo tem em uma nação em desenvolvimento. Isso é ainda mais chocante quando comparado aos imensos ganhos obtidos na República Popular da China, descritos nas seções anteriores desta discussão.
+
+Podemos ver esta questão com mais detalhes no [artigo](https://monthlyreview.org/commentary/did-mao-really-kill-millions-in-the-great-leap-forward/) da Monthly Review sobre Mao:
+>Mao Zedong chegou ao poder em 1949. Entre 1900 e 1948, a China tinha em média cerca de 800.000 pessoas morrendo de fome por ano. Isso foi antes de Mao chegar ao poder. Por alguma razão, os críticos capitalistas esperam que Mao seja literalmente capaz de fazer mágica e transformar um país dominado pela fome em um país com segurança alimentar durante a noite. Não é assim que a palavra real funciona. Sim, houve uma fome, mas ocorreu em 1958, apenas uma década após a revolução, e durou cerca de três anos. Ainda era muito cedo na transformação do país antes que ele tivesse totalmente estabelecido a segurança alimentar. Existem três coisas que devem ser observadas. Primeiro, esta foi a última fome na história da China. Mao não deve ser visto como a pessoa que causou a fome, mas a pessoa que aboliu a fome industrializando e coletivizando os campos do país. Em segundo lugar, não se deve ignorar a tendência geral acontecendo no momento. Embora em 1958 o país não tivesse se desenvolvido o suficiente para ir além da fome, estava se desenvolvendo em um ritmo incrivelmente rápido. Na verdade, sob Mao, a expectativa de vida da população quase dobrou. Isso leva em consideração as pessoas que morreram de fome, mas o fato é que o país estava se desenvolvendo tão rápido que não compensou essa tendência. Em terceiro lugar, a porcentagem de erro humano em relação aos desastres naturais que contribuiu para isso não muda o fato de que não há evidência de intencionalidade. Mao não matou ninguém. Erros são erros, e retrospectiva é 20/20. Pessoas que chamam Mao de “assassino” ou “açougueiro”, parece ter a implicação de que ele matou milhões intencionalmente, quando na realidade ele estava tentando desenvolver o país o mais rápido possível para que as pessoas não tivessem que viver na pobreza abjeta não mais. Isso não significa negar que as falhas na política governamental podem ter agravado a fome, sem dúvida isso é verdade. Mas é impossível saber o quão diferente poderia ter sido com políticas diferentes. Os números em si são sempre exagerados para que o número de mortos seja o mais alto possível, e então toda a culpa é colocada em Mao pessoalmente, sem qualquer consideração pelo grande número de desastres naturais acontecendo na época e pela longa história de fome do país, bem como o conhecimento limitado que o próprio Mao tinha. Quando os capitalistas apontam para a fome, a implicação subjacente é que o capitalismo de alguma forma resolveria a fome, o que é incrivelmente duvidoso. As pessoas ainda lutam contra a fome nos países capitalistas desenvolvidos. Em 1950, a China tinha um PIB per capita de cerca de 7% do Haiti hoje. O Haiti é uma utopia em comparação com o que foi a China. O capitalismo resolveu a fome no Haiti? Claro que não.
+
+#### Conclusão sobre a China maoísta
+A República Popular da China sob Mao Zedong fez enormes avanços nos padrões de vida, melhorando dramaticamente a vida de centenas de milhões de pessoas. Enquanto o establishment burguês continua a deturpar e distorcer o legado de Mao Zedong, ele continua sendo uma figura inspiradora para bilhões de pessoas ao redor do mundo que se beneficiaram, seja diretamente (por meio das melhorias mencionadas acima) ou indiretamente (por meio de sua influência nos movimentos revolucionários globais), de seu trabalho.
+
+## A questão uigur
+Os uigures são uma etnia de origem turcomena (embora haja controvérsias) de maioria islâmica que habita o sul da China, principalmente a área de Xinjiang. **Mas desde o início do século XXI existem alegações de mídias ocidentais - como a Reuters, Radio Free Asia, BBC, Washington Post, CFR, LA times, The Guardian e similares - e dos próprios uigures de que eles estejam sendo vítimas de perseguição na China, através da existência de supostos campos de concentração próprios para o grupo, onde, supostamente, os chineses estariam forçando o aborto em uigures**. Há até mesmo influenciadores digitais especialistas nestas áreas.
+
+Mas essa história é mesmo verdade? Isso é o que vamos analisar hoje.
+
+### As acusações sobre os uigures
+Algumas das supostas proibições ao grupo seriam a proibição de:
+- uso de véus
+- idiomas e dialetos populares próprios
+- barba
+- recitar o alcorão em funerais
+- realização de chamadas internacionais
+- porte de livros sobre a religião e a cultura uigur
+- utilização de roupas com símbolos muçulmanos
+- orar em sua residência, caso visitas estejam presentes
+
+Contudo, apenas vemos as mídias ocidentais - como a Reuters - espalharem esse tipo de acusação, nunca uma fonte primária sequer - como um documento, vídeos ou projetos legislativos - mas, apenas uma “confiança na palavra”. Portanto, é impossível chegar a uma conclusão sem ser da China, ou mais especificamente um uigur.
+
+### As investigações sobre os uigures
+Uma [investigação coordenada pelo usuário @rsahtion](https://medium.com/@bobbyarlan/a-reddit-ama-claiming-to-be-a-uiyghur-quickly-exposes-a-cia-asset-slandering-china-1d667c098b77) na plataforma Medium demonstrou que uma das ativistas pelos ‘direitos’ uigures está intimamente ligada à CIA, serviços nacionais de segurança e à Baia de Guantánamo (local onde habita a prisão mais secreta dos Estados Unidos) onde lá trabalhava justamente quando havia prisoneiros sendo utilizados em experimentos de tortura. 
+
+Já os próprios americanos em 2005 [investigaram](https://web.archive.org/web/20090620050738/http://www.america.gov/st/washfile-english/2006/None/20060416141157uhyggep0.5443231.html) os Falun Gong (grupo que assim como os uigures, tem denunciantes sobre “abusos de direitos humanos” na China) e os uigures e não encontraram nenhuma irregularidade. A China também [já recebeu mais de mil fiscalizadores e diplomatas em Xinjiang](https://www.globaltimes.cn/content/1180917.shtml), e diz estar completamente aberta para receber a ONU na região para analisar o ocorrido e as acusações. [2](https://www.chinadaily.com.cn/a/201909/04/WS5d6f2e32a310cf3e35569a8d.html).
+
+A **Qiao Collective**, grupo criado por nacionalistas chineses para se defender das acusações e propagandas anti-China vindas do Ocidente, oferece um [artigo](https://www.qiaocollective.com/en/education/xinjiang) completo sobre a análise do caso em questão, desde as políticas aplicadas aos uigures até a história sobre o caso em questão.
+
+Também é importante ressaltar que os jornais anti-China procuram qualquer brecha para acusar a China, como [neste caso](https://www.globaltimes.cn/content/1174468.shtml) onde um uigur supostamente desapareceu, mas foi encontrado posteriormente vivendo normalmente em sua casa.
+
+### Fatos sobre os uigures e a China
+Uma pequena fração de uigures exigem seu próprio país, chamado de "Turquistão" (já que eles se dizem provenientes dos turcos, apesar de haver controvérsias históricas) cobrindo toda a província chinesa de Xinjiang. Nenhum país na história mundial tolerou o separatismo e a secessão. Os uigures representam **0,7% da população chinesa**, e os separatistas querem Xinjiang, região que possui **4 vezes o tamanho da Alemanha** e **16% da área terrestre chinesa**.
+
+Os uigures que vivem em áreas urbanas como **Urumqi** são seculares e definitivamente não querem viver em um estado islâmico administrado por "extremistas" religiosos.
+
+Além disso, existem milhares de uigures no Afeganistão. E adivinha? Os EUA os matam, capturam e enviam para Guantánamo. Essas ações são melhores do que a China enviando jihadistas para programas de educação e treinamento profissional?
+
+Entretanto, vale ressaltar a hipocrisia dos Estados Unidos em relação ao assunto. O país gastou [quase 2 trilhões de dólares em fundos diretos com finalidade de bombardear países muçulmanos](https://www.crfb.org/blogs/government-has-spent-2-trillion-wars-middle-east), causando [mais de 50 milhões de refugiados muçulmanos](https://www.unicef.org/press-releases/nearly-50-million-children-uprooted-worldwide) nos últimos vinte anos. Jihadistas uigures de países como Afeganistão ou Síria são considerados terroristas quando ameaçam ou entram em conflito com os Estados Unidos e a OTAN (Organização do Tratado do Atlântico Norte) porém, quando voltam ou viajam para a China, se tornam supostas vítimas.
+
+Além disso, durante a década de 80, os Estados Unidos **recrutaram, financiaram e armaram vários militantes islâmicos**, os mujahideens para lutar no Afeganistão contra a antiga União Soviética. Não é de se surpreender que os uigures aderiram a essa jiha, tendo em vista que o Afeganistão faz fronteira com Xinjiang. Militantes uigures agiram com Bin Laden e criaram o grupo **ETIM**, ou **Movimento Islâmico do Turquistão Oriental**, que é designado como um grupo terrorista pela ONU. 
+
+Esses mesmos terroristas incentivaram vários ataques na China desde a década de 90, que variam de ataques com facas e carros até tumultos massivos e ataques suicidas, e [inclusive um atentado terrorista a um aeroporto](https://www.bbc.com/news/world-asia-28305109). Dezenas de milhares de uigures foram para a China e [se juntaram com o ISIS e Al Qaeda](https://smallwarsjournal.com/jrnl/art/china-xinjiang-and-uyghurs-global-jihadist-propaganda). Sem análise histórica, há a predominância do argumento de que eles simplesmente odeiam os uigures sem motivo.
+
+Depois de 25 anos de luta, a China reprimiu os separatistas e terroristas uigures. O resultado foi que desde 2017 não houve sequer nenhum atentado terrorista uigur. Nenhum país no mundo encontrou uma solução fácil, ou não-autoritária, para lidar com o jihadismo e mudá-los, como disse, não há análise sem contexto histórico-social. Embora a China pudesse fazer um trabalho melhor com mais transparência, os esforços gerais são razoáveis. **Só Xinjiang tem mais de 20.000 mesquitas, além de que todas as grandes cidades da China tem grandes mesquitas, algumas construídas há mil anos**. 
+
+Os uigures tradicionalmente seguem o sufismo, uma versão bastante moderada do islamismo, diferentemente do wahabismo da Arábia Saudita. As mulheres uigures usam roupas coloridas lindas, adoram dançar e cantar e não usam burcas. A tradição uigur inclui até bebidas alcoólicas leves (chamadas de museles). Mas se você observar as mulheres separatistas uigures, elas estão sempre encobertas como as seitas ultraortodoxas. Isso mostra que quem está financiando esses radicais são grupos fundamentalistas reacionários, como o ISIS.
+
+A população uigur **dobrou nos últimos 40 anos**. Eles praticamente foram isentos da política de filho único até 2013, **além do PIB de Xinjiang ter crescido 10 vezes nos últimos 20 anos**. Existem muitos atletas, cantores, dançarinos, políticos que são uigures. Os uigures recebem [tratamento preferencial](https://www.tandfonline.com/doi/full/10.1080/24761028.2019.1625178) para admissão na faculdade e em outras áreas, além de que escolas de Xinjiang obrigatoriamente oferecem cardapio da culinária Halal. Ao contrário da França, que baniu véus em escolas e ao sair de casa, e tem uma ampla campanha islamofóbica de extrema-direita (a hipocrisia é tão grande que tenho um amigo liberal que mora na França e ele cai em propagandas ocidentais sobre os uigures e acha que a França e todos os outros países europeus são "exemplos de democracia" - talvez não seja de se espantar, já que o mesmo trabalha na ANSSI).
+
+### Quem é a Radio Free Asia e Adrian Zenz?
+A **Radio Free Asia** foi criada nos anos 50 como mídia anti-comunista pela **Fundação Ásia** como projeto da CIA para fortalecer o anti-comunismo no continente asiático. Hoje, a Radio Free Asia é bancada diretamente pelo congresso americano e sediada em Washington. Eles foram os primeiros a afirmarem a existência de campos de concentração, na qual tinha associação com **Gay McDougall**, a primeira pessoa a denunciar na ONU as barbaridades do estado chinês, sem nenhuma prova ou fonte primária.
+
+**Adrian Zenz**, antropólogo alemão, é o maior líder desses estudos sobre barbaridades contra os uigures, no qual levantou relatórios incompletos em 2019 sobre a quantidade de uigures nesses campos de concentração. A **Newsweek** japonesa disse que os números vieram de uma organização uigur sediada na Turquia, que afirma ter recebido esses números de uma fonte pública chinesa. Entretanto, Adrian não possuía os dados de toda a província de Xinjiang, ele se baseou nos dados de alimentação de 27 condados dos 64 que existem na província e, nesses dados, chegou à conclusão de que 600.000 pessoas estariam presas, dentre essas pessoas, seriam cazaques, uigures, ou uma das outras 53 etnias que existem na China - de uma população total de 4 milhões e meio de pessoas. Após a ‘descoberta’ desses números, ele os arredondou para 10% da população total e aplicou pro resto de Xinjiang. 
+
+O problema é que em Xinjiang, os uigures são apenas 46% da população, então é impossível saber quais são os dados de prisões comuns, o que são dados de supostos campos de concentração e qual a porcentagem de cada etnia que realmente está presa. 
+
+Em um [evento em Genebra](https://www.youtube.com/watch?v=tWey4fZWZAI), Zenz disse que havia 1 milhão e meio de presos. Já na entrevista para a **Radio Free Asia**, ele falou em **1.000.800.000 presos**. Coincidentemente, o estudo foi publicado pouco antes da câmara dos Estados Unidos passar os **Atos de direito de Xinjiang**, que autoriza o governo norte-americano a impor sanções à região. 
+
+Este artigo de Adrian foi somente publicado em uma revista ligada à **OTAN** e mais em lugar nenhum. Com base nos dados que ele obteve do governo chinês, ele concluiu que a China tinha algum programa para reduzir a natalidade uigur e forçava abortos, pois, observou que a taxa de natalidade dos uigures caiu 80%, mas ele errou a casa decimal, na verdade, caiu 8,7%, já a redução da natalidade dos Hans foram de 6% na mesma região.
+
+Adrian também é teólogo, cristão e diz ter sido enviado por Deus para investigar as minorias chinesas, entretanto, ele não fala chinês, nem o dialeto uigur, nunca pisou em Xinjiang e, além disso, é ligado à **Fundação Memória Ás Vítimas Do Comunismo**.
+
+### Desbancando histórias
+**Merdan Ghappar**, um modelo uigur, teria supostamente roubado um celular e mantido esse celular dentro de um campo de concentração de uigures. Ele manteve esse celular escondido por mais de duas semanas sem carregar, entrando em contato com terceiros. Tudo isso enquanto estava supostamente preso em um campo de concentração e algemado na cama.
+
+[A BBC analisou as mensagens enviadas](https://www.bbc.com/news/world-asia-china-53650246) por Ghappar no aplicativo WeChat para publicar sua história, mas os chineses notaram que as capturas de tela diferiam dos originais quando a história apareceu em março, já que partes do texto haviam sido removidas, como ofensas.
+
+A própria BBC também recrutou especialistas em arquiteturas de presídios que usando uma lista de imagens aéreas da região, [identificaram 44 prédios](https://www.bbc.com/portuguese/internacional-45999030) que poderiam ser centros de detenção. Contudo, para ter 1 milhão de presos nesses 44 prédios, daria mais ou menos 23 mil pessoas por prédio. Analisando um prédio só, eles disseram que haveria cerca de 11 mil pessoas e que seria um dos maiores que eles viram nas imagens.
+
+Já o [Instituto Australiano de Política Estratégica](https://www.aspi.org.au/) diz que [analisou 28 campos](https://www.aspi.org.au/report/mapping-xinjiangs-re-education-camps) e que eles poderiam conter cerca de 500 mil pessoas, mas eles nunca publicaram os estudos, nem os dados e muito menos a matemática usada.
+
+Arslan Hidayat é um australiano que sempre posta imagens que teriam sido vazadas de Xinjiang, principalmente no Twitter e no Instagram. Ele disse que a China [criou um sistema de tortura](https://twitter.com/arslan_hidayat/status/1181232085295611904) tipo boi no rolete, mas esse vídeo é de Taiwan, e os chineses foram [investigar](https://tfc-taiwan.org.tw/articles/379) e descobriram que se tratava de um vídeo de BDSM, e inclusive acharam a vítima do vídeo. Ele também [postou](https://twitter.com/arslan_hidayat/status/1182398842886602757) uma suposta criança uigur que estava chorando pedindo pela mãe e que estaria presa em um campo de concentração, mas essa criança poderia ser qualquer criança da China. Ele também [postou um vídeo](https://twitter.com/arslan_hidayat/status/1184513569662083072) sobre tortura aos uigures, mas era da polícia de Mianmar.
+
+![Debunking uyghur fake torture video](images/myanmar_police_allegated_uyghur.jpg)
+<em>A fonte do vídeo é de uma conta do Facebook. As palavras na imagem diziam que o garoto é da China e foi enganado por traficantes para ir para Mianmar ou Camboja e mais tarde foi sequestrado. Ele foi salvo pela polícia chinesa. Ele também disse que a polícia de Yunnan salva 5.600 adolescentes anualmente</em>
+
+Em uma [entrevista](https://www.youtube.com/watch?v=Nf7PZ0jPqIs&t=5s) recente no YouTube, ele diz que aumenta ou inventa histórias para chamar atenção do que acontece na região e que todos os uigures fora da China fazem o mesmo.
 
 ## A Alemanha Oriental
 Ao longo de seus 41 anos de existência, a República Democrática Alemã (RDA/GDR/DDR) se viu constantemente no centro da Guerra Fria. O Muro de Berlim, criado para separar Berlim Oriental da Berlim Ocidental controlada pela FRG, rapidamente se tornou o símbolo mais famoso do conflito. Apesar disso, a maioria das pessoas (incluindo a maioria dos socialistas) sabe relativamente pouco sobre esta nação; como sua economia funcionava, que tipo de vida deu ao seu povo, etc. No entanto, à luz dos eventos recentes, como estudos que descobriram que [57% dos alemães orientais têm uma visão positiva da RDA](https://www.spiegel.de/international/germany/homesick-for-a-dictatorship-majority-of-eastern-germans-feel-life-better-under-communism-a-634122.html), muitas pessoas ficaram mais curiosas sobre neste país específico.
