@@ -56,6 +56,7 @@
             * [Mais pesquisas sobre saúde pública e expectativa de vida do período maoista](#Mais-pesquisas-sobre-saúde-pública-e-expectativa-de-vida-do-período-maoista)
             * [Análise da Grande Fome Chinesa e comparação com a Índia capitalista](#Análise-da-Grande-Fome-Chinesa-e-comparação-com-a-Índia-capitalista)
             * [Conclusão sobre a China maoísta](#Conclusão-sobre-a-China-maoísta)
+        * [Políticas chinesas sobre minorias](#Políticas-chinesas-sobre-minorias)
         * [A questão uigur](#A-questão-uigur)
             * [As acusações sobre os uigures](#As-acusações-sobre-os-uigures)
             * [As investigações sobre os uigures](#As-investigações-sobre-os-uigures)
@@ -1729,6 +1730,33 @@ Podemos ver esta questão com mais detalhes no [artigo](https://monthlyreview.or
 
 #### Conclusão sobre a China maoísta
 A República Popular da China sob Mao Zedong fez enormes avanços nos padrões de vida, melhorando dramaticamente a vida de centenas de milhões de pessoas. Enquanto o establishment burguês continua a deturpar e distorcer o legado de Mao Zedong, ele continua sendo uma figura inspiradora para bilhões de pessoas ao redor do mundo que se beneficiaram, seja diretamente (por meio das melhorias mencionadas acima) ou indiretamente (por meio de sua influência nos movimentos revolucionários globais), de seu trabalho.
+
+### Políticas chinesas sobre minorias
+Primeiro, uma (semi-)breve cartilha sobre a política étnica chinesa. A China é muito mais diversificada do que a maioria no Ocidente pensa. Oficialmente, existem 55 grupos étnicos minoritários reconhecidos na China, e a constituição da RPC estabelece seus direitos:
+
+![](images/china_ethnic_policy.jpg)
+
+Isso inclui o direito à expressão religiosa. Existem budistas, taoístas, cristãos, muçulmanos e judeus na China, bem como praticantes de religiões populares. A constituição dá proteção a esses grupos, apesar do status da RPC como um estado ateu:
+
+![](images/article_36_china_constitution.jpg)
+
+Devido à lacuna de desenvolvimento entre os grupos minoritários (que constituem cerca de 8,5% da população) e a maioria do povo Han, o governo consagrou direitos especiais para esses grupos. Eles são os seguintes:
+
+![](images/china_ethnic_incentives_1.jpg)
+![](images/china_ethnic_incentives_2.jpg)
+![](images/china_ethnic_incentives_3.jpg)
+![](images/china_ethnic_incentives_4.jpg)
+
+O desenvolvimento da linguagem tem sido fundamental. Pouco depois de sua fundação, a RPC liderou os esforços para padronizar os escritos e alfabetos para os idiomas locais:
+
+![](images/china_linguistics_care_1.jpg)
+![](images/china_linguistics_care_2.jpg)
+
+Isso se estende ao sistema escolar, onde a educação bilíngue cria um ambiente envolvente para que as crianças de minorias aprendam mandarim, a língua franca do país:
+
+![](images/bilingual_education_china_1.jpg)
+![](images/bilingual_education_china_2.jpg)
+![](images/bilingual_education_china_3.jpg)
 
 ### A questão uigur
 Os uigures são uma etnia de origem turcomena (embora haja controvérsias) de maioria islâmica que habita o sul da China, principalmente a área de Xinjiang. **Mas desde o início do século XXI existem alegações de mídias ocidentais - como a Reuters, Radio Free Asia, BBC, Washington Post, CFR, LA times, The Guardian e similares - e dos próprios uigures de que eles estejam sendo vítimas de perseguição na China, através da existência de supostos campos de concentração próprios para o grupo, onde, supostamente, os chineses estariam forçando o aborto em uigures**. Há até mesmo influenciadores digitais especialistas nestas áreas.
