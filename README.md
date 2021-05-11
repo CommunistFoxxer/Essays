@@ -50,6 +50,7 @@
         * [Nostalgia pós-comunista na Hungria](#Nostalgia-pós-comunista-na-Hungria)
         * [Conclusão sobre a Hungria](#Conclusão-sobre-a-Hungria)
     * [A China](#A-China)
+        * [China antes da Revolução](#China-antes-da-Revolução)
         * [Período Mao Zedong](#Período-Mao-Zedong)
             * [Visão geral dos padrões de vida da China maoísta](#Visão-geral-dos-padrões-de-vida-da-China-maoísta)
             * [Mais pesquisas sobre saúde pública e expectativa de vida do período maoista](#Mais-pesquisas-sobre-saúde-pública-e-expectativa-de-vida-do-período-maoista)
