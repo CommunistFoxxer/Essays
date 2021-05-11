@@ -1938,6 +1938,7 @@ Fontes:
 - [The Chollima Report | Who is Adrian Zenz? The Christian Fundamentalist Leading the Global Xinjiang Narrative](https://chollima.org/who-is-adrian-zenz-the-christian-fundamentalist-leading-the-global-xinjiang-narrative/)
 - [About China | Xinjiang](https://aboutchina.carrd.co/#xinjiang)
 - [YouTube - The Grayzone | US "left" aligns with State Department on China Cold War](https://www.youtube.com/watch?v=3JTgnAKWmMA&ab_channel=TheGrayzone)
+- [World Affair | Xinjiang and Uyghurs — What You’re Not Being Told](https://worldaffairs.blog/2019/07/05/xinjiang-and-uyghurs-what-youre-not-being-told/amp/)
 - [CLASH Podcast: Trouble on the Silk Road (very interesting podcast episode about Xinjiang)](https://www.patreon.com/posts/ep-55-trouble-on-21205934)
 - [Why Xinjiang? Why now? - Very good post by Prof. Roland Boer](https://stalinsmoustache.org/2018/11/17/15095/)
 - [Full transcript of interview with Xinjiang government chief on counterterrorism, vocational education and training in Xinjiang](http://www.xinhuanet.com/english/2018-10/16/c_137535821.htm)
