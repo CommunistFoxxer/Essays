@@ -1859,6 +1859,111 @@ A campanha de redução da pobreza incrivelmente bem-sucedida da RPC não encont
 >O rápido desenvolvimento econômico e social nas áreas minoritárias estabeleceu uma base sólida para a prosperidade de todos os grupos étnicos. De acordo com o censo nacional de 2000, a esperança média de vida de 13 minorias étnicas estava acima do nível médio nacional de 71,40 anos, e sete acima do nível médio de Han de 73,34 anos. A população do grupo étnico Hezhe aumentou de 300 nos primeiros dias da Nova China para mais de 4.000. Xinjiang é listada pela International Medical Union como uma das quatro regiões do mundo conhecidas pela longevidade, com o maior número de pessoas com mais de 100 anos entre cada milhão de pessoas no país. A expectativa de vida média do Tibete aumentou de 35,5 anos em 1951, quando foi libertado pacificamente, para 67 anos agora, com 13.581 idosos com idades entre 80 e 99, e 62 idosos com mais de 100; agora está entre as regiões com mais centenários, em média, na China.
 
 Agora, a razão pela qual as pessoas se levantaram contra o tratamento que a China dispensou aos muçulmanos deriva das medidas antiterrorismo instituídas em Xinjiang após uma série de ataques na região. Aqui está uma pequena amostra da violência:
+>28 de agosto de 2012
+>
+>Vários terroristas em Xinjiang usaram facas e machados para atacar cidadãos comuns, causando 15 mortes e 14 feridos. A polícia matou oito terroristas no local e prendeu outro terrorista.
+>28 de outubro de 2013
+>Oito terroristas, todos uigures, usaram veículos para colidir com os cidadãos na Praça Tiananmen, causando cinco mortes e 40 feridos. Eles compraram gasolina, máscaras anti-venenosas, facas e machados como armas de ataques terroristas. Três terroristas morreram no local, enquanto outros cinco suspeitos foram presos dez horas após o ataque. Três dos terroristas presos foram posteriormente condenados à morte pelo tribunal. Antes dos ataques, os organizadores foram várias vezes observar a situação na Praça Tiananmen.
+>
+>30 de dezembro de 2013
+>
+>O condado de Shache, em Xinjiang, sofreu um ataque terrorista no qual a polícia matou oito suspeitos de terrorismo no local.
+>
+>24 de janeiro de 2014
+>
+>Uma bomba explodiu em um mercado e um cabeleireiro em Xinjiang, causando a morte de duas pessoas e dois feridos. A polícia prendeu três pessoas, mas duas delas suicidaram-se ao detonar uma bomba amarrada aos seus corpos.
+>
+>14 de fevereiro de 2014
+>
+>Uma dúzia de terroristas atacou veículos da polícia em Xinjiang. Quatro policiais ficaram feridos e oito suspeitos de crimes foram mortos. Três outros suspeitos acionaram as bombas amarradas a seus corpos e cometeram suicídio. Um foi a prisão. Cinco viaturas policiais foram destruídas, mostrando um novo padrão de ataques suicidas que visavam viaturas policiais. Os terroristas usaram bombas de gás natural feitas por eles mesmos em seus ataques de 24 de janeiro e 14 de fevereiro.
+>
+>1 de março de 2014
+>
+>A estação de Kunming testemunhou o ataque de terroristas que usaram facas e machados para atacar cidadãos, causando a morte de 31 pessoas e 141 feridos. O governo da RPC lidou rapidamente com o ato terrorista matando cinco terroristas e prendendo outros quatro. Segundo rumores, dois dos terroristas eram mulheres com idades entre 18 e 19 anos apenas.
+>
+>2 de março de 2014
+>
+>Um terrorista imitou o ataque de Kunming em uma cidade em Xinjiang, matando um cidadão e ferindo outro.
+>
+>17 de março de 2014
+>
+>Um terrorista atacou uma delegacia de polícia em Xinjiang e feriu um policial, mas ele foi morto.
+>
+>23 de abril de 2014
+>
+>Um grupo de 25 terroristas atacou a polícia em Xinjiang, causando a morte de 15 pessoas. Os policiais, que foram a uma residência para investigar a suspeita de posse de armas, foram presos pelos terroristas que atearam fogo no apartamento. Depois de cinco noites de confrontos graves, a polícia acabou matando seis terroristas no local e prendendo outros oito, enquanto 11 cúmplices foram capturados posteriormente. Antes do confronto, os membros do grupo terrorista aprenderam a fazer bombas e operavam no subsolo desde setembro de 2010.
+>
+>27 de abril de 2014
+>
+>O presidente Xi Jinping chegou a Xinjiang para uma visita de três dias, mas durante o primeiro dia três oficiais Han em Xinjiang que estavam pescando foram mortos por terroristas.
+>
+>30 de abril de 2014
+>
+>O presidente Xi encerrou sua visita a Xinjiang e deixou Urumqi para Pequim. Na mesma noite, dois terroristas na Estação Ferroviária Sul de Urumqi explodiram seu dispositivo de bomba que matou três pessoas e feriu outras 79. Um minuto após a explosão da bomba, a polícia foi ao local e atacou os terroristas, seguida por 150 membros das equipes de resgate e do comitê de gestão. Em resposta, Xi ordenou uma abordagem linha-dura para penalizar os elementos terroristas e “conter sua arrogância”. Descobriu-se que o ataque de 30 de abril foi iniciado pelo movimento do Turquestão Oriental, que também admitiu abertamente sua responsabilidade em 11 de maio por meio de um vídeo na Internet.
+>
+>6 de maio de 2014
+>
+>A estação ferroviária de Guangzhou testemunhou um terrorista usando uma faca e um machado para ferir seis pessoas.
+>
+>8 de maio de 2014
+>
+>A polícia matou um terrorista e prendeu outro que tentava atacar uma delegacia de polícia em Xinjiang.
+>
+>22 de maio de 2014
+>
+>Um grupo de pelo menos oito terroristas usou dois veículos e mergulhou em uma multidão no centro cultural Urumqi, atirando granadas ao mesmo tempo e levando a graves explosões que mataram 43 pessoas e feriram 94 outras. Quatro terroristas morreram durante a explosão da bomba e a polícia matou três outros terroristas no local. Um terrorista foi preso, enquanto cidadãos capturaram três outros suspeitos de terrorismo que possuíam 12 bombas feitas por ele mesmo. A polícia perseguiu imediatamente dois suspeitos de terrorismo que estavam foragidos.
+>
+>23 de maio de 2014
+>
+>A polícia de Xinjiang prendeu um residente uigur que possuía 12 facas e machados. Ele era suspeito de usar as armas para atingir um jardim de infância. Após sua prisão, todas as escolas em Xinjiang elevaram seu status de segurança por medo de qualquer ataque terrorista.
+>
+>25 de maio de 2014
+>
+>Moradores de uma vila em Xinjiang descobriram cinco suspeitos de terrorismo que dormiam com espadas e facas. Os moradores relataram o ocorrido à polícia, que foi prender os suspeitos. Os suspeitos gritaram o slogan do uso da jihad e brigaram com a polícia, que matou três deles e prendeu outro.]
+>
+>27 de maio de 2014
+>
+>A polícia de um condado de Xinjiang foi avisada por residentes que encontraram alguns extremistas religiosos que se treinaram fisicamente. A polícia prendeu sete suspeitos de terrorismo.
+>
+>2 de junho de 2014
+>
+>A polícia de uma cidade de Xinjiang prendeu um homem que usava a Internet para propagar idéias terroristas depois que moradores relataram suas atividades à polícia.
+>
+>4 de junho de 2014
+>
+>A polícia de um condado de Xinjiang matou quatro terroristas que lançaram um ataque, mas um policial morreu.
+>
+>5 de junho de 2014
+>
+>Os tribunais de seis cidades de Xinjiang condenaram 81 terroristas em 23 casos. Doze pessoas receberam sentenças de morte e três outras foram condenadas a penas suspensas. Dois outros suspeitos usaram a Internet e blogs para propagar idéias extremistas e terroristas e foram condenados a 5 e 10 anos de prisão.
+>
+>21 de junho de 2014
+>
+>Um quartel da polícia tornou-se alvo de ataques terroristas e a bomba, que causaram três feridos policiais e a morte de 13 terroristas após a reação da polícia.
+>
+>9 de julho de 2014
+>
+>Seis terroristas lançaram um ataque no condado de Xinjiang e dois deles escaparam, levando à implantação e mobilização imediata da polícia para tentar prender os que estavam foragidos.
+>
+>28 de julho de 2014
+>
+>O condado de Shache, na província de Kashgar, testemunhou dez locais sofrendo simultaneamente ataques terroristas daqueles que usaram facas e machados para atacar a polícia e que também usaram veículos para colidir com cidadãos, levando à morte de 37 cidadãos e à prisão de 215 pessoas. A polícia matou 59 terroristas e o ataque destruiu 31 veículos. Uma gangue usou a jihad e para fazer dois oficiais uigur participarem dos ataques terroristas, mas os dois foram mortos pelos terroristas quando se recusaram a fazê-lo. O movimento do Turquestão Oriental admitiu a responsabilidade pelos ataques. O governo de Xinjiang iniciou imediatamente uma caça ao homem usando 300 milhões de yuans como recompensa aos informantes.
+>
+>11 de agosto de 2014
+>
+>Um homem de Xinjiang de 22 anos foi preso por espalhar boatos falsos de Urumqi sobre a polícia matando 50 cidadãos do condado de Shache. Ele chegou mesmo a afirmar que os aviões militares usaram bombas para matar 3.000 cidadãos. Após sua prisão, ele admitiu que “Eu queria atrair a atenção de mais pessoas e criar um impacto na opinião pública”.
+>
+>21 de setembro de 2014
+>
+>Um shopping center, uma delegacia de polícia e um mercado em Bazhou, em Xinjiang, sofreram ataques a bomba, causando a morte de quatro policiais, 40 terroristas, dez outros cidadãos e 54 feridos.
+>
+>28 de novembro de 2014
+>
+>Um grupo de terroristas detonou uma bomba na rua de alimentação do condado de Shache, causando a morte de quatro pessoas e 14 feridos. A polícia matou 11 terroristas.
+
+Isso não inclui os distúrbios que abalaram a capital de Xinjiang, Urumqi, em 2009, matando centenas e ferindo milhares. Sem entrar em muitos detalhes, existem grupos separatistas uigures determinados a separar a região da China e recorrer ao terrorismo para isso. Alguns recebem treinamento na Síria e em outros lugares, vinculados a movimentos extremistas maiores.
+
+[test](#:~:text=Aqui%20está%20uma%20pequena%20amostra%20da%20violência)
 
 Fontes:
 - [Chinese Constitution Translated Into English](https://www.wipo.int/edocs/lexdocs/laws/en/cn/cn147en.pdf)
