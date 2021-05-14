@@ -1,4 +1,6 @@
 # Essays
+* [Termos](#Termos)
+    * [Pseudoconservadorismo](#Pseudoconservadorismo)
 * [Experiências socialistas](#Experiências-socialistas)
     * [A União Soviética](#A-União-Soviética)
         * [Revolução, comunismo de guerra e NEP](#Revolução-comunismo-de-guerra-e-NEP)
@@ -357,6 +359,38 @@
         * [Realismo capitalista e o fim da história](#Realismo-capitalista-e-o-fim-da-história)
 * [Teoria verde e ambientalismo](#Teoria-verde-e-ambientalismo)
     * [Conservacionismo vs preservacionismo](#Conservacionismo-vs-preservacionismo)
+
+# Termos
+## Monogamia
+A monogamia é uma identidade: a do SER casal, não apenas estar em casal. E apesar da monogamia em série ser de longe a forma mais comum hoje em dia, essa identidade é experienciada como eterna: não se pode admitir a (muito provável) finitude. Além disso, ela é uma identidade por exclusão: nós versus o mundo.
+
+Cria-se um território que só pertence àquele núcleo, que é hierarquicamente mais importante que todas as outras relações. E essas relações são vistas como ameaças, portanto há um constante confronto e competição. Pela monogamia ser um sistema, ela procura manter sua hegemonia frente a outras formas de relacionar-se. 
+
+Se coloca como uma forma superior: amor verdadeiro, puro, ideal, natural. As outras possíveis formas são ignoradas, desvalorizadas, criticadas. Acusações/percepções de promiscuidade, superficialidade e inferioridade são algumas das mais comuns:
+>Aos poligamicos de plantão, se querem ser corno sabidos, problema de vocês, eu quero minha mulher só pra mim.
+
+A assexualidade e a arromanticidade são patologizadas. O sistema mono institui a amatonormatividade: ter uma relação afetivo-sexual central é sinônimo de saúde e sucesso. O ideal do amor romântico estabelece que apaixonar-se e ser feliz pra sempre é uma experiência indispensável.
+
+Enfim, através de mecanismos como esses, alguns “negativos” repressores e outros “positivos” idealizadores, o sistema é reproduzido não só institucionalmente mas também pelas próprias pessoas no cotidiano. Passa a ser visto como natural e espontâneo, e se estabeleceu no feudalismo, quando senhores feudais viam tudo como sua propriedade; inclusive, as mulheres.
+
+Leituras mais aprofundadas:
+- Monogamia e hierarquia (Brigitte Vasallo)
+- Amor romântico (Coral Herrera)
+- Família, estado e propriedade privada (Engels)
+- LGBT X família (Amanda Palha)
+- Crítica marxista à família mono (Sérgio Lessa)
+- Bixa ex-monogâmica (Alef Diogo)
+
+## Pseudoconservadorismo
+Adorno fala que "os pseudoconservadores chegam a deturpar os preceitos do conservadorismo em nome de anseios antidemocráticos". A estrutura psicológica deles seria composta por convencionalismo e submissão autoritária na esfera do eu e por violência, impulsos anárquicos e destrutividade caótica na esfera inconsciente.
+
+O pseudoconservador, em nome da preservação dos valores e instituições tradicionais e da defesa deles contra perigos no geral fictícios (ex: o fantasma do comunismo), consciente ou inconscientemente visa a sua abolição, há um forte impulso anárquico no fundo.
+
+Para eles a democracia está muito longe do povo e deve ser substituída por um sistema indefinido de braço forte, este discurso serve como um disfarce democrático para desejos antidemocráticos.
+
+Eles defendem uma pseudorevolução. Existe uma vaga ideia de mudança violenta, sem qualquer referência concreta ao objetivo das pessoas envolvidas. Soa um rompimento súbito e violento, mas parece mais uma medida administrativa. É uma ideia rancorosa, rebelde e passiva. Há uma identificação com os grupos sociais mais elevados como um meio de ser admitido ao grupo dominante já que a ascensão econômica se torna cada vez mais difícil.
+
+Em resumo: é um "vamos mudar tudo isso que está aí" mas sem mudar nada.
 
 # Experiências socialistas
 ## A União Soviética
