@@ -64,6 +64,10 @@
             * [Quem é a Radio Free Asia e Adrian Zenz?](#Quem-é-a-Radio-Free-Asia-e-Adrian-Zenz)
             * [Desbancando histórias](#Desbancando-histórias)
             * [Conclusão e considerações finais sobre os uigures](#Conclusão-e-considerações-finais-sobre-os-uigures)
+        * [O coronavirus e a sinofobia](#O-coronavirus-e-a-sinofobia)
+            * [De onde veio o vírus e as dietas culinárias chinesas como bode expiatório](#De-onde-veio-o-vírus-e-as-dietas-culinárias-chinesas-como-bode-expiatório)
+            * [A resposta do governo tem sido forte e eficaz em deter e curar o coronavírus](#A-resposta-do-governo-tem-sido-forte-e-eficaz-em-deter-e-curar-o-coronavírus)
+            * [Conclusão sobre a China e o coronavirus](#Conclusão-sobre-a-China-e-o-coronavirus)
     * [A Alemanha Oriental](#A-Alemanha-Oriental)
         * [Antecedentes históricos e condições iniciais (Segunda Guerra Mundial e era pré-guerra) da Alemanha Oriental](#Antecedentes-históricos-e-condições-iniciais-Segunda-Guerra-Mundial-e-era-pré-guerra-da-Alemanha-Oriental)
         * [Crescimento econômico e desenvolvimento industrial da Alemanha Oriental](#Crescimento-econômico-e-desenvolvimento-industrial-da-Alemanha-Oriental)
@@ -73,6 +77,17 @@
         * [Direitos das mulheres na Alemanha Oriental](#Direitos-das-mulheres-na-Alemanha-Oriental)
         * [O desastre de 1989](#O-desastre-de-1989)
         * [Conclusão sobre a Alemanha Oriental](#Conclusão-sobre-a-Alemanha-Oriental)
+    * [Cuba](#Cuba)
+        * [Cuba pré-revolucionária](#Cuba-pré-revolucionária)
+        * [Indicadores econômicos e nutricionais após a revolução cubana](#Indicadores-econômicos-e-nutricionais-após-a-revolução-cubana)
+        * [Desenvolvimento sustentável e preservação ambiental em Cuba](#Desenvolvimento-sustentável-e-preservação-ambiental-em-Cuba)
+        * [Indicadores de saúde de Cuba](#Indicadores-de-saúde-de-Cuba)
+        * [Desenvolvimentos educacionais de Cuba](#Desenvolvimentos-educacionais-de-Cuba)
+        * [Desenvolvimentos de infraestrutura de Cuba](#Desenvolvimentos-de-infraestrutura-de-Cuba)
+        * [Política social de cuba](#Política-social-de-cuba)
+        * [Opinião popular em Cuba](#Opinião-popular-em-Cuba)
+        * [Exilados cubanos](#Exilados-cubanos)
+        * [Conclusão sobre Cuba](#Conclusão-sobre-Cuba)
     * [Os naxalitas na Índia](#Os-naxalitas-na-Índia)
         * [Questões econômicas e qualidade de vida (terra, salários, saúde, etc) dos naxalitas](#Questões-econômicas-e-qualidade-de-vida-terra-salários-saúde-etc-dos-naxalitas)
         * [Questões sociais (raça, gênero, trabalho forçado, etc) dos naxalitas](#Questões-sociais-raça-gênero-trabalho-forçado-etc-dos-naxalitas)
@@ -2460,6 +2475,50 @@ Fontes:
 - [Xinjiang, what a wonderful place (article by the Chinese ambassador to Indonesia)](http://www.thejakartapost.com/academia/2018/09/25/xinjiang-what-a-wonderful-place.html)
 - [Soft landing in Xinjiang](http://www.globaltimes.cn/content/1123066)
 
+### O coronavirus e a sinofobia
+Camaradas em todas as nossas comunidades provavelmente viram os ataques diretos e incógnitos à cultura, às pessoas e às comunidades chinesas. Não é surpresa que, quando os Estados Unidos têm um inimigo, o racismo, o bode expiatório e a intolerância certamente o seguem.
+
+Eu quero fazer uma explicação que não apenas derrote aqueles ataques sinofóbicos e compreenda o vírus, mas também elogie a própria cultura e governo que esses ocidentais tentam desacreditar.
+
+#### De onde veio o vírus e as dietas culinárias chinesas como bode expiatório
+
+["A origem do novo coronavírus é a vida selvagem vendida ilegalmente em um mercado de frutos do mar de Wuhan"](https://www.chinadaily.com.cn/a/202001/21/WS5e266cb4a310128217272837.html), Gao Fu, diretor do Centro para Controle e Prevenção de Doenças da China. No entanto, especula-se que pode nem mesmo ter vindo dos alimentos. Ao contrário do que os ocidentais retratam da culinária chinesa, esses mercados são, de fato, ilegais na China e não são “mais populares” nesta região. Na verdade, há um grande problema de mercados ilegais de carnes exóticas em todo o mundo, especialmente a ascensão dele no Ocidente:
+- Aqui está um [artigo](https://qz.com/795294/will-illegal-bushmeat-bring-the-next-global-outbreak/) sobre os mercados ilegais de carne exótica no Reino Unido e os perigos de se tornar uma potencial "pandemia global".
+- Engraçado, a Fox News [noticiou](https://www.foxnews.com/food-drink/meat-scandals-highlight-growing-taste-for-exotic-animals) um par de mercado ilegal de carnes exóticas em Illinois, EUA, e um dos açougueiros gostando de cascavel.
+- Só uma coisa engraçada, aqui Binging com Babbish [obtendo quase todo tipo de carne exótica](https://youtu.be/Mf4wwXM2o_M?t=113) que ele pode encontrar para seu especial de 2 milhões de assinantes.
+
+No entanto, os ocidentais usam estereótipos sinofóbicos para atacar a culinária chinesa e culpá-los por espalhar o vírus, apesar de isso vir de outros mercados exóticos ilegais. Embora principalmente sobre MSG, [este vídeo](https://www.youtube.com/watch?v=Sm8Yx-gWlMs) explora o racismo e sinofobia em torno da cozinha chinesa, onde eles até têm um clipe onde Anthony Bourdain disse "você sabe o que causa a Síndrome do Restaurante Chinês? Racismo". Além disso, circulava uma [notícia falsa](https://www.scmp.com/news/china/society/article/3047683/sorry-about-tasty-bat-chinese-online-host-apologises-travel-show) de uma mulher chinesa comendo um morcego, quando, na verdade, ela estava em Palau, um arquipélago no oeste do Pacífico, há 3 anos.
+
+É óbvio que o Ocidente está simplesmente tentando acumular mais de seu racismo patenteado em outro país que é alvo de seu governo capitalista. De assassinos muçulmanos a protetores muçulmanos, o Ocidente arma seu racismo por meio de comportamentos individuais e as aplica como achar melhor. A cultura ocidental é baseada na intolerância e no bode expiatório, cercando-se de sistemas econômicos individualistas que, em última instância, serão sua própria morte. Iraquianos, venezuelanos, chineses, iranianos e agora de volta aos chineses; o racismo focado no Ocidente é como o sabor do mês. Mas a China está se tornando um alvo cada vez maior por causa de seu poder econômico imparável e influência que ameaça a hegemonia ocidental.
+
+A sinofobia só vai piorar a partir daqui. É preciso haver uma campanha maior para lutar contra esse preconceito e desafiar esses elementos culturais nojentos no Ocidente.
+
+#### A resposta do governo tem sido forte e eficaz em deter e curar o coronavírus
+Os ocidentais têm reclamado da resposta lenta e opressiva do governo para deter o Coronavirus, chegando mesmo a dizer que o merecem. Apesar da Organização Mundial da Saúde elogiar a resposta rápida do governo chinês à crise, com o diretor-geral Tedo Adhanom Ghebreyesus dizendo que o país está tomando “medidas muito forte com total comprometimento. Estamos de acordo com as autoridades chinesas que foram claras e transparentes...”
+
+Aqui estão alguns destaques do que o governo fez para conter a propagação (a maioria vem deste [artigo](https://www.peoplesworld.org/article/chinas-coronavirus-response-shows-whats-possible-when-people-come-before-profits/) aqui):
+- Apenas uma semana após o surto do coronavírus, a China State Construction Engineering já começou a construir rapidamente um novo hospital público especializado de 25.000 m2 com 1.000 leitos desde o início: com o objetivo de abri-lo para pacientes em menos de 11 dias
+- [Outro hospital de 1.300 leitos foi construído](https://np.reddit.com/r/Sino/comments/eu9fi2/coronavirus_epidemic_update_construction_of/)
+- [Reduziu a manipulação de preços e controlou produtos vitais para o surto, já que lucrar com a crise é proibido e os reguladores abrem uma linha direta para os consumidores denunciarem os infratores](https://www.chinadaily.com.cn/a/202001/25/WS5e2c06d9a31012821727337c.html)
+- [Colocou grandes cidades em quarentena com sucesso, para onde, novamente a Organização Mundial da Saúde disse que cortar uma cidade tão grande como Wuhan é "sem precedentes na história da saúde pública" e elogiou a China por seu incrível compromisso de isolar o vírus e minimizar a propagação para outros países](https://www.worldometers.info/coronavirus/)
+- 450 equipes médicas do Exército de Libertação do Povo caminharam para Wuhan para fornecer socorro aos médicos e enfermeiras de lá, juntamente com centenas de outros desistindo de seus anos novos para ajudar na assistência
+- [Vilas construiram um muro](https://www.youtube.com/watch?v=LRRmJ7vvW7E)
+- [A China alocou US$ 8 bilhões em fundos de emergência para Wuhan, mas alguns suprimentos médicos, como máscaras N95, ficaram em falta porque são patenteados por empresas americanas](https://np.reddit.com/r/Sino/comments/eup6r4/china_allocated_8_billion_in_emergency_funds_to/)
+
+Mas qual foi a resposta dos ocidentais além de racismo ou sinofobia? Os manifestantes de Hong Kong [bombardearam](https://www.scmp.com/news/hong-kong/law-and-crime/article/3047744/home-made-bomb-explodes-hong-kong-caritas-medical) um hospital e [incendiaram um prédio que tentava abrigar os infectados](https://www.channelnewsasia.com/news/asia/wuhan-virus-hong-kong-protests-china-12348984). E, claro, a sinofobia das redes sociais. [Em vez de simpatizar e ajudar os necessitados com esta crise, o fanatismo desenfreado contra as comunidades chinesas e a hipocrisia com outras emergências é incrível](https://i.imgur.com/Vsn8jNy.jpg).
+
+Mas tudo isso chegou ao ponto, [onde até mesmo os imigrantes estrangeiros em Wuhan afirmam “Ver as reações do mundo exterior, especialmente na mídia ocidental, racistas, comentários políticos e assim por diante é tão nojento que as pessoas deveriam parar com isso”](https://thenanjinger.com/news/national-news/wuhan-expats-fed-up-with-foreign-media-hype/).
+
+#### Conclusão sobre a China e o coronavirus
+A resposta ao coronavírus da China mostra o que é possível quando as pessoas estão acima dos lucros:
+>O secretário-geral do partido, Xi Jinping, que também é presidente da China, presidiu a reunião. “A vida é de suma importância”, disse ele. “Quando surge uma epidemia, é dado um comando. É nossa responsabilidade prevenir e controlar isso. ” Ele disse que os membros do partido em todos os níveis e em todo o país devem "estar na linha de frente" para salvaguardar a saúde pública ...
+>
+>O jornal chamou a crise de "um teste para o sistema de governança e capacidade da China", dizendo que era especialmente urgente garantir o armazenamento e o fornecimento de medicamentos e suprimentos médicos. “A China, como fábrica mundial, não carece de força de produção e preencher as atuais lacunas de abastecimento não é uma questão difícil. Pedimos às partes relevantes que ponham o pé no acelerador para garantir a produção e exortamos todas as cidades do país a oferecer assistência mútua para superar o desafio.”
+>
+>Enquanto isso, em Wall Street, o foco era o lucro, e não a saúde pública. Em Nova York, as ações de companhias aéreas, agências de viagens, cassinos e empresas voltadas para o turismo caíram no pregão de sexta-feira, à medida que os investidores se preocupavam com o impacto do congelamento das viagens na China nas margens. Essa pressão para baixo foi equilibrada, no entanto, por ansiosos consultores financeiros dizendo a seus clientes para comprar ações de empresas que fabricam máscaras e suprimentos médicos e empresas de biotecnologia que produzem vacinas - especialmente porque os Estados Unidos relataram seu primeiro caso de coronavírus.
+>
+>As respostas contrastantes dos funcionários do governo e do Partido Comunista na China e dos investidores de Wall Street põem em relevo a distinção entre os sistemas socialista e capitalista e levanta a questão: O que vem primeiro - pessoas ou lucros?
+
 ## A Alemanha Oriental
 Ao longo de seus 41 anos de existência, a República Democrática Alemã (RDA/GDR/DDR) se viu constantemente no centro da Guerra Fria. O Muro de Berlim, criado para separar Berlim Oriental da Berlim Ocidental controlada pela FRG, rapidamente se tornou o símbolo mais famoso do conflito. Apesar disso, a maioria das pessoas (incluindo a maioria dos socialistas) sabe relativamente pouco sobre esta nação; como sua economia funcionava, que tipo de vida deu ao seu povo, etc. No entanto, à luz dos eventos recentes, como estudos que descobriram que [57% dos alemães orientais têm uma visão positiva da RDA](https://www.spiegel.de/international/germany/homesick-for-a-dictatorship-majority-of-eastern-germans-feel-life-better-under-communism-a-634122.html), muitas pessoas ficaram mais curiosas sobre neste país específico.
 
@@ -2611,6 +2670,194 @@ Fontes:
 - [The Guardian | East Germans Lost Much in 1989](https://www.theguardian.com/commentisfree/2009/nov/08/1989-berlin-wall)
 - [The Guardian | German Reunification 25 Years On](https://www.theguardian.com/world/2015/oct/02/german-reunification-25-years-on-how-different-are-east-and-west-really)
 - [Artery Publications | Stasi Hell or Workers' Paradise? Socialism in the GDR - What Can We Learn From It?](https://archive.org/details/StasiHellOrWorkersParadise)
+
+## Cuba
+A República de Cuba teve uma influência política extraordinária para uma nação de seu tamanho. Sua revolução serviu de inspiração para as vítimas do imperialismo em todos os lugares, e seu modelo socialista forneceu um exemplo a ser seguido pelos oprimidos do mundo. Como tal, é dever de todos os socialistas estarem bem informados sobre esta nação.
+
+### Cuba pré-revolucionária
+Antes de aprender sobre as conquistas do socialismo cubano, devemos tirar um momento para examinar como era a vida antes da revolução. Os defensores de Fulgencio Batista costumam afirmar que os padrões de vida eram melhores antes da revolução. No entanto, um rápido exame dos fatos mostrará que isso não faz sentido. É verdade que o reinado de Batista viu um crescimento do PIB relativamente alto; no entanto, os indicadores de desenvolvimento humano pintam um quadro muito mais sombrio. De acordo com um [artigo](https://www.coralgablescavaliers.org/ourpages/users/099346/IB%20History/Americas/Cuba/Cuba_s%20Food%20Rationing.pdf) da Cornell University:
+>Opiniões à parte, embora Cuba tenha sido classificada como um dos países em desenvolvimento mais prósperos na década de 1950 com base no produto interno bruto (PIB), os indicadores sociais desse período retratam condições sociais sombrias, especialmente entre os camponeses rurais.
+
+O regime de Batista deixou o povo cubano (especialmente a grande população rural) atolado na pobreza e na doença. De acordo com o artigo citado, estudos contemporâneos relataram uma taxa de desnutrição de 91% entre os trabalhadores agrícolas. Embora alguns comentaristas considerem esse número muito alto, "ele transmite a magnitude do empobrecimento rural". As condições de saúde são resumidas por um [estudo](https://caribbean.scielo.org/scielo.php?pid=S0043-31442013000300015&script=sci_arttext&tlng=pt) no West Indian Medical Journal:
+>Má higiene, saneamento ineficiente e desnutrição [contribuíram] para a taxa de mortalidade infantil de 60 por 1000 vidas, taxa de mortalidade materna de 125,3 por 1000, [e] uma taxa de mortalidade geral de 6,4 por 1000.
+
+A população rural, em particular, sofria de péssimas condições de saúde; de acordo com um [estudo](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3464859/) publicado no American Journal of Public Health:
+>Cuba tinha apenas 1 hospital rural, apenas 11% das famílias de trabalhadores rurais bebiam leite e a mortalidade infantil rural era de 100 por 1000 nascidos vivos.
+
+A infraestrutura também foi lamentavelmente subdesenvolvida sob Batista. De acordo com o artigo do Cornell acima mencionado:
+>De acordo com o censo de 1953, 54,1% das casas rurais não tinham banheiro de nenhum tipo. Apenas 2,3% das residências rurais tinham encanamento interno, em comparação com 54,6 das residências urbanas. Nas áreas rurais, 9,1% das casas tinham eletricidade, em comparação com 87% das casas nas áreas urbanas.
+
+O analfabetismo e o desemprego foram generalizados sob Batista:
+>Quase um quarto das pessoas de 10 anos ou mais não sabia ler nem escrever, e a taxa de desemprego era de 25%.
+
+A alta taxa de analfabetismo não é surpreendente quando nos lembramos do péssimo estado da educação na Cuba pré-revolucionária. De acordo com um [artigo](https://www.theguardian.com/global-development/poverty-matters/2011/aug/05/cuban-development-model) no The Guardian:
+>Em 1958, durante a ditadura de Batista, metade das crianças de Cuba não frequentava a escola.
+
+Tudo isso sem falar da dominação imperialista, do crime organizado e da exploração desenfreada que o povo cubano sofreu durante o reinado de Batista. Com tudo isso em mente, passemos a examinar a revolução cubana e suas conquistas.
+
+### Indicadores econômicos e nutricionais após a revolução cubana
+Desde o início, a revolução cubana esteve comprometida com a melhoria de vida do povo, tanto no plano econômico como no social. De acordo com um [relatório](https://web.archive.org/web/20090303221405/http://www.oxfamamerica.org/newsandpublications/publications/research_reports/art3670.html/OA-Cuba_Social_Policy_at_Crossroads-en.pdf) da Oxfam America:
+>Quando a revolução de Cuba chegou ao poder em 1959, seu modelo de desenvolvimento visava vincular o crescimento econômico aos avanços na justiça social.
+
+Segundo dados das Nações Unidas, a [taxa de desemprego em Cuba continua abaixo de 3%](http://data.un.org/en/iso/cu.html), há décadas. As taxas não oficiais podem ser um pouco mais altas, mas mesmo o dobro dessa taxa ainda colocaria Cuba bem abaixo da média regional (e muito mais baixa do que sob Batista):
+>De acordo com o Índice de Fome Global de 2019, Cuba é uma das dezessete nações da Terra (e apenas quatro na América Latina) a ter uma pontuação inferior a 5, o que significa níveis impressionantemente baixos de fome. A taxa de desnutrição de Cuba é inferior a 2,5%.
+
+De acordo com um [relatório](https://www.globalhungerindex.org/cuba.html) do Our World in Data (baseado na Universidade de Oxford), os americanos têm duas vezes mais chances de morrer de desnutrição do que os cubanos.
+
+Segundo um [relatório](http://www.fao.org/ag/agn/nutrition/cub_en.stm) da FAO, "percentagens notavelmente baixas de desnutrição infantil colocam Cuba na vanguarda dos países em desenvolvimento".
+
+Segundo um [relatório](https://web.archive.org/web/20131105150934/http://www.fas.usda.gov/itp/cuba/CubaSituation0308.pdf) do Departamento de Agricultura dos Estados Unidos, o cubano médio consome aprox. 3300 calorias por dia, muito acima da média da América Latina e do Caribe, e apenas um pouco menor do que nos Estados Unidos. Aproximadamente 2/3 das necessidades nutricionais são atendidas por rações alimentares mensais, enquanto o restante é comprado de forma independente. O relatório também afirma:
+>A economia cubana fez um progresso notável em direção à recuperação do desastre econômico gerado pelo colapso do Bloco Soviético.
+
+Em seu [relatório](https://www1.wfp.org/countries/cuba) sobre Cuba, o Programa Mundial de Alimentos (o braço de assistência alimentar das Nações Unidas) afirma que:
+>Nos últimos 50 anos, programas abrangentes de proteção social erradicaram amplamente a pobreza e a fome. As redes de segurança social baseadas em alimentos incluem uma cesta básica mensal para toda a população, programas de alimentação escolar e programas de saúde materno-infantil.
+
+Isso é especialmente impressionante quando Cuba é comparada a outros países em desenvolvimento e considerando as décadas de bloqueio econômico que a nação sofreu. O relatório também afirma:
+>Maior ilha do Caribe, Cuba ocupa a 72ª posição entre 189 países no Índice de Desenvolvimento Humano de 2019 e é uma das mais bem-sucedidas em alcançar os Objetivos de Desenvolvimento do Milênio (ODM).
+
+Um [artigo](https://www.theguardian.com/global-development/poverty-matters/2010/sep/30/millennium-development-goals-cuba) do The Guardian aborda este tópico:
+>...as evidências sugerem que Cuba fez um excelente progresso em direção aos ODM na última década, com base no que já é universalmente reconhecido como realizações notáveis ​​em padrões equitativos de saúde e educação.
+>
+>De acordo com um novo Relatório dos ODMs do Overseas Development Institute, Cuba está entre os 20 países com melhor desempenho no mundo.
+
+O artigo também inclui uma declaração de um economista cubano sobre como esse progresso é feito:
+>A economia cubana é planejada e redistribuímos as receitas dos setores mais dinâmicos, que mais geram divisas, para os menos dinâmicos, mas necessários para o país. É assim que mantemos um orçamento para manter a saúde e a educação de alta qualidade e gratuitas para o usuário.
+
+A revolução melhorou muito a situação habitacional em Cuba e também trouxe um desenvolvimento urbano significativo. De acordo com a Oxfam America:
+>As iniciativas nas cidades não foram menos ambiciosas. A reforma urbana trouxe uma redução pela metade dos aluguéis para os inquilinos cubanos, oportunidades para os inquilinos terem suas próprias casas e um ambicioso programa de construção de moradias para os que vivem em favelas marginais. As novas moradias, junto com a implementação de medidas para criar empregos e reduzir o desemprego, especialmente entre as mulheres, transformaram rapidamente as antigas favelas.
+
+Finalmente, o sistema de seguridade social e pensões em Cuba melhorou drasticamente desde a revolução, como evidenciado por esta declaração do relatório da Oxfam América acima:
+>Tanto a cobertura quanto a distribuição melhoraram significativamente desde a revolução. Com sistema previdenciário desde a década de 1930, Cuba foi um dos primeiros países latino-americanos a instituí-lo. Consistia em fundos de pensão independentes e em 1959 cobria cerca de 63% dos trabalhadores, mas o sistema variava muito em termos de benefícios e dependia quase exclusivamente das contribuições dos trabalhadores. Desde 1959, o programa foi totalmente financiado pelo governo. Em 1958, cerca de 63% da força de trabalho estava coberta por seguro de velhice, invalidez e sobrevivência; hoje, a cobertura é universal.
+
+### Desenvolvimento sustentável e preservação ambiental em Cuba
+De acordo com um [estudo](https://www.sciencedirect.com/science/article/pii/S0921800919303386) da revista Ecological Economics, Cuba é [o país mais desenvolvido de forma sustentável do mundo](https://www.forbes.com/sites/christinero/2019/12/01/every-country-is-developing-according-to-the-new-sustainable-development-index/#4ce6dd7618bc). Isso se baseia no [Índice de Desenvolvimento Sustentável](https://www.sustainabledevelopmentindex.org/), que mede os resultados do desenvolvimento humano de uma nação (saúde e educação, renda per capita, etc) e os fatores de impacto ambiental do país. Este resultado [foi confirmado em um relatório separado do World Wildlife Fund](https://www.telesurenglish.net/news/As-World-Burns-Cuba-Number-1-for-Sustainable-Development-WWF-20161027-0018.html).
+
+Cuba também é [uma das únicas nações que reúne condições para um desenvolvimento sustentável](https://www.footprintnetwork.org/2015/09/23/eight-countries-meet-two-key-conditions-sustainable-development-united-nations-adopts-sustainable-development-goals/) e tem sido [elogiada pelo WWF](https://wwf.panda.org/wwf_news/?1944/the-other-cuban-revolution) por suas "políticas ambientais iluminadas". Considerando a ameaça cada vez mais urgente representada pela mudança climática e catástrofe ambiental, Cuba oferece um modelo para o resto do mundo aspirar.
+
+### Indicadores de saúde de Cuba
+O sistema de saúde de Cuba é uma de suas conquistas mais impressionantes e conhecidas. De acordo com o [artigo](https://www.coralgablescavaliers.org/ourpages/users/099346/IB%20History/Americas/Cuba/Cuba_s%20Food%20Rationing.pdf) acima mencionado da Cornell University:
+>Os indicadores de saúde superiores de Cuba - altamente classificados tanto regional quanto globalmente - são atribuídos aos serviços universais de saúde primária do país.
+
+O sistema de saúde cubano é baseado no investimento público e na provisão universal. De acordo com um [relatório](http://www.ecocubanetwork.net/wp-content/uploads/NASW%20CUBA%20REPORT.pdf) da Associação Nacional de Assistentes Sociais:
+>Cuba tem o maior número de médicos per capita do que qualquer país do mundo. O país dedica quase um quarto de seu produto interno bruto (PIB) à educação e saúde - quase o dobro da porcentagem do PIB dos Estados Unidos destinada às mesmas despesas. Como resultado, o país garante educação e assistência médica gratuitas para todos os cidadãos, e as mulheres recebem seis semanas de licença-maternidade remunerada e até um ano de licença remunerada após o parto.
+
+Segundo [dados](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=CU-US) do Banco Mundial, a expectativa de vida de Cuba é um pouco maior que a dos Estados Unidos. Compare isso com a era pré-revolucionária, quando a expectativa de vida cubana era aproximadamente 6 anos menor do que a expectativa de vida americana.
+
+Além disso, segundo [dados](https://data.worldbank.org/indicator/SP.DYN.IMRT.IN?locations=CU-US) do Banco Mundial, a taxa de mortalidade infantil de Cuba é aproximadamente 1/3 menor que a dos Estados Unidos. Compare isso com a era pré-revolucionária, quando a taxa de mortalidade infantil cubana era quase o dobro da dos EUA.
+
+De acordo com um [estudo](https://journals.sagepub.com/doi/abs/10.1177/0169796X19826731) de 2019 publicado no Journal of Developing Societies, os indicadores de saúde de Cuba superam os das nações desenvolvidas, apesar dos gastos muito menores:
+>Enquanto Cuba gasta cerca de um vigésimo per capita com saúde em comparação com os EUA, as pessoas em Cuba, no entanto, têm uma expectativa de vida mais longa (79 anos) do que as pessoas nos EUA (78 anos). Cuba também tem uma mortalidade infantil superior (o número de mortes até a idade de 5 anos por 1.000 nascidos vivos por ano) de seis, em comparação com oito nos EUA.
+
+Cuba também fez alguns avanços surpreendentes na área da saúde. De acordo com a OMS, [Cuba é a primeira nação do mundo a eliminar a transmissão vertical (mãe para filho) do HIV e da sífilis](https://www.who.int/mediacentre/news/releases/2015/mtct-hiv-cuba/en/).
+
+De acordo com o Washington Post, [Cuba desenvolveu uma potencial vacina contra o câncer de pulmão](https://www.washingtonpost.com/news/to-your-health/wp/2016/10/27/in-a-first-u-s-trial-to-test-cuban-lung-cancer-vaccine/?utm_term=.9a6205587548), com resultados muito promissores, e está sendo testada nos Estados Unidos.
+
+A experiência cubana oferece um modelo importante a ser seguido por outras nações. De acordo com um [estudo](https://academic.oup.com/ije/article/35/4/817/686547) no International Journal of Epidemiology (publicado pela Oxford University Press):
+>Cuba representa um importante exemplo alternativo onde investimentos modestos em infraestrutura combinados com uma estratégia de saúde pública bem desenvolvida geraram medidas de estado de saúde comparáveis ​​às dos países industrializados. Se a experiência cubana fosse generalizada para outros países pobres e de renda média, a saúde humana seria transformada.
+
+Um [artigo](https://www.theguardian.com/news/gallery/2007/jul/17/internationalnews) no The Guardian resume este tópico muito bem:
+>Quer se trate de uma consulta, dentadura ou cirurgia cardíaca aberta, os cidadãos têm direito a tratamento gratuito. Como resultado, a empobrecida ilha ostenta melhores indicadores de saúde do que sua vizinha exponencialmente mais rica, a 145 quilômetros do estreito da Flórida.
+
+Esta é uma conquista extremamente impressionante.
+
+### Desenvolvimentos educacionais de Cuba
+Desde a revolução, avanços enormes foram feitos na educação. Um dos avanços mais significativos foi a Campanha Nacional de Alfabetização, encabeçada por Che Guevara. [De acordo com a Oxfam America](https://web.archive.org/web/20090303221405/http://www.oxfamamerica.org/newsandpublications/publications/research_reports/art3670.html/OA-Cuba_Social_Policy_at_Crossroads-en.pdf):
+>A Campanha Nacional de Alfabetização de 1961, reconhecida como uma das iniciativas mais bem-sucedidas do gênero, mobilizou professores, trabalhadores e alunos do ensino médio para ensinar mais de 700.000 pessoas a ler. Essa campanha reduziu a taxa de analfabetismo de 23% para 4% no espaço de um ano.
+
+Antes da revolução, a alfabetização em Cuba estava entre 60% e 76%, dependendo das estimativas utilizadas. Hoje, o [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/cuba/) dá a taxa de alfabetização de Cuba em 99,8%.
+
+Além disso, [Cuba gasta uma porcentagem do PIB maior em educação do que qualquer outra nação do mundo](https://www.cia.gov/library/publications/the-world-factbook/fields/369rank.html#CU). Isso resultou em resultados impressionantes; de acordo com um [estudo](https://www.worldbank.org/content/dam/Worldbank/document/LAC/Great_Teachers-How_to_Raise_Student_Learning-Barbara-Bruns-Advance%20Edition.pdf) de 2014 do Banco Mundial, [Cuba tem o único sistema educacional de "alta qualidade" da América Latina](https://www.huffpost.com/entry/world-bank-cuba-has-the-b_b_5925864).
+
+### Desenvolvimentos de infraestrutura de Cuba
+Em 1959, aproximadamente 50% dos lares cubanos tinham acesso à eletricidade. De acordo com um [relatório](https://www.edf.org/sites/default/files/cuban-electric-grid.pdf) do Fundo de Defesa Ambiental, em 1989, mais de 95% das famílias tinham acesso à eletricidade, inclusive nas áreas rurais, que antes eram quase totalmente privadas desta novidade. Cuba também superou muitos de seus vizinhos em termos de geração de eletricidade:
+>Em 1990, Cuba tinha cerca de 1,8 vezes mais capacidade de geração por pessoa do que a República Dominicana e 1,3 vezes mais do que a Jamaica.
+
+Em Cuba, [o acesso à água potável e ao saneamento melhorou muito](http://data.un.org/en/iso/cu.html) desde a revolução. De acordo com dados das Nações Unidas, em 2018, 96,4% da população urbana e 89,8% da população rural tinham acesso a água potável, enquanto 94,4% da população urbana e 89,1% da população rural tinham acesso a serviços de saneamento melhorados.
+
+Um excelente [artigo](https://www.independent.co.uk/voices/fidel-castro-death-cuba-embargo-peasants-poor-urban-areas-modernisation-a7441036.html) do Independent discutiu muito bem esse assunto:
+>Este é o legado de Fidel. Água potável e eletricidade para todos. E educação e saúde universais e gratuitas. Os cubanos costumam brincar que são mais saudáveis ​​e têm melhor educação do que os americanos, apesar do bloqueio americano de mais de 50 anos.
+>
+>Então, para mim, a Cuba rural é a Cuba de Fidel. Seus ideais continuam vivos aqui - e os pobres rurais de Cuba foram os que mais se beneficiaram com suas políticas do berço ao túmulo. Aqui, os netos dos camponeses realmente se tornam cirurgiões consultores e pilotos de aviões comerciais.
+
+Este é um enorme crédito para a revolução.
+
+### Política social de cuba
+A revolução cubana também fez grandes avanços na eliminação da discriminação e da desigualdade. Conforme afirma o [relatório](https://web.archive.org/web/20090303221405/http://www.oxfamamerica.org/newsandpublications/publications/research_reports/art3670.html/OA-Cuba_Social_Policy_at_Crossroads-en.pdf) da Oxfam America:
+>A política social também favoreceu o desenvolvimento da equidade em toda a sociedade, incluindo a distribuição equitativa dos benefícios por todos os setores da população, às vezes favorecendo os mais vulneráveis. Nos últimos 40 anos, os cubanos reduziram muito as diferenças de renda entre as pessoas mais baixas e as mais bem pagas. As mulheres se beneficiaram significativamente com a revolução, pois se educaram e entraram na força de trabalho em grande número. As diferenças entre cubanos de diferentes raças também foram reduzidas.
+
+Considerando a ampla discriminação racial e de gênero que existia antes da revolução, essas conquistas devem ser admiradas.
+
+### Opinião popular em Cuba
+De acordo com um [artigo](https://newrepublic.com/article/121502/cuban-poll-shows-more-political-satisfaction-americans) publicado no New Republic, os cubanos estão significativamente mais satisfeitos com seu sistema político do que os americanos com o deles. O mesmo se aplica aos sistemas de saúde e educação:
+>Mais de dois terços dos cubanos - 68% - estão satisfeitos com seu sistema de saúde. Cerca de 66% dos americanos disseram o mesmo em uma pesquisa Gallup de novembro de 2014. 72% dos cubanos estão satisfeitos com seu sistema educacional, enquanto uma pesquisa Gallup de agosto de 2014 descobriu que menos da metade dos americanos - 48% - estão “completamente” ou “um pouco” satisfeitos com a qualidade do ensino fundamental e médio.
+
+O povo cubano também ratificou recentemente uma nova constituição, que reafirma o papel do Partido Comunista e afirma que Cuba é um Estado socialista que avança para o comunismo. A constituição também inclui algumas reformas políticas e econômicas, como o reconhecimento de pequenas empresas e a presunção de inocência no sistema judicial. De acordo com um [artigo](https://www.reuters.com/article/us-cuba-constitution-referendum-idUSKCN1QE22Y) da Reuters, evidências independentes apóiam a contagem oficial de votos (aproximadamente 90% de apoio):
+>O jornal online independente El Toque pediu aos leitores que enviassem contagens locais, uma dúzia das quais mostrou apoio esmagador à ratificação.
+
+Yoani Sanchez, a dissidente mais conhecida de Cuba, testemunhou a contagem em sua seção eleitoral local, relatando os resultados como "400 votos sim, 25 votos não e 4 votos em branco". Isso sugere que os resultados oficiais foram corretos e que o povo cubano apoiou de forma esmagadora a nova constituição.
+
+Um [artigo](https://www.independent.co.uk/voices/fidel-castro-death-cuba-embargo-peasants-poor-urban-areas-modernisation-a7441036.html) no Independent, escrito por um autor cuja família vive em Cuba, resume bem esta questão:
+>A maioria dos cubanos com quem falo apóia a reformulação da economia e a ampliação dos laços com os Estados Unidos. Assim como nós, eles querem melhorar de vida, querem um celular melhor, uma casa maior, querem viajar. Mas nenhum deles gostaria de viver em uma Cuba, por mais rica que fosse, sem educação gratuita universal, saúde gratuita, transporte público barato e os menores índices de crimes violentos das Américas. Nenhum deles. Este é o legado de Fidel.
+
+Embora o povo cubano apoie amplamente a reforma econômica e a normalização das relações com os EUA, seu apoio geral às conquistas de seu sistema socialista permanece alto. Como afirma o New Republic:
+>Indicadores objetivos, como as baixas taxas de mortalidade infantil e analfabetismo do país, há muito mostram que Cuba tem serviços sociais relativamente fortes. Os novos dados da pesquisa sugerem que os cubanos estão bem cientes disso.
+
+Este é um crédito importante para a revolução.
+
+### Exilados cubanos
+O argumento mais comum contra o socialismo cubano é que a população cubana exilada (e sua forte aversão ao socialismo) de alguma forma "prova" que a Cuba socialista é terrível. No entanto, isso omite um fato fundamental: os exilados vêm principalmente da classe rica de Cuba. De acordo com um estudo na revista Social Problems (publicado pela Oxford University Press):
+>A comparação da composição ocupacional, de idade e educacional da comunidade com a população cubana indica que os refugiados são mais bem educados e vêm de ocupações de status mais elevado do que a população da qual se exilaram. Os exilados mais recentes são mais representativos da população cubana, mas o trabalhador rural ainda está muito sub-representado.
+
+Outra coisa a considerar é que o exílio ocorreu em um momento de conflito e dificuldade para Cuba; a revolução ainda era muito nova e o governo ainda não havia se estabelecido inteiramente. Isso provavelmente explica por que havia alguns outliers (ou seja, exilados da população da classe trabalhadora), embora a maioria ainda pertencesse aos setores ricos da sociedade cubana.
+
+### Conclusão sobre Cuba
+Cuba é uma nação com muitos problemas; a economia desacelerou desde a queda da União Soviética (perder seu único grande parceiro comercial tende a prejudicar a economia de uma nação), e a pressão internacional dos EUA continua a colocar Cuba sob pressão. No entanto, as enormes conquistas da revolução não podem ser negligenciadas; Cuba forneceu padrões educacionais e de saúde de primeiro mundo com um orçamento de terceiro mundo, bem como nutrição e infraestrutura acima da média, ao mesmo tempo em que enfrentava a força imperialista mais poderosa do mundo, a apenas 90 milhas de sua costa.
+
+Luta-se para encontrar uma declaração adequada para resumir as conquistas da revolução cubana. Talvez este, do ex-secretário-geral da ONU Kofi Annan (de 11 de abril de 2000):
+>As conquistas de Cuba no desenvolvimento social são impressionantes, dado o tamanho de seu produto interno bruto per capita. Como o índice de desenvolvimento humano das Nações Unidas deixa claro ano após ano, Cuba deveria ser invejada por muitas outras nações, aparentemente muito mais ricas. [Cuba] demonstra o quanto as nações podem fazer com os recursos de que dispõem se se concentrarem nas prioridades certas - saúde, educação e alfabetização.
+
+Talvez a melhor declaração seja dada por Aviva Chomsky em seu livro [A History of the Cuban Revolution](https://edisciplinas.usp.br/pluginfile.php/4447044/mod_resource/content/1/A-History-of-the-Cuban-Revolution.pdf):
+>A revolução foi extremamente audaciosa, experimental e diversa. Ela evoluiu em circunstâncias muitas vezes adversas. Criou uma igualdade socioeconômica sem precedentes e mostrou ao mundo que é realmente possível para um país pobre do Terceiro Mundo alimentar, educar e fornecer cuidados de saúde para sua população. Se quisermos imaginar um mundo melhor para todos nós, Não consigo pensar em lugar melhor para começar do que estudar a Revolução Cubana.
+
+Isso é algo que todos podemos apreciar.
+
+Fontes:
+- [Cornell University | Cuba's Food-Rationing System and Alternatives](https://www.coralgablescavaliers.org/ourpages/users/099346/IB%20History/Americas/Cuba/Cuba_s%20Food%20Rationing.pdf)
+- [West Indian Medical Journal | Cuba: Healthcare and the Revolution](https://caribbean.scielo.org/scielo.php?pid=S0043-31442013000300015&script=sci_arttext&tlng=pt)
+- [American Journal of Public Health | The Curious Case of Cuba](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3464859/)
+- [The Guardian | Cuba: A Development Model That Proved the Doubters Wrong](https://www.theguardian.com/global-development/poverty-matters/2011/aug/05/cuban-development-model)
+- [Oxfam America | Cuba: Social Policy at the Crossroads](https://web.archive.org/web/20090303221405/http://www.oxfamamerica.org/newsandpublications/publications/research_reports/art3670.html/OA-Cuba_Social_Policy_at_Crossroads-en.pdf)
+- [UNdata | Country Profiles: Cuba](http://data.un.org/en/iso/cu.html)
+- [2019 Global Hunger Index | Cuba](https://www.globalhungerindex.org/cuba.html)
+- [Our World in Data | Deaths by Malnutrition in the USA and Cuba](https://ourworldindata.org/grapher/malnutrition-death-rates?tab=chart&country=CUB+USA)
+- [Food and Agricultural Organization (United Nations) | Report on Nutrition in Cuba](http://www.fao.org/ag/agn/nutrition/cub_en.stm)
+- [USDA | Cuba Food and Agricultural Situation](https://web.archive.org/web/20131105150934/http://www.fas.usda.gov/itp/cuba/CubaSituation0308.pdf)
+- [World Food Program USA (United Nations) | Cuba Has "Largely Eliminated Hunger and Poverty"](https://www1.wfp.org/countries/cuba)
+- [The Guardian | Why We Should Applaud Cuba's Progress Towards the Millennium Development Goals](https://www.theguardian.com/global-development/poverty-matters/2010/sep/30/millennium-development-goals-cuba)
+- [Ecological Economics | The Sustainable Development Index: Measuring the Ecological Efficiency of Human Development in the Anthropocene](https://www.sciencedirect.com/science/article/pii/S0921800919303386)
+- [Forbes | Every Country in the World is Developing, According to the New Sustainable Development Index](https://www.forbes.com/sites/christinero/2019/12/01/every-country-is-developing-according-to-the-new-sustainable-development-index/#4ce6dd7618bc)
+- [Telesur | As World Burns, Cuba Number One for Sustainable Development](https://www.telesurenglish.net/news/As-World-Burns-Cuba-Number-1-for-Sustainable-Development-WWF-20161027-0018.html)
+- [Global Footprint Network | Only Eight Countries Meet Two Key Conditions for Sustainable Development, as United Nations Adopts Sustainable Development Goals](https://www.footprintnetwork.org/2015/09/23/eight-countries-meet-two-key-conditions-sustainable-development-united-nations-adopts-sustainable-development-goals/)
+- [World Wildlife Fund | The Other Cuban Revolution](https://wwf.panda.org/wwf_news/?1944/the-other-cuban-revolution)
+- [National Association of Social Workers | Social Services in Cuba](http://www.ecocubanetwork.net/wp-content/uploads/NASW%20CUBA%20REPORT.pdf)
+- [World Bank | Life Expectancy in the USA and Cuba](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=CU-US)
+- [World Bank | Infant Mortality in the USA and Cuba](https://data.worldbank.org/indicator/SP.DYN.IMRT.IN?locations=CU-US)
+- [Journal of Developing Societies | Cuban Public Healthcare: A Model of Success for Developing Nations](https://journals.sagepub.com/doi/abs/10.1177/0169796X19826731)
+- [World Health Organization (United Nations) | Cuba First Country in the World to Eliminate Mother-to-Child HIV Transmissions](https://www.who.int/mediacentre/news/releases/2015/mtct-hiv-cuba/en/)
+- [The Washington Post | USA to Test Cuban Lung-Cancer Vaccine](https://www.washingtonpost.com/news/to-your-health/wp/2016/10/27/in-a-first-u-s-trial-to-test-cuban-lung-cancer-vaccine/?utm_term=.9a6205587548)
+- [International Journal of Epidemiology | Health in Cuba](https://academic.oup.com/ije/article/35/4/817/686547)
+- [The Guardian | Healthcare in Cuba](https://www.theguardian.com/news/gallery/2007/jul/17/internationalnews)
+- [CIA World Factbook | Cuba](https://www.cia.gov/the-world-factbook/countries/cuba/)
+- [CIA World Factbook | Country Comparison: Educational Expenditures by Nation](https://www.cia.gov/the-world-factbook/field/education-expenditures/country-comparison)
+- [World Bank | Great Teachers: How to Raise Student Learning in Latin America and the Caribbean](https://www.worldbank.org/content/dam/Worldbank/document/LAC/Great_Teachers-How_to_Raise_Student_Learning-Barbara-Bruns-Advance%20Edition.pdf)
+- [HuffPost | World Bank: Cuba Has the Best Education System in Latin America and the Caribbean](https://www.huffpost.com/entry/world-bank-cuba-has-the-b_b_5925864)
+- [Environmental Defense Fund | The Cuban Electric Grid](https://www.edf.org/sites/default/files/cuban-electric-grid.pdf)
+- [UNdata | Country Profiles: Cuba](http://data.un.org/en/iso/cu.html)
+- [New Republic | Polls Show Cubans Have Higher Political Satisfaction Than Americans](https://newrepublic.com/article/121502/cuban-poll-shows-more-political-satisfaction-americans)
+- [Reuters | Cubans Overwhelmingly Ratify New Socialist Constitution](https://www.reuters.com/article/us-cuba-constitution-referendum-idUSKCN1QE22Y)
+- [The Independent | My Family Live in Cuba - The People May Be Poor, But Fidel Castro's Legacy Will Live On](https://www.independent.co.uk/voices/fidel-castro-death-cuba-embargo-peasants-poor-urban-areas-modernisation-a7441036.html)
+- [Oxford University Press | Cubans in Exile: A Demographic Analysis](https://www.jstor.org/stable/799194?seq=1#metadata_info_tab_contents)
+- ["A History of the Cuban Revolution" by Aviva Chomsky](https://edisciplinas.usp.br/pluginfile.php/4447044/mod_resource/content/1/A-History-of-the-Cuban-Revolution.pdf)
 
 ## Os naxalitas na Índia
 De todos os vários grupos socialistas e comunistas que atualmente travam a luta armada contra o capitalismo e o imperialismo, poucos são mais significativos e conhecidos do que o movimento maoísta da Índia, comumente conhecido como Naxalitas. Frequentemente demonizados e retratados como terroristas, eles continuam a lutar (com notável sucesso, como será mostrado em breve) contra a exploração implacável e o assassinato das pessoas mais pobres da Terra.
@@ -2861,18 +3108,18 @@ Antes de começar, deve-se notar que nem a Venezuela nem a Bolívia são tecnica
 Como socialistas, é nosso dever solidarizar-nos com os nossos camaradas de todo o mundo, independentemente da forma como decidem construir o socialismo. Além disso, como a Venezuela é atualmente o exemplo favorito de "socialismo" da mídia, parece justo que usemos uma nação semelhante em resposta. Agora, vamos analisar a situação na Bolívia.
 
 ### Realizações econômicas, crescimento e redução da pobreza na Bolívia
-As políticas econômicas de Evo Morales se concentraram na nacionalização de várias empresas importantes, no aumento dos direitos trabalhistas e do sistema de previdência social e na forte oposição ao FMI e ao Banco Mundial. O The Economist (uma publicação neoliberal) discutiu algumas das políticas de Morales em um artigo sobre o tema:
+As políticas econômicas de Evo Morales se concentraram na nacionalização de várias empresas importantes, no aumento dos direitos trabalhistas e do sistema de previdência social e na forte oposição ao FMI e ao Banco Mundial. O The Economist (uma publicação neoliberal) discutiu algumas das políticas de Morales em um [artigo](https://www.economist.com/the-americas/2009/12/10/the-explosive-apex-of-evos-power) sobre o tema:
 >Em seu primeiro mandato, o Sr. Morales impôs muitos controles sobre empresas privadas. As telecomunicações e as minas, assim como o gás, foram nacionalizadas. Os preços do gás e de muitos alimentos foram controlados e os produtores de alimentos forçados a vender no mercado local em vez de exportar. Um novo órgão estatal distribuiu alimentos a preços subsidiados.
 
 O artigo também afirma:
 >A nacionalização do petróleo e do gás natural por Morales em 2006, junto com os preços mais altos das exportações de gás para o Brasil, deixou seu governo inundado de dinheiro. Ele usou isso para expandir a provisão de bem-estar, incluindo uma pensão não-contributiva por idade e pagamentos às mães, desde que seus filhos estejam na escola e seus bebês sejam levados para exames de saúde. O presidente também distribuiu centenas de tratores gratuitamente.
 
-Essas políticas levaram ao maior crescimento econômico que a Bolívia já viu em décadas, e agora é a economia que mais cresce na América Latina. Isso é demonstrado por um relatório do Centro de Pesquisa Econômica e Política, que afirma que o crescimento sob Morales "tem sido maior do que em qualquer momento nos últimos 30 anos, com uma média de 4,9% ao ano desde que o atual governo assumiu em 2006". 
+Essas políticas levaram ao maior crescimento econômico que a Bolívia já viu em décadas, e agora é a economia que mais cresce na América Latina. Isso é demonstrado por um [relatório](https://www.cepr.net/documents/publications/bolivia-2009-12.pdf) do Centro de Pesquisa Econômica e Política, que afirma que o crescimento sob Morales "tem sido maior do que em qualquer momento nos últimos 30 anos, com uma média de 4,9% ao ano desde que o atual governo assumiu em 2006". 
 
 O relatório também comenta algumas das políticas redistributivas do governo Morales:
 >O governo deu início a vários programas dirigidos aos bolivianos mais pobres. Isso inclui pagamentos a famílias pobres para aumentar a matrícula escolar; uma expansão das pensões públicas para reviver a pobreza extrema entre os idosos; e, mais recentemente, pagamentos para mães sem seguro para expandir os cuidados pré e pós-natal, para reduzir a mortalidade infantil.
 
-Um artigo do The Guardian, publicado após a eleição boliviana de 2014, analisa a importância do crescimento econômico da Bolívia e seu efeito na qualidade de vida:
+Um [artigo](https://www.theguardian.com/commentisfree/2014/oct/14/evo-morales-reelected-socialism-doesnt-damage-economies-bolivia) do The Guardian, publicado após a eleição boliviana de 2014, analisa a importância do crescimento econômico da Bolívia e seu efeito na qualidade de vida:
 >Os benefícios desse crescimento foram sentidos pelo povo boliviano: sob Morales, a pobreza diminuiu 25% e a pobreza extrema diminuiu 43%; os gastos sociais aumentaram em mais de 45%; o salário mínimo real aumentou 87,7%; e, talvez sem surpresa, a Comissão Econômica para a América Latina e o Caribe elogiou a Bolívia por ser “um dos poucos países que reduziu a desigualdade”.
 
 O artigo termina comentando sobre Morales:
@@ -2880,9 +3127,10 @@ O artigo termina comentando sobre Morales:
 
 Bolívia, com aproximadamente 40% da economia sob algum tipo de propriedade estatal, fechou 2018 com uma das maiores taxas de crescimento do mundo.
 
-De acordo com um artigo da Telesur, o modelo econômico seguido pela Bolívia é baseado na Produção Social Comunitária, amparado por uma forte participação do Estado em setores estratégicos, o que vai de encontro às recomendações do FMI, que busca a supressão dos subsídios e a redução dos investimentos públicos. A economia boliviana registrou em média um crescimento de 4,9% no período 2006-2017, onde mais de três milhões de pessoas saíram da pobreza. O PIB registrou um crescimento de 4,2% no ano passado, de acordo com o Relatório de Economia da Bolívia 2017.
+De acordo com um [artigo](https://www.telesurenglish.net/news/Bolivia-Closes-2018-Among-The-Highest-Economic-Growth-Rates-20181208-0022.html) da Telesur:
+> O modelo econômico seguido pela Bolívia é baseado na Produção Social Comunitária, amparado por uma forte participação do Estado em setores estratégicos, o que vai de encontro às recomendações do FMI, que busca a supressão dos subsídios e a redução dos investimentos públicos. A economia boliviana registrou em média um crescimento de 4,9% no período 2006-2017, onde mais de três milhões de pessoas saíram da pobreza. O PIB registrou um crescimento de 4,2% no ano passado, de acordo com o Relatório de Economia da Bolívia 2017.
 
-A desigualdade econômica (medida pelo Índice GINI do Banco Mundial) também reduziu drasticamente sob Morales (ele foi eleito em 2006).
+A desigualdade econômica (medida pelo [Índice GINI do Banco Mundial](https://data.worldbank.org/indicator/SI.POV.GINI?locations=BO)) também reduziu drasticamente sob Morales (ele foi eleito em 2006).
 
 Segundo sua própria Wikipedia:
 >Durante a sua presidência, a pobreza extrema na Bolívia foi reduzida de 36,7% a 16,8% entre 2005 e 2015. O Coeficiente de Gini (utilizado para medir a desigualdade de renda) desceu de 0,60 a 0,47. Aumentado imposto sobre a grande indústria boliviana de hidrocarbonetos, ele usou esses novos lucros para criar políticas sociais de combate ao analfabetismo, pobreza, racismo e sexismo. Um crítico do neoliberalismo, buscou reduzir a dependência monetária da Bolívia do FMI e do Banco Mundial, apostando numa economia mista. O PIB boliviano cresceu consideravelmente durante o governo Morales.[] Gozou de alta popularidade durante a primeira década que esteve no poder, sendo reeleito em 2009, em 2014 e, de forma controversa, em 2019. Ainda assim, seu governo foi marcado por acusações de corrupção e abuso de poder, com a Bolívia sendo ranqueada baixo nos índices de democracia global. Na política externa, Morales buscou boas relações com outros líderes de esquerda, como Hugo Chávez, Nicolás Maduro, Luís Inácio Lula da Silva e Cristina Kirchner.
@@ -2890,11 +3138,12 @@ Segundo sua própria Wikipedia:
 Tudo isso deixa claro que as políticas econômicas do governo Morales têm sido extremamente bem-sucedidas no crescimento da economia e na redução drástica da pobreza, ao mesmo tempo que combate o neoliberalismo e o imperialismo.
 
 ### Reformas sociais e conquistas da Bolívia
-O governo Morales também conseguiu implementar reformas sociais muito bem-sucedidas, especialmente nas áreas de educação e questões raciais. A Bolívia conseguiu se tornar apenas a terceira nação da América Latina (depois da Venezuela e Cuba) a ser declarada "livre do analfabetismo" pela UNESCO. Isso foi alcançado por meio de programas educacionais inspirados no modelo cubano. Além disso, o governo boliviano fez grandes avanços na luta contra o racismo contra a população indígena da Bolívia (o próprio Morales é o primeiro presidente da Bolívia entre a população indígena). Por isso, eles têm recebido elogios da ONU.
+O governo Morales também conseguiu implementar reformas sociais muito bem-sucedidas, especialmente nas áreas de educação e questões raciais. A Bolívia conseguiu se tornar apenas a terceira nação da América Latina (depois da Venezuela e Cuba) a ser declarada ["livre do analfabetismo" pela UNESCO](https://www.telesurenglish.net/news/UNESCO-Declares-Bolivia-Free-of-Illiteracy-20140721-0048.html). Isso foi alcançado por meio de programas educacionais inspirados no modelo cubano. Além disso, o governo boliviano fez grandes avanços na luta contra o racismo contra a população indígena da Bolívia (o próprio Morales é o primeiro presidente da Bolívia entre a população indígena). Por isso, eles têm recebido elogios da ONU.
 
-De acordo com um artigo da Telesur, o governo da Bolívia fez "grandes avanços" nos últimos dez anos na luta contra o racismo e a discriminação institucional e estrutural, anunciou terça-feira em nota oficial o Escritório do Alto Comissariado das Nações Unidas para os Direitos Humanos.
+De acordo com um [artigo](https://www.telesurenglish.net/news/UN-Praises-Bolivia-for-Progress-in-Fight-Against-Racism-20161018-0012.html) da Telesur:
+> O governo da Bolívia fez "grandes avanços" nos últimos dez anos na luta contra o racismo e a discriminação institucional e estrutural, anunciou terça-feira em nota oficial o Escritório do Alto Comissariado das Nações Unidas para os Direitos Humanos.
 
-O governo também tem procurado combater a violência e a discriminação contra as mulheres e promover a igualdade de gênero.
+O governo também [tem procurado combater a violência e a discriminação contra as mulheres e promover a igualdade de gênero](https://www.telesurenglish.net/news/Bolivias-Evo-Morales-Outlines-Govt-Measures-to-Curb-Violence-Against-Women-Promote-Equality-20190309-0009.html).
 O governo Morales conseguiu fazer grandes avanços em várias questões sociais na Bolívia.
 
 ### Política externa e anti-imperialismo boliviano
@@ -2902,13 +3151,14 @@ O governo Morales sempre se solidarizou com os governos cubano e venezuelano e s
 
 O governo tem procurado promover o anti-imperialismo, abrindo mesmo uma escola militar explicitamente "anti-imperialista e anticapitalista" para os seus oficiais.
 
-De acordo com um artigo no The Guardian:
+De acordo com um [artigo](https://www.theguardian.com/world/2016/aug/17/bolivia-anti-imperialist-military-school-evo-morales-us) no The Guardian:
 >“Se o império ensina a dominação do mundo por meio de suas escolas militares, vamos aprender com essa escola para nos libertar da opressão imperialista”, disse o primeiro presidente indígena do país em uma cerimônia de posse na quarta-feira.
+>
 >“Queremos construir um pensamento anticolonial e anticapitalista com esta escola que vincula as forças armadas aos movimentos sociais e neutraliza a influência da Escola das Américas, que sempre viu os indígenas como inimigos internos”, disse ele a uma multidão que incluía os ministros da defesa da Venezuela e da Nicarágua.
 
-No início deste ano, Morales compareceu à posse do presidente venezuelano Nicolas Maduro. Morales declarou seu apoio ao governo sandinista na Nicarágua, referindo-se explicitamente à revolução de 1979. Morales mantém uma relação estreita com o governo cubano. Como mencionado acima, ele recebeu todas as honras de Fidel Castro, assinou um acordo de ajuda com o governo cubano e até viajou a Cuba para tratamento médico (como fez Hugo Chávez).
+No início deste ano, Morales [compareceu à posse do presidente venezuelano Nicolas Maduro](https://www.telegraph.co.uk/news/2019/01/10/venezuelan-president-maduro-sworn-second-term-amid-international/). Morales [declarou seu apoio ao governo sandinista na Nicarágua](https://fort-russ.com/2018/11/evo-morales-supports-nicaragua-in-the-fight-against-imperialism/), referindo-se explicitamente à revolução de 1979. Morales mantém uma relação estreita com o governo cubano. Como mencionado acima, ele recebeu todas as honras de Fidel Castro, assinou um acordo de ajuda com o governo cubano e [até viajou a Cuba para tratamento médico](https://apnews.com/article/8eba1fcf7efe41a596222e89386d9046) (como fez Hugo Chávez).
 
-Hugo Chávez também foi um grande apoiador de Morales. Os dois se conheceram em 2006 e afirmaram sua solidariedade, bem como fecharam um acordo comercial. Morales também denunciou repetidamente o imperialismo americano nas Nações Unidas. O governo de Morales fez grandes avanços para enfrentar o imperialismo dos EUA e o neoliberalismo global, bem como apoiar vários governos de esquerda.
+Hugo Chávez também foi um grande apoiador de Morales. Os dois se [conheceram em 2006 e afirmaram sua solidariedade](https://www.lanacion.com.ar/el-mundo/morales-recibio-el-apoyo-de-chavez-nid769496/), bem como fecharam um acordo comercial. Morales também [denunciou repetidamente o imperialismo americano nas Nações Unidas](https://remezcla.com/culture/bolivia-evo-morales-united-states-general-assembly/). O governo de Morales fez grandes avanços para enfrentar o imperialismo dos EUA e o neoliberalismo global, bem como apoiar vários governos de esquerda.
 
 ### Conclusão sobre a Bolívia
 Embora Morales possa não ser tão esquerdista quanto gostaríamos, fica claro pelo que dissemos que seu governo (assim como o de Hugo Chávez) alcançou uma série de realizações extremamente impressionantes. Suas políticas reduziram a pobreza e a privatização, combateram vários males sociais e se concentraram fortemente no anti-imperialismo e na solidariedade internacional.
