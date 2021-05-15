@@ -1,7 +1,12 @@
 # Essays
 * [Termos](#Termos)
+    * [Concepção idealista da historia](#Concepção-idealista-da-historia)
+    * [Idealismo](#Idealismo)
+    * [Identidade](#Identidade)
     * [Monogamia](#Monogamia)
+    * [Políticas identitárias](#Políticas-identitárias)
     * [Pseudoconservadorismo](#Pseudoconservadorismo)
+    * [Sociedade do cansaço](#Sociedade-do-cansaço)
 * [Experiências socialistas](#Experiências-socialistas)
     * [A União Soviética](#A-União-Soviética)
         * [Revolução, comunismo de guerra e NEP](#Revolução-comunismo-de-guerra-e-NEP)
@@ -362,8 +367,54 @@
     * [Conservacionismo vs preservacionismo](#Conservacionismo-vs-preservacionismo)
 
 # Termos
+## Concepção idealista de história
+Compreender a história de acordo com uma determinada ideia ou categoria, visualizando qualquer período da história através do mesmo conjunto de ideais.
+
+## Idealismo
+>A grande questão básica de toda filosofia, especialmente da filosofia mais recente, é aquela sobre a relação entre pensar e ser. As respostas que os filósofos deram a esta questão os dividiram em dois grandes campos. Aqueles que afirmaram o primado do espírito sobre a natureza constituíam o campo do idealismo. Os outros, que consideravam a natureza como primordial, pertencem às várias escolas do materialismo.
+>
+>-- <cite>Friedrich Engels</cite>
+
+Idealismo é um processo de pensamento (ex: racionalismo) de como o mundo material adere às idéias. Os idealistas seguem um certo conceito ideal (ex: fé) e entendem tudo desde sua adesão a esse conceito. O idealismo está em contraste com o materialismo, um processo de pensamento (ex. materialismo dialético) de como o mundo material cria ideias. Essas idéias assim criadas não são concretas e fixas, mas estão constantemente mudando e sendo remodeladas pelas diferenças e mudanças no mundo material.
+
+Idealismo também pode ser entendido como a prática de compreender abstrações por meio de outras abstrações; onde uma abstração é algo que não tem necessariamente base nem relação com a realidade, mas só existe em relação a outras abstrações. A principal preocupação do idealista é criar conceitos que explicam adequadamente (e mudam de ponto de vista) o mundo como o conhecemos. O idealismo pode rejeitar a existência do mundo externo por completo (o mundo além do pensamento, além da sensação) ou afirmar que, embora possa existir um mundo além da sensação, ele é irreconhecível. Essas tendências são conhecidas como idealismo subjetivo. Por outro lado, o idealismo pode aceitar a objetividade da natureza, mas considerar o material como a expressão de forças ideais, como a vontade de Deus, a idéia absoluta, etc, cuja natureza é acessível diretamente na mente. Essas tendências são conhecidas como idealismo objetivo.
+
+Para um exemplo de idealismo, o que se segue são as crenças de três filósofos idealistas proeminentes a respeito do que é verdade. Enquanto a verdade é um abstrato, ou ideal da realidade; os idealistas entendem essas abstrações equiparando-as a outras abstrações:
+
+Descartes:
+>Verdades são as coisas certas
+
+Husserl:
+>Verdade é dúvida
+
+Hegel:
+>O elemento em que se encontra a verdade é a noção
+
+O materialista, por outro lado, entende abstrações equiparando-as à realidade.
+
+Marx:
+>A verdade é conhecida pela prática. Já tivemos mais de uma ocasião para nos familiarizar com o método [idealista]. Consiste em dissecar cada grupo de objetos de conhecimento até o que se afirma serem seus elementos mais simples, aplicando a esses elementos igualmente simples e o que se afirma serem axiomas evidentes, e então continuar a operar com a ajuda dos resultados assim obtidos. Mesmo um problema na esfera da vida social "deve ser decidido axiomaticamente, de acordo com formas básicas simples e particulares, exatamente como se estivéssemos lidando com as formas simples básicas da matemática" {D. Ph. 224}.
+
+E assim, a aplicação do método matemático à história, à moral e ao direito é nos dar também nesses campos a certeza matemática da verdade dos resultados obtidos, para caracterizá-los como verdades genuínas e imutáveis. Isso é apenas dar uma nova guinada ao antigo método ideológico favorito, também conhecido como método a priori, que consiste em averiguar as propriedades de um objeto, por dedução lógica a partir do conceito do objeto, ao invés do próprio objeto. Primeiro, o conceito de objeto é fabricado a partir do objeto; então o cuspe é girado e o objeto é medido por seu reflexo, o conceito. O objeto é então adaptar-se ao conceito, não o conceito ao objeto. Com Herr Dühring, os elementos mais simples, as abstrações finais que ele pode alcançar, prestam serviço ao conceito, que não altera as coisas; esses elementos mais simples são, na melhor das hipóteses, de natureza puramente conceitual. A filosofia da realidade, portanto, prova aqui novamente ser pura ideologia, a dedução da realidade não de si mesma, mas de um conceito.
+
+E quando tal ideólogo constrói a moral e o direito a partir do conceito, ou dos chamados elementos mais simples da "sociedade", em vez das relações sociais reais das pessoas ao seu redor, que material está então disponível para essa construção? Material claramente de dois tipos: primeiro, o escasso resíduo de conteúdo real que pode sobreviver nas abstrações das quais ele parte e, em segundo lugar, o conteúdo que nosso ideólogo mais uma vez introduz de sua própria consciência. E o que ele encontra em sua consciência? Em sua maioria, noções morais e jurídicas que sejam uma expressão mais ou menos precisa (positiva ou negativa, corroborativa ou antagônica) das relações sociais e políticas em que vive; talvez também ideias retiradas da literatura sobre o assunto; e, como última possibilidade, algumas idiossincrasias pessoais. Nosso ideólogo pode virar e torcer como quiser, mas a realidade histórica que ele lançou à porta entra novamente pela janela, e enquanto ele pensa que está formulando uma doutrina de moral e lei para todos os tempos e para todos os mundos, ele está, na verdade, apenas criando uma imagem das tendências conservadoras ou revolucionárias de sua época - uma imagem que é distorcida porque foi arrancada de sua base real e, como um reflexo em um espelho côncavo, está de cabeça para baixo.
+
+## Identidade
+A Lei da Identidade é expressa como “A = A”, que na lógica simbólica nada mais é do que um dos axiomas que definem o comportamento do signo "=". Quando aplicado geralmente na Lógica Formal, no entanto, isso diz que todos os conceitos e coisas são “auto-iguais”. Nessa forma, é a base da abordagem “metafísica” para entender o mundo como coisas separadas e imutáveis. Isso contrasta com a abordagem dialética em que o mundo é concebido como coisas e processos interconectados, autocontraditórios e mutáveis.
+
+A Identidade de A só pode ter sentido definindo o que é diferente de A, “não-A”. Descobrimos que, na verdade, tudo é “não-A” incluindo o mesmo 'A' um segundo depois (desde que a premissa de que todas as coisas estão em movimento seja verdadeira), e assim surge a “Máxima da Diversidade”.
+
+Leitura adicional:
+- Hegel's shorter logic
+- Hegel's science logic
+- Crítica de Hegel às ciências naturais de seu tempo como a Filosofia da Identidade e sobre A = A
+- Comentários de Lenin sobre o conceito de Hegel da Lei da Identidade
+- Explicação de Trotsky da dialética baseada em uma crítica de "A = A"
+- C L R James sobre Identidade, Diferença e Contradição
+
 ## Monogamia
 A monogamia é uma identidade: a do SER casal, não apenas estar em casal. E apesar da monogamia em série ser de longe a forma mais comum hoje em dia, essa identidade é experienciada como eterna: não se pode admitir a (muito provável) finitude. Além disso, ela é uma identidade por exclusão: nós versus o mundo.
+>Monogamia é muito bom eu amo MINHA mulher, vou casar com a MINHA mulher, eu sou o homem DELA, vamos viver JUNTOS pra SEMPRE, apenas EU e ELA. Eu amo a monogamia.
 
 Cria-se um território que só pertence àquele núcleo, que é hierarquicamente mais importante que todas as outras relações. E essas relações são vistas como ameaças, portanto há um constante confronto e competição. Pela monogamia ser um sistema, ela procura manter sua hegemonia frente a outras formas de relacionar-se. 
 
@@ -382,6 +433,24 @@ Leituras mais aprofundadas:
 - Crítica marxista à família mono (Sérgio Lessa)
 - Bixa ex-monogâmica (Alef Diogo)
 
+## Políticas identitárias
+A política de identidade é o terreno político no qual vários grupos sociais se engajam em uma “luta por reconhecimento” dentro da sociedade burguesa, cada um buscando o reconhecimento dos interesses especiais de um grupo social específico. A política de identidade dominou a política radical durante as últimas décadas do século 20 e constituiu um afastamento das tentativas de mudar governos ou ganhar poder político. A política de identidade focava em como seu grupo particular era “representado” na mídia e na linguagem, como seu grupo era afetado por várias práticas institucionais e assim por diante.
+
+Desenvolvimento histórico: a política de identidade teve suas origens no desenvolvimento do processo de trabalho nos Estados Unidos em particular e nos países capitalistas desenvolvidos em geral, o que tornou insustentável a superexploração de setores da classe trabalhadora e aumentou o potencial de socialização das mulheres, trabalho e outras relações incompatíveis com as formas tradicionais de opressão. O crescimento de setores profissionais da classe trabalhadora e das “indústrias do conhecimento”, além dos sucessos de uma série de movimentos sociais, criou a oportunidade e os meios para a promoção de interesses setoriais em lugar dos interesses de classe. A política de identidade surgiu como uma negação dos movimentos e lutas sociais de massa após a Segunda Guerra Mundial - por exemplo, os Movimentos de Libertação Nacional, seguidos pelo Movimento dos Direitos Civis nos EUA.
+
+O Movimento de Libertação Nacional foi um movimento de massas que assumiu a forma de lutas contra o imperialismo e frequentemente se fundiu com o movimento operário internacional e estava intimamente ligado ao socialismo. O Movimento de Libertação Nacional foi um grande ímpeto para o Movimento dos Direitos Civis começando nos EUA, que emprestou muito de sua retórica e inspiração das lutas de Libertação Nacional do povo negro na África e em outros lugares. Por sua vez, o Movimento de Libertação das Mulheres, que começou nos Estados Unidos e em outros países capitalistas desenvolvidos, inspirou-se nessas lutas. Embora o Movimento de Libertação das Mulheres incluísse lutas em larga escala contra instituições que apoiavam o patriarcado e por mudanças em leis como a legislação de igualdade de remuneração, este movimento introduziu pela primeira vez elementos de "política pessoal", ou seja, luta política no plano das relações interpessoais.
+
+Assim, os movimentos sociais do pós-guerra que enfatizavam os interesses comuns das massas populares em oposição a um inimigo externo, começaram a passar para a política na qual enfatizava a diferença, e pela composição da diferença múltipla, identidade e o inimigo tornou-se cada vez mais indefinível: embora todos parecessem pertencer a uma minoria oprimida ou outra (você pode ser um americano branco educado, mas se você fosse gay, mulher ou deficiente, por exemplo, então você poderia se engajar em uma luta contra a opressão especial que você estava sofrendo). Todas essas lutas contra a multiplicidade de opressões foram e permanecem, é claro, progressivas, mas o efeito geral também é desmobilizador. Tendo sua origem no individualismo inerente às relações sociais burguesas, a Política de Identidade começou a se desenvolver dentro desses movimentos, transformando lutas coletivas contra o Estado e as formas institucionais de opressão em lutas de reconhecimento para negros, mulheres, gays, jovens e assim por diante. Do ponto de vista da Política de Identidade, o Socialismo é apenas mais uma vertente da Política de Identidade, ou seja, a luta da classe trabalhadora, mas para a Política de Identidade, a identidade é autoidentidade, portanto o Socialismo é reduzido à luta pelo reconhecimento daqueles que se definem como trabalhadores, e comumente como trabalhadores heterossexuais, brancos, do sexo masculino e de colarinho azul. Deste ponto de vista, o socialismo aparece simplesmente como a afirmação do privilégio de um grupo sobre outros.
+
+A luta pelo reconhecimento de pessoas com AIDS foi possivelmente a última luta da Política de Identidade a alcançar um nível que se aproximasse de um movimento de massa. O principal porta-voz filosófico desse movimento foi Michael Foucault, e um dos principais resultados da análise de Foucault é que a opressão opera por meio de uma rede de relações interpessoais, em que a identidade das pessoas é socialmente construída, ao invés de grandes instituições, como o Estado, sendo visto como fonte de opressão. A lógica inerente à Política de Identidade faz com que setores cada vez menores da sociedade sejam lançados à luta com cada vez menos oportunidades de apelo legítimo à solidariedade de outros. Consequentemente, a necessidade de encontrar alguma base de comunhão de interesses e luta começou a se afirmar nos anos noventa. Além disso, as terríveis consequências da Política de Identidade começaram a se manifestar nas lutas nacionalistas desintegradoras na Iugoslávia e nas ex-colônias, e junto com o fundamentalismo religioso, tudo combinado para levar a Política de Identidade a um beco sem saída no final do século.
+
+No entanto, o período da Política de Identidade completa a revolução burguesa, ao expor todas as formas de opressão que não são essenciais ao domínio do capital; em particular, a política identitária mostra, caso após caso, como a consciência social e as várias formas de opressão encontradas na sociedade burguesa são "construções sociais" em vez de relações imutáveis ​​dadas na natureza humana, e como novas formas de consciência social e novas relações sociais, que superam as relações opressivas, podem ser forjadas na luta. O “Movimento Anticapitalista” do início deste milênio marca a abertura de um novo terreno político, a política de alianças, em que vários grupos e movimentos buscam alianças para resolver problemas sociais, mas ao contrário dos movimentos que antecederam o período da Política de Identidade, identificam segmentos da sociedade civil como locais de luta, em vez de se engajarem em uma luta pelo poder do Estado.
+
+Leituras adicionais:
+- Cultura Nacional e a Luta pela Liberdade (Frantz Fanon)
+- A dialética do sexo (Shulamith Firestone)
+- Políticas sexuais (Kate Millett)
+
 ## Pseudoconservadorismo
 Adorno fala que "os pseudoconservadores chegam a deturpar os preceitos do conservadorismo em nome de anseios antidemocráticos". A estrutura psicológica deles seria composta por convencionalismo e submissão autoritária na esfera do eu e por violência, impulsos anárquicos e destrutividade caótica na esfera inconsciente.
 
@@ -392,6 +461,18 @@ Para eles a democracia está muito longe do povo e deve ser substituída por um 
 Eles defendem uma pseudorevolução. Existe uma vaga ideia de mudança violenta, sem qualquer referência concreta ao objetivo das pessoas envolvidas. Soa um rompimento súbito e violento, mas parece mais uma medida administrativa. É uma ideia rancorosa, rebelde e passiva. Há uma identificação com os grupos sociais mais elevados como um meio de ser admitido ao grupo dominante já que a ascensão econômica se torna cada vez mais difícil.
 
 Em resumo: é um "vamos mudar tudo isso que está aí" mas sem mudar nada.
+
+## Sociedade do cansaço
+>A sociedade do desempenho é a mesma do cansaço.
+>
+>-- <cite>Byung Chul-Han</cite>
+
+Vivemos numa sociedade do cansaço. O neoliberalismo vende que somos poderosos e que tudo podemos. Essa ilusão nos leva a construção de ideias inalcançáveis que, ao não serem atingidos, desmoronam como um castelo de cartas. A culpa, antes um afeto socialmente partilhado, agora é privatizada, você que pode tudo é também responsável por tudo. É a destruição da dimensão social da vida, reduzindo nossa existência a nós mesmos. O resultado é a implosão do eu no abismo depressivo. Não é por um acaso que hoje a depressão é, como diz Maria Rita Kehl, "a água que afunda a nau dos bem adaptados". A depressão é, no neoliberalismo, tecnologia de controle, sintoma do mal-estar social e a prova da falência de nosso modo de vida que se alimenta da saúde psíquica humana.
+
+Leituras:
+- Sociedade do cansaço (Byung Chul-Han)
+- A nova razão do mundo (Dardot e Laval)
+- Comum: ensaio sobre a revolução no século XXI (Laval)
 
 # Experiências socialistas
 ## A União Soviética
@@ -2062,7 +2143,7 @@ Fora de Xinjiang, outro grupo étnico de muçulmanos chineses tem ainda mais lib
 >
 >Descendentes de comerciantes persas e árabes que se estabeleceram ao longo da Rota da Seda e tomaram esposas chinesas, os 10 milhões de Hui do país são uma minoria definida principalmente por sua fé e, em alguns casos, apenas por seus hábitos culinários. Comparados com os uigures, eles também demonstraram uma notável capacidade de coexistir com o Partido Comunista, uma organização programada para desconfiar daqueles cuja primeira lealdade pertence a um poder superior.
 >
->Ao contrário dos uigures, que falam um dialeto turco e cujas características eurasianas os diferenciam da maioria chinesa han do país, os hui falam chinês e costumam ser indistinguíveis de seus vizinhos não muçulmanos. Em grande parte da China, os gorros brancos usados ​���������pelos homens e os lenços na cabeça usados ​​pelas mulheres são tudo o que os denunciam. Em muitos lugares, os Hui assimilaram tão completamente que sua única conexão com o Islã é um vestígio de aversão a carne de porco.
+>Ao contrário dos uigures, que falam um dialeto turco e cujas características eurasianas os diferenciam da maioria chinesa han do país, os hui falam chinês e costumam ser indistinguíveis de seus vizinhos não muçulmanos. Em grande parte da China, os gorros brancos usados pelos homens e os lenços na cabeça usados ​​pelas mulheres são tudo o que os denunciam. Em muitos lugares, os Hui assimilaram tão completamente que sua única conexão com o Islã é um vestígio de aversão a carne de porco.
 
 Na verdade, os Hui são tratados como uma “modesta minoria”, um exemplo para o resto do mundo muçulmano - Xinjiang incluído - como símbolos de moderação e paz:
 >Líderes religiosos disseram que o governo se tornou especialmente vigilante quanto a conter a competição e conflitos potenciais entre diferentes facções islâmicas. Vários imãs disseram que as autoridades do partido estão mais preocupadas com os salafistas, uma seita sunita ultraconservadora cuja interpretação estrita dos textos religiosos tem sido associada ao extremismo.
@@ -3791,7 +3872,7 @@ Ainda sobre Hitler em 1937:
 Sobre a Índia na fome de Bengala de 1943 que as próprias autoridades britânicas criaram:
 > Eu odeio hindus. Eles são um povo bestial com uma religião bestial. Com fome ou sem fome, os hindus sempre se reproduzirão como coelhos.
 
-Também perguntou se a Índia estava com fome, por que o Gandhi não morria. Ele disse o seguinte sobre a Índia durante a Segunda Guerra: "vamos adquirir uma dívida de centenas de milhões para defender a Índia apenas para sermos expulsos posteriormente de lá por indianos". Em 1945, Churchill declarou que "a raça hindu é protegida da destruição esperada por sua mera reprodução". A fome de Bengala não foi suficiente para a sede por sangue de Churchill. Seu desejo era que Arthur Harris, seu criminoso de guerra preferido, pudesse tê-los bombardeado". Por toda a Segunda Guerra, a Índia foi obrigada a emprestar dinheiro à Grã-Bretanha. Churchill reclamou dos "credores indianos" o tempo inteiro. A verdade é que Churchill nunca combateu o fascismo. Ele entrou na Segunda Guerra para defender o Império Britânico. Churchill recusou todas as ofertas de envio de ajuda a Bengala: o Canadá ofereceu 10.000 toneladas de arroz, ao passo que os EUA ofereceram US$ 100.000. Churchill se recusou prontamente a permiti-las. Até mesmo o imperialista de direita Leo Amery, que ocupava o cargo de secretário Britânico do Estado da Índia, declarou não ver muita diferença entre a maneira com que Churchill e Hitler enxergavam as coisas. Bengala tinha uma colheita acima da média durante a fome produzida pelos britânicos. O exército britânico tomou milhões de toneladas de arroz de pessoas famintas para enviá-las para o Oriente Médio - onde sequer eram necessárias. 
+Também perguntou se a Índia estava com fome, por que o Gandhi não morria. Ele disse o seguinte sobre a Índia durante a Segunda Guerra: "vamos adquirir uma dívida de centenas de milhões para defender a Índia apenas para sermos expulsos posteriormente de lá por indianos". Em 1945, Churchill declarou que "a raça hindu é protegida da destruição esperada por sua mera reprodução". A fome de Bengala não foi suficiente para a sede por sangue de Churchill. Seu desejo era que Arthur Harris, seu criminoso de guerra preferido, pudesse t����-los bombardeado". Por toda a Segunda Guerra, a Índia foi obrigada a emprestar dinheiro à Grã-Bretanha. Churchill reclamou dos "credores indianos" o tempo inteiro. A verdade é que Churchill nunca combateu o fascismo. Ele entrou na Segunda Guerra para defender o Império Britânico. Churchill recusou todas as ofertas de envio de ajuda a Bengala: o Canadá ofereceu 10.000 toneladas de arroz, ao passo que os EUA ofereceram US$ 100.000. Churchill se recusou prontamente a permiti-las. Até mesmo o imperialista de direita Leo Amery, que ocupava o cargo de secretário Britânico do Estado da Índia, declarou não ver muita diferença entre a maneira com que Churchill e Hitler enxergavam as coisas. Bengala tinha uma colheita acima da média durante a fome produzida pelos britânicos. O exército britânico tomou milhões de toneladas de arroz de pessoas famintas para enviá-las para o Oriente Médio - onde sequer eram necessárias. 
 
 Churchill sobre a teoria do bolshevismo judaíco (ele não era necessariamente antissemita):
 > Não há necessidade de exagerar o papel desempenhado na criação do bolchevismo e na realização real da Revolução Russa, por esses judeus internacionais e em sua maioria ateus; certamente é muito grande; provavelmente supera todos os outros. Com a notável exceção de Lenin, a maioria das principais figuras são judeus. Além disso, a principal inspiração e força motriz vêm dos líderes judeus.
