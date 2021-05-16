@@ -1,6 +1,7 @@
 # Essays
 * [Termos](#Termos)
-    * [Concepção idealista da historia](#Concepção-idealista-da-historia)
+    * [Concepção idealista da historia](#Concepção-idealista-da-história)
+    * [Existencialismo](#Existencialismo)
     * [Idealismo](#Idealismo)
     * [Identidade](#Identidade)
     * [Monogamia](#Monogamia)
@@ -51,6 +52,7 @@
     * [A Romênia](#A-Romênia)
         * [A farsa do julgamento de Ceausescu](#A-farsa-do-julgamento-de-Ceausescu)
         * [Conclusão sobre a Romênia](#Conclusão-sobre-a-Romênia)
+    * [Coreia do Norte](#Coreia-do-Norte)
     * [A Hungria](#A-Hungria)
         * [Desenvolvimento econômico e padrão de vida da Hungria](#Desenvolvimento-econômico-e-padrão-de-vida-da-Hungria)
         * [Saúde e bem-estar social da Hungria](#Saúde-e-bem-estar-social-da-Hungria)
@@ -367,8 +369,15 @@
     * [Conservacionismo vs preservacionismo](#Conservacionismo-vs-preservacionismo)
 
 # Termos
-## Concepção idealista de história
+## Concepção idealista a história
 Compreender a história de acordo com uma determinada ideia ou categoria, visualizando qualquer período da história através do mesmo conjunto de ideais.
+
+## Existencialismo
+O existencialismo é uma corrente diversa de filósofos, que compartilham uma distinção entre as categorias de Ser (ser) e Existir (aí), sustentando que o Ser não pode ser entendido através do pensamento racional e da percepção, mas apenas através da existência pessoal. O existencialismo tem suas raízes na reação do século 19 contra o racionalismo “impessoal” do Iluminismo, Hegelianismo e Positivismo, especialmente Nietzsche e Kierkegaard. Também inclui a Fenomenologia de Edmund Husserl. Seus fundadores são Martin Heidegger, Karl Jaspers, Simone de Beauvoir e Jean-Paul Sartre.
+
+Leituras:
+- The Ethics of Ambiguity
+- Existentialism is a Humanism
 
 ## Idealismo
 >A grande questão básica de toda filosofia, especialmente da filosofia mais recente, é aquela sobre a relação entre pensar e ser. As respostas que os filósofos deram a esta questão os dividiram em dois grandes campos. Aqueles que afirmaram o primado do espírito sobre a natureza constituíam o campo do idealismo. Os outros, que consideravam a natureza como primordial, pertencem às várias escolas do materialismo.
@@ -1653,6 +1662,351 @@ Ceausescu, embora fosse extremamente ingênuo em matéria de política externa, 
 
 Com isso, temos duras lições a aprender com a Romênia:
 1. Não podemos jamais confiar em instituições que se dizem "neutras", Bakhtin mesmo destrói o argumento de neutralidade ideológica em suas teses, mais tarde confirmados por uma derivação da hipótese Sapir-Whorf / línguistica relativista; como dizia Sankara: "Quem te alimenta, te controla"
+
+## Coreia do Norte
+Este ensaio tratará de mitos e realidades da Coreia Popular, do estado burguês ilegal ocupado fantoche da Coréia do Sul, desertores, sociedade, agressão contra ela, relações internacionais, etc. Viva a RPDC, viva a luta anti-imberialista!!!
+
+### Democracia na Coreia do Norte
+Há uma grande noção na esquerda ocidental (obviamente) de que a RPDC não é socialista, mas uma monarquia fascista capitalista de estado... Sabemos como a esquerda ocidental é principalmente racista e chauvinista em relação à China, RPDC, vietnã, como era anteriormente com a URSS e o bloco oriental. A maior parte dessa esquerda ocidental ainda está contra a URSS e o bloco oriental, mas pelo menos os marxistas-leninistas os conheceram hoje, mas eles ainda permanecem na mesma posição contra a China ou a RPDC.
+
+A República Popular Democrática da Coreia é um estado socialista independente que representa os interesses de todo o povo coreano. A ideologia norteadora da RPDC é a Ideia Juche, criada pelo fundador e pai da Coréia socialista - o presidente Kim Il Sung. O Partido dos Trabalhadores da Coreia é o partido líder, organizador e criador dos sucessos coreanos.
+
+O sistema socialista da RPDC está totalmente voltado para o povo. De acordo com os pressupostos do socialismo, o governo da RPDC protege os interesses dos trabalhadores, camponeses e intelectuais e de todas as pessoas de diferentes áreas da vida. A principal tarefa do governo da RPDC é a vitória completa do socialismo, fortalecendo o poder do povo e realizando as tarefas das três revoluções: ideológica, tecnológica e cultural. O governo coreano também está buscando a reunificação pacífica da península coreana.
+
+- Um modelo de planejamento socialista democrático e participativo
+- Socialismo e democracia na RPDC
+- Lalkar: A estrutura democrática da RPDC
+- Uma breve história econômica da RPDC
+- Compreendendo a RPDC à luz da tradição marxista
+- Protesto em massa na RPDC contra propaganda da ONU
+- Democracia: EUA vs RPDC
+- Eleições locais na RPDC, 2019
+- A RPDC é socialista?
+- Como funcionam as eleições na RPDC?
+- O que exatamente é juche?
+- O sistema parlamentar da RPDC
+- O sistema de trabalho taean
+- A bomba dos povos!
+- Eleições no estado juche
+- Algo que os países desenvolvidos invejariam: o sistema de saúde da RPDC
+- Coreia resiliente: socialismo na coreia democrática
+- Rumo a uma análise concreta da RPDC
+- O mito da dinastia Kim
+- Governo transfere vítimas das enchentes para novas casas, em um ritmo que levaria três anos para os países em desenvolvimento
+- Direitos humanos na RPDC
+- Política da RPDC
+- Visão da RPDC sobre o nacionalismo
+- Bruce cumings sobre a economia da Coréia do Norte
+- RPDC: um campeão na luta contra as mudanças climáticas
+- Apoiadores na África Ocidental
+- Juche na Nigéria
+- "o atendimento médico da Coreia do Norte é algo que os países desenvolvidos invejariam" Organização Mundial da Saúde
+- A origem da RPDC
+- Pessoas com deficiência na RPDC
+- 7º congresso do partido
+- Por que a RPDC está construindo bombas nuclear
+- A contribuição imortal de Kim Il-Sung para a libertação africana
+- Por que os latinos devem apoiar a RPDC
+- O governo dos EUA é um clube racista de bilionários, de acordo com a RPDC
+- Socialismo na Coreia: um estudo de caso
+- Funcionários da RPDC vão à China para estudar reformas
+- Meu país socialista
+- Por que a RPDC possui armas nucleares? Olhe para a Líbia
+- Parenti na RPDC
+- Por que os coreanos do norte não são loucos
+- Por que a Coreia do Norte precisa de armas nucleares
+- RPDC responde à retirada americana do acordo de Paris
+- Se bbc repostado da mesma forma, reporta para dprk, para a família real
+- Violações dos direitos humanos: RPDC vs EUA
+- A RPDC nunca removeu o marxismo de sua constituição
+- A RPDC convidou Obama e outras autoridades para uma visita em vez de caluniá-la de antemão
+
+### Sistema de trabalho Taean
+Quem domina os meios de produção, decide o que vai ou não ser produzido. Os detentores de propriedade detém muito mais controle sobre a vida dos indivíduos do que qualquer governo. Eles decidem que postura política você pode exercer, que vestimenta pode usar, que tatuagens pode ter, que horas pode acordar, alguns lugares controlam suas idas ao banheiro, que passatempos são aceitáveis ou não, que dias você tem pra lazer, que produtos você quer consumir, como a cultura pode se manifestar, de que maneiras você pode protestar de maneira aceitável. Tudo isso é controlado por chefes. Não por governos "socialistas", nem democráticos" ou mesmo "autoritários", mas por detentores de propriedade. E é factual. Ninguém pode negar que o seu chefe tem total poder de definir todas essas coisas. Uma democracia verdadeira começaria no ambiente de trabalho. Mas não é só chefe que tem controle sobre suas vidas. Quem aluga imóvel define quantos animais você pode ter, quantos filhos pode ter, quanto tempo pode passar no banho, e mais uma série de coisas. É por isso que a verdadeira democracia começa no espaço de trabalho - o modelo de trabalho que a RPDC adota, se chama Taean.
+
+Para que o planejamento socialista atenda às necessidades do povo, ele se tornou participativo e democrático.
+>O sistema de gestão industrial desenvolveu-se em três etapas distintas. A primeira fase foi um período de autonomia empresarial que durou até Dezembro de 1946. A segunda fase foi um sistema transitório baseado na autonomia local, com cada empresa gerida pela comissão de gestão empresarial sob a direcção da comissão popular local. Esse sistema foi substituído pelo "sistema de gestão de um homem só", com uma gestão padronizada segundo as linhas soviéticas, à medida que as grandes empresas eram nacionalizadas e ficavam sob controle central. O terceiro estágio, o Sistema de Trabalho Taean, foi introduzido em dezembro de 1961 como uma aplicação e aprimoramento das técnicas de manejo agrícola para a indústria. O sistema de gerenciamento industrial Taean cresceu a partir do Método Ch'ongsan-ni.
+
+O antigo sistema de gestão capitalista não pode persistir. No antigo sistema burocrático de gestão, os trabalhadores perdiam o interesse pela produção e consideravam o trabalho um mal necessário, apenas um meio de ganhar a vida. Em vez de os gerentes gritarem ordens para os trabalhadores de maneira burocrática, eles precisam descer às unidades inferiores para ajudá-los. Há um espírito de cooperação entre as oficinas. A gestão individual foi abolida e substituída pela gestão coletiva na forma do Comitê de Fábrica do Partido.
+>A mais alta autoridade administrativa sob o sistema Taean é o comitê do partido. Cada comitê consiste de aproximadamente vinte e cinco a trinta e cinco membros eleitos entre gerentes, trabalhadores, engenheiros e a liderança de "organizações do povo trabalhador" na fábrica. Um "comitê executivo" menor, com cerca de um quarto do tamanho do comitê regular, tem responsabilidade prática pelas operações diárias da fábrica e pelas principais decisões da fábrica. Os membros mais importantes da equipe, incluindo o secretário do comitê do partido, o gerente da fábrica e o engenheiro-chefe, compõem seu quadro de membros. O sistema se concentra na cooperação entre trabalhadores, técnicos e funcionários do partido no nível de fábrica.
+>
+>Cada fábrica tem duas grandes linhas de administração, uma chefiada pelo gerente e outra pelo secretário da comissão partidária. Um engenheiro-chefe e seus assistentes dirigem uma equipe geral encarregada de todos os aspectos da produção, planejamento e orientação técnica. Dependendo do tamanho da fábrica, vários representantes supervisionam a logística da fábrica, o marketing e os serviços dos trabalhadores. O fornecimento de materiais inclui a segurança, armazenamento e distribuição de todos os materiais para uso da fábrica, bem como o armazenamento de produtos acabados e seu envio da fábrica.
+
+O bem-estar dos produtores é prioridade máxima e cada nível de planejamento deve envolver a participação ativa dos trabalhadores no nível de produção. As formas de resolver as questões que afetam a produção e as atividades dos trabalhadores, bem como os métodos de execução das decisões, são alcançadas por meio da discussão coletiva no Comitê, cujos membros são eleitos pelos partidários da fábrica.
+>Os deputados são responsáveis ​​por designar trabalhadores para suas unidades e cuidar das contas da fábrica e da folha de pagamento. Fornecer serviços aos trabalhadores requer direcionar qualquer agricultura feita nas terras da fábrica, estocar as lojas de varejo da fábrica e cuidar de todas as comodidades dos funcionários. Os deputados encarregados dos serviços dos trabalhadores são incentivados a atender ao máximo possível as necessidades da fábrica, usando cooperativas agrícolas e indústrias locais nas proximidades.
+
+Os membros do comitê de fábrica do Partido devem incluir uma grande porcentagem, digamos 60%, de trabalhadores da produção, com o restante representando um corte transversal de todas as atividades da fábrica, incluindo funcionários, gerente, vice-gerentes, engenheiros, técnicos, representantes da liga feminina, jovens membros da liga, membros de sindicatos e funcionários de escritório. A sua composição dá-lhe assim acesso a todos os aspectos socioeconómicos da empresa e a vida dos seus trabalhadores. Além disso, em grandes empresas, deve haver um Comitê na vizinhança onde vive o pessoal da fábrica. O Comitê deve incluir o vice-gerente da fábrica, os diretores das escolas, jardins de infância e creches, o diretor do hospital local, os chefes das lojas centrais, etc. O Comitê é responsável por todos os aspectos da vida dos trabalhadores e de seus famílias: moradia, combustível, entrega de bens de consumo, serviços diversos, educação, saúde, lavanderia, refeitórios, cinemas, casas de cultura, etc.
+
+Erros e falhas, pequenos incômodos do dia-a-dia que, se deixados sem cuidados, podem se transformar em verdadeiras fontes de ressentimento, podem ser resolvidos na hora por pessoas bem conhecidas de todos. Quando os órgãos da administração local assumem a responsabilidade por quaisquer deficiências, é difícil culpar algum órgão distante e desconhecido de administradores e, em última análise, o próprio sistema do socialismo, como tem sido cada vez mais o caso em países com extrema centralização. Neste modelo implementado, a fábrica deixa de ser apenas uma unidade de produção no sentido restrito da palavra. A fábrica tem suas próprias organizações políticas e afiliadas, suas próprias instituições de ensino, seus próprios sistemas de abastecimento e de bem-estar social. Todas as grandes empresas também podem ter um sistema de milícias de trabalhadores para dar aos trabalhadores tanto poder quanto possível. Em termos de especificações de planejamento, o processo de planejamento poderia começar no nível da fábrica com reuniões em massa e discussões em workshops. Os produtores chegam democraticamente a decisões sobre a quantidade e a qualidade do que podem prometer produzir, dada uma certa disponibilidade de materiais, tecnologia e mão de obra. Essa decisão preliminar é então transmitida para cima por meio de órgãos administrativos locais e regionais e órgãos de planejamento estadual, onde o plano é tornado coerente e consistente para que os suprimentos cheguem onde precisam estar.
+>O secretário do comitê do partido organiza todas as atividades políticas em cada uma das células do partido de fábrica e tenta garantir a lealdade às metas de produção e aos objetivos de gestão do partido. De acordo com as alegações oficiais, todas as decisões de gestão são tomadas por consenso entre os membros do comitê do partido. Dada a importância avassaladora do partido nos assuntos do país, parece provável que o secretário do partido tenha a última palavra em qualquer disputa de fábrica.
+>
+>O sistema Taean anunciava uma abordagem mais racional para a gestão industrial do que a praticada anteriormente. Embora os funcionários e trabalhadores do partido tenham se tornado mais importantes para a administração sob o novo sistema, os engenheiros e a equipe técnica também receberam mais responsabilidade nas áreas em que sua experiência poderia contribuir mais. O sistema reconhece a importância dos incentivos materiais e também "político-morais" para o gerenciamento dos operários. O "sistema de contabilidade interna", um desdobramento do "sistema de contabilidade independente", concede bônus para equipes de trabalho e oficinas que usam matérias-primas e equipamentos de forma mais eficiente. Essas recompensas financeiras vêm dos lucros da empresa.
+
+Uma medida do sucesso do Sistema de Trabalho Taean é sua longevidade e seu endosso contínuo pela liderança. Em seu discurso de Ano Novo de 1991, marcando o trigésimo aniversário da criação do sistema, Kim Il Sung disse que "O sistema de trabalho Taean é o melhor sistema de gestão econômica. Ele permite que as massas produtoras cumpram sua responsabilidade e papel como mestres e administrar a economia de maneira científica e racional, implementando a linha de massa na gestão econômica e combinando liderança partidária organicamente com orientação administrativa, econômica e técnica." Acho que todos nós podemos, mesmo anarco-comunistas e leftcoms, concordar que a implementação deste modelo seria um esforço louvável a ser defendido e pelo qual vale a pena lutar, mesmo que não seja "ideal".
+
+### História econômica da Coreia do Norte
+1953 - A Guerra da Coréia termina oficialmente em um impasse com o país sendo dividido pela metade, as terras começam a ser coletivizadas e o processo é relativamente sem derramamento de sangue em comparação com o da URSS e da China
+
+1954 - O planejamento econômico começa com um plano de três anos seguido por um plano de cinco anos, o estado investe pesadamente em indústria e infraestrutura, o país se desenvolve em um ritmo rápido com a ajuda da URSS e da China
+
+1959 - A indústria é totalmente nacionalizada
+
+1960 - Che Guevara visita a Coreia do Norte e fica impressionado, proclamando que Cuba deveria seguir seu modelo
+
+1965 - a economista britânica Joan Robinson descreve o desenvolvimento da Coreia do Norte como um "milagre"
+
+1968 - Todas as casas agora têm eletricidade
+
+1972 - Todas as crianças de 5 a 16 anos agora estão matriculadas na escola, com mais de 200 universidades e faculdades estabelecidas
+
+Década de 1970 - Cerca de 70% da população é urbanizada, o PIB per capita é igual ao da Coreia do Sul
+
+Década de 1970 - O desenvolvimento econômico da Coreia do Norte, o aumento dos padrões de vida e a urbanização são interrompidos quando a URSS e a China reduzem drasticamente a ajuda e, com a crescente agressão do oeste, são forçados a se militarizar, com os gastos com defesa agora dominando a economia
+
+1979 - A China dá início à reforma econômica e, como tal, suas relações com a Coréia do Norte se deterioram, sendo a URSS agora seu único grande parceiro comercial
+
+1991 - A União Soviética entra em colapso e, como tal, a Coreia do Norte perde 90% de seu comércio da noite para o dia, a economia entra em queda livre e como o país não é autossuficiente em termos agrícolas devido à falta de terras férteis causada pelos bombardeios dos Estados Unidos durante a Guerra da Coréia, uma fome acontece, o Ocidente está totalmente ciente disso e ainda não faz nada, continuando o bloqueio econômico e deixando o país em completo isolamento
+
+Presente - Até hoje a Coreia do Norte permanece isolada e sob constante ameaça de invasão, como tal, eles são forçados a permanecer em uma situação de semi-guerra perpétua e o país agora é principalmente rural apenas para evitar a fome
+
+Conclusão - Com base nessa história, é óbvio que a atual pobreza e subnutrição da Coreia do Norte não tem nada a ver com o socialismo, mas sim com a agressão e o bloqueio econômico dos EUA. Se a Coreia do Norte ainda tivesse um comércio significativo e parceiros militares, como costumavam ter com a China e a União Soviética, provavelmente seriam semelhantes em termos de desenvolvimento, padrões de vida e consumo de alimentos aos seus homólogos sul-coreanos.
+
+### Relações diplomáticas da Coreia do Norte
+RPDC - Relações com Cuba:
+- Uma rápida história da RPDC - relações cuba
+- Cartaz de propaganda coreano dos anos 60
+- Miguel diaz canel e Kim jong un de mãos dadas
+- Cuba foi uma das únicas nações que boicotou as Olimpíadas de Seoul de 1988 por solidariedade à RPDC
+- A RPDC declarou luto nacional de 3 dias pela morte de Fidel Castro
+- A RPDC enviou Centrets de Armas para Cuba durante a Guerra Fria sem cobrar um centavo
+
+Conexão das panteras negras:
+- Panteras negras recorreram à RPDC para lutar contra o imperialismo dos EUA
+- Juche nos EUA: conexões de panteras negras e RPDC
+
+RPDC - Relações com Angola:
+- RPDC e Angola discutem cooperação em segurança pública
+- A RPDC ajudou os rebeldes angolanos na luta contra o apartheid. Calcula-se que 3.000 soldados e conselheiros coreanos lutaram ao lado do povo angolano durante a guerra
+- Relações Angola - RPDC consideradas excelentes
+
+RPDC - Relações com a Síria:
+- Kim Jong un oferece apoio a Assad
+- Kim jong un elogiando a festa de baath em seus 70 anos de trabalho
+- Bashar al-Assad agradece à RPDC por tis ao apoio do povo sírio
+- O vencedor de inimigos, Abu Ali al-Kim
+- Parque com o nome de Kim Il sung na Síria
+- Oficial da RPDC elogiando o Exército Árabe Sírio por suas vitórias contra o terrorismo
+- Um exemplo perfeito de cooperação
+- Forças especiais da RPDC na Síria
+- Síria apóia dprk, condena ações
+
+RPDC - Relações com a Argélia:
+- Argélia defende laços com a RPDC apesar da pressão dos EUA
+- RPDC e Argélia prometem estreitar laços
+
+RPDC para a luta palestina:
+- RPDC armando combatentes da libertação palestinos por décadas
+- Abu ali Al-Kim em Gaza
+- A RPDC nunca reconheceu Israel. Permanece leal à causa palestina e afirma que cada centímetro do território israelense é ilegal e um satélite imperialista.
+- A RPDC enviou lutadores e armas para os árabes contra Israel na guerra do Yom Kippur
+- Israel considera a RPDC um inimigo
+- Suspeito da RPDC de enviar ajuda ao Hamas
+- Relações da RPDC com PLO desde os anos 60
+- Treinamento militar para PLO
+- Solidariedade palestino-coreana
+- RPDC na palestina
+
+Madagascar - relações da RPDC:
+- Relações de Madagascar com a RPDC
+
+RPDC - Relações com a Líbia:
+- RPDC enviou armas para a Líbia
+
+Relações RPDC - Moçambique:
+- Rua Chamada Kim il - Cantada na capital de Moçambique
+- Frente de libertação de Moçambique na RPDC
+
+RPDC - Relações do Vietnã:
+- Lutadores da RPDC lutaram na guerra do Vietnã
+
+RPDC - Irlanda:
+- Relações IRA-DPRK
+- Nos anos 80
+
+RPDC - Relações com o Zimbabué:
+- Lutador de libertação armado da RPDC durante a guerra de libertação do Zimbabué
+- Após a libertação, DPRK treinou soldados e a aliança continua até hoje
+
+DPRK auxiliando naxalitas:
+- DPRK possível auxiliando naxalitas
+
+RPDC ajudando o Hezbollah:
+- Solidariedade da RPDC e do Hezbollah
+
+Peru:
+- Socialistas turcos na RPDC
+
+Allende:
+- Kim il-sung e Allende
+
+Venezuela
+- Camaradas de armas. Venezuela e dprk
+- Venezuela abre embaixada na RPDC em 22 de agosto de 2019, como um "ato contra o imperialismo norte-americano"
+
+### Campos de concentração e desertores norte-coreanos
+Então, qual é o problema com esses campos? Eles existem? Se sim, as coisas horríveis que ouvimos por desertores profissionais, ou seja, desertores que são pagos para mentir, são verdadeiras? As três principais fontes das mentiras que ouvimos são a Amnistia Internacional, os desertores e o Comité dos Direitos Humanos da Coreia do Norte. Sim, você adivinhou, essas organizações e esses desertores são pagos e estão baseados nos Estados Unidos e não são nada mais do que ferramentas de propaganda. Razões, óbvias.
+
+Portanto, os dois principais relatórios e livros das organizações são estes por estes:
+- [Gulag oculto](https://www.hrnk.org/uploads/pdfs/HRNK_HiddenGulag2_Web_5-18.pdf)
+- [Relatório de anistia](https://www.amnesty.org/download/Documents/28000/asa240012011en.pdf)
+
+Um fato engraçado sobre esses, é que eles não têm evidência. Estão todos apoiados em testemunhos que não podem ser verificados e muitas vezes se desfazem e os desertores falam outra coisa na segunda-feira e outra coisa no sábado. E há as famosas imagens de satélite. Você sabe, essas imagens que podem muito bem ser prisões... Existe realmente um país que não tem prisões? Eu poderia mostrar a você uma imagem de satélite de uma prisão na Noruega, você não faria a distinção de onde veio e o que realmente é.
+
+Portanto, não há evidências. Não é um vídeo, imagens, fontes oficiais. Nada. Apenas testemunhos de pessoas, que muitas vezes se desfazem. As prisões na RPDC são tão duras? Provavelmente, como na maioria dos países do mundo. Os guardas estão alimentando cães com crianças? Você teria que ser racista ou uma pessoa muito doutrinada para acreditar nisso sem evidências. Além disso, há um grande número de desertores que querem voltar para a RPDC, mas você não ouvirá suas histórias com frequência, não é? Eu realmente me pergunto por quê!
+
+Aqui estão alguns materiais para ler e observar sobre desertores:
+
+**E quanto aos desertores nos quais precisamos dar-lhes um oscar de melhor atuação?**
+- Mentiras e verdades da Coreia do Norte parte 1
+- Mentiras e verdades da Coreia do Norte parte 2
+- Mentiras e verdades da Coreia do Norte parte 3
+- Shing dong hyuk exposto
+- Yeonmi Park: um mentiroso comprovado
+- Yeonmi Park: a desertora que enganou o mundo
+- Então, que tal este dramático soldado NK que desertou no sul, e os "malignos" soldados NoRtH KoReAn ousaram atirar ??? Bem, ele era um assassino. É por isso que ele desertou
+- Por que os desertores da NK continuam mudando suas histórias?
+- Coreia do Sul paga US$860,00 a desertores para mentir
+- O Sul quadruplicou o dinheiro em 2017, uma época de calor político com a dprk e o oeste. Eu me pergunto por que🤔
+- Os incentivos em dinheiro e o apetite sem fim da mídia ocidental por histórias chocantes encorajam os refugiados a exagerar, argumenta Jiyoung Song
+- Shin dong hyuk relembra partes de sua história depois que seu pai apareceu na TV
+- Empresário nascido na Suíça que viveu e trabalhou na Coreia do Norte por sete anos até 2009, ele frequentemente questiona as representações da mídia sobre a situação dos direitos humanos no país.
+- 12 garçonetes da Coréia do Norte sequestradas pela agência de espionagem seoul
+
+**E quanto aos desertores que falam a verdade e muitas vezes (isso mesmo) voltam, ou querem, de volta ao dprk?**
+
+**O que dizer dos desertores que não são mentirosos profissionais?**
+- A desertora norte-coreana e seu filho de seis anos morreram de fome na Coreia do Sul depois de ter sua previdência privada negada
+- Mulher da RPDC desertou no sul. Ela percebeu que no sul o estado não cobre moradia, tratamento médico, etc. Ela agora quer voltar para a RPDC, de volta para sua família, mas ela não é permitida pelo sul
+- cidadãos leais a Pyongyang
+- Os desertores sofrem no departamento
+- Os desertores querem voltar para a RPDC
+- “Não me sinto à vontade morando na República da Coreia, pois acredito que o coração das pessoas, e não o dinheiro, deve ser priorizado Meu desejo de ir para o Norte não mudará, mesmo que o Sul me dê ouro.”
+- Desertores tratados como lixo
+- "Tudo o que eu disse na TV foi planejado... Para fazer os norte-coreanos parecerem bárbaros, ignorantes e estúpidos."
+- Coreia do Sul rejeita pedido de desertores para voltar ao norte
+- Desertor da Coreia do Norte orgulhoso de armas nucleares, diz que Kim prefere morrer a desistir
+- Desertor da Coreia do Norte para o sul, preso por elogiar kim jong un
+- Agências de inteligência da Coreia do Sul atraem pessoas do norte para desertar
+- Alguns desertores em dprk depois de terem sido enganados para irem para a Coreia do Sul
+- "Embora a Coreia do Norte seja mais pobre, me senti mais livre lá. Vizinhos e pessoas se ajudam e dependem umas das outras."
+- Choe in-guk: filho de desertores da Coreia do Sul muda-se para o Norte
+- Eu queria ficar na Coreia do Norte: americano
+- Depois de fugir da RPDC, alguns desertores querem voltar
+- Problema oculto do Sul: desertores suicidas
+- Desertor da Coreia do Norte interrompe evento de direitos humanos da ONU e pede para voltar à RPDC
+
+### Mitos sobre a economia e comida norte-coreana
+**E quanto à desnutrição, taxa de mortalidade e questões alimentares na RPDC?**
+- A taxa de mortalidade por desnutrição na RPDC em 2017 foi de 1,1 por 100.000 pessoas. Abaixo da França, México ou Brasil, as taxas foram 2,17, 7,50 e 3,99
+- O que há de novo na nutrição NK e por que isso é importante?
+- Taxas de mortalidade diminuindo desde 2000
+- Situação alimentar da Coreia do Norte: Estável e melhorando
+- Entre sanções, secas e tensões, qual é a situação alimentar?
+
+**A economia da RPDC está entrando em colapso? Pelo contrário. Está crescendo!**
+- O mito do "colapso" da Coreia do Norte
+- A economia está crescendo no ritmo mais rápido desde os anos 90.
+- Apesar das sanções, economia da Coreia do Norte em alta de 17 anos em 2016
+- A verdade sobre a Coreia do Norte: está crescendo
+- RPDC está superando as sanções
+- Trilhões de minerais não-tocados na RPDC.
+- Conquistas sociais e econômicas da Coreia do Norte
+- A situação atual na RPDC
+- Economia cresce 3,7%
+- Chiba - aumento do comércio da RPDC
+- Repensando a narrativa do colapso da RPDC
+- Como e por que o Ocidente pensa na economia da RPDC de forma errada
+- Nenhum desabrigado em Pyongyang diz desertor
+
+### Mitos sobre a Coreia do Norte
+- O corte de cabelo
+- Por que os norte-coreanos reverenciam os Kim? Compreender a liderança da Coréia do Norte objetivamente
+- Kim Jong Un é um louco? A CIA diz que ele é a razão perfeita
+- Os desertores da Coreia do Norte para o sul dizem que a grande maioria dos coreanos do norte apóia kim jong un de volta ao norte
+- A RPDC é uma monarquia hereditária? É o contrário de acordo com sua constituição
+- E as pessoas chorando nos funerais de Kim? Razões culturais. Coreia do Sul chorando pela morte de outro presidente
+- Kim jong un tem uma taxa de aprovação de 78% ... Na Coreia do Sul.
+- Kim jong un e RPDC em 2018
+- Desmascarando outros mitos, como o herdeiro de Kim, kim encontrando unicores, pessoas executadas por motivos estúpidos, e.t.c e.t.c
+- Kim jong un executando sua GF, enviando drones para o SK, e kim jong un alimentando cães com pessoas, desmascarado
+- Mitos e equívocos sobre a Coreia do Norte, feitos por desmentido, um relato não socialista
+- Mentiras de Truman a Trump
+- As olimpíadas expuseram todas as mentiras dos EUA na RPDC
+- Violência sexual doméstica na RPDC? Debunk!
+- Crimes contra a humanidade? Endereço, leitura obrigatória!
+- Os ocidentais podem usar a Internet? Sim
+- Provas de que a maioria das mentiras que ouvimos sobre a RPDC são de fato mentiras
+- O expurgo da Coréia do Norte que não aconteceu
+- Wannacry? A DPRK convida os EUA a investigar dentro da DPRK. "Mostre-nos as evidências"
+- Religião na RPDC?
+- Smartphones na RPDC?
+- E quanto ao sistema de castas?
+- Isto é pelo camarada u / crimsonblade911 alguns outros mitos desmascarados
+
+### Imperialismo contra a RPDC
+- A maioria das coisas que você ouve sobre a Coreia do Norte são absurdos racistas
+- O armamento dos direitos humanos como meio dos imperialistas para minar a RPDC
+- Por que o oeste quer o partido dos trabalhadores da Coréia fora? Minerais de terras raras em uma das respostas
+Como a cia e a mídia ocidental enganaram o mundo fazendo-o pensar que a Coreia do Norte é uma ditadura
+Como a NASA manipula imagens de satélite para apresentar uma visão do tipo "a Coreia do Norte está caindo aos pedaços"
+O oeste sancionou a RPDC porque exerceu seu direito à inovação tecnológica; Lançando um satélite no espaço.
+Censura no Youtube e exclusão de canais pro-dprk. Tanto para a liberdade de expressão ocidental.
+Por que o discurso do privilégio predomina: Caso na RPDC
+acadêmicos ocidentais reclamaram deste evento, afirmando que esses canais davam uma visão que você não podia ver na mídia ocidental, ajudando-os a formar opiniões
+
+Exército da Coreia do Sul matou pessoa nadando de volta para a RPDC
+
+Realidade e hipocrisia: testes nucleares da RPDC condenados pelas potências nucleares
+Coreia do Norte e máquina de propaganda da ONU
+Campanhas imperialistas de direitos humanos. Quem eles estão enganando?
+O tom perigoso da mídia dos EUA em relação à RPDC
+Espiões missionários cristãos enviados para a RPDC pelos EUA.
+O racista, a desumanização da Coreia do Norte
+Na RPDC: isolada, endemoninhada e desumanizada pelo oeste
+Alek Singley: Um agente imperialista
+Darwin, um bastião imperialista dos EUA na Austrália
+Líderes de Botswana, nada mais que fantoches imperialistas trabalhando para minar o socialismo
+Israel pede uma resposta rápida contra a RPDC. Mais uma vez, sua natureza imperialista é mostrada
+Segundo Israel, o eixo do mal é o Irã-Síria-RPDC. Segundo eles, são a pior ameaça para o mundo. Por isso apenas, todos nós devemos apoiar estes três estados incondicionalmente
+Compreendendo e defendendo a RPDC
+RPDC punido por ajudar a libertar a África
+Agressão imperialista americana descarada
+Genocídio por sanções: duplo padrão da ONU
+A verdadeira razão pela qual os EUA estão preocupados com o teste ICBM da Coréia
+EUA proíbem a entrada de ativistas anti-guerra da Coréia do Sul
+A cumplicidade da mídia aumenta a possibilidade de uma nova guerra coreana
+Impulso do imperialismo para a guerra na Coréia
+US degenarate velho bastardo ameaça RPDC com extinção
+Qual é a presença militar dos EUA perto da RPDC?
+Tillerson fala de esforços preventivos na RPDC
+Agressão dos EUA após governo do parque
+Música perigosa da Coreia do Sul
+300.000 tropas sob o comando do pentágono prontas para atacar dprk
+Como os coreanos são tratados no Japão?
+O plano do Sul para assassinar Kim jong un
+"Coreia do Norte deve ser destruída"
+Pentágono: invasão terrestre para destruir o programa nuclear da RPDC
+Melhor um milhão de mortos na Coreia do Norte, ex-oficial do exército dos EUA, disse ... Você pode entender agora, que o exército dos EUA nada mais é do que alguns assassinos pagos com aprovação
+Kim jong un Unidade de decapitação do exército da Coreia do Sul
+A entrevista 'em perspectiva histórica: guerra sem fim contra a Coreia do Norte
+Crise coreana: 1994 até o presente
+Uma das razões pelas quais a CIA visa a RPDC é o ópio
+Vigilância pelos direitos humanos, uma ferramenta imperialista parte 2 {Parte 2}
+O relatório da ONU pode ser sobre os EUA ou ROK
+Relatório da ONU, ferramenta de propaganda
+Otto Warmbier foi torturado?
+Isto é do camarada u / Prettygame4Ausername O caso otto warmbier
+A imagem dos EUA da RPDC não é realidade
 
 ## A Hungria
 Desta vez veremos a República Popular da Hungria, uma das nações mais interessantes do Pacto de Varsóvia. É também a nação com talvez a melhor recordação entre o povo; pesquisas nos últimos anos revelaram que mais de 70% dos húngaros acham que a vida era melhor sob o comunismo. Como tal, é apropriado que estudemos e aprendamos mais sobre esta nação. 
