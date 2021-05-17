@@ -1667,11 +1667,153 @@ Com isso, temos duras lições a aprender com a Romênia:
 Este ensaio tratará de mitos e realidades da Coreia Popular, do estado burguês ilegal ocupado fantoche da Coréia do Sul, desertores, sociedade, agressão contra ela, relações internacionais, etc. Viva a RPDC, viva a luta anti-imberialista!!!
 
 ### Democracia na Coreia do Norte
-Há uma grande noção na esquerda ocidental (obviamente) de que a RPDC não é socialista, mas uma monarquia fascista capitalista de estado... Sabemos como a esquerda ocidental é principalmente racista e chauvinista em relação à China, RPDC, vietnã, como era anteriormente com a URSS e o bloco oriental. A maior parte dessa esquerda ocidental ainda está contra a URSS e o bloco oriental, mas pelo menos os marxistas-leninistas os conheceram hoje, mas eles ainda permanecem na mesma posição contra a China ou a RPDC.
-
-A República Popular Democrática da Coreia é um estado socialista independente que representa os interesses de todo o povo coreano. A ideologia norteadora da RPDC é a Ideia Juche, criada pelo fundador e pai da Coréia socialista - o presidente Kim Il Sung. O Partido dos Trabalhadores da Coreia é o partido líder, organizador e criador dos sucessos coreanos.
+Há uma grande noção na esquerda ocidental (obviamente) de que a RPDC não é socialista, mas uma monarquia fascista capitalista de estado... Sabemos como a esquerda ocidental é principalmente racista e chauvinista em relação à China, RPDC, vietnã, como era anteriormente com a URSS e o bloco oriental. A maior parte dessa esquerda ocidental ainda está contra a URSS e o bloco oriental, mas pelo menos os marxistas-leninistas os conheceram hoje, mas eles ainda permanecem na mesma posição contra a China ou a RPDC. A República Popular Democrática da Coreia é um estado socialista independente que representa os interesses de todo o povo coreano. A ideologia norteadora da RPDC é a Ideia Juche, criada pelo fundador e pai da Coréia socialista - o presidente Kim Il Sung. O Partido dos Trabalhadores da Coreia é o partido líder, organizador e criador dos sucessos coreanos.
 
 O sistema socialista da RPDC está totalmente voltado para o povo. De acordo com os pressupostos do socialismo, o governo da RPDC protege os interesses dos trabalhadores, camponeses e intelectuais e de todas as pessoas de diferentes áreas da vida. A principal tarefa do governo da RPDC é a vitória completa do socialismo, fortalecendo o poder do povo e realizando as tarefas das três revoluções: ideológica, tecnológica e cultural. O governo coreano também está buscando a reunificação pacífica da península coreana.
+
+#### Direitos civis norte-coreanos
+A RPDC é muitas vezes ridicularizada pelos reacionários e liberais de 'esquerda' que a comparam ao ‘socialismo’ no ‘nacional-socialismo’. No entanto, a RPDC tem uma estrutura democrática avançada e complicada, em todos os níveis, e seus cidadãos têm acesso a um nível de democracia não visto nas chamadas nações "livres" do Ocidente. Investigaremos, brevemente, como funciona seu sistema governamental e de gestão.
+
+Os cidadãos da RPDC gozam de uma ampla gama de direitos, e muitos direitos são relevantes para os estabelecimentos democráticos. Citarei sua constituição para demonstrar estes direitos:
+
+**Artigo 4**
+>A soberania da RPDC reside nos trabalhadores, camponeses, intelectuais trabalhadores e todos os demais trabalhadores. Os trabalhadores exercem o poder por meio de seus órgãos representativos - a Assembleia Popular Suprema e as assembleias locais em todos os níveis.
+
+**Artigo 5**
+>Todos os órgãos do Estado na RPDC são formados e funcionam com base no princípio do centralismo democrático.
+
+**Artigo 6**
+>Os órgãos do poder do Estado em todos os níveis, da Assembleia do Povo do condado ao SPA, são eleitos com base no princípio do sufrágio universal, igual e direto por voto secreto.
+
+**Artigo 7**
+>Os deputados aos órgãos do poder do Estado em todos os níveis têm laços estreitos com seus constituintes e são responsáveis ​​por seu trabalho.
+>
+>Os eleitores podem destituir os deputados que elegeram, se estes não forem de confiança.
+
+**Artigo 64**
+>O Estado garante efetivamente os direitos e as liberdades democráticas genuínas, bem como o bem-estar material e cultural dos seus cidadãos.
+>
+>Na RPDC, os direitos e a liberdade dos cidadãos serão ampliados com a consolidação e o desenvolvimento do sistema social.
+
+**Artigo 65**
+>Os cidadãos gozam de direitos iguais em todas as esferas do Estado e das atividades públicas.
+
+**Artigo 67**
+>Aos cidadãos é garantida a liberdade de expressão, de imprensa, de reunião, manifestação e associação.
+>
+>O Estado deve garantir condições para a livre atuação dos partidos políticos democráticos e das organizações sociais.
+
+**Artigo 73**
+>Os cidadãos têm direito à educação. Este direito é garantido por um sistema educacional avançado e pelas medidas educacionais promulgadas pelo Estado em benefício da população.
+>
+>Como pode ser visto, os cidadãos da Coreia do Norte têm sufrágio universal por voto secreto e todos os cidadãos com mais de 17 anos podem concorrer a cargos públicos, independentemente da situação econômica ou lealdade política. Mencionamos o direito à educação, porque isso também é importante para a democracia. A verdadeira democracia só pode ocorrer entre um povo informado, porque se o povo for enganado ou ignorante, não poderá fazer escolhas que melhor representem a si mesmo e a seus desejos.
+
+>Portanto, o direito à educação garantido constitucionalmente pela RPDC (inclusive em nível universitário) é um direito democrático importante, que falta na maioria das "democracias" capitalistas que exigem muito dinheiro para pagar uma educação universitária ou que colocam tão pouco financiamento em seu público sistema escolar que não se pode esperar que funcione adequadamente, deixando assim as crianças mais pobres incapazes de acessar a educação no mesmo padrão que as crianças mais ricas com educação privada.
+
+Existem muitos órgãos do poder estatal na RPDC, todos eleitos democraticamente.
+
+#### Sistema eleitoral norte-coreano
+Ao contrário da crença popular, as eleições ocorrem de fato na RPDC. A mídia burguesa, como AJ English, admite isso. No entanto, eles retratam as eleições de uma forma incrivelmente desonesta. Um relatório alegou que as eleições consistem apenas de um voto sim/não em um único candidato selecionado pelo partido, realizado à vista do público e com o voto não exigindo uma explicação escrita de acompanhamento. 
+
+Antes de prosseguirmos, no entanto, devemos fornecer para nós mesmos uma definição prática do que a democracia realmente é. É minha opinião que devemos retornar à própria palavra. Demos significa pessoas, enquanto -Krata é usado para significar regra. Democracia, portanto, deve significar governo do povo. É assim que o site dictionary.com define o termo. Eles escrevem que democracia é “governo pelo povo; uma forma de governo em que o poder supremo é investido no povo e exercido diretamente por ele ou por seus representantes eleitos em um sistema eleitoral livre”. Uma democracia é uma sociedade em que a maioria das pessoas tem a capacidade de tomar decisões sobre sua vida política e social. Meu uso do dicionário aqui não significa que os dicionários sejam a autoridade suprema em definições. Uso-o simplesmente para evitar acusações de que minha definição de democracia é ideológica. Não inventei uma definição de democracia que inclua a RPDC porque quero forçá-lo a considerá-la democrática. Eu peguei uma fonte convencional cuja agenda política é o oposto da minha.
+
+A RPDC tem eleições municipais, municipais e provinciais para as assembleias populares locais, bem como eleições nacionais para a Assembleia Popular Suprema, sua legislatura. São realizados a cada cinco anos. Os candidatos são escolhidos em assembléias realizadas no âmbito da Frente Democrática pela Reunificação da Pátria, que também organiza os partidos políticos na RPDC. Os cidadãos concorrem por esses partidos ou podem concorrer como independentes. Eles são escolhidos pelo povo, não pelo "partido" (na verdade, o parlamento na RPDC consiste em três partidos separados na última eleição, o Partido dos Trabalhadores da Coreia, o Partido Social Democrata Coreano e o Partido Chondoist Chongu).
+
+O fato de haver apenas um candidato na cédula é porque já houve um consenso alcançado sobre quem deve ser nomeado para essa posição, pelo povo em suas reuniões de massa. Este é um arranjo verdadeiramente democrático, pois coloca o poder diretamente nas mãos do povo, e não nas mãos de “representantes” ricos que não têm ideia de como a maioria realmente vive. De acordo com um relatório, a renda média de um membro do Congresso dos Estados Unidos é 14 vezes a do cidadão médio. É simplesmente impossível para eles entender a luta das massas. Na RPDC, ao contrário, as massas se defendem diretamente. Eles entendem seus próprios interesses e são capazes de promovê-los abertamente. Isso é o que a verdadeira democracia acarreta. A RPDC permite, de fato, observadores estrangeiros de sua eleição. As pessoas votam em uma sala separada de qualquer outra pessoa e têm privacidade. As assembléias exigem a participação das massas populares, portanto não são secretas, nem deveriam ser, pois isso impediria o processo democrático e dificultaria o atendimento direto dos deputados às necessidades e demandas do povo. São mais do que votos e cédulas, são reuniões em que as pessoas têm voz e o poder de impactar seu sistema político de maneira significativa.
+
+O Comitê Eleitoral Central é composto por vários membros do SPA, WPK e Presidium. É formado por voto do Presidium. A RPDC exibe extensa estabilidade política e eu não conheço nenhum caso de candidatos escolhidos pelo povo sendo repreendidos por qualquer parte do processo democrático. As eleições são efetivamente uma proteção contra qualquer tipo de corrupção do processo democrático que ocorre durante as reuniões de massa. Espera-se, portanto, que os resultados mostrem um apoio esmagador porque um voto "não" indica que as reuniões de massa não conseguiram chegar a um consenso com o apoio popular. Aqui, vemos a profunda diferença nas eleições da RPDC e nas eleições americanas. As eleições americanas destinam-se apenas a dar a ilusão de participação popular no governo. Os cidadãos podem escolher, efetivamente, entre dois candidatos que representam os interesses das grandes empresas. É virtualmente impossível sair do sistema bipartidário, a menos que alguém seja rico de forma independente. Ross Perot, por exemplo, só conseguiu concorrer contra bilionários por causa de seu status de bilionário. Ele só foi capaz de romper com o sistema bipartidário imposto pelo capitalismo corporativo porque ele mesmo incorporou o capitalismo corporativo. Repetidamente, vemos que é o candidato com mais dinheiro que vence as eleições nos Estados Unidos. Na formulação de políticas, são os grupos de interesse com dinheiro que conseguem o que querem, não as pessoas comuns da classe trabalhadora. Apesar do verniz de democracia que os EUA adotaram, na verdade é uma ditadura da classe capitalista. Não há alternativa genuína aos interesses do capital (que são, na realidade, os interesses de uma minoria de empresários) e, portanto, nenhuma democracia real.
+
+Na RPDC, entretanto, a democracia floresce. Como vimos, eles são projetados com o objetivo explícito de empoderar as massas populares. O voto "não" é um resultado direto disso. Não é uma evidência da monopolização do poder nas mãos do Partido, mas sim uma evidência do poder do povo. Os votos negativos surgem quando as discussões das massas se tornam muito contenciosas. Em certo sentido, as massas às vezes têm muito poder. As eleições existem para mediar isso e chegar a conclusões verdadeiramente democráticas, onde a vontade da maioria é cumprida. As eleições não são uma barreira à democracia, mas antes uma expressão dela.
+
+Os cidadãos dos países capitalistas são normalmente informados sobre um aspecto do processo eleitoral na RPDC. Eles são levados a acreditar que apenas um candidato aparece nas cédulas, e isso é usado para pintar a RPDC como ditatorial. O mesmo método de relato seletivo poderia ser usado para deturpar os sistemas "democráticos" ocidentais. Se a mídia cobrisse apenas o colégio eleitoral durante uma eleição americana, por exemplo, poderia facilmente afirmar que apenas 538 americanos tinham permissão para votar para presidente. Isso revela a importância de pesquisas rigorosas sobre a RPDC. Embora possa haver elementos de verdade nas reportagens ocidentais sobre a RPDC, eles nunca revelam o quadro completo. É vital que partamos por conta própria e nos recusemos a confiar na mídia burguesa nos Estados Unidos. As eleições, porém, não são o único marcador pelo qual a democracia é determinada. Os Estados Unidos têm eleições, mas acabei de argumentar que são antidemocráticos. Isso deve significar que arenas além do parlamento (ou órgãos semelhantes) também desempenham um papel na determinação se um país é ou não democrático. Na minha opinião, uma área importante a considerar quando se fala em democracia é a economia. É a economia que determina se permaneceremos vivos ou não, sem falar nas formas políticas que adotamos. Seria virtualmente impossível passar um dia teorizando sobre política se alguém tivesse que se preocupar se tem o que comer ou não naquela noite. Como tal, a questão de quem controla a economia é importante. Se uma pequena minoria de indivíduos controla a economia, segue-se que o mesmo grupo tem a palavra final na política, arte e cultura de uma determinada sociedade. Isso pode ser visto nos Estados Unidos. Uma minoria da população é formada por ricos proprietários de negócios, que exercem um enorme controle sobre a política. Eles só detêm esse poder político porque têm dinheiro. Portanto, o principal centro de poder da sociedade é a economia. As sociedades só podem ser consideradas democráticas se as massas populares administrarem a economia e também a esfera política. Obviamente, este não é o caso no capitalismo, mas será o caso na RPDC? Eu diria que é esse o caso. Os locais de trabalho na RPDC são gerenciados de acordo com o Sistema de Trabalho Taean.
+
+A Assembleia Popular Suprema (SPA) é o órgão máximo do poder estatal na RPDC, acima de funções como Presidente e Líder Supremo. É composto por trabalhadores e camponeses eleitos, principalmente representando o Partido dos Trabalhadores da Coreia, e tem o poder de fazer novas leis e remover as antigas, bem como de editar a constituição da nação. As reuniões do SPA acontecem uma ou duas vezes por ano (as eleições nacionais acontecem a cada cinco anos), mas as reuniões extraordinárias podem ser convocadas pelo Presidium ou por petição de pelo menos um terço dos membros.
+
+O Presidium da Assembleia Popular Suprema é o equivalente ao Conselho Central da URSS, e é um conselho eleito de políticos em tempo integral que administra as operações do dia-a-dia do estado. Enquanto o SPA não está em sessão, é o órgão máximo do poder do estado. O SPA elege um presidente, um vice-presidente, bem como secretários e membros gerais. Este Presidium NÃO tem autoridade para emendar a constituição, ou para introduzir novas leis importantes - isso só pode acontecer por meio de votação democrática no SPA, além de no caso de invasão, e mesmo assim a prioridade é tentar convocar uma emergência reunião do SPA. A função principal da Presidium é executar as decisões alcançadas pelo SPA, supervisionar os vários comitês criados pelo SPA e trabalhar com as Assembléias Populares Locais e com o sistema de Tribunais.
+
+A Comissão de Defesa Nacional (NDC), devido à natureza da política Songun (militar em primeiro lugar) da RPDC, é um órgão importante na nação. O NDC também é eleito pelo SPA e opera de maneira semelhante ao Presidium. A principal função do NDC é supervisionar a expansão contínua do programa militar e nuclear da RPDC. Tem o poder de declarar estado de guerra e mobilizar unidades em tal evento.
+
+A principal função do Gabinete é supervisionar a economia planejada da RPDC, a fim de manter o crescimento equilibrado e realizar o trabalho diplomático com outros estados. Também é nomeado pelo SPA e está subordinado ao SPA e ao Presidium quando o SPA não é convocado. Todos os órgãos nacionais do poder estatal na RPDC são eleitos pelo povo ou por seus representantes no SPA. O Gabinete pode adotar medidas, mas não novas leis ou emendas constitucionais. O Premier do Gabinete é o representante oficial da RPDC, cuja função é atualmente ocupada pelo camarada Kim Tok-hun.
+
+A Assembleia do Povo Local (LPA) é o equivalente da RPDC ao modelo britânico de Conselhos de Condado, mas o LPA tem muito mais poder e capacidade de ajudar sua área do que seus equivalentes britânicos. Também é eleito da mesma forma que a Assembleia Popular Suprema por cinco anos. Pode adotar medidas para fazer cumprir as leis, organizar planos para cumprir as decisões do Gabinete quanto à economia (a natureza da RPDC como uma economia planejada significa que órgãos como o LPA têm muito mais poder sobre a economia local do que nas economias de mercado), e eleger ou destituir juízes e outros membros do sistema de tribunais.
+
+O Comitê Popular Local é o equivalente ao Presidiun para o LPA e é eleito pelo LPA.
+
+O Sistema de Trabalho Taean é o equivalente de como os Sovietes de trabalhadores da URSS funcionariam. Os locais de trabalho são administrados por um Comitê eleito, que decide como implementar os decretos do Gabinete e do SPA quanto às metas econômicas. Este comitê deve ser composto por pelo menos 60% de trabalhadores, para evitar que o conselho seja dominado por elementos da velha burguesia. O próprio Comitê do Partido elege um Comitê Executivo, que assume a função de dirigir o dia-a-dia do local de trabalho, o equivalente ao Presidium e ao Comitê Popular Local.
+
+Uma breve menção ao sistema sindical da RPDC é importante para compreender verdadeiramente a natureza democrática do país, onde o poder do povo é verdadeiramente realizado. Ao contrário das economias capitalistas, onde os sindicatos são vistos como impedimentos ao sempre presente motivo de lucro, os sindicatos são fortemente encorajados e subsidiados pelo governo da Coreia do Norte. Os sindicatos têm o poder de entrar em greve, se assim o entenderem, e cuidar das necessidades de seus grupos individuais, dentro do sistema coletivista que garante que todos trabalhem juntos. Existe até uma União Infantil ativa, para horror dos estados imperialistas que mal permitem que adultos tenham sindicatos. Este sistema sindical reforça a ditadura do proletariado, permitindo ao povo múltiplos métodos democráticos para ver que seus desejos e necessidades são atendidos.
+
+#### Propriedade coletiva norte-coreana
+A economia da RPDC é uma economia dual estatal/cooperativa, com os trabalhadores desta última constitucionalmente com direito à propriedade de seus locais de trabalho. De acordo com a Constituição da RPDC:
+>Artigo 22
+>
+>A propriedade das organizações de cooperativas sociais pertence à propriedade coletiva dos trabalhadores dentro das organizações em questão.
+>
+>As organizações de cooperativas sociais podem possuir propriedades como terras, máquinas agrícolas, navios, fábricas e empresas de médio-pequeno porte.
+>
+>O Estado deve proteger a propriedade das organizações de cooperação social.
+
+A revolução coreana deu oportunidades aos trabalhadores e camponeses pobres sem terra que eram inimagináveis ​​sob as condições opressivas do passado. O especialista coreano Bruce Cumings escreve:
+>Em qualquer época antes de 1945, era virtualmente inconcebível que camponeses pobres sem instrução se tornassem oficiais em nível de país ou oficiais do exército. Mas na Coreia do Norte essas carreiras tornaram-se normais.
+
+Ele também observa que os casamentos entre classes se tornaram normais, comuns e generalizados com o estabelecimento da Coréia Democrática, e o acesso educacional foi aberto para todos os setores da sociedade.
+
+Provavelmente, a parte mais importante da economia é a propriedade da terra. Antes da revolução, a terra estava concentrada nas mãos de uma elite japonesa surpreendentemente pequena. O Partido dos Trabalhadores empreendeu um processo gradual, mas constante, de conversão da propriedade privada da terra em organizações cooperativas. Começando com o processo de reconstrução do pós-guerra em 1953, apenas 1,2% das famílias camponesas eram organizadas como cooperativas, o que abrangia apenas 0,6% da área total. Em agosto de 1958, 100% das famílias camponesas foram convertidas em cooperativas, abrangendo 100% da área total. Ellen Brun, uma economista cujo estudo da Coréia Socialista de 1976 continua sendo o mais abrangente até hoje, escreve que “Apesar da falta de meios de produção modernos, as cooperativas - com assistência eficiente do Estado - muito cedo mostraram sua superioridade sobre a agricultura individual, eventualmente convencendo agricultores anteriormente relutantes a participar do movimento”. A coletivização não foi forçada de cima, mas antes uma expressão da vontade das massas. Foi e continua sendo uma ação democrática. Os comitês locais, nos quais qualquer trabalhador coreano poderia participar, elegeram a liderança para orientar a produção agrícola e colaboraram com as autoridades nacionais para coordenar a eficiência em todo o país. Esses comitês populares foram o principal meio pelo qual “o Partido permanece em contato com as massas nas várias fazendas coletivas, permitindo assim aferir a opinião pública sobre questões que afetam as políticas do comitê do povo do campo”. Em 1966, o Partido dos Trabalhadores introduziu o "sistema de gestão de grupo", que "organizou grupos de dez a vinte e cinco agricultores em unidades de produção, cada um dos quais foi colocado permanentemente no comando de uma determinada área de terra, uma determinada tarefa, ou um certo instrumento de produção”. Isso representa outro instrumento da democracia popular implementado na produção socialista coreana.
+
+Nenhum antagonismo sério entre o campo e os centros industriais se desenvolveu no processo de construção socialista na Coréia democrática. Brun observa que "dezenas de milhares de homens desmobiilizados e muitos recém-formados, bem como alunos do ensino médio, foram para o campo nas temporadas ocupadas e prestaram assistência equivalente a milhões de dias de trabalho", tudo voluntariamente e sem coerção do estado. Mais importante ainda, a construção socialista coreana reorganizou a produção industrial por e no interesse do proletariado coreano anteriormente destituído. Baseando-se na linha das massas - o método de organização marxista-leninista que “é a causa e o efeito da politização e do envolvimento das massas no processo de desenvolvimento econômico e construção socialista” - o WPK implementou o sistema de trabalho Taean, descrito acima, em dezembro de 1961. Em contraste com o sistema anterior, no qual os gerentes eram nomeados para supervisionar um local de trabalho unilateralmente por um único membro do partido, “O comitê de fábrica do Partido assume a autoridade máxima no nível da empresa” no sistema de trabalho Taean.
+
+Os trabalhadores têm contribuição e supremacia na produção e interagem dialeticamente com o estado para planejar e realizar a produção coletivista em nome de todo o povo coreano. O fato de a economia ser administrada, muitas vezes diretamente, por toda a sociedade é uma evidência de que o país é democrático. Os trabalhadores não estão presos em locais de trabalho de cima para baixo para receber ordens, como os trabalhadores nos Estados Unidos, mas sim têm uma palavra a dizer sobre o que é produzido e como é feito. As pessoas têm voz ativa sobre a economia e, portanto, voz em todos os outros aspectos da vida. Isso, como argumentei, significa que o país é muito mais democrático do que todos os países capitalistas, mesmo os mais avançados.
+
+#### Sistema songun
+Muitos alegam que o firme estabelecimento da política "Songun"; uma política que o Partido dos Trabalhadores da Coreia descreve como "dando prioridade às armas e aos militares" anula os ganhos democráticos mencionados. Gostaria de afirmar que não é esse o caso. Apesar da insistência ocidental na novidade da política de Songun, a história oficial da RPDC aponta para o desenvolvimento de Songun décadas antes mesmo de a RPDC ser formada. É importante notar isso porque destaca como uma luta de libertação anti-imperialista e essencialmente nacional temperou a política da Coréia socialista desde o início. Independentemente disso, o colapso da União Soviética trouxe mudanças qualitativas à estrutura política da RPDC. Notavelmente, a Comissão de Defesa Nacional tornou-se o “órgão de espinha dorsal do órgão administrativo estadual” e “comanda todo o trabalho político, militar e econômico”. Isso pode ser amplamente atribuído à posição única que a RPDC assumiu após seu isolamento de fato internacional em meados da década de 1990. A queda da União Soviética significou profunda austeridade econômica, além disso, significou um sul encorajado pelos EUA e comprador. Isso significa que a RPDC foi forçada a seguir um caminho de desenvolvimento profundamente militarista (daí a superioridade da Comissão de Defesa Nacional e a ampla disseminação da política Songun). Em última análise, o que vemos emergir desta transformação dos anos 1990 é um estado operário único, condicionado pelas intensas contradições entre sua construção socialista e a ameaça sempre presente de intervenção imperialista. Único não apenas em sua situação histórica precária, mas também no desenvolvimento relacionado de suas contradições internas que, sem dúvida, assumem uma relação intensamente dialética com contradições externas paralelas. À luz dessas contradições, devemos examinar os órgãos do poder de classe na RPDC; ou seja, os órgãos do estado e sua relação com o povo coreano em geral. Obviamente, os órgãos estatais da RPDC exercem autoridade suprema sobre a economia e a vida social. O estado, constitucionalmente, representa os interesses dos trabalhadores e, portanto, excluiu legalmente os exploradores e opressores da representação formal:
+>O sistema social da RPDC é centrado nas pessoas, sob o qual os trabalhadores são donos de tudo e tudo na sociedade serve aos trabalhadores. O Estado deve defender e proteger os interesses dos trabalhadores, camponeses e intelectuais trabalhadores que foram libertados da exploração e da opressão e se tornaram donos do Estado e da sociedade.
+
+Portanto, os órgãos políticos do poder de classe tornaram-se órgãos explicitamente proletários do poder de classe; pelo menos no sentido que é fornecido constitucionalmente ao povo coreano. A força política orientadora na RPDC continua a ser o Partido dos Trabalhadores da Coreia (WPK), que detém 601/687 assentos na Assembleia Popular Suprema e o partido líder de facto na coligação governamental Frente Democrática para a Reunificação da Pátria. Todos os coreanos com mais de 17 anos, independentemente de raça, religião, sexo, credo, etc., podem e são incentivados a participar dos órgãos do poder estatal. As eleições são realizadas rotineiramente para os órgãos locais e centrais do poder do estado, sendo geralmente Assembléias do Povo que compreendem o núcleo do poder do estado na RPDC; de onde vêm os órgãos "permanentes" do poder de classe, sendo institucionalmente a Comissão de Defesa Nacional e o Exército do Povo Coreano (KPA). Como mencionado anteriormente, a estrada de Songun significou desenvolvimentos materiais nas realidades sociais que compreendem o que o Ocidente considera a Coreia do Norte. A grande ênfase no avanço militar e no poder apenas ajudou os detratores imperialistas em sua descrição da RPDC como uma "ditadura militar". Esta é, na melhor das hipóteses, uma análise de nível superficial. É considerada a maior honra para um coreano servir a sua pátria na luta contra o imperialismo, ingressando no Exército do Povo Coreano. Ao contrário de outras forças militares permanentes, o KPA está definitivamente envolvido na construção social e material do socialismo na Coreia do Norte. Compreender isso nos ajuda a entender como os desenvolvimentos internos únicos da Coréia socialista criaram uma expressão igualmente única de poder de classe. O povo também está intimamente ligado aos líderes da RPDC, os quadros do Partido. Os quadros do Partido são uma característica inescapável do aparato político norte-coreano e, portanto, possivelmente o elo mais próximo que o povo coreano tem com seus órgãos formais de poder. Sabe-se que quadros, funcionários e administradores do Partido visitam os locais de trabalho e fornecem motivação e orientação aos trabalhadores. Isso está em nítido contraste com a relação entre os políticos capitalistas e os cidadãos. Nos países capitalistas, os políticos estão distantes do povo e não têm ideia de como são suas lutas. Na RPDC, o oposto é verdadeiro.
+
+Porque a classe trabalhadora é a grande maioria da população da RPDC (cerca de setenta por cento), a gestão do estado pela classe trabalhadora significa que o estado é gerido pela maioria do povo. Isso é consistente com a definição de democracia proposta anteriormente.
+
+#### Sistema prisional norte-coreano
+Frequentemente, afirma-se que nada do que a Coreia conquistou importa porque os norte-coreanos são forçados a realizar trabalhos forçados por seus crimes. O estado mantém 200.000 presos políticos, de acordo com a Anistia Internacional. É o mesmo estado que matou três cidadãos norte-coreanos que tentavam cruzar a fronteira para a China no final de dezembro.
+
+Uma avaliação mais sutil do sistema prisional coreano no norte ironicamente vem do historiador liberal burguês Bruce Cumings. Em seu livro de 2004, North Korea: Another Country, ele observa que a maioria das afirmações sobre o sistema penal coreano são grosseiramente exageradas. Por exemplo, ele escreve:
+>Criminosos comuns que cometem crimes menores e pequenos delinquentes com uma compreensão incorreta de seu lugar no estado da família que cometem crimes políticos de baixo nível vão para campos de trabalho ou minas para trabalho duro e durações variadas de encarceramento, cujo objetivo é reeducá-los.
+
+Isso reflete uma compreensão materialista das raízes do crime, decorrente em grande parte das condições materiais e ideias incorretas de uma pessoa, que podem mudar através da alteração das condições de uma pessoa. É importante observar que a grande maioria dos criminosos no sistema penal coreano se enquadra nesta categoria e, portanto, o objetivo é reabilitar e reeducar, em oposição aos objetivos punitivos do sistema penal americano. Cumings observa o contraste entre o sistema de justiça criminal da Coréia Democrática e o dos Estados Unidos, especialmente em termos do contato de um prisioneiro e do apoio de sua família. Ele escreve:
+>Os Aquários de Pyongyang é uma história interessante e verossímil, precisamente porque, de modo geral, não contribui para a terrível história de repressão totalitária que seus editores originais na França pretendiam que fosse; em vez disso, sugere que o encarceramento de uma década com a família imediata de alguém era passível de sobrevivência e não necessariamente um obstáculo para entrar no status de residência de elite em Pyongyang e entrar na faculdade. Enquanto isso, temos um gulag antigo e interminável cheio de homens negros em nossas prisões, encarcerando mais de 25 por cento de todos os jovens negros.
+
+Também deve ser observado que o único norte-coreano a escapar de um campo de prisioneiros, Shin Dong-hyuk, retratou grandes partes de sua história em Escape from Camp 14. De acordo com um artigo do New York Times sobre o assunto:
+>Sr. Shin, que tem 32 anos, agora diz que o fato fundamental que o diferenciava de outros desertores - que ele e sua família haviam sido encarcerados em uma prisão que ninguém esperava sair com vida - era apenas parcialmente verdade, e que ele na verdade, serviu a maior parte de seu tempo no Campo 18. menos brutal. Ele também disse que a tortura que suportou quando adolescente aconteceu anos depois e foi aplicada por razões muito diferentes.
+
+Da mesma forma, a revelação de que armas químicas são usadas em prisioneiros no Campo 22 se provou espúria. A história foi inventada pela primeira vez no documentário da BBC de 2004, Access to Evil. O documentário apresentou várias entrevistas com Kwon Hyok, um desertor da RPDC e ex-chefe de segurança do campo. A evidência do documentário para esta afirmação também foi baseada em uma "Carta de Transferência" que supostamente autorizava a experimentação humana. Essas reivindicações, no entanto, foi fabricada inteiramente. Até mesmo agências de inteligência na Coreia do Sul decidiram rapidamente que os documentos eram falsificações. Eles escrevem:
+>Primeiro, foi revelado que Kwon não tinha sido adido militar em Pequim, conforme alegado. Em seguida, a atenção foi voltada para a Carta de Transferência... havia problemas com nomenclatura, tamanho dos selos e tipo de papel.
+>[...]
+>Joseph Koehler… um crítico virulento do Norte… chegou à conclusão de que o documento parece uma farsa.
+
+Embora isso não seja evidência de que todas as alegações dos desertores são espúrias, isso questiona a validade da história. Não é surpresa que desertores exagerem em suas histórias, visto que a Coreia do Sul disse no domingo que quadruplicaria a recompensa em dinheiro fornecida para desertores norte-coreanos que chegassem com informações importantes para 1 bilhão de won, ou US$ 860.000, em um esforço para encoraje mais membros da elite do Norte a fugir. Os desertores norte-coreanos não são simplesmente indivíduos perseguidos em busca de uma vida melhor. Eles têm um incentivo econômico direto para mentir sobre o país. É importante, como disse acima, verificar cada história de forma independente, em vez de confiar nelas cegamente. O fato de que o tempo no sistema penal coreano não resulta em castigo social como ocorre nos países capitalistas reflete um forte contraste com os sistemas penais capitalistas. Usando a própria família como rede de apoio, o estado incentiva a reeducação política e abre oportunidades para prisioneiros reabilitados reingressarem na sociedade coreana como cidadãos plenos. O sistema prisional da Coreia do Norte é muito mais humano, em princípio, do que o sistema dos Estados Unidos. É baseado em uma filosofia centrada nas pessoas que afirma que a criminalidade não é inata à humanidade. Esta é uma forte evidência de que a RPDC é um estado de maioria e, portanto, democrático.
+
+#### Religião na Coreia do Norte
+A supressão da religião na RPDC - um castigo favorito da direita - também é amplamente exagerada. Em artigo de Dae Young Ryu, 'Peles de vinho frescos para vinho novo: uma nova perspectiva sobre o cristianismo norte-coreano' começa observando uma nova abertura do cristianismo na década de 1980, com novas igrejas construídas, uma faculdade teológica protestante fortalecida em Pyongyang e um aumento no número de adoradores, agora estimado em cerca de 12.000. Embora o próprio governo tenha construído novas igrejas durante este período, Ryu afirma que este não é um fenômeno recente. Na verdade, isso remonta aos cristãos da década de 1950 que adotaram o marxismo-leninismo e apoiaram a liderança de Kim Il-sung. Este desenvolvimento é ainda mais notável, visto que ocorreu em um contexto em que o Cristianismo era amplamente visto como um fenômeno imperialista americano. Na verdade, as evidências indicam que o governo tolerou cerca de 200 igrejas cristãs pró-comunistas durante a década de 1960. Ele escreve:
+>Ao contrário da visão ocidental comum, parece que os líderes norte-coreanos exibiram tolerância com os cristãos que apoiavam Kim II Sung e sua versão de socialismo. O ministro presbiteriano Gang Ryang Uk serviu como vice-presidente da RPDC de 1972 até sua morte em 1982, e Kim Chang Jun, um ministro metodista ordenado, tornou-se vice-presidente da Assembleia Popular Suprema. Eles foram enterrados no exaltado Cemitério dos Patriotas, e muitos outros líderes religiosos receberam honras e medalhas nacionais. Parece que o governo permitiu as igrejas domésticas em reconhecimento à contribuição dos cristãos para a construção da nação socialista.
+
+#### Apoio popular na Coreia do Norte
+Gostaria de concluir com um exame de Kim Il Sung e o suposto “culto da personalidade” que o cerca. A dor em massa em torno de seu funeral é considerada evidência de que ele é adorado como um deus na RPDC. Na verdade, essa dor resultou do imenso apoio popular que ele desfrutou como líder, durante e após a revolução. Os japoneses o consideravam um líder guerrilheiro altamente capaz e perigoso, chegando ao ponto de estabelecer uma unidade especial de insurgência anti-Kim para caçá-lo. A guerrilha era uma força independente, inspirada pelo desejo de recuperar a península coreana para os coreanos, e não era controlada nem pelos soviéticos nem pelos chineses. Embora muitas vezes se retirassem através da fronteira com a União Soviética para escapar das forças de contra-insurgência japonesas, eles receberam pouca ajuda material dos soviéticos. Ao contrário dos Estados Unidos, que impôs um governo militar e reprimiu os Comitês do Povo, os soviéticos adotaram uma abordagem bastante indireta em sua zona de ocupação, permitindo que uma coalizão de combatentes da resistência nacionalista e comunista fizesse seu próprio show. Em sete meses, o primeiro governo central foi formado, com base em um Comitê do Povo interino liderado por Kim Il-sung.
+
+Ao contrário da mitologia popular, Kim não foi escolhido a dedo pelos soviéticos. Ele gozava de considerável prestígio e apoio como resultado de seus anos como líder guerrilheiro e seu compromisso com a libertação nacional. Na verdade, os soviéticos nunca confiaram totalmente nele. Oito meses após a ocupação, iniciou-se um programa de reforma agrária, com os latifundiários despojados de suas terras sem indenização, mas livres para migrar para o sul ou para trabalhar em lotes iguais aos alocados aos camponeses. Depois de um ano, o Partido dos Trabalhadores de Kim se tornou a força política dominante. As principais indústrias, a maioria pertencentes a japoneses, foram nacionalizadas. Colaboradores japoneses foram expulsos de cargos oficiais. Os cidadãos da RPDC apóiam Kim Il-sung por causa de seu corajoso desafio à dominação dos EUA, seu compromisso com a reunificação e as verdadeiras conquistas do socialismo. Diante daqueles que fazem guerra pela exploração e opressão, as decisões de Kim representaram as aspirações dos trabalhadores, camponeses, mulheres e crianças coreanos - a nação coreana unida - pela liberdade. O apoio de Kim não foi derivado de um culto à personalidade ou levado à força. Ao contrário, ele conquistou o apoio de seu povo na luta.
+
+Na verdade, não havia mecanismos para forçar o povo coreano a apoiar Kim Il-Sung durante seu governo. Lankov escreve:
+>Os norte-coreanos na era Kim Il-Sung não eram autômatos de lavagem cerebral cujo passatempo favorito era andar de ganso... nem eram dissidentes secretos... nem eram escravos dóceis que timidamente seguiam qualquer ordem de cima.
+
+A RPDC de Kim Il-sung não era um estado policial, mas sim um país democrático e socialista travando uma guerra valente contra o imperialismo. O povo coreano estava - e continua a ser - unido na luta e a apoiar seus líderes nesta base. Uma pesquisa com desertores estima que mais da metade do país que eles deixaram para trás aprova o trabalho que o líder Kim Jong Un está fazendo. O Instituto de Estudos para a Paz e a Unificação de Seul, conforme relatado pela agência de notícias Yonhap, pediu a 133 desertores que arriscassem um palpite sobre o índice de aprovação real de Kim no país, o que, pelo menos, comprou publicamente o culto absoluto da personalidade em torno de sua liderança. Em uma pesquisa semelhante em 2011, apenas 55% acreditavam que o pai e antecessor de Kim, Kim Jong Il, tinha o apoio da maioria do país.
+
+Como escreve a BBC:
+>Os especialistas atribuem a popularidade de Kim Jong-un aos esforços para melhorar a vida cotidiana dos cidadãos, com ênfase no crescimento econômico, nas indústrias leves e na agricultura em um país onde acredita-se que a maioria não tem alimentos, diz Yonhap. Não há pesquisas de opinião no fechado estado comunista, onde - pelo menos externamente - o líder goza de total apoio. Embora não seja diretamente comparável, o índice de aprovação percebido supera o dos líderes ocidentais. Uma pesquisa recente da McClatchy sugeriu que apenas 41% dos americanos apóiam o desempenho do presidente Barack Obama, enquanto o primeiro-ministro do Reino Unido, David Cameron, marcou 38% em uma pesquisa recente do YouGov.
+
+O Wall Street Journal, citando a pesquisa, diz que mais de 81% dos desertores disseram que as pessoas estavam recebendo três refeições por dia, contra 75% do lote anterior pesquisado:
+>Isso aponta para uma consolidação de poder bem-sucedida para o jovem líder, que assumiu com a morte de seu pai, Kim Jong Il, em dezembro de 2011. Isso parecia incerto há um ano, pelo menos com base no relatório anterior do instituto sobre entrevistas com desertores. Falando então a 122 pessoas que fugiram da Coreia do Norte entre janeiro de 2011 e maio de 2012, descobriu que 58% estavam insatisfeitos com a escolha do jovem Sr. Kim como sucessor. (É claro que as pessoas que fogem do país tendem a ficar mais insatisfeitas com ele do que as que permanecem)
+>
+>O novo líder parece estar apertando seu controle, com 45% dizendo que a sociedade está totalmente sob controle, contra 36% no relatório anterior. Folhetos e pichações anti-regime são um pouco menos comuns (mas talvez esse seja o alto índice de aprovação no trabalho): 66% do último grupo disse ter visto essas coisas, ante 73% na pesquisa de 2012 e 70% em 2011 Viajar para outras partes do país tornou-se mais difícil. A porcentagem que relatou ter feito isso, após aumentar por cinco anos consecutivos - para 70% entre os desertores entrevistados em 2012, de 56% entre os entrevistados em 2008 - recuou para 64%.
+
+A mídia burguesa continua a retratar a RPDC como um pesadelo totalitário, habitado exclusivamente por cidadãos pacificados e amedrontados. Como mostrei, isso está longe de ser o caso. O povo norte-coreano tem muito mais voz na forma como suas vidas são estruturadas do que os cidadãos mesmo dos países capitalistas mais “democráticos”. Eles não são forçados a aderir a uma linha partidária transmitida do alto, mas são encorajados a participar na gestão da sociedade. A RPDC é um excelente exemplo de socialismo, que se concentra no desenvolvimento da classe trabalhadora - e da humanidade - em seu potencial máximo. É somente através do socialismo que podemos realizar nosso sonho coletivo de uma sociedade livre e próspera. A RPDC está marchando em direção a este sonho, mesmo em face de uma agressão imperialista sem paralelo. É em parte com base nisso que devemos prometer solidariedade para com o país. Para reiterar o ponto que apresentei em meu último post, no entanto, a RPDC deve ser apoiada independentemente de ser ela própria socialista. Está contra o imperialismo, que é o maior inimigo do socialismo. Indireta ou diretamente, a RPDC trabalha no interesse do socialismo.
 
 - Um modelo de planejamento socialista democrático e participativo
 - Socialismo e democracia na RPDC
@@ -1742,34 +1884,41 @@ Erros e falhas, pequenos incômodos do dia-a-dia que, se deixados sem cuidados, 
 >
 >O sistema Taean anunciava uma abordagem mais racional para a gestão industrial do que a praticada anteriormente. Embora os funcionários e trabalhadores do partido tenham se tornado mais importantes para a administração sob o novo sistema, os engenheiros e a equipe técnica também receberam mais responsabilidade nas áreas em que sua experiência poderia contribuir mais. O sistema reconhece a importância dos incentivos materiais e também "político-morais" para o gerenciamento dos operários. O "sistema de contabilidade interna", um desdobramento do "sistema de contabilidade independente", concede bônus para equipes de trabalho e oficinas que usam matérias-primas e equipamentos de forma mais eficiente. Essas recompensas financeiras vêm dos lucros da empresa.
 
+Brun destaca experiências práticas do Sistema Taean:
+>Na Planta Elétrica Daean, com 5 mil trabalhadores, o comitê fabril do Partido é formado por 35 membros que se reúnem uma ou duas vezes por mês, enquanto os 9 membros da diretoria mantêm contato contínuo. Sessenta por cento de seus membros são trabalhadores da produção, com o restante representando um corte transversal de todas as atividades da fábrica, incluindo funcionários, gerentes, vice-gerentes, engenheiros, técnicos, representantes da liga feminina, membros da liga juvenil, membros do sindicato e funcionários administrativos . A sua composição dá-lhe assim acesso a todos os aspectos socioeconómicos da empresa e à vida do seu trabalhador.
+>
+>Esse comitê passou a ser o que se chama de ‘volante’ da unidade industrial, conduzindo a educação ideológica e mobilizando os trabalhadores para a implementação das decisões coletivas e para o cumprimento da meta produtiva. Por meio de sua conexão com o Partido, tem uma visão clara das políticas e objetivos gerais, bem como da função exata de cada empresa no contexto nacional. Em outras palavras, essa configuração garante que a política tenha prioridade.
+
 Uma medida do sucesso do Sistema de Trabalho Taean é sua longevidade e seu endosso contínuo pela liderança. Em seu discurso de Ano Novo de 1991, marcando o trigésimo aniversário da criação do sistema, Kim Il Sung disse que "O sistema de trabalho Taean é o melhor sistema de gestão econômica. Ele permite que as massas produtoras cumpram sua responsabilidade e papel como mestres e administrar a economia de maneira científica e racional, implementando a linha de massa na gestão econômica e combinando liderança partidária organicamente com orientação administrativa, econômica e técnica." Acho que todos nós podemos, mesmo anarco-comunistas e leftcoms, concordar que a implementação deste modelo seria um esforço louvável a ser defendido e pelo qual vale a pena lutar, mesmo que não seja "ideal".
 
 ### História econômica da Coreia do Norte
-1953 - A Guerra da Coréia termina oficialmente em um impasse com o país sendo dividido pela metade, as terras começam a ser coletivizadas e o processo é relativamente sem derramamento de sangue em comparação com o da URSS e da China
+Em 1953, a Guerra da Coreia termina oficialmente em um impasse com o país sendo dividido pela metade, as terras começam a ser coletivizadas e o processo é relativamente sem derramamento de sangue em comparação com o da URSS e da China. Em 1954, o planejamento econômico começa com um plano de três anos seguido por um plano de cinco anos, o estado investe pesadamente em indústria e infraestrutura, o país se desenvolve em um ritmo rápido com a ajuda da URSS e da China. Em 1959, a indústria é totalmente nacionalizada. Já em 1960, Che Guevara visita a Coreia do Norte e fica impressionado, proclamando que Cuba deveria seguir seu modelo. A economista britânica Joan Robinson descreve o desenvolvimento da Coreia do Norte como um "milagre". Já em 1968, todas as casas têm eletricidade. Em 1972, todas as crianças de 5 a 16 anos agora estão matriculadas na escola, com mais de 200 universidades e faculdades estabelecidas. Na década de 70, cerca de 70% da população é urbanizada, o PIB per capita é igual ao da Coreia do Sul. Também na década de 70, o desenvolvimento econômico da Coreia do Norte, o aumento dos padrões de vida e a urbanização são interrompidos quando a URSS e a China reduzem drasticamente a ajuda e, com a crescente agressão do oeste, são forçados a se militarizar, com os gastos com defesa agora dominando a economia. Em 1979, a China dá início à reforma econômica e, como tal, suas relações com a Coréia do Norte se deterioram, sendo a URSS agora seu único grande parceiro comercial. Em 1991 a União Soviética entra em colapso e, como tal, a Coreia do Norte perde 90% de seu comércio da noite para o dia, a economia entra em queda livre e como o país não é autossuficiente em termos agrícolas devido à falta de terras férteis causada pelos bombardeios dos Estados Unidos durante a Guerra da Coréia, uma fome acontece, o Ocidente está totalmente ciente disso e ainda não faz nada, continuando o bloqueio econômico e deixando o país em completo isolamento
 
-1954 - O planejamento econômico começa com um plano de três anos seguido por um plano de cinco anos, o estado investe pesadamente em indústria e infraestrutura, o país se desenvolve em um ritmo rápido com a ajuda da URSS e da China
+Até hoje a Coreia do Norte permanece isolada e sob constante ameaça de invasão, como tal, eles são forçados a permanecer em uma situação de semi-guerra perpétua e o país agora é principalmente rural apenas para evitar a fome.
 
-1959 - A indústria é totalmente nacionalizada
+Com base nessa história, é óbvio que a atual pobreza e subnutrição da Coreia do Norte não tem nada a ver com o socialismo, mas sim com a agressão e o bloqueio econômico dos EUA. Se a Coreia do Norte ainda tivesse um comércio significativo e parceiros militares, como costumavam ter com a China e a União Soviética, provavelmente seriam semelhantes em termos de desenvolvimento, padrões de vida e consumo de alimentos aos seus homólogos sul-coreanos.
 
-1960 - Che Guevara visita a Coreia do Norte e fica impressionado, proclamando que Cuba deveria seguir seu modelo
+**E quanto à desnutrição, taxa de mortalidade e questões alimentares na RPDC?**
+- [A taxa de mortalidade por desnutrição na RPDC em 2017 foi de 1,1 por 100.000 pessoas. Abaixo da França, México ou Brasil, onde as taxas foram 2,17, 7,50 e 3,99](https://www.worldlifeexpectancy.com/cause-of-death/malnutrition/by-country/)
+- [O que há de novo na nutrição norte-coreana e por que isso é importante?](https://core.ac.uk/download/pdf/46164212.pdf)
+- [Taxas de mortalidade diminuindo desde 2000](https://www.bloomberg.com/opinion/articles/2017-09-14/north-korea-s-secret-weapon-economic-growth)
+- [Situação alimentar da Coreia do Norte: Estável e melhorando](https://www.cfr.org/blog/north-koreas-food-situation-stable-and-improving)
+- [Entre sanções, secas e tensões, qual é a situação alimentar?](https://www.38north.org/2017/11/bksilberstein111417/?utm_source=38+North+Bulletin+111417)
 
-1965 - a economista britânica Joan Robinson descreve o desenvolvimento da Coreia do Norte como um "milagre"
-
-1968 - Todas as casas agora têm eletricidade
-
-1972 - Todas as crianças de 5 a 16 anos agora estão matriculadas na escola, com mais de 200 universidades e faculdades estabelecidas
-
-Década de 1970 - Cerca de 70% da população é urbanizada, o PIB per capita é igual ao da Coreia do Sul
-
-Década de 1970 - O desenvolvimento econômico da Coreia do Norte, o aumento dos padrões de vida e a urbanização são interrompidos quando a URSS e a China reduzem drasticamente a ajuda e, com a crescente agressão do oeste, são forçados a se militarizar, com os gastos com defesa agora dominando a economia
-
-1979 - A China dá início à reforma econômica e, como tal, suas relações com a Coréia do Norte se deterioram, sendo a URSS agora seu único grande parceiro comercial
-
-1991 - A União Soviética entra em colapso e, como tal, a Coreia do Norte perde 90% de seu comércio da noite para o dia, a economia entra em queda livre e como o país não é autossuficiente em termos agrícolas devido à falta de terras férteis causada pelos bombardeios dos Estados Unidos durante a Guerra da Coréia, uma fome acontece, o Ocidente está totalmente ciente disso e ainda não faz nada, continuando o bloqueio econômico e deixando o país em completo isolamento
-
-Presente - Até hoje a Coreia do Norte permanece isolada e sob constante ameaça de invasão, como tal, eles são forçados a permanecer em uma situação de semi-guerra perpétua e o país agora é principalmente rural apenas para evitar a fome
-
-Conclusão - Com base nessa história, é óbvio que a atual pobreza e subnutrição da Coreia do Norte não tem nada a ver com o socialismo, mas sim com a agressão e o bloqueio econômico dos EUA. Se a Coreia do Norte ainda tivesse um comércio significativo e parceiros militares, como costumavam ter com a China e a União Soviética, provavelmente seriam semelhantes em termos de desenvolvimento, padrões de vida e consumo de alimentos aos seus homólogos sul-coreanos.
+**A economia da RPDC está entrando em colapso? Pelo contrário. Está crescendo!**
+- [O mito do "colapso" da Coreia do Norte](https://apjjf.org/2014/12/18/Henri-Feron/4113/article.html)
+- [A economia está crescendo no ritmo mais rápido desde os anos 90](https://www.bloomberg.com/opinion/articles/2017-09-14/north-korea-s-secret-weapon-economic-growth)
+- [Apesar das sanções, economia da Coreia do Norte em alta de 17 anos em 2016](https://www.reuters.com/article/us-northkorea-economy-gdp/north-korea-2016-economic-growth-at-17-year-high-despite-sanctions-south-korea-idUSKBN1A607Z)
+- [A verdade sobre a Coreia do Norte: está crescendo](http://theduran.com/truth-north-korea-booming/)
+- [RPDC está superando as sanções](https://www.38north.org/2017/07/hferon071817/)
+- [Trilhões de minerais não-tocados na RPDC](https://qz.com/1004330/north-korea-is-sitting-on-trillions-of-dollars-on-untapped-wealth-and-its-neighbors-want-a-piece-of-it/)
+- [Conquistas sociais e econômicas da Coreia do Norte](https://www.globalresearch.ca/the-social-and-economic-achievements-of-north-korea/5594234)
+- [A situação atual na RPDC](http://www.lalkar.org/article/2776/the-present-situation-in-the-dprk)
+- [Economia cresce 3,7%](https://english.kyodonews.net/news/2018/10/46a852b7c627-n-koreas-economy-grows-37-in-2017-professor.html)
+- [China - aumento do comércio da RPDC](https://www.nytimes.com/2017/04/13/world/asia/china-north-korea-trade-coal-nuclear.html)
+- [Repensando a narrativa do colapso da RPDC](https://www.globalresearch.ca/rethinking-the-north-korean-collapse-narrative-the-most-demonized-country-worldwide/5410636)
+- [Como e por que o Ocidente pensa na economia da RPDC de forma errada](https://www.facebook.com/RTAmerica/videos/10154387760731366/)
+- ["Nenhum desabrigado em Pyongyang", diz desertor](https://www.upi.com/Top_News/World-News/2016/03/04/North-Korean-defector-says-no-homelessness-in-Pyongyang/8801457150974/)
 
 ### Relações diplomáticas da Coreia do Norte
 RPDC - Relações com Cuba:
@@ -1849,7 +1998,7 @@ Peru:
 Allende:
 - Kim il-sung e Allende
 
-Venezuela
+Venezuela:
 - Camaradas de armas. Venezuela e dprk
 - Venezuela abre embaixada na RPDC em 22 de agosto de 2019, como um "ato contra o imperialismo norte-americano"
 
@@ -1867,146 +2016,234 @@ Portanto, não há evidências. Não é um vídeo, imagens, fontes oficiais. Nad
 Aqui estão alguns materiais para ler e observar sobre desertores:
 
 **E quanto aos desertores nos quais precisamos dar-lhes um oscar de melhor atuação?**
-- Mentiras e verdades da Coreia do Norte parte 1
-- Mentiras e verdades da Coreia do Norte parte 2
-- Mentiras e verdades da Coreia do Norte parte 3
-- Shing dong hyuk exposto
-- Yeonmi Park: um mentiroso comprovado
-- Yeonmi Park: a desertora que enganou o mundo
-- Então, que tal este dramático soldado NK que desertou no sul, e os "malignos" soldados NoRtH KoReAn ousaram atirar ??? Bem, ele era um assassino. É por isso que ele desertou
-- Por que os desertores da NK continuam mudando suas histórias?
-- Coreia do Sul paga US$860,00 a desertores para mentir
-- O Sul quadruplicou o dinheiro em 2017, uma época de calor político com a dprk e o oeste. Eu me pergunto por que🤔
-- Os incentivos em dinheiro e o apetite sem fim da mídia ocidental por histórias chocantes encorajam os refugiados a exagerar, argumenta Jiyoung Song
-- Shin dong hyuk relembra partes de sua história depois que seu pai apareceu na TV
-- Empresário nascido na Suíça que viveu e trabalhou na Coreia do Norte por sete anos até 2009, ele frequentemente questiona as representações da mídia sobre a situação dos direitos humanos no país.
-- 12 garçonetes da Coréia do Norte sequestradas pela agência de espionagem seoul
+- [Shin Dong-hyuk exposto](https://www.youtube.com/watch?v=P82aad8QQW4)
+- [Yeonmi Park: uma mentirosa comprovada](https://thediplomat.com/2014/12/the-strange-tale-of-yeonmi-park/) e [Yeonmi Park: a desertora que enganou o mundo](https://jooparkblog.blogspot.com/2014/12/yeonmi-park-defector-who-fooled-world.html)
+- Então, que tal [este dramático soldado](https://www.youtube.com/watch?v=0fNy_tWYkd4) norte-coreano que desertou no sul, e os "malignos" soldados da Coreia do Norte ousaram atirar??? [Bem, ele era um assassino. É por isso que ele desertou.](https://www.sbs.com.au/news/north-korean-defector-confesses-to-murder-report)
+- [Por que os desertores da Coreia do Norte continuam mudando suas histórias?](https://www.youtube.com/watch?v=XkegD7V9E6g)
+- [Coreia do Sul paga US$860,00 a desertores para mentir](https://www.bbc.com/news/world-asia-39170614)
+- [O Sul quadruplicou o dinheiro em 2017, uma época de calor político com a Coreia do Norte e o Ocidente. Eu me pergunto por que](https://www.theguardian.com/world/2017/mar/05/kim-jong-un-south-korea-quadruples-reward-north-korea-classified-information)
+- [Os incentivos em dinheiro e o apetite sem fim da mídia ocidental por histórias chocantes encorajam os refugiados a exagerar, argumenta Jiyoung Song](https://www.theguardian.com/world/2015/oct/13/why-do-north-korean-defector-testimonies-so-often-fall-apart)
+- [Shin dong hyuk relembra partes de sua história depois que seu pai apareceu na TV](https://www.cbsnews.com/news/prominent-north-korean-defector-shin-dong-hyuks-story-questioned/)
+- [Empresário nascido na Suíça que viveu e trabalhou na Coreia do Norte por sete anos até 2009, ele frequentemente questiona as representações da mídia sobre a situação dos direitos humanos no país](https://thediplomat.com/2014/10/north-korea-defectors-and-their-skeptics/)
+- [12 garçonetes da Coréia do Norte sequestradas pela agência de espionagem seoul](https://au.news.yahoo.com/seoul-tricked-n-korea-waitresses-defecting-manager-080159062--spt.html?guccounter=1&guce_referrer=aHR0cHM6Ly9kcHJrc3R1ZHlndWlkZS53b3JkcHJlc3MuY29tLzIwMTcvMTAvMTMvZHByay1zdHVkeS1ndWlkZS8&guce_referrer_sig=AQAAAAdpgLiRKHlrR-vRT8ByQMn8XN3Ey9YpdBnHLaJrKqXnoX07l_BH0NHleGosUYoZzVf-Jux1EBKLwl0KdCJ7YC9YYkeDTuqFLXa_z8-uhuVDqWUnkEzwj8cfnFgeYEQCx0F32YRzWHRUN3dOPG4xrKXle883fr11xWecrPlLpEEQ)
 
 **E quanto aos desertores que falam a verdade e muitas vezes (isso mesmo) voltam, ou querem, de volta ao dprk?**
 
 **O que dizer dos desertores que não são mentirosos profissionais?**
-- A desertora norte-coreana e seu filho de seis anos morreram de fome na Coreia do Sul depois de ter sua previdência privada negada
-- Mulher da RPDC desertou no sul. Ela percebeu que no sul o estado não cobre moradia, tratamento médico, etc. Ela agora quer voltar para a RPDC, de volta para sua família, mas ela não é permitida pelo sul
-- cidadãos leais a Pyongyang
-- Os desertores sofrem no departamento
-- Os desertores querem voltar para a RPDC
-- “Não me sinto à vontade morando na República da Coreia, pois acredito que o coração das pessoas, e não o dinheiro, deve ser priorizado Meu desejo de ir para o Norte não mudará, mesmo que o Sul me dê ouro.”
-- Desertores tratados como lixo
-- "Tudo o que eu disse na TV foi planejado... Para fazer os norte-coreanos parecerem bárbaros, ignorantes e estúpidos."
-- Coreia do Sul rejeita pedido de desertores para voltar ao norte
-- Desertor da Coreia do Norte orgulhoso de armas nucleares, diz que Kim prefere morrer a desistir
-- Desertor da Coreia do Norte para o sul, preso por elogiar kim jong un
-- Agências de inteligência da Coreia do Sul atraem pessoas do norte para desertar
-- Alguns desertores em dprk depois de terem sido enganados para irem para a Coreia do Sul
-- "Embora a Coreia do Norte seja mais pobre, me senti mais livre lá. Vizinhos e pessoas se ajudam e dependem umas das outras."
-- Choe in-guk: filho de desertores da Coreia do Sul muda-se para o Norte
-- Eu queria ficar na Coreia do Norte: americano
-- Depois de fugir da RPDC, alguns desertores querem voltar
-- Problema oculto do Sul: desertores suicidas
-- Desertor da Coreia do Norte interrompe evento de direitos humanos da ONU e pede para voltar à RPDC
-
-### Mitos sobre a economia e comida norte-coreana
-**E quanto à desnutrição, taxa de mortalidade e questões alimentares na RPDC?**
-- A taxa de mortalidade por desnutrição na RPDC em 2017 foi de 1,1 por 100.000 pessoas. Abaixo da França, México ou Brasil, as taxas foram 2,17, 7,50 e 3,99
-- O que há de novo na nutrição NK e por que isso é importante?
-- Taxas de mortalidade diminuindo desde 2000
-- Situação alimentar da Coreia do Norte: Estável e melhorando
-- Entre sanções, secas e tensões, qual é a situação alimentar?
-
-**A economia da RPDC está entrando em colapso? Pelo contrário. Está crescendo!**
-- O mito do "colapso" da Coreia do Norte
-- A economia está crescendo no ritmo mais rápido desde os anos 90.
-- Apesar das sanções, economia da Coreia do Norte em alta de 17 anos em 2016
-- A verdade sobre a Coreia do Norte: está crescendo
-- RPDC está superando as sanções
-- Trilhões de minerais não-tocados na RPDC.
-- Conquistas sociais e econômicas da Coreia do Norte
-- A situação atual na RPDC
-- Economia cresce 3,7%
-- Chiba - aumento do comércio da RPDC
-- Repensando a narrativa do colapso da RPDC
-- Como e por que o Ocidente pensa na economia da RPDC de forma errada
-- Nenhum desabrigado em Pyongyang diz desertor
+- [Desertora norte-coreana e seu filho de seis anos morreram de fome na Coreia do Sul depois de ter sua previdência privada negada](https://edition.cnn.com/2019/09/21/asia/north-korean-defector-funeral-intl-hnk/index.html)
+- [Mulher da RPDC desertou no sul. Ela percebeu que no sul o estado não cobre moradia, tratamento médico, etc. Ela agora quer voltar para a RPDC, de volta para sua família, mas ela não é permitida pelo sul](https://edition.cnn.com/2015/09/23/asia/north-south-korea-defector-family/index.html)
+- [Cidadãos leais a Pyongyang](https://www.youtube.com/watch?v=ktE_3PrJZO0)
+- [Os desertores sofrem com dívidas](https://www.bbc.com/news/blogs-news-from-elsewhere-31904466)
+- [Os desertores querem voltar para a RPDC](https://www.theguardian.com/world/2014/apr/22/defector-wants-to-go-back-north-korea)
+- [“Não me sinto à vontade morando na República da Coreia, pois acredito que o coração das pessoas, e não o dinheiro, deve ser priorizado [...] meu desejo de ir para o Norte não mudará, mesmo que o Sul me dê ouro.”](https://www.nknews.org/2017/09/why-two-north-korean-defectors-want-to-go-back/)
+- [Desertores são tratados como lixo](https://www.nytimes.com/2017/08/05/world/asia/north-korea-defector-south-korea.html)
+- ["Tudo o que eu disse na TV foi planejado... Para fazer os norte-coreanos parecerem bárbaros, ignorantes e estúpidos."](https://www.dw.com/en/north-korea-defector-returns-home-calling-south-capitalist-hell/a-39745918)
+- [Coreia do Sul rejeita pedido de desertores para voltar ao norte](https://www.upi.com/%E2%80%A6/Seoul-rejects-North-Kor%E2%80%A6/7441442934149/)
+- [Desertor da Coreia do Norte orgulhoso de armas nucleares, diz que Kim prefere morrer a desistir](https://www.upi.com/Top_News/World-News/2017/09/08/North-Korea-defector-proud-of-nukes-says-Kim-would-rather-die-than-give-up/9701504547982/)
+- [Desertor da Coreia do Norte para o sul, preso por elogiar Kim Jong-Un](https://www.upi.com/Top_News/World-News/2016/11/03/North-Korea-defector-arrested-for-messages-praising-Kim-Jong-Un/9711478193917/)
+- [Agências de inteligência da Coreia do Sul atraem pessoas do norte para desertar](http://www.koreaherald.com/view.php?ud=20180715000122)
+- [Alguns desertores na RPDC depois de terem sido enganados para irem para a Coreia do Sul](https://www.nknews.org/2013/01/third-group-of-north-korean-refugees-re-defect-back-to-dprk)
+- ["Embora a Coreia do Norte seja mais pobre, me senti mais livre lá. Vizinhos e pessoas se ajudam e dependem umas das outras."](https://www.abc.net.au/news/2017-12-15/north-korean-defectors-returning-to-the-hermit-kingdom/9254654)
+- [Choe in-guk: filho de desertores da Coreia do Sul muda-se para o Norte](https://www.bbc.com/news/world-asia-48905026)
+- ["Eu queria ficar na Coreia do Norte", diz americano](https://www.theguardian.com/world/2014/nov/20/-sp-north-korea-matthew-miller)
+- [Ex-presidente liberal do Brasil, responsável por um dos maiores pacotes de privatização em décadas, diz que o ocidente produz apenas fake news sobre a Coreia Popular](https://twitter.com/Collor/status/1275628169798856705)
+- [Depois de fugir da RPDC, alguns desertores querem voltar](https://www.abc.net.au/news/2017-12-15/north-korean-defectors-returning-to-the-hermit-kingdom/9254654)
+- [Problema oculto do Sul: desertores suicidas](https://www.bbc.com/news/magazine-34710403)
+- [Desertor da Coreia do Norte interrompe evento de direitos humanos da ONU e pede para voltar à RPDC](https://www.telegraph.co.uk/news/2017/12/14/north-korean-defector-interrupts-un-human-rights-event-plead/)
 
 ### Mitos sobre a Coreia do Norte
-- O corte de cabelo
-- Por que os norte-coreanos reverenciam os Kim? Compreender a liderança da Coréia do Norte objetivamente
-- Kim Jong Un é um louco? A CIA diz que ele é a razão perfeita
-- Os desertores da Coreia do Norte para o sul dizem que a grande maioria dos coreanos do norte apóia kim jong un de volta ao norte
-- A RPDC é uma monarquia hereditária? É o contrário de acordo com sua constituição
-- E as pessoas chorando nos funerais de Kim? Razões culturais. Coreia do Sul chorando pela morte de outro presidente
-- Kim jong un tem uma taxa de aprovação de 78% ... Na Coreia do Sul.
-- Kim jong un e RPDC em 2018
-- Desmascarando outros mitos, como o herdeiro de Kim, kim encontrando unicores, pessoas executadas por motivos estúpidos, e.t.c e.t.c
-- Kim jong un executando sua GF, enviando drones para o SK, e kim jong un alimentando cães com pessoas, desmascarado
-- Mitos e equívocos sobre a Coreia do Norte, feitos por desmentido, um relato não socialista
-- Mentiras de Truman a Trump
-- As olimpíadas expuseram todas as mentiras dos EUA na RPDC
-- Violência sexual doméstica na RPDC? Debunk!
-- Crimes contra a humanidade? Endereço, leitura obrigatória!
-- Os ocidentais podem usar a Internet? Sim
-- Provas de que a maioria das mentiras que ouvimos sobre a RPDC são de fato mentiras
-- O expurgo da Coréia do Norte que não aconteceu
-- Wannacry? A DPRK convida os EUA a investigar dentro da DPRK. "Mostre-nos as evidências"
-- Religião na RPDC?
-- Smartphones na RPDC?
-- E quanto ao sistema de castas?
-- Isto é pelo camarada u / crimsonblade911 alguns outros mitos desmascarados
+Há muito o que percorrer quando se trata de nos desprogramar das narrativas da mídia liberal/ocidental. Em que ponto reconhecemos que estamos sendo alimentados por propaganda? Quer seja um governo repressivo em comparação com o Ocidente ou não (não é, pelo que sei), devemos ser capazes de discernir fatos de falsidades sensacionais. Mas não podemos. Porque a mídia divulga artigos de sucesso de forma desonesta. É quase impossível discernir o fato da ficção hoje em dia.
+
+Lista de pessoas na Coreia do Norte que morreram e "voltaram a vida" na Coreia do Norte:
+- Hwang Pyong-so
+- Choi Ryong-hae
+- Ma Won-chun
+- Ri Sol-Ju
+- [Hyon Song-Wol - 2013, 2014](http://english.chosun.com/site/data/html_dir/2013/08/29/2013082901412.html). [2](https://www.theguardian.com/world/2014/may/17/north-korean-singer-rumoured-executed-appears-tv)
+- A banda Moranbong inteira
+- A orquestra Unhasu inteira
+- [Kim Kyong Hui - 2015, 2017](https://edition.cnn.com/2015/05/11/asia/north-korea-kim-aunt-poisoned/index.html). [2](http://m.yna.co.kr/mob2/en/contents_en.jsp?cid=AEN20170831011000315&site=0300000000&mobile)
+- [Ri Yong Gil - fev 2016, mai 2016](https://www.independent.co.uk/news/world/asia/north-korea-kim-jong-un-executes-chief-of-military-on-corruption-charges-a6864571.html). [2](https://www.rt.com/news/342612-north-korea-general-congress/)
+- Kim Jong-Un
+- Kim Il-Sung
+- [Jang Song Taek](https://www.independent.co.uk/news/world/kim-jong-uns-executed-uncle-jang-song-thaek-stripped-naked-fed-to-120-dogs-as-officials-watched-9037109.html). [2](https://www.theguardian.com/world/2014/jan/06/story-kim-jong-un-uncle-fed-dogs-made-up) (apesar dele ter sido baleado, circulou diversos mitos de morte alternativa pelo Ocidente)
+- [Ri Su Yong - 2013](https://www.lavanguardia.com/internacional/20131211/54396050491/corea-del-norte-fusila-al-extesorero-de-kim-jong-il.html)
+
+Se você quiser saber como realmente é morar na RPDC, veja [esta série de 34 vídeos](https://www.youtube.com/playlist?list=PLegd4KP36a0Y775Xl_HI_tvDKB6qoxPrx) feita por estudantes.
+
+O fato é que Kim Jong-Un, seu pai e seu avô não ocupam e não ocuparam os mais altos cargos de poder no governo. O chefe de estado de fato na RPDC é atualmente Choe Ryong Hae, que foi nomeado Presidente do Presidium da Assembleia Popular Suprema da Coreia do Norte, em 11 de abril de 2019, substituindo Kim Yong Nam, que ocupava o cargo desde que foi criado em 1998. A posição atual de Kim Jong-Un é a presidência da comissão de assuntos do estado, tornando-o o líder supremo do país de acordo com a constituição, já que ele ocupou anteriormente o cargo de Presidente da Comissão de Defesa Nacional, que foi alterado em 2016 para refletir melhor a situação em questão com uma melhor organização. Kim Il-Sung ocupou os cargos de primeiro-ministro e presidente do Presidium por um longo tempo, embora tenha se aposentado deste último em 1983, sendo sucedido por Yang Hyong-Sop; isso não é surpreendente, já que Kim Il-Sung era um líder incrivelmente competente e respeitado, especialmente entre seu próprio povo. O fato é que as posições influentes tornaram-se mais descentralizadas a cada geração, à medida que o poder do Estado se torna mais distribuído entre o proletariado e de acordo com a sociedade, de uma forma bastante natural que pode, esperançosamente, levar a um declínio completo do estado no futuro, como outros aspectos, também, declinar, assumindo uma derrota dos poderes capitalistas simultaneamente com a existência da RPDC.
+
+Supostamente, Kim Il-Sung sugeriu que Kim Jong-Il o sucedesse, porque Jong-Il foi instilado com uma ideologia revolucionária por toda a sua vida. Diz-se que o resto do partido e do povo concordaram com isso - por meio de suas discussões usuais, pode-se supor - e assim, Kim Jong-Il sucedeu seu pai em alguns cargos, enquanto outros foram removidos, divididos e redistribuídos, ou transferido. É por isso que não há mais um Presidente da Coreia do Norte: O cargo não era mais necessário, e poderes equivalentes deveriam ser divididos em múltiplas funções.
+
+A decisão de quem é eleito não é feita com a cédula. A votação é feita por meio de discussões abertas antes da votação, comparáveis ​​ao projeto soviético, que também podia ser visto na Líbia em algum grau (antes de ser destruída pelos EUA e colaboracionistas imperialistas). Depois de alcançado um consenso comum ao longo destes períodos de discussão, o voto é lançado como uma confirmação desta seleção, daí a falta de votos negativos para os candidatos; o centralismo democrático requer unidade, afinal.
+
+Recentemente, este assunto sobre o caso Otto Warmbier voltou à tona, após a notícia de que [um juiz ordenou que a RPDC pagasse à família Warmbier 500 milhões de dólares](https://www.washingtonpost.com/education/2018/12/24/judge-orders-north-korea-pay-more-than-million-damages-otto-warmbiers-death/) por homicídio culposo. A RPDC não vai pagar nada ao Warmbier. O dinheiro viria de [um fundo especial que os EUA geram de países que designam como patrocinadores do terror](https://www.nytimes.com/2018/04/26/us/politics/otto-warmbier-lawsuit-north-korea.html).
+
+Otto fez uma viagem para a RPDC [com outras 10 pessoas](https://www.nytimes.com/2016/01/23/world/asia/north-korea-american-arrested.html), enquanto se hospedava no famoso [Yanggakdo International Hotel](https://en.wikipedia.org/wiki/Yanggakdo_International_Hotel), Otto tentou roubar um pôster que [invocava o povo da RPDC a "se armarem com um socialismo forte."](https://www.independent.co.uk/news/world/asia/north-korea-video-apparently-shows-us-student-otto-warmbier-taking-propaganda-banner-a6938091.html) Claro, isso não foi tudo o que ele fez, [ele também invadiu zonas não-civis](https://www.independent.co.uk/news/world/asia/north-korea-video-apparently-shows-us-student-otto-warmbier-taking-propaganda-banner-a6938091.html), particularmente o 5º andar, fora dos limites para todos, exceto para tarefas domésticas. Obviamente, por causa de sua nacionalidade, de suas travessuras obscuras e da natureza do conflito entre os EUA e a RPDC, a RPDC reagiu como deveria. Agora, de acordo com o que nos foi ensinado na mídia capitalista, deveria haver guardas armados arrastando um Otto chorando para os campos de trabalho.
+
+De acordo com um cara que testemunhou a prisão, ["Dois guardas simplesmente se aproximaram e simplesmente deram um tapinha no ombro de Otto e o levaram embora"](https://www.washingtonpost.com/gdpr-consent/?destination=%2fnews%2fjosh-rogin%2fwp%2f2017%2f06%2f15%2fotto-warmbiers-north-korea-roommate-speaks-out%3f&utm_term=.a76cfd7ea107). Todos os outros deixaram o país com segurança e solidez. Durante a preparação para a reportagem dos eventos, a mídia ocidental fez um foco contínuo em um slogan aleatório que a empresa de turismo havia usado; "Esta é a viagem que seus pais não querem que você faça!" Usado em fontes como o [Telegraph](https://www.telegraph.co.uk/news/2017/06/15/otto-warmbiers-father-accuses-chinese-tour-company-luring-young/), [PBS](https://www.youtube.com/watch?v=pp5qQVoPsOE), [WAPO](https://www.washingtonpost.com/news/grade-point/wp/2016/01/22/what-we-know-about-student-travel-in-north-korea-and-young-pioneer-tours/) e [The Blaze](https://www.theblaze.com/video/gq-chronicles-the-unbelievable-true-story-of-otto-warmbiers-rescue-the-details-are-shocking). Esse foco interessante em uma frase tão alarmante é uma indicação óbvia de como a mídia queria retratar a Coreia do Norte, usando a descrição óbvia de captura de uma entidade não alinhada como uma avaliação sistemática da situação.
+
+Numa [conferência de imprensa](https://www.youtube.com/watch?v=eiVLUPLcILU), Warmbier leu uma declaração preparada, admitindo o que tinha feito e pedindo perdão à RPDC. De acordo com várias fontes, a declaração foi coagida e forçada a Warmbier, como parecia ser lida, e continha detalhes duvidosos, como o envolvimento da Igreja Metodista da Amizade em Wyoming e a sociedade Z da Universidade de Maryland. Mas principalmente porque outras pessoas que foram presas na RPDC fizeram confissões em vídeo e depois se retrataram depois de deixar o país. WaPo fala sobre [alguns deles](https://www.washingtonpost.com/gdpr-consent/?destination=%2fnews%2fworldviews%2fwp%2f2016%2f02%2f29%2fnorth-koreas-recipe-for-bargaining-detained-westerner-script-tv-cameras%2f%3fnoredirect%3don%26utm_term%3d.909403e7d761&noredirect=on&utm_term=.b686952e1173). O problema com isso são as histórias apresentadas no artigo. Isso inclui John Short, no qual o artigo não dá a mínima para ser forçado, já que "investigações exaustivas" não indicam coerção.
+
+Hyeon Soo Lim, cuja evidência [é apresentada por um homem que não estava lá](https://pbs.twimg.com/media/DvQpOxRXgAECeXX.jpg).
+
+Outro prisioneiro americano que os norte-coreanos aparentemente forçaram a ler uma declaração de confissão foi [Merril Newman](https://www.theguardian.com/world/2013/nov/30/merrill-newman-north-korea-american-confessed). O artigo do WaPo mostra que ele estava sendo forçado a se manifestar e como estava tentando transmitir ao mundo que estava sendo forçado.
+
+O interessante sobre o Sr. Newman é sua história. Newman disse que serviu durante a Guerra da Coréia como conselheiro militar da "unidade Kuwol do 6º Regimento Partidário da Coreia do Norte" e pediu aos guias turísticos do governo que o ajudassem a contatar membros sobreviventes da Associação de Camaradas em Armas Partisan Kuwol... Que é/era um grupo anticomunista ativo na RPDC. Uma ilustração completa desses detalhes interessantes pode ser lida [aqui](https://www.mercurynews.com/2013/11/30/new-details-emerge-in-baffling-case-of-palo-altos-merrill-newman-north-korean-prisoner-of-war/).
+
+Na verdade, esse artigo é muito interessante e cheio de recursos para decifrar o indivíduo que Merrill Newman é:
+>Newman ostensivamente aceita a responsabilidade de ajudar um grupo guerrilheiro chamado Kuwol Partisan Regiment - que estava sob o comando da 8240ª Unidade do Exército dos Estados Unidos - atacar e matar soldados norte-coreanos enquanto a guerra civil grassava por toda a península. Mas ele não menciona o nome do grupo.
+>
+>“Como eu matei tantos civis e soldados do KPA (Exército do Povo Coreano) e destruí objetos estratégicos na RPDC (República Democrática do Povo da Coreia) durante a Guerra da Coréia”, disse Newman no vídeo, lendo em voz alta uma declaração escrita à mão: “Eu cometi atos ofensivos indeléveis contra o governo da RPDC e o povo coreano.”
+
+Um artigo da [Reuters](https://www.reuters.com/article/korea-north-partisans/unforgotten-fighter-of-korean-war-u-s-pensioner-a-pow-at-85-idUSL4N0JF03Z20131130) dá uma visão mais aprofundada do Regimento Kuwol. Claro, por causa da fonte e do assunto que está sendo discutido, o Regimento Kuwol é celebrizado.
+>O Regimento Kuwol era apenas um dos muitos grupos de guerrilheiros anticomunistas que estavam sob o comando da 8240ª Unidade do Exército dos EUA, apelidados de "Tigres Brancos".
+>
+>Os Tigres Brancos coordenaram algumas das missões mais ousadas da Guerra da Coréia, incorporando agentes secretos nas profundezas do território inimigo - às vezes por meses - espionando e interrompendo as operações de guerra da Coréia do Norte, de acordo com histórias documentadas do regimento.
+>
+>A unidade, cuja existência foi classificada até o início de 1990, foi a antecessora das forças especiais dos EUA. Os membros dos Tigres Brancos foram escolhidos a dedo no Exército dos EUA e não foram informados sobre sua missão até chegarem a Seul.
+>
+>Kim Hyeon, um membro do Regimento Kuwol que manteve contato com Newman e visitou sua família na Califórnia em 2004, estava em um barco no interior do território norte-coreano em uma tarde de verão de 1953, poucas semanas antes de um cessar-fogo ser acordado . “À 1 hora de 15 de julho, os guerrilheiros usaram um barco operacional para chegar a 50 metros da costa norte-coreana sob as instruções do tenente Newman”, diz um livro sobre a unidade editado por Kim.
+>
+>Kim trocou cartas e e-mails com Newman, e eles se tornaram amigos íntimos. Mas se ele fosse Newman, disse ele, não teria voltado para a Coreia do Norte.
+>
+>“Aos olhos dos norte-coreanos, ele teria sido literalmente um espião envolvido em algum tipo de atividade de espionagem... Eu não iria lá (se fosse ele)”, disse Kim, agora com 86 anos, à Reuters.
+>
+>“Nossos membros estavam trabalhando, lutando e se engajando na espionagem ao lado de Newman porque ele era um conselheiro”, disse ele.
+
+Nesse ponto, a questão desta história fica clara e o artigo do Mercury realmente pergunta o seguinte:
+>“Esses bastardos já conheciam Newman antes do fim da guerra”, disse à Reuters Kim Chang-sun, que ainda estava na escola em 1953 quando se juntou ao regimento de guerrilha que Newman ajudou a treinar. “Eles obtiveram a lista de todo o nosso regimento.”
+>
+>As novas informações sobre o histórico de Newman durante a guerra levantam uma grande questão: **por que o avô de Palo Alto faria uma viagem tão arriscada para a Coreia do Norte, presumindo que as autoridades sabiam tudo sobre o passado de Newman?**
+>
+>Ainda mais intrigante no vídeo foi a alegada admissão de Newman durante esta viagem mais recente de que ele "tinha um plano para encontrar todos os soldados sobreviventes e orar pelas almas dos soldados mortos. Seguindo o itinerário, pedi ao meu guia que me ajudasse a procurar os soldados sobreviventes e suas famílias e descendentes, porque era muito difícil para mim fazer sozinho.”
+
+Em qualquer caso, tudo isso é curioso quando você lê a declaração emitida "em nome da família Warmbier". É interessante que eles falem sobre o "tratamento horrível e tortuoso que recebeu nas mãos dos norte-coreanos". É interessante porque mais tarde eles [recusaram a realização de uma autópsia nele](https://www.smh.com.au/world/otto-warmbiers-family-declines-autopsy-for-us-student-released-by-north-korea-20170621-gwv77z.html).
+
+A realidade é que [os legistas confirmaram que Warmbier não tinha nenhum sinal de tortura sobre ele](https://www.theguardian.com/world/2017/sep/28/otto-warmbier-torture-north-korea-coroner?utm_term=Autofeed&CMP=twt_b-gdnnews#link_time=1506561413). Essa realidade de que Warmbier não foi realmente torturado está em conflito com o que a família Warmbier descreve. A única coisa que ninguém rejeita é que Otto Warmbier entrou na RPDC com seu cérebro totalmente intacto e saiu com uma grande parte de seu cérebro danificado ou morto, devido à falta de oxigênio.
+
+A RPDC disse [que ele tinha botulismo e isso, em coesão com as pílulas para dormir que eles supostamente haviam tomado, é o que o levou a ter uma parada pulmonar](https://www.nbcnews.com/health/health-news/what-killed-otto-warmbier-maybe-infection-or-blood-clot-n774421), o que significa que havia pouco ou nenhum oxigênio indo para seu cérebro, causando a morte do tecido cerebral. Os médicos nos EUA disseram que descartaram o botulismo.
+
+No entanto, outros disseram que [devido ao tempo envolvido, o botulismo não pode ser descartado](https://www.washingtonpost.com/gdpr-consent/?destination=%2fnews%2fgrade-point%2fwp%2f2017%2f06%2f20%2fwhat-happened-to-otto-warmbier-when-the-unthinkable-is-unknowable%2f%3f&utm_term=.7b4c9a15f3e2)
+
+Trump, por sua vez, continuou com o discurso de que Warmbier foi "torturado além da conta".
+
+Acho que é hora de apresentar um exemplo da vida real de como os Estados Unidos tratam os prisioneiros.
+>[Sandra Bland](https://anti-imperialism.org/2017/06/26/on-the-death-of-otto-warmbier/) tinha 28 anos quando foi presa por uma infração de trânsito, arrancada de seu carro e levada à força sob custódia, mais tarde encontrada morta em sua cela - um “aparente suicídio”, disseram as autoridades. Para os incautos, este caso pode parecer não relacionado, no entanto, com a morte de Sandra Bland não houve nenhum grande clamor (além de círculos progressistas), e a mídia se curvou para apresentar a narrativa policial de suicídio. A única violação observada foi uma violação não criminal da “política de cortesia” durante sua prisão. Nenhuma acusação foi feita, nenhum policial foi preso. Inconsistências no relatório policial foram reconhecidas quase imediatamente, à medida que a raiva justificada começou a se formar em comunidades negras que já tinham visto tantos assassinatos policiais. No entanto, a mídia hesitou em, a qualquer momento, implicar a polícia em sua morte ou chamá-la de assassinato.
+
+Para concluir, deixarei [os insights](https://www.scmp.com/magazines/post-magazine/long-reads/article/2169308/otto-warmbier-what-happened-north-korean-jail-led) do homem que foi à RPDC para verificar Otto enquanto ele estava no hospital.
+>Os norte-coreanos pediram a Flueckiger que assinasse um relatório atestando que Otto fora bem cuidado no hospital. “Eu estaria disposto a falsificar esse relatório se achasse que Otto seria liberado”, disse Flueckiger. “Mas, como se viu,” apesar das instalações mais básicas (a pia do quarto nem funcionava), “ele foi bem cuidado e eu não precisei mentir”.
+>
+>Otto estava bem nutrido e não tinha escaras, algo que até mesmo hospitais ocidentais lutam para conseguir com pacientes em coma.
+
+Há mais algumas mentiras:
+- [O corte de cabelo](https://www.youtube.com/watch?v=2BO83Ig-E8E)
+- [Por que os norte-coreanos reverenciam os Kim? Compreendendo a liderança da Coréia do Norte objetivamente](https://www.visitthedprk.org/north-koreans-revere-kims-understanding-north-korean-leadership-objectively/)
+- [Kim Jong Un é um louco? A CIA diz que ele tem racionalidade perfeita](https://www.businessinsider.com/cia-kim-jong-un-rational-actor-north-korea-2017-10)
+- [Os desertores da Coreia do Norte para o sul dizem que a grande maioria dos coreanos do norte apóia Kim Jong-Un](https://www.npr.org/sections/thetwo-way/2013/08/30/217186480/defectors-think-most-north-koreans-approve-of-kim-jong-un?t=1562800559287)
+- [A RPDC é uma monarquia hereditária? É o contrário de acordo com sua constituição](https://www.kfausa.org/dprk-constitution/)
+- [E as pessoas chorando nos funerais de Kim? Razões culturais: Coreia do Sul chorando pela morte de outro presidente](https://www.tumblr.com/privacy/consent?redirect=http%3A%2F%2Ftw-koreanhistory.tumblr.com%2Fpost%2F141712894894%2Fsouth-koreans-mourn-the-death-of-president-roh)
+- [Kim Jong-Un tem uma taxa de aprovação de 78%... Na Coreia do Sul](https://time.com/5262898/kim-jong-un-approval-rating/)
+- [Kim Jong-Un e RPDC em 2018](https://leftistcritic.wordpress.com/2018/01/20/kim-jong-un-juche-oriented-socialism-and-the-dprk-in-2018/)
+- [Desmascarando outros mitos, como o herdeiro de Kim, Kim encontrando unicórnios, pessoas executadas por motivos estúpidos, etc](https://anti-imperialism.org/2014/08/14/western-dprk-propaganda-the-worst-occasionally-hilarious-and-often-racist-lies/)
+- [Kim Jong-Un executando sua namorada, enviando drones para a Coreia do Sul, e Kim Jong-Un alimentando cães com pessoas, desmascarado](https://redyouthuk.wordpress.com/2014/08/01/dprk-propaganda-war-a-cavalcade-of-comedy/)
+- [Mitos e equívocos sobre a Coreia do Norte, feitos por Debunked, um relato não socialista](https://www.youtube.com/watch?v=OhaHiht50AA&feature=youtu.be)
+- [Mentiras de Truman a Trump](https://prolefoods.wordpress.com/2017/12/12/the-hypocrisy-of-western-aggression-against-korea-from-truman-to-trump/)
+- [As olimpíadas expuseram todas as mentiras dos EUA na RPDC](https://www.eurasiafuture.com/2018/01/21/olympics-exposed-every-us-lie-north-korea/)
+- [Violência sexual doméstica na RPDC? Desmentido!](https://twitter.com/korcounterprop/status/1058043009839710208?fbclid=IwAR2IS8Zt9nH7O3WtEaRvBGkIqIookuKLqfx26A6_8wzzU96BBp09X_gUQSs)
+- [Crimes contra a humanidade?](https://www.tandfonline.com/doi/full/10.1080/14672715.2014.863581)
+- [Os ocidentais podem usar a internet? Sim](https://www.tandfonline.com/doi/full/10.1080/14672715.2014.863581)
+- [Provas de que a maioria das mentiras que ouvimos sobre a RPDC são de fato mentiras](https://rhizzone.net/articles/songbullshit/)
+- [O expurgo da Coréia do Norte que não aconteceu](https://blogs.wsj.com/korearealtime/2014/03/07/the-north-korean-purge-that-didnt-happen/?mod=WSJBlog&fref=gc)
+- [Wannacry? A RPDC convida os EUA a investigar dentro da RPDC: "Mostre-nos as evidências"](https://www.rt.com/usa/414241-north-korean-wannacry-attack/)
+- [Religião na RPDC?](https://stalinsmoustache.org/2015/06/16/religion-in-the-democratic-peoples-republic-of-korea/)
+- [Smartphones na RPDC?](https://www.digitaltrends.com/mobile/north-korean-smartphone-jindallae-3/)
+- [E quanto ao sistema de castas?](https://www.digitaltrends.com/mobile/north-korean-smartphone-jindallae-3/)
 
 ### Imperialismo contra a RPDC
-- A maioria das coisas que você ouve sobre a Coreia do Norte são absurdos racistas
-- O armamento dos direitos humanos como meio dos imperialistas para minar a RPDC
-- Por que o oeste quer o partido dos trabalhadores da Coréia fora? Minerais de terras raras em uma das respostas
-Como a cia e a mídia ocidental enganaram o mundo fazendo-o pensar que a Coreia do Norte é uma ditadura
-Como a NASA manipula imagens de satélite para apresentar uma visão do tipo "a Coreia do Norte está caindo aos pedaços"
-O oeste sancionou a RPDC porque exerceu seu direito à inovação tecnológica; Lançando um satélite no espaço.
-Censura no Youtube e exclusão de canais pro-dprk. Tanto para a liberdade de expressão ocidental.
-Por que o discurso do privilégio predomina: Caso na RPDC
-acadêmicos ocidentais reclamaram deste evento, afirmando que esses canais davam uma visão que você não podia ver na mídia ocidental, ajudando-os a formar opiniões
-
-Exército da Coreia do Sul matou pessoa nadando de volta para a RPDC
-
-Realidade e hipocrisia: testes nucleares da RPDC condenados pelas potências nucleares
-Coreia do Norte e máquina de propaganda da ONU
-Campanhas imperialistas de direitos humanos. Quem eles estão enganando?
-O tom perigoso da mídia dos EUA em relação à RPDC
-Espiões missionários cristãos enviados para a RPDC pelos EUA.
-O racista, a desumanização da Coreia do Norte
-Na RPDC: isolada, endemoninhada e desumanizada pelo oeste
-Alek Singley: Um agente imperialista
-Darwin, um bastião imperialista dos EUA na Austrália
-Líderes de Botswana, nada mais que fantoches imperialistas trabalhando para minar o socialismo
-Israel pede uma resposta rápida contra a RPDC. Mais uma vez, sua natureza imperialista é mostrada
-Segundo Israel, o eixo do mal é o Irã-Síria-RPDC. Segundo eles, são a pior ameaça para o mundo. Por isso apenas, todos nós devemos apoiar estes três estados incondicionalmente
-Compreendendo e defendendo a RPDC
-RPDC punido por ajudar a libertar a África
-Agressão imperialista americana descarada
-Genocídio por sanções: duplo padrão da ONU
-A verdadeira razão pela qual os EUA estão preocupados com o teste ICBM da Coréia
-EUA proíbem a entrada de ativistas anti-guerra da Coréia do Sul
-A cumplicidade da mídia aumenta a possibilidade de uma nova guerra coreana
-Impulso do imperialismo para a guerra na Coréia
-US degenarate velho bastardo ameaça RPDC com extinção
-Qual é a presença militar dos EUA perto da RPDC?
-Tillerson fala de esforços preventivos na RPDC
-Agressão dos EUA após governo do parque
-Música perigosa da Coreia do Sul
-300.000 tropas sob o comando do pentágono prontas para atacar dprk
-Como os coreanos são tratados no Japão?
-O plano do Sul para assassinar Kim jong un
-"Coreia do Norte deve ser destruída"
-Pentágono: invasão terrestre para destruir o programa nuclear da RPDC
-Melhor um milhão de mortos na Coreia do Norte, ex-oficial do exército dos EUA, disse ... Você pode entender agora, que o exército dos EUA nada mais é do que alguns assassinos pagos com aprovação
-Kim jong un Unidade de decapitação do exército da Coreia do Sul
-A entrevista 'em perspectiva histórica: guerra sem fim contra a Coreia do Norte
-Crise coreana: 1994 até o presente
-Uma das razões pelas quais a CIA visa a RPDC é o ópio
-Vigilância pelos direitos humanos, uma ferramenta imperialista parte 2 {Parte 2}
-O relatório da ONU pode ser sobre os EUA ou ROK
-Relatório da ONU, ferramenta de propaganda
-Otto Warmbier foi torturado?
-Isto é do camarada u / Prettygame4Ausername O caso otto warmbier
-A imagem dos EUA da RPDC não é realidade
+- [A maioria das coisas que você ouve sobre a Coreia do Norte são absurdos racistas](https://medium.com/defiant/a-lot-of-what-you-know-about-north-korea-is-racist-nonsense-a625256b51cc)
+- [O armamento dos direitos humanos como meio dos imperialistas para minar a RPDC](https://apjjf.org/2014/12/13/Christine-Hong/4100/article.html)
+- [Por que o Ocidente quer o partido dos trabalhadores da Coréia fora? Minerais raros em uma das respostas](https://www.mining.com/largest-known-rare-earth-deposit-discovered-in-north-korea-86139/)
+- [Como a CIA e a mídia ocidental enganaram o mundo fazendo-o pensar que a Coreia do Norte é uma ditadura](https://seeyouin2020.blogspot.com/2019/03/how-cia-and-western-media-deceive-world.html)
+- [Como a NASA manipula imagens de satélite para apresentar uma visão do tipo "A Coreia do Norte está caindo aos pedaços"](https://www.youtube.com/watch?v=L0efzIL2MaI)
+- [O Ocidente sancionou a RPDC porque exerceu seu direito à inovação tecnológica; Lançando um satélite no espaço](https://www.workers.org/2016/02/09/in-defense-of-north-korea/)
+- [Censura no Youtube e exclusão de canais pro-rpdc](https://www.38north.org/2017/09/mwilliams092217/)
+- [Acadêmicos ocidentais reclamaram deste evento, afirmando que esses canais davam uma visão que você não podia ver na mídia ocidental, ajudando-os a formar opiniões](https://www.theguardian.com/world/2017/sep/08/youtube-north-korea-propaganda-terminated)
+- [Por que o discurso do privilégio predomina: Caso na RPDC](https://doloresvek.wordpress.com/2016/03/29/why-privilege-discourse-predominates/)
+- [Exército da Coreia do Sul matou pessoa nadando de volta para a RPDC](https://edition.cnn.com/2013/09/16/world/asia/south-korea-border-shooting/index.html)
+- [Realidade e hipocrisia: testes nucleares da RPDC condenados pelas potências nucleares](https://journal-neo.org/2016/01/19/reality-and-hypocrisy-dprk-nuclear-test-condemned-by-nuclear-powers/)
+- [Coreia do Norte e máquina de propaganda da ONU](https://journal-neo.org/2014/11/30/north-korea-the-un-and-war-propaganda-2/)
+- [Campanhas imperialistas de direitos humanos. Quem eles estão enganando?](https://www.youtube.com/watch?v=A0p6EH5TEOU)
+- [O tom perigoso da mídia dos EUA em relação à RPDC](https://journal-neo.org/2016/05/03/let-s-talk-about-korea-the-dangerous-tone-of-us-media/)
+- [Espiões missionários cristãos enviados para a RPDC pelos EUA](https://www.theamericanconservative.com/articles/the-pentagons-unholy-alliance-with-missionaries/)
+- [A racista desumanização da Coreia do Norte](https://mronline.org/2014/12/27/pettersson271214-html-2/)
+- [Sobre a RPDC: isolada, endemonizada e desumanizada pelo Ocidente](https://dissidentvoice.org/2016/03/dprk-isolated-demonized-and-dehumanized-by-the-west/)
+- [Alek Sigley: Um agente imperialista](https://edition.cnn.com/2019/07/06/asia/alek-sigley-north-korea-australia-intl/index.html)
+- [Darwin, um bastião imperialista dos EUA na Austrália](https://www.ntnews.com.au/business/work/north-korean-threats-show-kim-jongun-is-under-pressure-ambassador-says/news-story/fd85d8ea0dd13a36ec7be483cbc861f4)
+- [Líderes de Botswana, nada mais que fantoches imperialistas trabalhando para minar o socialismo](https://translate.google.com/translate?sl=auto&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fwww.yonhapnews.co.kr%2Fbulletin%2F2015%2F10%2F23%2F0200000000AKR20151023161000043.HTML&edit-text=&act=url)
+- [Israel pede uma resposta rápida contra a RPDC. Mais uma vez, sua natureza imperialista é mostrada](https://www.haaretz.com/1.5056551)
+- [Segundo Israel, o eixo do mal é o Irã-Síria-RPDC. Segundo eles, são a pior ameaça para o mundo. Por isso apenas, todos nós devemos apoiar estes três estados incondicionalmente](https://www.huffpost.com/?err_code=404&err_url=http%3A%2F%2Fwww.huffingtonpost.com%2F2010%2F05%2F12%2Fisrael-minister-iran-syri_n_572960.html)
+- [Compreendendo e defendendo a RPDC](https://www.invent-the-future.org/2013/11/understanding-north-korea/)
+- [RPDC punida por ajudar a libertar a África](https://journal-neo.org/2016/03/18/north-korea-punished-for-helping-to-liberate-africa/)
+- [Agressão imperialista americana descarada](https://stalinsmoustache.org/2015/06/15/brazen-american-imperialist-aggressors-seeing-the-world-from-the-dprk/)
+- [Genocídio por sanções: duplo padrão da ONU](https://www.globalresearch.ca/north-korea-un-double-standards-pertaining-to-sanctions-and-their-devastating-social-impacts/5364484)
+- [A verdadeira razão pela qual os EUA estão preocupados com o teste ICBM da Coréia](https://gowans.blog/2017/07/05/the-real-reason-washington-is-worried-about-north-koreas-icbm-test/)
+- [EUA proíbem a entrada de ativistas anti-guerra da Coréia do Sul](https://www.globalresearch.ca/u-s-bans-entry-of-south-korean-activists-opposed-to-trumps-war-on-north-korea/5615538)
+- [A cumplicidade da mídia aumenta a possibilidade de uma nova guerra coreana](https://mronline.org/2017/12/05/media-complicity-increases-the-possibility-of-a-new-korean-war/)
+- [Impulso do imperialismo para a guerra na Coréia](https://redyouth.org/2017/04/21/imperialisms-drive-to-war-in-korea/)
+- [Antigos bastardos degenerados dos EUA ameaçam a RPDC com extinção](https://www.mintpressnews.com/john-mccain-threatens-north-korea-with-extinction/231943/)
+- [Qual é a presença militar dos EUA perto da RPDC?](https://www.theguardian.com/us-news/2017/aug/09/what-is-the-us-militarys-presence-in-south-east-asia)
+- [Tillerson fala de esforços preventivos na RPDC](https://www.mintpressnews.com/tillerson-talks-of-pre-emptive-stikes-on-nkorea-citing-weapons-of-mass-destruction/226009/)
+- [Agressão dos EUA após governo de Park](https://www.liberationnews.org/u-s-aggression-heightens-tensions-in-korea-as-park-government-overthrown/)
+- [Sintonia perigosa da Coreia do Sul](https://anti-imperialism.org/2015/09/02/when-the-piper-pays-you-following-the-dangerous-tune-of-the-south-korean-regime/)
+- [300.000 tropas sob o comando do pentágono prontas para atacar a RPDC](https://gowans.blog/2017/03/13/pentagon-leads-over-300000-troops-in-a-rehearsal-for-an-invasion-one-week-after-the-white-house-announces-its-considering-military-action-against-north-korea/)
+- [Como os coreanos são tratados no Japão?](https://www.rt.com/news/434777-north-koreans-japan-diaspora/)
+- [O plano do Sul para assassinar Kim Jong-Un](https://edition.cnn.com/2016/09/23/asia/south-korea-plan-to-assassinate-kim-jong-un/)
+- ["Coreia do Norte deve ser destruída"](https://www.youtube.com/watch?v=_7g_8mxaLvQ)
+- [Pentágono: invasão terrestre para destruir o programa nuclear da RPDC](https://www.theguardian.com/world/2017/nov/05/pentagon-ground-invasion-north-korean-nuclear-program)
+- [Melhor um milhão de mortos na Coreia do Norte, ex-oficial do exército dos EUA, disse... Você pode entender agora, que o exército dos EUA nada mais é do que alguns assassinos pagos com aprovação](https://www.telesurtv.net/english/news/Better-a-Million-Dead-North-Koreans-Ex-US-Army-Official-20170905-0019.html)
+- [Kim Jong-Un: Unidade de decapitação do exército da Coreia do Sul](https://www.rt.com/news/411802-south-korea-decapitation-unit/)
+- [Perspectiva histórica: guerra sem fim contra a Coreia do Norte](https://www.liberationnews.org/the-interview-in-historical-perspective-the-endless-war-against-north-korea/)
+- [Crise coreana: 1994 até o presente](https://liberationschool.org/06-10-20-korea-crisis-from-1994-until-to-html/)
+- [Uma das razões pelas quais a CIA visa a RPDC é o ópio](https://www.mintpressnews.com/north-korea-major-opium-producer-making-prime-target-cia/227573/)
+- [Vigilância pelos direitos humanos, uma ferramenta imperialista](https://www.spreaker.com/user/radiosputnik/human-rights-watch-report-an-attempt-to-). [2](https://www.spreaker.com/user/radiosputnik/what-s-the-truth-behind-new-human-rights)
+- [O relatório da ONU poderia ter sido sobre os EUA ou Coreia do Sul](https://gowans.blog/2014/02/18/un-report-on-north-korea-could-be-about-the-united-states-or-south-korea/)
+- [Relatório da ONU, ferramenta de propaganda](https://redyouth.org/2014/02/19/un-report-attack-on-socialist-korea-china/)
+- [Otto Warmbier foi torturado?](https://www.bbc.com/news/world-asia-41423729)
+- [A imagem dos EUA da RPDC não é realidade](https://www.facebook.com/RTAmerica/videos/10154387760731366/)
+- [A destruição e reconstrução da RPDC após a guerra americana. Mais bombas foram lançadas na Coreia do que em toda a Guerra do Pacífico. Pelo menos 10% da população dprk morreu. Crimes de guerra foram cometidos](https://apjjf.org/-Charles-K.-Armstrong/3460/article.html)
+- [O genocídio secreto na Coreia do Sul que provavelmente você nunca ouviu falar](https://medium.com/@xplk/the-50-s-in-south-korea-what-happened-60f629ac3272)
+- [Relatório: os EUA largou pulgas infestadas com peste na Coréia do Norte em 1952](https://jeff-kaye.medium.com/report-u-s-dropped-plague-infected-fleas-on-north-korea-in-march-1952-66b853f05ada)
+- [Guerra biológica na Coréia e na China](https://www.documentcloud.org/documents/4334133-ISC-Full-Report-Pub-Copy.html)
+- [Comandante supremo aliado americano durante os anos 50, admite que os crimes americanos na Coréia não são diferentes dos cometidos pelos nazistas](https://medium.com/@jeff_kaye/korean-war-commanding-general-admits-he-engaged-in-nazi-like-war-crimes-6dffcb71feb3)
+- [Bombardeio detalhado da Coreia do Norte de 1950-1953](https://www.sourcewatch.org/index.php/Bombing_of_North_Korea_1950-1953)
+- [Crimes de guerra na Coreia: Culpado da acusação. Crimes da coalizão dos EUA contra a humanidade na guerra da Coréia](https://viableopposition.blogspot.com/2018/06/war-crimes-in-korea-guilty-as-charged.html)
+- [Os imperialistas dos EUA começaram a guerra da Coréia](http://www.bannedthought.net/Korea-DPRK/KoreanWar/TheUS-ImperialistsStartedTheKoreanWar-1993.pdf)
+- [Guerra da Coreia: a primeira derrota dos EUA no século 20](http://www.bannedthought.net/Korea-DPRK/KoreanWar/KoreanWar-1950-1953-FirstDefeatOfUS-in20thCentury-2016.pdf)
+- [Crimes de guerra no Japão: passado e presente](http://www.bannedthought.net/Korea-DPRK/ForeignAffairs/Japan'sWarCrimes-PastAndPresent-1999.pdf)
+- [Os fantoches instalados no sul pelo Ocidente](https://www.nytimes.com/2005/01/05/world/asia/koreas-tricky-task-digging-up-past-treachery.html?mtrref=undefined&gwh=A4C027705854D01B4CD1147368F9709B&gwt=pay)
+- [O registro histórico dos EUA foi de crimes na Coreia](https://www.globalresearch.ca/americas-war-against-the-people-of-korea-the-historical-record-of-us-war-crimes/5350591)
+- [A grande decepção](https://journal-neo.org/2017/03/13/north-korea-the-grand-deception-revealed/)
+- [Quase 30% da população assassinada por bombardeios dos EUA](https://www.globalresearch.ca/know-the-facts-north-korea-lost-close-to-30-of-its-population-as-a-result-of-us-bombings-in-the-1950s/22131)
+- [Investigação de crimes de guerra na Coreia do Norte, além das palavras ridículas](https://gowans.blog/2010/12/07/war-crimes-investigation-of-north-korea-ludicrous-beyond-words/)
+- [A RPDC ainda escavando bombas dos EUA, 64 anos depois](https://globalnews.ca/news/3620192/north-korea-digging-up-bombs/)
+- [Guerra biológica dos EUA durante a Guerra da Coreia exposta por expert](https://www.telesurenglish.net/opinion/Expert-Exposes-US-Biological-Warfare-During-Korean-War-20171005-0006.html)
+- [Massacre da ilha de Jesu](https://www.koreatimes.co.kr/www/nation/2018/03/281_246214.html)
+Tópico de Ian Goodrom
+A invasão da Coreia do Norte
+A opinião de FinnBol sobre a invasão coreana
+Arquivos soviéticos sobre a invasão coreana
+Por que eles nos odeiam?
+Uma interpretação soviética da guerra da Coréia
+Como a guerra parecia?
+Os americanos esqueceram o que fizeram na Coréia
+EUA mentiram sobre guerra biológica e química na RPDC
+Sem massacre de armas de fogo
+suprime relatório de ataque de antraz em 1952
+Coreia do Sul: passado brutal
+Guerra bacteriana na Coréia
+Guerra com a RPDC: Propaganda vs realidade
+Coreia do Sul encobriu assassinato em massa de vagabundos em 88 jogos olímpicos
 
 ## A Hungria
 Desta vez veremos a República Popular da Hungria, uma das nações mais interessantes do Pacto de Varsóvia. É também a nação com talvez a melhor recordação entre o povo; pesquisas nos últimos anos revelaram que mais de 70% dos húngaros acham que a vida era melhor sob o comunismo. Como tal, é apropriado que estudemos e aprendamos mais sobre esta nação. 
