@@ -1889,7 +1889,7 @@ Brun destaca experiências práticas do Sistema Taean:
 >
 >Esse comitê passou a ser o que se chama de ‘volante’ da unidade industrial, conduzindo a educação ideológica e mobilizando os trabalhadores para a implementação das decisões coletivas e para o cumprimento da meta produtiva. Por meio de sua conexão com o Partido, tem uma visão clara das políticas e objetivos gerais, bem como da função exata de cada empresa no contexto nacional. Em outras palavras, essa configuração garante que a política tenha prioridade.
 
-Uma medida do sucesso do Sistema de Trabalho Taean é sua longevidade e seu endosso contínuo pela liderança. Em seu discurso de Ano Novo de 1991, marcando o trigésimo aniversário da criação do sistema, Kim Il Sung disse que "O sistema de trabalho Taean é o melhor sistema de gestão econômica. Ele permite que as massas produtoras cumpram sua responsabilidade e papel como mestres e administrar a economia de maneira científica e racional, implementando a linha de massa na gestão econômica e combinando liderança partidária organicamente com orientação administrativa, econômica e técnica." Acho que todos nós podemos, mesmo anarco-comunistas e leftcoms, concordar que a implementação deste modelo seria um esforço louvável a ser defendido e pelo qual vale a pena lutar, mesmo que não seja "ideal".
+Uma medida do sucesso do Sistema de Trabalho Taean é sua longevidade e seu endosso contínuo pela liderança. Em seu discurso de Ano Novo de 1991, marcando o trigésimo aniversário da criação do sistema, Kim Il Sung disse que "O sistema de trabalho Taean é o melhor sistema de gestão econômica. Ele permite que as massas produtoras cumpram sua responsabilidade e papel como mestres e administrar a economia de maneira científica e racional, implementando a linha de massa na gestão econômica e combinando liderança partidária organicamente com orientação administrativa, econômica e técnica." Acho que todos nós podemos - mesmo anarco-comunistas e leftcoms - concordar que a implementação deste modelo seria um esforço louvável a ser defendido e pelo qual vale a pena lutar, mesmo que não seja "ideal".
 
 ### História econômica da Coreia do Norte
 Em 1953, a Guerra da Coreia termina oficialmente em um impasse com o país sendo dividido pela metade, as terras começam a ser coletivizadas e o processo é relativamente sem derramamento de sangue em comparação com o da URSS e da China. Em 1954, o planejamento econômico começa com um plano de três anos seguido por um plano de cinco anos, o estado investe pesadamente em indústria e infraestrutura, o país se desenvolve em um ritmo rápido com a ajuda da URSS e da China. Em 1959, a indústria é totalmente nacionalizada. Já em 1960, Che Guevara visita a Coreia do Norte e fica impressionado, proclamando que Cuba deveria seguir seu modelo. A economista britânica Joan Robinson descreve o desenvolvimento da Coreia do Norte como um "milagre". Já em 1968, todas as casas têm eletricidade. Em 1972, todas as crianças de 5 a 16 anos agora estão matriculadas na escola, com mais de 200 universidades e faculdades estabelecidas. Na década de 70, cerca de 70% da população é urbanizada, o PIB per capita é igual ao da Coreia do Sul. Também na década de 70, o desenvolvimento econômico da Coreia do Norte, o aumento dos padrões de vida e a urbanização são interrompidos quando a URSS e a China reduzem drasticamente a ajuda e, com a crescente agressão do oeste, são forçados a se militarizar, com os gastos com defesa agora dominando a economia. Em 1979, a China dá início à reforma econômica e, como tal, suas relações com a Coréia do Norte se deterioram, sendo a URSS agora seu único grande parceiro comercial. Em 1991 a União Soviética entra em colapso e, como tal, a Coreia do Norte perde 90% de seu comércio da noite para o dia, a economia entra em queda livre e como o país não é autossuficiente em termos agrícolas devido à falta de terras férteis causada pelos bombardeios dos Estados Unidos durante a Guerra da Coréia, uma fome acontece, o Ocidente está totalmente ciente disso e ainda não faz nada, continuando o bloqueio econômico e deixando o país em completo isolamento
@@ -2161,6 +2161,158 @@ Há mais algumas mentiras:
 - [E quanto ao sistema de castas?](https://www.digitaltrends.com/mobile/north-korean-smartphone-jindallae-3/)
 
 ### Imperialismo contra a RPDC
+Primeiro, um teste surpresa. Você sabe o nome do último governo que tinha soberania sobre toda a Península Coreana? Você tem uma pista: não é o Império do Japão. A resposta a essa pergunta virá mais tarde. Por enquanto, vamos dar uma olhada na situação na Coréia sob a ocupação japonesa, oficialmente no período de 1910 a 1945 - embora o Japão tenha se intrometido nos assuntos coreanos muito antes da anexação.
+
+Poucos ocidentais conhecem a história de resistência popular da Coréia. Depois de 1910, o Japão enviou uma enorme população de colonos, reivindicando terras coreanas e colocando a maior parte da população para trabalhar como arrendatários. Os resultados eram previsíveis - pobreza abjeta e fome. Vou citar o livro
+>Em torno do condado de Changsong, na província de South Chölla, a fertilidade do solo é considerada de alta qualidade. Por outro lado, a situação de vida dos camponeses-arrendatários é extremamente precária. É relatado que o número de camponeses que lutam na linha da morte é superior a 90% da população total do condado. Muitos dos camponeses chegaram a um ponto em que a morte por fome é inevitável. Todo o condado está envolto em medo profundo. Eles conseguiram viver até agora comendo raízes de palha e cascas de árvore, mas mesmo essas se foram. As esposas dos camponeses saíam para os campos para colher raízes, mas muitas vezes eram impiedosamente expulsas pelos proprietários. Não só isso, eles choravam e choravam porque os senhores das terras arrebatavam os cestos que trouxeram para recolher as raízes.
+>
+>Tal miséria abjeta foi capturada na famosa passagem de Tawney caracterizando o camponês chinês do início dos anos 1930 como "permanentemente em pé até o pescoço na água, de modo que mesmo uma ondulação é suficiente para afogá-lo". No final da década de 1920 e início da de 1930, a maioria da população rural coreana pairava sobre a subsistência. Uma publicação do governo colonial relatou que 46,5% da população rural em 1930 sofria da notória pobreza da primavera para os inquilinos - a porcentagem era de 68. Além disso, mais de um terço da população rural teve que complementar sua renda com trabalho assalariado. Claramente, essa pobreza era um detrito do decadente mercado mundial (japonês). Por exemplo, a safra coreana em 1930 foi grande, a melhor em mais de duas décadas, mas a queda dos preços agrícolas derrubou a renda real da maioria dos camponeses bem abaixo da subsistência.
+
+A parcela japonesa de terras aráveis na península cresceu, assim como a miséria dos fazendeiros arrendatários. Logo, a resistência anticolonial surgiu, com o primeiro movimento de independência nacional (malsucedido) em 1919.
+>Um grande evento na história intelectual coreana do século XX foi o movimento de independência de Primeiro de Março, o primeiro movimento nacionalista pela independência em todo o país. Tudo começou em 1 de março de 1919 em Seul e Pyöngyang, as duas maiores cidades da Coreia, com líderes nacionalistas que declararam independência coreana e lideraram manifestações de rua. O movimento rapidamente se espalhou pelo país e durou vários meses. Enquanto alguma violência eclodiu, como a morte de oficiais japoneses, e 19.525 foram presos, o movimento abraçou a não violência a fim de obter o reconhecimento da soberania coreana por países estrangeiros (Bald-win 1969). De forma alguma estimulou a revolução social. Esse movimento foi a primeira mobilização política nacional, envolvendo cerca de um milhão de coreanos, mas ficou aquém de seu objetivo principal, a independência política do Japão.
+
+O fracasso do movimento de 1º de março levou a uma divisão no sentimento nacionalista, entre moderados e radicais. Você provavelmente pode adivinhar onde estava a simpatia dos moderados.
+>O fracasso do movimento nacionalista em 1919 dividiu os intelectuais coreanos em dois grupos: nacionalistas "culturais" moderados e radicais. O primeiro considerou a Coréia ainda não pronta para a independência e viu qualquer movimento revolucionário radical como visionário. Eles enfatizaram a reforma gradual, a educação e o desenvolvimento econômico como base para a independência futura.
+>
+>Como Michael Robinson mostra, no entanto, esses movimentos gradualistas eram basicamente elitistas e não especificamente projetados para beneficiar as massas e o campesinato. Embora "não sem preocupação e empatia pelas massas", eles enfatizaram "a necessidade de primeiro trabalhar com uma elite que poderia então difundir para a massa do povo" os "valores" necessários para a modernização e a independência. Eles consideravam as massas incultas e supersticiosas, ao invés de uma força política que poderia ser mobilizada para a independência ou movimentos de libertação nacional. Atribuíam cada vez mais pauperização da economia rural à ignorância e superstição pessoal dos camponeses do que à estrutura social e econômica colonial. Para eles, os camponeses não eram agentes históricos de mudança social, mas simplesmente "objetos" a serem ensinados e esclarecidos se a pobreza rural fosse erradicada. O contingente intelectual contendor era formado por radicais influenciados pelas ideias socialistas.
+
+Os radicais, por outro lado, foram inspirados pela recente revolução na Rússia e começaram a procurar textos marxistas e leninistas para estudo e discussão. Muitos o fizeram no exílio.
+>O contingente intelectual contendor era formado por radicais influenciados pelas ideias socialistas. O sucesso da Revolução Russa em 1917 e o surgimento da União Soviética como campeã dos povos oprimidos em todo o mundo gerou uma grande excitação entre os decepcionados com o liberalismo ocidental e o nacionalismo cultural. Nacionalistas coreanos no exterior no Japão, China e Sibéria, relativamente livres como eram para ler e discutir ideias radicais e ingressar em grupos que professavam princípios marxista-leninistas, foram especialmente atraídos por uma nova visão de desenvolvimento social e político, que oferecia uma visão das causas da subjugação colonial da Coreia. Eles contestaram o interesse de classe dos nacionalistas culturais, alegando que o resultado final do nacionalismo cultural seria a perpetuação da opressão imperialista. Para os radicais, a colonização teve uma base estrutural, resultado do imperialismo japonês, não da ignorância dos coreanos ou do caráter nacional inferior. Eles adotaram uma visão materialista da história e viram a luta de classes como o motor da mudança social.
+
+Mas pensar não era suficiente, e o nascente movimento comunista um tanto elitista na Coreia foi extinto rapidamente pelas autoridades japonesas.
+>Embora os intelectuais radicais defendessem a importância da mobilização em massa para a libertação nacional do Japão, eles não podiam escapar totalmente do caráter elitista de seu movimento. Suas principais atividades se limitaram a "especulação" e "debate sobre a natureza da sociedade coreana", em reuniões realizadas principalmente em Seul e em algumas outras cidades. Mas a fácil dissolução do Partido Comunista Coreano pela polícia japonesa em meados da década de 1920 desafiou a natureza principalmente intelectual dos primeiros movimentos de libertação nacional. Os radicais começaram a reconhecer a centralidade da mobilização popular de camponeses e trabalhadores.
+
+Esse revés se tornou uma oportunidade. Os comunistas coreanos, afirmam alguns historiadores, foram colocados no caminho certo pela Internacional Comunista liderada pelos soviéticos, cujas Teses de Dezembro criticaram o movimento por sua falta de conexão com os trabalhadores e camponeses.
+>A promulgação das teses de dezembro é frequentemente citada como o ponto de inflexão no pensamento e na estratégia dos radicais e comunistas coreanos. Em 14 de dezembro de 1928, o Sexto Congresso do Comintern em Moscou investigou a situação coreana e ordenou a reconstrução do Partido Comunista Coreano com base na filiação operária e camponesa: O movimento revolucionário na Coréia está passando por uma crise severa. O imperialismo japonês está intensificando seu ataque ao seu país. Mas o movimento comunista, dilacerado por disputas internas, não pode ser o líder da luta, enquanto a conexão mais estreita não for estabelecida entre os revolucionários individuais e as massas trabalhadoras. O proletariado dos países coloniais, em aliança com as amplas massas camponesas, entra na arena política como um fator político independente que deve ter a hegemonia na revolução. Mas não pode haver luta de libertação nacional vitoriosa sem o desdobramento da revolução agrária... O problema do camponês é da maior importância para a atividade comunista na Coreia, apenas colocando os camponeses sob sua influência, apenas apelando a eles por meio de meios inteligíveis e populares slogans e reivindicações, a classe operária e sua vanguarda poderão realizar uma revolução vitoriosa na Coréia... Na esfera do trabalho entre os camponeses, o Partido deve se tornar mais ativo entre os rendeiros e meios-inquilinos.
+>[...]
+>As teses criticavam o caráter elitista do partido e impunham uma aliança proletariado / camponês sob a liderança da classe trabalhadora. Eles reconheceram a natureza agrária da sociedade coreana e pediram aos líderes comunistas coreanos que organizassem e mobilizassem o campesinato, particularmente os inquilinos sem terra e semilenatários. Em setembro de 1930, o Profintern especificou ainda a necessidade de organizar sindicatos camponeses. Kim Chunyõp e Kim Ch'angsun (1963-67, vol. 3), Suh (1970) e Lee (1978) afirmam que uma série de resoluções do Comintern e do Profintern foram os principais responsáveis pela mobilização camponesa e pelo protesto radical.
+
+É uma suposição levemente racista. Os teóricos coreanos chegaram às mesmas conclusões muito antes de as teses serem promulgadas, embora os soviéticos certamente ajudaram a acelerar as coisas.
+>Embora tais resoluções redirecionassem poderosamente a estratégia dos comunistas coreanos, alguns radicais já haviam reconhecido a natureza de classe da sociedade coreana e a importância da mobilização de trabalhadores e camponeses. Assim, os primeiros radicais, achando difícil uma análise de classe adequada da sociedade coreana, usaram termos vagos como "sem propriedade" para identificar a força revolucionária no movimento de libertação nacional. Mas eles logo começaram uma articulação mais precisa da natureza de classe do movimento. Seguindo a ortodoxia marxista, eles consideraram o proletariado a principal classe revolucionária e rejeitaram as visões pequeno-burguesa (elitista) e populista da revolução. Escrevendo em 28 de março de 1928, Ko Kyönghüm, sob o pseudônimo de Kin Yongdu, afirmou: "Eles [intelectuais populistas] defendem a libertação de todo o povo. Este slogan não representa o caráter pequeno-burguês? Eles não pedem a libertação do proletariado, mas de todo o povo... Esta não é uma visão marxista ortodoxa da revolução... Todos os graves problemas da Coréia só podem ser resolvidos pelo proletariado" (traduzido de Pae Sõngch'an 1987, pp. 215-16).
+>[...]
+>Em um artigo publicado em um jornal radical (Leninismo), um líder do Partido Comunista Coreano, An Kwangch'ön (também conhecido por Sagong P'yo), apresentou uma visão semelhante:
+>
+>Os movimentos revolucionários coreanos ainda não começaram. O movimento revolucionário deve realizar-se através da mobilização e organização dos trabalhadores... Mas os trabalhadores e camponeses ainda não estão mobilizados para o movimento e os intelectuais pequeno-burgueses constituem a maioria da frente de libertação nacional. Uma fraqueza fundamental em nosso movimento de libertação é a falta de estratégia para a revolução agrária.
+>
+>Os camponeses são de importância crítica no estágio atual da revolução coreana. É impossível pensar em qualquer revolução democrático-burguesa sem a participação do campesinato. Sem levar a sério os problemas dos camponeses, sem lutar pelas reivindicações camponesas, a revolução não pode ter sucesso. A gritante demanda do campesinato, uma revolução fundamental no sistema de posse da terra, deve ser a base de uma revolução coreana.
+>
+>A classe dirigente da revolução coreana deve ser o proletariado. O proletariado coreano ainda é fraco. Os camponeses coreanos são poderosos em número. Mas isso não significa que o campesinato seja a classe revolucionária. Eles não são mais do que resquícios do antigo sistema feudal de senhorios. Eles não podem se organizar para a revolução. Só quando liderados pelo proletariado podem ser revolucionários.
+>[...]
+>Assim, os radicais e comunistas coreanos estavam desenvolvendo uma análise mais sofisticada da estrutura de classes coreana e dos problemas únicos para o ativismo que ela representava no final da década de 1920, mesmo antes do surgimento da exposição mais elaborada nas teses de dezembro.
+
+Esses desenvolvimentos estavam acontecendo no fundo de um cadinho. Após as ações de independência em grande parte não violentas de 1919, ativistas exilados lideraram camponeses e trabalhadores desesperados na luta armada.
+>
+
+As repressões foram duras, e como comunistas e esquerdistas foram os oponentes mais disciplinados e firmes do domínio colonial, as represálias japonesas começaram a assumir um caráter anticomunista - mas o povo coreano começou a identificar o comunismo com a própria resistência.
+>
+
+Os confrontos armados, principalmente na fronteira, foram apenas um aspecto da resistência organizada à ocupação japonesa. Um movimento sindical camponês pouco lembrado se instalou, radicalizando as populações rurais por meio da ajuda mútua e da educação.
+>
+
+Os ocupantes japoneses não ligaram para isso e reagiram de acordo. Eles invadiram escolas noturnas e prenderam líderes e membros de sindicatos, e sindicatos vermelhos protestaram em troca.
+>
+
+As queixas dos sindicatos se ampliaram em um amplo programa de ação radical.
+>
+
+Essas inúmeras formas de resistência lançaram as bases para o que viria após a derrota japonesa na Segunda Guerra Mundial. Mas, você pode se perguntar - onde estão os EUA em tudo isso?
+>
+
+Eu poderia simplesmente dizer “não fazendo nada”, mas isso seria apenas meia verdade. Eles não fizeram nada quando se tratou da independência coreana. Quando se tratava da ocupação japonesa, eles eram totalmente a favor!
+>
+
+E não é como se as pessoas não soubessem o que estava acontecendo na Coréia. Muitos comentaram sobre a inação dos EUA.
+>
+
+Os combatentes da independência coreana obviamente não estavam recebendo nenhuma ajuda dos EUA. E o Partido Comunista Coreano nem estava mais no Comintern. A situação era difícil. A luta continuou. Grupos de insurgentes comunistas e esquerdistas se destacaram em campo, incluindo um jovem líder que você talvez reconheça. O Japão trouxe a China para a guerra e os combatentes coreanos juntaram-se ao Partido Comunista da China na luta contra os invasores. Isso eventualmente incluiu a União Soviética. De repente, a batalha por uma Coreia livre se tornou internacional.
+>
+
+Embora os comunistas coreanos estivessem longe de sua terra natal, sua posição oferecia várias vantagens que seriam úteis após a guerra.
+>
+
+O próprio Kim impressionou comandantes estrangeiros, tanto chineses quanto soviéticos. Isso sem dúvida o ajudou em sua ascensão à liderança.
+>
+
+Estou pulando a Segunda Guerra Mundial agora. Desculpe.
+
+O Exército Vermelho entra na Coréia. Os soviéticos aceitaram a proposta americana de dividir a península no paralelo 38. Mais sobre isso mais tarde. Nas semanas entre o desembarque soviético em meados de agosto e a chegada dos americanos no início de setembro, algo incrível aconteceu. Este é talvez o momento mais esquecido da história moderna da Coréia. Imediatamente após a rendição japonesa, os coreanos começam a trabalhar em seu próprio sistema de governo. Por fim, um povo que sofreu sem parar sob o imperialismo pode construir um país próprio. Eles fazem isso. Estabelecendo o que logo veio a ser conhecido como "comitês do povo", os coreanos começam a desenvolver um sistema unificado - de forma totalmente espontânea.
+>
+
+Apesar do nome, os comitês populares não eram órgãos estritamente comunistas. Uma grande variedade de grupos participou durante este período.
+>
+
+A natureza do sistema proposto, entretanto, tinha um apelo maior para os comunistas coreanos. Por meio de sua experiência organizacional e credibilidade após a luta anti-japonesa, eles começaram a moldar os comitês para favorecer mudanças radicais.
+>
+
+Essa estrutura díspar eventualmente se uniu em um governo de fato para toda a península, e a resposta para aquele questionário surpresa que fiz no topo desta discussão: a República Popular da Coréia.
+>
+
+As reações do Exército Vermelho e do Exército dos EUA dizem muito. Então, o que os EUA fizeram? Eles viram os nomes "República Popular" e "comitês do povo" e perderam a cabeça.
+>
+
+Em vez de reconhecer essa estrutura governamental local, o general John Reed Hodge estava determinado a imprimir a vontade de seu país no que considerava um experimento perigoso.
+>
+
+Hodge não sentiu necessidade de embelezar suas intenções. A missão era “quebrar” o que era visto como um “governo comunista”.
+>
+
+Isso resume bem.
+>
+
+O que, então, os soviéticos fizeram? Se você disse “exatamente o oposto”, ótimo trabalho. O Exército Vermelho reconheceu os comitês populares, o CPKI e a República Popular.
+>
+
+É verdade que os soviéticos tinham motivos para manter essas estruturas além do altruísmo. Mas a história do movimento comunista coreano e as relações reais entre os países desmente a ideia de que o norte era simplesmente um estado fantoche.
+>
+
+Ah, e a noção da RPDC como um satélite soviético foi promovida pela primeira vez pelo Departamento de Estado dos Estados Unidos. Grande surpresa.
+>
+
+Os coreanos no norte raramente eram receptivos aos desígnios soviéticos, mesmo após o estabelecimento da RPDC.
+>
+
+As coisas ficaram mais apimentadas nos últimos anos, se é que posso pular um pouco na linha do tempo.
+>
+
+Ok, e estamos de volta ao período que a maioria das pessoas conhece. Os soviéticos estabeleceram um governo no norte, os EUA um no sul. Eles já são muito diferentes. Essa pessoa que escreveu na década de 1940 expõe e acrescenta um pouco de orientalismo a ela. Obrigado, senhora provavelmente morta!
+>
+
+Com tal divergência ideológica, as negociações para o futuro da Coreia já parecem tensas. Mesmo assim, os Aliados se reuniram em Moscou em dezembro de 1945. Todo mundo quer algo diferente, e os EUA e a União Soviética querem a península.
+>
+
+Contudo a abordagem de cada parte é diferente. Os EUA querem uma tutela de quatro potências próprias, a URSS, a Grã-Bretanha e a China. Isso convenientemente daria aos interesses do Ocidente uma votação de 3 para 1. Os soviéticos queriam que os próprios coreanos determinassem seu futuro. Consequentemente, este desejo se reflete na administração de sua zona, com a manutenção dos comitês populares e um protagonismo na discussão.
+>
+
+E, novamente, isso não foi por causa de sentimentos calorosos e corações puros e gentis. Os soviéticos queriam um governo amigo em sua zona de ocupação - mas os coreanos ainda criaram um sistema próprio.
+>
+
+Considere, em contraste, a atitude dos EUA. Após um longo silêncio durante a ocupação do Japão, o herói liberal Franklin Roosevelt repentinamente descobriu que se importava com a Coréia em 1943, quando o resultado da guerra se tornou inevitável.
+>
+
+Na Conferência do Cairo, os EUA foram responsáveis por esboços de declarações que prevaricaram sobre a questão da independência coreana. O próprio Roosevelt fez a mudança fundamental de independência "no primeiro momento" para "no momento adequado".
+>
+
+Isso, mais a frase “no devido tempo”, tem um grande significado para os coreanos. Esses truques retóricos eram equivalentes a um insulto nacional.
+>
+
+E não podemos esquecer as razões táticas pelas quais os EUA propuseram a divisão no 38º paralelo - o comando ficou surpreso com o fato de os soviéticos aceitarem a oferta, e por boas razões. O paralelo estava mais ao norte do que eles poderiam alcançar em caso de desacordo soviético.
+>
+
+Os Estados Unidos queriam que os soviéticos se exaurissem o máximo possível e atirassem corpos nos exércitos japoneses mais bem treinados no norte. Ótima maneira de tratar um aliado.
+>
+
+É útil examinar os motivos dos EUA para a tutela também - apenas justo, se quisermos ser céticos em relação aos motivos soviéticos. É difícil ser mais claro do que este telegrama!
+>
+
+As alianças internacionais eram favorecidas apenas na medida em que não diluíssem a influência dos Estados Unidos.
+>
+
+E a ONU era vista apenas como um contrapeso útil a qualquer tentativa soviética de desempenhar um papel de liderança. Conseqüentemente, tutela.
+>
+
+As propostas de tutela encontraram forte oposição no sul. Difícil culpá-los - eles acabaram de ver o governo que estavam tentando construir fora da lei. Uma comissão conjunta tentou se reunir e resolver o problema, mas sem sucesso.
+>
+
 - [A maioria das coisas que você ouve sobre a Coreia do Norte são absurdos racistas](https://medium.com/defiant/a-lot-of-what-you-know-about-north-korea-is-racist-nonsense-a625256b51cc)
 - [O armamento dos direitos humanos como meio dos imperialistas para minar a RPDC](https://apjjf.org/2014/12/13/Christine-Hong/4100/article.html)
 - [Por que o Ocidente quer o partido dos trabalhadores da Coréia fora? Minerais raros em uma das respostas](https://www.mining.com/largest-known-rare-earth-deposit-discovered-in-north-korea-86139/)
